@@ -1,0 +1,13 @@
+Scope
+Manufacturer	Model
+Propellerheads	RV-7 Digital Reverb
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Size	-64	63	Value	ValueOutput
+Decay	-64	63	Value	ValueOutput
+Damping	0	127	Value	ValueOutput
+Algorithm	0	9	Value	ValueOutput
+Dry/Wet	0	127	Value	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+Device Name	0	0	-	TextOutput

@@ -1,0 +1,25 @@
+Scope
+Manufacturer	Model
+Propellerheads	MClass Equalizer
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Low Cut Enable	0	1	Toggle	ValueOutput
+Low Shelf Enable	0	1	Toggle	ValueOutput
+Low Shelf Gain	-64	63	Value	ValueOutput
+Low Shelf Q	0	127	Value	ValueOutput
+Parametric 1 Enable	0	1	Toggle	ValueOutput
+Parametric 1 Gain	-64	63	Value	ValueOutput
+Parametric 1 Q	0	127	Value	ValueOutput
+Parametric 2 Enable	0	1	Toggle	ValueOutput
+Parametric 2 Gain	-64	63	Value	ValueOutput
+Parametric 2 Q	0	127	Value	ValueOutput
+Hi Shelf Enable	0	1	Toggle	ValueOutput
+Hi Shelf Gain	-64	63	Value	ValueOutput
+Hi Shelf Q	0	127	Value	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+Low Shelf Frequency	0	1000	Value	ValueOutput
+Parametric 1 Frequency	0	1000	Value	ValueOutput
+Parametric 2 Frequency	0	1000	Value	ValueOutput
+Hi Shelf Frequency	0	1000	Value	ValueOutput
+Device Name	0	0	-	TextOutput

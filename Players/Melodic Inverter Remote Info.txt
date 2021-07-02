@@ -1,0 +1,161 @@
+Scope
+Manufacturer	Model
+Enlightenspeed Ltd	uk.enlightenspeed.MelodicInverter
+
+Remotable	Min	Max	Input type	Output type
+Step Type 1	0	3	Value	ValueOutput
+Step Type 2	0	3	Value	ValueOutput
+Step Type 3	0	3	Value	ValueOutput
+Step Type 4	0	3	Value	ValueOutput
+Step Type 5	0	3	Value	ValueOutput
+Step Type 6	0	3	Value	ValueOutput
+Step Type 7	0	3	Value	ValueOutput
+Step Type 8	0	3	Value	ValueOutput
+Step Type 9	0	3	Value	ValueOutput
+Step Type 10	0	3	Value	ValueOutput
+Step Type 11	0	3	Value	ValueOutput
+Step Type 12	0	3	Value	ValueOutput
+Step Type 13	0	3	Value	ValueOutput
+Step Type 14	0	3	Value	ValueOutput
+Step Type 15	0	3	Value	ValueOutput
+Step Type 16	0	3	Value	ValueOutput
+Step Type 17	0	3	Value	ValueOutput
+Step Type 18	0	3	Value	ValueOutput
+Step Type 19	0	3	Value	ValueOutput
+Step Type 20	0	3	Value	ValueOutput
+Step Type 21	0	3	Value	ValueOutput
+Step Type 22	0	3	Value	ValueOutput
+Step Type 23	0	3	Value	ValueOutput
+Step Type 24	0	3	Value	ValueOutput
+Step Type 25	0	3	Value	ValueOutput
+Step Type 26	0	3	Value	ValueOutput
+Step Type 27	0	3	Value	ValueOutput
+Step Type 28	0	3	Value	ValueOutput
+Step Type 29	0	3	Value	ValueOutput
+Step Type 30	0	3	Value	ValueOutput
+Step Type 31	0	3	Value	ValueOutput
+Step Type 32	0	3	Value	ValueOutput
+Step Pass 1	0	1	Toggle	ValueOutput
+Step Pass 2	0	1	Toggle	ValueOutput
+Step Pass 3	0	1	Toggle	ValueOutput
+Step Pass 4	0	1	Toggle	ValueOutput
+Step Pass 5	0	1	Toggle	ValueOutput
+Step Pass 6	0	1	Toggle	ValueOutput
+Step Pass 7	0	1	Toggle	ValueOutput
+Step Pass 8	0	1	Toggle	ValueOutput
+Step Pass 9	0	1	Toggle	ValueOutput
+Step Pass 10	0	1	Toggle	ValueOutput
+Step Pass 11	0	1	Toggle	ValueOutput
+Step Pass 12	0	1	Toggle	ValueOutput
+Step Pass 13	0	1	Toggle	ValueOutput
+Step Pass 14	0	1	Toggle	ValueOutput
+Step Pass 15	0	1	Toggle	ValueOutput
+Step Pass 16	0	1	Toggle	ValueOutput
+Step Pass 17	0	1	Toggle	ValueOutput
+Step Pass 18	0	1	Toggle	ValueOutput
+Step Pass 19	0	1	Toggle	ValueOutput
+Step Pass 20	0	1	Toggle	ValueOutput
+Step Pass 21	0	1	Toggle	ValueOutput
+Step Pass 22	0	1	Toggle	ValueOutput
+Step Pass 23	0	1	Toggle	ValueOutput
+Step Pass 24	0	1	Toggle	ValueOutput
+Step Pass 25	0	1	Toggle	ValueOutput
+Step Pass 26	0	1	Toggle	ValueOutput
+Step Pass 27	0	1	Toggle	ValueOutput
+Step Pass 28	0	1	Toggle	ValueOutput
+Step Pass 29	0	1	Toggle	ValueOutput
+Step Pass 30	0	1	Toggle	ValueOutput
+Step Pass 31	0	1	Toggle	ValueOutput
+Step Pass 32	0	1	Toggle	ValueOutput
+Step Mute 1	0	1	Toggle	ValueOutput
+Step Mute 2	0	1	Toggle	ValueOutput
+Step Mute 3	0	1	Toggle	ValueOutput
+Step Mute 4	0	1	Toggle	ValueOutput
+Step Mute 5	0	1	Toggle	ValueOutput
+Step Mute 6	0	1	Toggle	ValueOutput
+Step Mute 7	0	1	Toggle	ValueOutput
+Step Mute 8	0	1	Toggle	ValueOutput
+Step Mute 9	0	1	Toggle	ValueOutput
+Step Mute 10	0	1	Toggle	ValueOutput
+Step Mute 11	0	1	Toggle	ValueOutput
+Step Mute 12	0	1	Toggle	ValueOutput
+Step Mute 13	0	1	Toggle	ValueOutput
+Step Mute 14	0	1	Toggle	ValueOutput
+Step Mute 15	0	1	Toggle	ValueOutput
+Step Mute 16	0	1	Toggle	ValueOutput
+Step Mute 17	0	1	Toggle	ValueOutput
+Step Mute 18	0	1	Toggle	ValueOutput
+Step Mute 19	0	1	Toggle	ValueOutput
+Step Mute 20	0	1	Toggle	ValueOutput
+Step Mute 21	0	1	Toggle	ValueOutput
+Step Mute 22	0	1	Toggle	ValueOutput
+Step Mute 23	0	1	Toggle	ValueOutput
+Step Mute 24	0	1	Toggle	ValueOutput
+Step Mute 25	0	1	Toggle	ValueOutput
+Step Mute 26	0	1	Toggle	ValueOutput
+Step Mute 27	0	1	Toggle	ValueOutput
+Step Mute 28	0	1	Toggle	ValueOutput
+Step Mute 29	0	1	Toggle	ValueOutput
+Step Mute 30	0	1	Toggle	ValueOutput
+Step Mute 31	0	1	Toggle	ValueOutput
+Step Mute 32	0	1	Toggle	ValueOutput
+Step Oct 1	0	4	Value	ValueOutput
+Step Oct 2	0	4	Value	ValueOutput
+Step Oct 3	0	4	Value	ValueOutput
+Step Oct 4	0	4	Value	ValueOutput
+Step Oct 5	0	4	Value	ValueOutput
+Step Oct 6	0	4	Value	ValueOutput
+Step Oct 7	0	4	Value	ValueOutput
+Step Oct 8	0	4	Value	ValueOutput
+Step Oct 9	0	4	Value	ValueOutput
+Step Oct 10	0	4	Value	ValueOutput
+Step Oct 11	0	4	Value	ValueOutput
+Step Oct 12	0	4	Value	ValueOutput
+Step Oct 13	0	4	Value	ValueOutput
+Step Oct 14	0	4	Value	ValueOutput
+Step Oct 15	0	4	Value	ValueOutput
+Step Oct 16	0	4	Value	ValueOutput
+Step Oct 17	0	4	Value	ValueOutput
+Step Oct 18	0	4	Value	ValueOutput
+Step Oct 19	0	4	Value	ValueOutput
+Step Oct 20	0	4	Value	ValueOutput
+Step Oct 21	0	4	Value	ValueOutput
+Step Oct 22	0	4	Value	ValueOutput
+Step Oct 23	0	4	Value	ValueOutput
+Step Oct 24	0	4	Value	ValueOutput
+Step Oct 25	0	4	Value	ValueOutput
+Step Oct 26	0	4	Value	ValueOutput
+Step Oct 27	0	4	Value	ValueOutput
+Step Oct 28	0	4	Value	ValueOutput
+Step Oct 29	0	4	Value	ValueOutput
+Step Oct 30	0	4	Value	ValueOutput
+Step Oct 31	0	4	Value	ValueOutput
+Step Oct 32	0	4	Value	ValueOutput
+Random Option:Step Type	0	1	Toggle	ValueOutput
+Random Option:Step Pass	0	1	Toggle	ValueOutput
+Random Option:Step Mute	0	1	Toggle	ValueOutput
+Random Option:Step Octaves	0	1	Toggle	ValueOutput
+Random Option:Channel Algorithms	0	1	Toggle	ValueOutput
+Random Option:Spreads	0	1	Toggle	ValueOutput
+Random Option:Rate	0	1	Toggle	ValueOutput
+Random Option:Steps	0	1	Toggle	ValueOutput
+Seq/Edit Panel	0	1	Toggle	ValueOutput
+On/Off	0	1	Toggle	ValueOutput
+Step Trigger	0	1	Toggle	ValueOutput
+Play Mode	0	2	Value	ValueOutput
+Global Algorithm	0	15	Value	ValueOutput
+Rate	0	21	Value	ValueOutput
+Steps	0	31	Value	ValueOutput
+Channel A	0	15	Value	ValueOutput
+Channel B	0	15	Value	ValueOutput
+Channel C	0	15	Value	ValueOutput
+Channel D	0	15	Value	ValueOutput
+Spread 1	0	48	Value	ValueOutput
+Spread 2	0	48	Value	ValueOutput
+Spread 3	0	48	Value	ValueOutput
+Spread 4	0	48	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,66 @@
+Scope
+Manufacturer	Model
+Blamsoft, Inc.	com.blamsoft.Movement
+
+Remotable	Min	Max	Input type	Output type
+Trigger Mode	0	2	Value	ValueOutput
+Main Mode	0	3	Value	ValueOutput
+Coarse Trim	0	4194304	Value	ValueOutput
+Coarse Multiplier	0	18	Value	ValueOutput
+Time Fit	0	19	Value	ValueOutput
+Coarse Semitones	0	72	Value	ValueOutput
+Fine Trim	0	4194304	Value	ValueOutput
+Fine Semitones	0	4194304	Value	ValueOutput
+Note Amount	0	4194304	Value	ValueOutput
+Note Semitones	0	4194304	Value	ValueOutput
+Attack Mode	0	1	Toggle	ValueOutput
+Smoothing	0	4194304	Value	ValueOutput
+Velocity Amount	0	4194304	Value	ValueOutput
+Amp Level	0	4194304	Value	ValueOutput
+Sustain Stage	0	7	Value	ValueOutput
+Stage 1 Level	0	4194304	Value	ValueOutput
+Stage 2 Level	0	4194304	Value	ValueOutput
+Stage 3 Level	0	4194304	Value	ValueOutput
+Stage 4 Level	0	4194304	Value	ValueOutput
+Stage 5 Level	0	4194304	Value	ValueOutput
+Stage 6 Level	0	4194304	Value	ValueOutput
+Stage 7 Level	0	4194304	Value	ValueOutput
+Stage 8 Level	0	4194304	Value	ValueOutput
+Stage 1 Time	0	4194304	Value	ValueOutput
+Stage 1 Time Synced	0	20	Value	ValueOutput
+Stage 2 Time	0	4194304	Value	ValueOutput
+Stage 2 Time Synced	0	20	Value	ValueOutput
+Stage 3 Time	0	4194304	Value	ValueOutput
+Stage 3 Time Synced	0	20	Value	ValueOutput
+Stage 4 Time	0	4194304	Value	ValueOutput
+Stage 4 Time Synced	0	20	Value	ValueOutput
+Stage 5 Time	0	4194304	Value	ValueOutput
+Stage 5 Time Synced	0	20	Value	ValueOutput
+Stage 6 Time	0	4194304	Value	ValueOutput
+Stage 6 Time Synced	0	20	Value	ValueOutput
+Stage 7 Time	0	4194304	Value	ValueOutput
+Stage 7 Time Synced	0	20	Value	ValueOutput
+Stage 8 Time	0	4194304	Value	ValueOutput
+Stage 8 Time Synced	0	20	Value	ValueOutput
+Stage 1 Curve	0	4194304	Value	ValueOutput
+Stage 2 Curve	0	4194304	Value	ValueOutput
+Stage 3 Curve	0	4194304	Value	ValueOutput
+Stage 4 Curve	0	4194304	Value	ValueOutput
+Stage 5 Curve	0	4194304	Value	ValueOutput
+Stage 6 Curve	0	4194304	Value	ValueOutput
+Stage 7 Curve	0	4194304	Value	ValueOutput
+Stage 8 Curve	0	4194304	Value	ValueOutput
+Stage 1 Loop	0	1	Toggle	ValueOutput
+Stage 2 Loop	0	1	Toggle	ValueOutput
+Stage 3 Loop	0	1	Toggle	ValueOutput
+Stage 4 Loop	0	1	Toggle	ValueOutput
+Stage 5 Loop	0	1	Toggle	ValueOutput
+Stage 6 Loop	0	1	Toggle	ValueOutput
+Stage 7 Loop	0	1	Toggle	ValueOutput
+Stage 8 Loop	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

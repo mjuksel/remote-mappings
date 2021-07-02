@@ -1,0 +1,21 @@
+Scope
+Manufacturer	Model
+pongasoft	com.pongasoft.CVA7
+
+Remotable	Min	Max	Input type	Output type
+Numeric Scale	0	2	Value	ValueOutput
+Min Max Reset	0	1	Toggle	ValueOutput
+Live View	0	1	Toggle	ValueOutput
+Graph Select	0	255	Value	ValueOutput
+Graph Scroll	0	10000	Value	ValueOutput
+Zoom	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Min Max Auto Reset	0	10	Value	ValueOutput
+Color	0	4	Value	ValueOutput
+Graph	0	1	Toggle	ValueOutput
+Keyboard	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

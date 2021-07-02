@@ -1,0 +1,53 @@
+Scope
+Manufacturer	Model
+Tonicmint	com.tonicmint.CVPistons
+
+Remotable	Min	Max	Input type	Output type
+Freq Mode	0	1	Toggle	ValueOutput
+Freq	0	4194304	Value	ValueOutput
+Freq Sync	0	6	Value	ValueOutput
+Freq Range From	0	14	Value	ValueOutput
+Freq Range To	0	14	Value	ValueOutput
+Skew	0	4194304	Value	ValueOutput
+Squarish	0	4194304	Value	ValueOutput
+Pulse Width	0	4194304	Value	ValueOutput
+Curve Type Upward	0	4194304	Value	ValueOutput
+Curve Strength Upward	0	4194304	Value	ValueOutput
+Curve Type Downward	0	4194304	Value	ValueOutput
+Curve Strength Downward	0	4194304	Value	ValueOutput
+Phase Shift	0	4194304	Value	ValueOutput
+Phase Spread	0	4194304	Value	ValueOutput
+Freq Spread	0	4194304	Value	ValueOutput
+Filter Cut Off	0	4194304	Value	ValueOutput
+Filter Reso	0	4194304	Value	ValueOutput
+Numerator 1	0	31	Value	ValueOutput
+Numerator 2	0	31	Value	ValueOutput
+Numerator 3	0	31	Value	ValueOutput
+Numerator 4	0	31	Value	ValueOutput
+Numerator 5	0	31	Value	ValueOutput
+Numerator 6	0	31	Value	ValueOutput
+Numerator 7	0	31	Value	ValueOutput
+Numerator 8	0	31	Value	ValueOutput
+Denominator 1	0	31	Value	ValueOutput
+Denominator 2	0	31	Value	ValueOutput
+Denominator 3	0	31	Value	ValueOutput
+Denominator 4	0	31	Value	ValueOutput
+Denominator 5	0	31	Value	ValueOutput
+Denominator 6	0	31	Value	ValueOutput
+Denominator 7	0	31	Value	ValueOutput
+Denominator 8	0	31	Value	ValueOutput
+Level 1	0	4194304	Value	ValueOutput
+Level 2	0	4194304	Value	ValueOutput
+Level 3	0	4194304	Value	ValueOutput
+Level 4	0	4194304	Value	ValueOutput
+Level 5	0	4194304	Value	ValueOutput
+Level 6	0	4194304	Value	ValueOutput
+Level 7	0	4194304	Value	ValueOutput
+Level 8	0	4194304	Value	ValueOutput
+Reset Button	0	1	Toggle	ValueOutput
+Auto Reset Button	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

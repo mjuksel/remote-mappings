@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+Propellerheads	RV7000 Advanced Reverb
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Dry/Wet	0	127	Value	ValueOutput
+Decay	0	127	Value	ValueOutput
+HF Damp	0	127	Value	ValueOutput
+Hi EQ	-64	63	Value	ValueOutput
+Gate On/Off	0	1	Toggle	ValueOutput
+EQ On/Off	0	1	Toggle	ValueOutput
+Edit Mode	0	2	Value	ValueOutput
+Input Peak Meter	0	20	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Soft Knob 1	0	16383	Value	ValueOutput
+Soft Knob 2	0	16383	Value	ValueOutput
+Soft Knob 3	0	16383	Value	ValueOutput
+Soft Knob 4	0	16383	Value	ValueOutput
+Soft Knob 5	0	16383	Value	ValueOutput
+Soft Knob 6	0	16383	Value	ValueOutput
+Soft Knob 7	0	16383	Value	ValueOutput
+Soft Knob 8	0	16383	Value	ValueOutput
+Edit Mode Name	0	0	-	TextOutput
+Sample	0	1	Trig	ValueOutput
+Device Version	0	1	-	ValueOutput

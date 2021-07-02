@@ -1,0 +1,31 @@
+Scope
+Manufacturer	Model
+Zvork	fr.zvork.VoltSH1
+
+Remotable	Min	Max	Input type	Output type
+SampleEnabled	0	1	Toggle	ValueOutput
+RateSync	0	1	Toggle	ValueOutput
+SHRate	0	4194304	Value	ValueOutput
+SHRateSynced	0	14	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+PhaseSynced	0	16	Value	ValueOutput
+SHDuration	0	4194304	Value	ValueOutput
+Resolution	0	128	Value	ValueOutput
+FilterEnabled	0	1	Toggle	ValueOutput
+FilterType	0	2	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+UpFilterType	0	2	Value	ValueOutput
+UpCutoff	0	4194304	Value	ValueOutput
+UpResonance	0	4194304	Value	ValueOutput
+DownFilterType	0	2	Value	ValueOutput
+DownCutoff	0	4194304	Value	ValueOutput
+DownResonance	0	4194304	Value	ValueOutput
+FilterLock	0	1	Toggle	ValueOutput
+Active	0	2	Value	ValueOutput
+isFilterFirst	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

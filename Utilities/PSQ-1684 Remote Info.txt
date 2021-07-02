@@ -1,0 +1,751 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.PSQ1684
+
+Remotable	Min	Max	Input type	Output type
+Rate Free Hz	0	4194304	Value	ValueOutput
+Rate Free Ms	0	4194304	Value	ValueOutput
+Rate Sync	0	30	Value	ValueOutput
+Pulse A1 Speed	0	95	Value	ValueOutput
+Pulse A1 Grid Pattern	0	51	Value	ValueOutput
+Pulse A1 Chaos	0	4194304	Value	ValueOutput
+Pulse A1 Delay	0	96	Value	ValueOutput
+Pulse A1 Phase	0	4194304	Value	ValueOutput
+Pulse A1 Pulse Width	0	4194304	Value	ValueOutput
+Pulse A1 Division	0	96	Value	ValueOutput
+Pulse A1 Count Mode	0	1	Toggle	ValueOutput
+Pulse A1 Euclidean Density	0	100	Value	ValueOutput
+Pulse A1 Euclidean Steps	0	96	Value	ValueOutput
+Pulse A1 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse A1 Drum Pattern X	0	72	Value	ValueOutput
+Pulse A1 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse A1 Shift Register Bits	0	32	Value	ValueOutput
+Pulse A1 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse A2 Speed	0	95	Value	ValueOutput
+Pulse A2 Grid Pattern	0	51	Value	ValueOutput
+Pulse A2 Chaos	0	4194304	Value	ValueOutput
+Pulse A2 Delay	0	96	Value	ValueOutput
+Pulse A2 Phase	0	4194304	Value	ValueOutput
+Pulse A2 Pulse Width	0	4194304	Value	ValueOutput
+Pulse A2 Division	0	96	Value	ValueOutput
+Pulse A2 Count Mode	0	1	Toggle	ValueOutput
+Pulse A2 Euclidean Density	0	100	Value	ValueOutput
+Pulse A2 Euclidean Steps	0	96	Value	ValueOutput
+Pulse A2 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse A2 Drum Pattern X	0	72	Value	ValueOutput
+Pulse A2 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse A2 Shift Register Bits	0	32	Value	ValueOutput
+Pulse A2 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse A3 Speed	0	95	Value	ValueOutput
+Pulse A3 Grid Pattern	0	51	Value	ValueOutput
+Pulse A3 Chaos	0	4194304	Value	ValueOutput
+Pulse A3 Delay	0	96	Value	ValueOutput
+Pulse A3 Phase	0	4194304	Value	ValueOutput
+Pulse A3 Pulse Width	0	4194304	Value	ValueOutput
+Pulse A3 Division	0	96	Value	ValueOutput
+Pulse A3 Count Mode	0	1	Toggle	ValueOutput
+Pulse A3 Euclidean Density	0	100	Value	ValueOutput
+Pulse A3 Euclidean Steps	0	96	Value	ValueOutput
+Pulse A3 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse A3 Drum Pattern X	0	72	Value	ValueOutput
+Pulse A3 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse A3 Shift Register Bits	0	32	Value	ValueOutput
+Pulse A3 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse A4 Speed	0	95	Value	ValueOutput
+Pulse A4 Grid Pattern	0	51	Value	ValueOutput
+Pulse A4 Chaos	0	4194304	Value	ValueOutput
+Pulse A4 Delay	0	96	Value	ValueOutput
+Pulse A4 Phase	0	4194304	Value	ValueOutput
+Pulse A4 Pulse Width	0	4194304	Value	ValueOutput
+Pulse A4 Division	0	96	Value	ValueOutput
+Pulse A4 Count Mode	0	1	Toggle	ValueOutput
+Pulse A4 Euclidean Density	0	100	Value	ValueOutput
+Pulse A4 Euclidean Steps	0	96	Value	ValueOutput
+Pulse A4 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse A4 Drum Pattern X	0	72	Value	ValueOutput
+Pulse A4 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse A4 Shift Register Bits	0	32	Value	ValueOutput
+Pulse A4 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse B1 Speed	0	95	Value	ValueOutput
+Pulse B1 Grid Pattern	0	51	Value	ValueOutput
+Pulse B1 Chaos	0	4194304	Value	ValueOutput
+Pulse B1 Delay	0	96	Value	ValueOutput
+Pulse B1 Phase	0	4194304	Value	ValueOutput
+Pulse B1 Pulse Width	0	4194304	Value	ValueOutput
+Pulse B1 Division	0	96	Value	ValueOutput
+Pulse B1 Count Mode	0	1	Toggle	ValueOutput
+Pulse B1 Euclidean Density	0	100	Value	ValueOutput
+Pulse B1 Euclidean Steps	0	96	Value	ValueOutput
+Pulse B1 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse B1 Drum Pattern X	0	72	Value	ValueOutput
+Pulse B1 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse B1 Shift Register Bits	0	32	Value	ValueOutput
+Pulse B1 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse B2 Speed	0	95	Value	ValueOutput
+Pulse B2 Grid Pattern	0	51	Value	ValueOutput
+Pulse B2 Chaos	0	4194304	Value	ValueOutput
+Pulse B2 Delay	0	96	Value	ValueOutput
+Pulse B2 Phase	0	4194304	Value	ValueOutput
+Pulse B2 Pulse Width	0	4194304	Value	ValueOutput
+Pulse B2 Division	0	96	Value	ValueOutput
+Pulse B2 Count Mode	0	1	Toggle	ValueOutput
+Pulse B2 Euclidean Density	0	100	Value	ValueOutput
+Pulse B2 Euclidean Steps	0	96	Value	ValueOutput
+Pulse B2 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse B2 Drum Pattern X	0	72	Value	ValueOutput
+Pulse B2 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse B2 Shift Register Bits	0	32	Value	ValueOutput
+Pulse B2 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse B3 Speed	0	95	Value	ValueOutput
+Pulse B3 Grid Pattern	0	51	Value	ValueOutput
+Pulse B3 Chaos	0	4194304	Value	ValueOutput
+Pulse B3 Delay	0	96	Value	ValueOutput
+Pulse B3 Phase	0	4194304	Value	ValueOutput
+Pulse B3 Pulse Width	0	4194304	Value	ValueOutput
+Pulse B3 Division	0	96	Value	ValueOutput
+Pulse B3 Count Mode	0	1	Toggle	ValueOutput
+Pulse B3 Euclidean Density	0	100	Value	ValueOutput
+Pulse B3 Euclidean Steps	0	96	Value	ValueOutput
+Pulse B3 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse B3 Drum Pattern X	0	72	Value	ValueOutput
+Pulse B3 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse B3 Shift Register Bits	0	32	Value	ValueOutput
+Pulse B3 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse B4 Speed	0	95	Value	ValueOutput
+Pulse B4 Grid Pattern	0	51	Value	ValueOutput
+Pulse B4 Chaos	0	4194304	Value	ValueOutput
+Pulse B4 Delay	0	96	Value	ValueOutput
+Pulse B4 Phase	0	4194304	Value	ValueOutput
+Pulse B4 Pulse Width	0	4194304	Value	ValueOutput
+Pulse B4 Division	0	96	Value	ValueOutput
+Pulse B4 Count Mode	0	1	Toggle	ValueOutput
+Pulse B4 Euclidean Density	0	100	Value	ValueOutput
+Pulse B4 Euclidean Steps	0	96	Value	ValueOutput
+Pulse B4 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse B4 Drum Pattern X	0	72	Value	ValueOutput
+Pulse B4 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse B4 Shift Register Bits	0	32	Value	ValueOutput
+Pulse B4 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse C1 Speed	0	95	Value	ValueOutput
+Pulse C1 Grid Pattern	0	51	Value	ValueOutput
+Pulse C1 Chaos	0	4194304	Value	ValueOutput
+Pulse C1 Delay	0	96	Value	ValueOutput
+Pulse C1 Phase	0	4194304	Value	ValueOutput
+Pulse C1 Pulse Width	0	4194304	Value	ValueOutput
+Pulse C1 Division	0	96	Value	ValueOutput
+Pulse C1 Count Mode	0	1	Toggle	ValueOutput
+Pulse C1 Euclidean Density	0	100	Value	ValueOutput
+Pulse C1 Euclidean Steps	0	96	Value	ValueOutput
+Pulse C1 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse C1 Drum Pattern X	0	72	Value	ValueOutput
+Pulse C1 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse C1 Shift Register Bits	0	32	Value	ValueOutput
+Pulse C1 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse C2 Speed	0	95	Value	ValueOutput
+Pulse C2 Grid Pattern	0	51	Value	ValueOutput
+Pulse C2 Chaos	0	4194304	Value	ValueOutput
+Pulse C2 Delay	0	96	Value	ValueOutput
+Pulse C2 Phase	0	4194304	Value	ValueOutput
+Pulse C2 Pulse Width	0	4194304	Value	ValueOutput
+Pulse C2 Division	0	96	Value	ValueOutput
+Pulse C2 Count Mode	0	1	Toggle	ValueOutput
+Pulse C2 Euclidean Density	0	100	Value	ValueOutput
+Pulse C2 Euclidean Steps	0	96	Value	ValueOutput
+Pulse C2 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse C2 Drum Pattern X	0	72	Value	ValueOutput
+Pulse C2 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse C2 Shift Register Bits	0	32	Value	ValueOutput
+Pulse C2 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse C3 Speed	0	95	Value	ValueOutput
+Pulse C3 Grid Pattern	0	51	Value	ValueOutput
+Pulse C3 Chaos	0	4194304	Value	ValueOutput
+Pulse C3 Delay	0	96	Value	ValueOutput
+Pulse C3 Phase	0	4194304	Value	ValueOutput
+Pulse C3 Pulse Width	0	4194304	Value	ValueOutput
+Pulse C3 Division	0	96	Value	ValueOutput
+Pulse C3 Count Mode	0	1	Toggle	ValueOutput
+Pulse C3 Euclidean Density	0	100	Value	ValueOutput
+Pulse C3 Euclidean Steps	0	96	Value	ValueOutput
+Pulse C3 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse C3 Drum Pattern X	0	72	Value	ValueOutput
+Pulse C3 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse C3 Shift Register Bits	0	32	Value	ValueOutput
+Pulse C3 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse C4 Speed	0	95	Value	ValueOutput
+Pulse C4 Grid Pattern	0	51	Value	ValueOutput
+Pulse C4 Chaos	0	4194304	Value	ValueOutput
+Pulse C4 Delay	0	96	Value	ValueOutput
+Pulse C4 Phase	0	4194304	Value	ValueOutput
+Pulse C4 Pulse Width	0	4194304	Value	ValueOutput
+Pulse C4 Division	0	96	Value	ValueOutput
+Pulse C4 Count Mode	0	1	Toggle	ValueOutput
+Pulse C4 Euclidean Density	0	100	Value	ValueOutput
+Pulse C4 Euclidean Steps	0	96	Value	ValueOutput
+Pulse C4 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse C4 Drum Pattern X	0	72	Value	ValueOutput
+Pulse C4 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse C4 Shift Register Bits	0	32	Value	ValueOutput
+Pulse C4 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse D1 Speed	0	95	Value	ValueOutput
+Pulse D1 Grid Pattern	0	51	Value	ValueOutput
+Pulse D1 Chaos	0	4194304	Value	ValueOutput
+Pulse D1 Delay	0	96	Value	ValueOutput
+Pulse D1 Phase	0	4194304	Value	ValueOutput
+Pulse D1 Pulse Width	0	4194304	Value	ValueOutput
+Pulse D1 Division	0	96	Value	ValueOutput
+Pulse D1 Count Mode	0	1	Toggle	ValueOutput
+Pulse D1 Euclidean Density	0	100	Value	ValueOutput
+Pulse D1 Euclidean Steps	0	96	Value	ValueOutput
+Pulse D1 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse D1 Drum Pattern X	0	72	Value	ValueOutput
+Pulse D1 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse D1 Shift Register Bits	0	32	Value	ValueOutput
+Pulse D1 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse D2 Speed	0	95	Value	ValueOutput
+Pulse D2 Grid Pattern	0	51	Value	ValueOutput
+Pulse D2 Chaos	0	4194304	Value	ValueOutput
+Pulse D2 Delay	0	96	Value	ValueOutput
+Pulse D2 Phase	0	4194304	Value	ValueOutput
+Pulse D2 Pulse Width	0	4194304	Value	ValueOutput
+Pulse D2 Division	0	96	Value	ValueOutput
+Pulse D2 Count Mode	0	1	Toggle	ValueOutput
+Pulse D2 Euclidean Density	0	100	Value	ValueOutput
+Pulse D2 Euclidean Steps	0	96	Value	ValueOutput
+Pulse D2 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse D2 Drum Pattern X	0	72	Value	ValueOutput
+Pulse D2 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse D2 Shift Register Bits	0	32	Value	ValueOutput
+Pulse D2 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse D3 Speed	0	95	Value	ValueOutput
+Pulse D3 Grid Pattern	0	51	Value	ValueOutput
+Pulse D3 Chaos	0	4194304	Value	ValueOutput
+Pulse D3 Delay	0	96	Value	ValueOutput
+Pulse D3 Phase	0	4194304	Value	ValueOutput
+Pulse D3 Pulse Width	0	4194304	Value	ValueOutput
+Pulse D3 Division	0	96	Value	ValueOutput
+Pulse D3 Count Mode	0	1	Toggle	ValueOutput
+Pulse D3 Euclidean Density	0	100	Value	ValueOutput
+Pulse D3 Euclidean Steps	0	96	Value	ValueOutput
+Pulse D3 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse D3 Drum Pattern X	0	72	Value	ValueOutput
+Pulse D3 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse D3 Shift Register Bits	0	32	Value	ValueOutput
+Pulse D3 Shift Register Pattern	0	675	Value	ValueOutput
+Pulse D4 Speed	0	95	Value	ValueOutput
+Pulse D4 Grid Pattern	0	51	Value	ValueOutput
+Pulse D4 Chaos	0	4194304	Value	ValueOutput
+Pulse D4 Delay	0	96	Value	ValueOutput
+Pulse D4 Phase	0	4194304	Value	ValueOutput
+Pulse D4 Pulse Width	0	4194304	Value	ValueOutput
+Pulse D4 Division	0	96	Value	ValueOutput
+Pulse D4 Count Mode	0	1	Toggle	ValueOutput
+Pulse D4 Euclidean Density	0	100	Value	ValueOutput
+Pulse D4 Euclidean Steps	0	96	Value	ValueOutput
+Pulse D4 Drum Pattern Density	0	191	Value	ValueOutput
+Pulse D4 Drum Pattern X	0	72	Value	ValueOutput
+Pulse D4 Drum Pattern Y	0	72	Value	ValueOutput
+Pulse D4 Shift Register Bits	0	32	Value	ValueOutput
+Pulse D4 Shift Register Pattern	0	675	Value	ValueOutput
+Sequencer S1 Sequencer Mode	0	5	Value	ValueOutput
+Sequencer S1 Movement	0	5	Value	ValueOutput
+Sequencer S1 Pulse Source	0	16	Value	ValueOutput
+Sequencer S1 Pulse Edge	0	2	Value	ValueOutput
+Sequencer S1 Start	0	31	Value	ValueOutput
+Sequencer S1 End	0	31	Value	ValueOutput
+Sequencer S1 Skip	0	30	Value	ValueOutput
+Sequencer S1 Quantizer	0	4	Value	ValueOutput
+Sequencer S2 Sequencer Mode	0	5	Value	ValueOutput
+Sequencer S2 Movement	0	5	Value	ValueOutput
+Sequencer S2 Pulse Source	0	16	Value	ValueOutput
+Sequencer S2 Pulse Edge	0	2	Value	ValueOutput
+Sequencer S2 Start	0	31	Value	ValueOutput
+Sequencer S2 End	0	31	Value	ValueOutput
+Sequencer S2 Skip	0	30	Value	ValueOutput
+Sequencer S2 Quantizer	0	4	Value	ValueOutput
+Sequencer S3 Sequencer Mode	0	5	Value	ValueOutput
+Sequencer S3 Movement	0	5	Value	ValueOutput
+Sequencer S3 Pulse Source	0	16	Value	ValueOutput
+Sequencer S3 Pulse Edge	0	2	Value	ValueOutput
+Sequencer S3 Start	0	31	Value	ValueOutput
+Sequencer S3 End	0	31	Value	ValueOutput
+Sequencer S3 Skip	0	30	Value	ValueOutput
+Sequencer S3 Quantizer	0	4	Value	ValueOutput
+Sequencer S4 Sequencer Mode	0	5	Value	ValueOutput
+Sequencer S4 Movement	0	5	Value	ValueOutput
+Sequencer S4 Pulse Source	0	16	Value	ValueOutput
+Sequencer S4 Pulse Edge	0	2	Value	ValueOutput
+Sequencer S4 Start	0	31	Value	ValueOutput
+Sequencer S4 End	0	31	Value	ValueOutput
+Sequencer S4 Skip	0	30	Value	ValueOutput
+Sequencer S4 Quantizer	0	4	Value	ValueOutput
+Sequencer S5 Sequencer Mode	0	5	Value	ValueOutput
+Sequencer S5 Movement	0	5	Value	ValueOutput
+Sequencer S5 Pulse Source	0	16	Value	ValueOutput
+Sequencer S5 Pulse Edge	0	2	Value	ValueOutput
+Sequencer S5 Start	0	31	Value	ValueOutput
+Sequencer S5 End	0	31	Value	ValueOutput
+Sequencer S5 Skip	0	30	Value	ValueOutput
+Sequencer S5 Quantizer	0	4	Value	ValueOutput
+Sequencer S6 Sequencer Mode	0	5	Value	ValueOutput
+Sequencer S6 Movement	0	5	Value	ValueOutput
+Sequencer S6 Pulse Source	0	16	Value	ValueOutput
+Sequencer S6 Pulse Edge	0	2	Value	ValueOutput
+Sequencer S6 Start	0	31	Value	ValueOutput
+Sequencer S6 End	0	31	Value	ValueOutput
+Sequencer S6 Skip	0	30	Value	ValueOutput
+Sequencer S6 Quantizer	0	4	Value	ValueOutput
+Modmatrix 5 Source	0	105	Value	ValueOutput
+Modmatrix 5 Dest	0	420	Value	ValueOutput
+Modmatrix 5 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 6 Source	0	105	Value	ValueOutput
+Modmatrix 6 Dest	0	420	Value	ValueOutput
+Modmatrix 6 Dest Amt	0	4194304	Value	ValueOutput
+Sequencer S7 Sequencer Mode	0	5	Value	ValueOutput
+Sequencer S7 Movement	0	5	Value	ValueOutput
+Sequencer S7 Pulse Source	0	16	Value	ValueOutput
+Sequencer S7 Pulse Edge	0	2	Value	ValueOutput
+Sequencer S7 Start	0	31	Value	ValueOutput
+Sequencer S7 End	0	31	Value	ValueOutput
+Sequencer S7 Skip	0	30	Value	ValueOutput
+Sequencer S7 Quantizer	0	4	Value	ValueOutput
+Sequencer S8 Sequencer Mode	0	5	Value	ValueOutput
+Sequencer S8 Movement	0	5	Value	ValueOutput
+Sequencer S8 Pulse Source	0	16	Value	ValueOutput
+Sequencer S8 Pulse Edge	0	2	Value	ValueOutput
+Sequencer S8 Start	0	31	Value	ValueOutput
+Sequencer S8 End	0	31	Value	ValueOutput
+Sequencer S8 Skip	0	30	Value	ValueOutput
+Sequencer S8 Quantizer	0	4	Value	ValueOutput
+Modmatrix 7 Source	0	105	Value	ValueOutput
+Modmatrix 7 Dest	0	420	Value	ValueOutput
+Modmatrix 7 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 8 Source	0	105	Value	ValueOutput
+Modmatrix 8 Dest	0	420	Value	ValueOutput
+Modmatrix 8 Dest Amt	0	4194304	Value	ValueOutput
+Quantizer Q1 Range	0	4194304	Value	ValueOutput
+Quantizer Q1 Offset	0	4194304	Value	ValueOutput
+Quantizer Q1 Note 1	0	1	Toggle	ValueOutput
+Quantizer Q1 Note 2	0	1	Toggle	ValueOutput
+Quantizer Q1 Note 3	0	1	Toggle	ValueOutput
+Quantizer Q1 Note 4	0	1	Toggle	ValueOutput
+Quantizer Q1 Note 5	0	1	Toggle	ValueOutput
+Quantizer Q1 Note 6	0	1	Toggle	ValueOutput
+Quantizer Q1 Note 7	0	1	Toggle	ValueOutput
+Quantizer Q1 Note 8	0	1	Toggle	ValueOutput
+Quantizer Q1 Note 9	0	1	Toggle	ValueOutput
+Quantizer Q1 Note 10	0	1	Toggle	ValueOutput
+Quantizer Q1 Note 11	0	1	Toggle	ValueOutput
+Quantizer Q1 Note 12	0	1	Toggle	ValueOutput
+Quantizer Q1 Transpose	0	48	Value	ValueOutput
+Quantizer Q2 Range	0	4194304	Value	ValueOutput
+Quantizer Q2 Offset	0	4194304	Value	ValueOutput
+Quantizer Q2 Note 1	0	1	Toggle	ValueOutput
+Quantizer Q2 Note 2	0	1	Toggle	ValueOutput
+Quantizer Q2 Note 3	0	1	Toggle	ValueOutput
+Quantizer Q2 Note 4	0	1	Toggle	ValueOutput
+Quantizer Q2 Note 5	0	1	Toggle	ValueOutput
+Quantizer Q2 Note 6	0	1	Toggle	ValueOutput
+Quantizer Q2 Note 7	0	1	Toggle	ValueOutput
+Quantizer Q2 Note 8	0	1	Toggle	ValueOutput
+Quantizer Q2 Note 9	0	1	Toggle	ValueOutput
+Quantizer Q2 Note 10	0	1	Toggle	ValueOutput
+Quantizer Q2 Note 11	0	1	Toggle	ValueOutput
+Quantizer Q2 Note 12	0	1	Toggle	ValueOutput
+Quantizer Q2 Transpose	0	48	Value	ValueOutput
+Modmatrix 1 Source	0	105	Value	ValueOutput
+Modmatrix 1 Dest	0	420	Value	ValueOutput
+Modmatrix 1 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 2 Source	0	105	Value	ValueOutput
+Modmatrix 2 Dest	0	420	Value	ValueOutput
+Modmatrix 2 Dest Amt	0	4194304	Value	ValueOutput
+Quantizer Q3 Range	0	4194304	Value	ValueOutput
+Quantizer Q3 Offset	0	4194304	Value	ValueOutput
+Quantizer Q3 Note 1	0	1	Toggle	ValueOutput
+Quantizer Q3 Note 2	0	1	Toggle	ValueOutput
+Quantizer Q3 Note 3	0	1	Toggle	ValueOutput
+Quantizer Q3 Note 4	0	1	Toggle	ValueOutput
+Quantizer Q3 Note 5	0	1	Toggle	ValueOutput
+Quantizer Q3 Note 6	0	1	Toggle	ValueOutput
+Quantizer Q3 Note 7	0	1	Toggle	ValueOutput
+Quantizer Q3 Note 8	0	1	Toggle	ValueOutput
+Quantizer Q3 Note 9	0	1	Toggle	ValueOutput
+Quantizer Q3 Note 10	0	1	Toggle	ValueOutput
+Quantizer Q3 Note 11	0	1	Toggle	ValueOutput
+Quantizer Q3 Note 12	0	1	Toggle	ValueOutput
+Quantizer Q3 Transpose	0	48	Value	ValueOutput
+Quantizer Q4 Range	0	4194304	Value	ValueOutput
+Quantizer Q4 Offset	0	4194304	Value	ValueOutput
+Quantizer Q4 Note 1	0	1	Toggle	ValueOutput
+Quantizer Q4 Note 2	0	1	Toggle	ValueOutput
+Quantizer Q4 Note 3	0	1	Toggle	ValueOutput
+Quantizer Q4 Note 4	0	1	Toggle	ValueOutput
+Quantizer Q4 Note 5	0	1	Toggle	ValueOutput
+Quantizer Q4 Note 6	0	1	Toggle	ValueOutput
+Quantizer Q4 Note 7	0	1	Toggle	ValueOutput
+Quantizer Q4 Note 8	0	1	Toggle	ValueOutput
+Quantizer Q4 Note 9	0	1	Toggle	ValueOutput
+Quantizer Q4 Note 10	0	1	Toggle	ValueOutput
+Quantizer Q4 Note 11	0	1	Toggle	ValueOutput
+Quantizer Q4 Note 12	0	1	Toggle	ValueOutput
+Quantizer Q4 Transpose	0	48	Value	ValueOutput
+Modmatrix 3 Source	0	105	Value	ValueOutput
+Modmatrix 3 Dest	0	420	Value	ValueOutput
+Modmatrix 3 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 4 Source	0	105	Value	ValueOutput
+Modmatrix 4 Dest	0	420	Value	ValueOutput
+Modmatrix 4 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix Knob 1	0	4194304	Value	ValueOutput
+Modmatrix Knob 2	0	4194304	Value	ValueOutput
+Modmatrix Knob 3	0	4194304	Value	ValueOutput
+Modmatrix Knob 4	0	4194304	Value	ValueOutput
+Modmatrix 9 Source	0	105	Value	ValueOutput
+Modmatrix 9 Dest	0	420	Value	ValueOutput
+Modmatrix 9 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 10 Source	0	105	Value	ValueOutput
+Modmatrix 10 Dest	0	420	Value	ValueOutput
+Modmatrix 10 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 11 Source	0	105	Value	ValueOutput
+Modmatrix 11 Dest	0	420	Value	ValueOutput
+Modmatrix 11 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 12 Source	0	105	Value	ValueOutput
+Modmatrix 12 Dest	0	420	Value	ValueOutput
+Modmatrix 12 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 13 Source	0	105	Value	ValueOutput
+Modmatrix 13 Dest	0	420	Value	ValueOutput
+Modmatrix 13 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 14 Source	0	105	Value	ValueOutput
+Modmatrix 14 Dest	0	420	Value	ValueOutput
+Modmatrix 14 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 15 Source	0	105	Value	ValueOutput
+Modmatrix 15 Dest	0	420	Value	ValueOutput
+Modmatrix 15 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 16 Source	0	105	Value	ValueOutput
+Modmatrix 16 Dest	0	420	Value	ValueOutput
+Modmatrix 16 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 17 Source	0	105	Value	ValueOutput
+Modmatrix 17 Dest	0	420	Value	ValueOutput
+Modmatrix 17 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 18 Source	0	105	Value	ValueOutput
+Modmatrix 18 Dest	0	420	Value	ValueOutput
+Modmatrix 18 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 19 Source	0	105	Value	ValueOutput
+Modmatrix 19 Dest	0	420	Value	ValueOutput
+Modmatrix 19 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 20 Source	0	105	Value	ValueOutput
+Modmatrix 20 Dest	0	420	Value	ValueOutput
+Modmatrix 20 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 21 Source	0	105	Value	ValueOutput
+Modmatrix 21 Dest	0	420	Value	ValueOutput
+Modmatrix 21 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 22 Source	0	105	Value	ValueOutput
+Modmatrix 22 Dest	0	420	Value	ValueOutput
+Modmatrix 22 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 23 Source	0	105	Value	ValueOutput
+Modmatrix 23 Dest	0	420	Value	ValueOutput
+Modmatrix 23 Dest Amt	0	4194304	Value	ValueOutput
+Modmatrix 24 Source	0	105	Value	ValueOutput
+Modmatrix 24 Dest	0	420	Value	ValueOutput
+Modmatrix 24 Dest Amt	0	4194304	Value	ValueOutput
+Sync Mode	0	3	Value	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Reset Count	0	128	Value	ValueOutput
+Shuffle	0	4194304	Value	ValueOutput
+Sequence Data W1 Val	0	4194304	Value	ValueOutput
+Sequence Data W2 Val	0	4194304	Value	ValueOutput
+Sequence Data W3 Val	0	4194304	Value	ValueOutput
+Sequence Data W4 Val	0	4194304	Value	ValueOutput
+Sequence Data W5 Val	0	4194304	Value	ValueOutput
+Sequence Data W6 Val	0	4194304	Value	ValueOutput
+Sequence Data W7 Val	0	4194304	Value	ValueOutput
+Sequence Data W8 Val	0	4194304	Value	ValueOutput
+Sequence Data X1 Val	0	4194304	Value	ValueOutput
+Sequence Data X2 Val	0	4194304	Value	ValueOutput
+Sequence Data X3 Val	0	4194304	Value	ValueOutput
+Sequence Data X4 Val	0	4194304	Value	ValueOutput
+Sequence Data X5 Val	0	4194304	Value	ValueOutput
+Sequence Data X6 Val	0	4194304	Value	ValueOutput
+Sequence Data X7 Val	0	4194304	Value	ValueOutput
+Sequence Data X8 Val	0	4194304	Value	ValueOutput
+Sequence Data Y1 Val	0	4194304	Value	ValueOutput
+Sequence Data Y2 Val	0	4194304	Value	ValueOutput
+Sequence Data Y3 Val	0	4194304	Value	ValueOutput
+Sequence Data Y4 Val	0	4194304	Value	ValueOutput
+Sequence Data Y5 Val	0	4194304	Value	ValueOutput
+Sequence Data Y6 Val	0	4194304	Value	ValueOutput
+Sequence Data Y7 Val	0	4194304	Value	ValueOutput
+Sequence Data Y8 Val	0	4194304	Value	ValueOutput
+Sequence Data Z1 Val	0	4194304	Value	ValueOutput
+Sequence Data Z2 Val	0	4194304	Value	ValueOutput
+Sequence Data Z3 Val	0	4194304	Value	ValueOutput
+Sequence Data Z4 Val	0	4194304	Value	ValueOutput
+Sequence Data Z5 Val	0	4194304	Value	ValueOutput
+Sequence Data Z6 Val	0	4194304	Value	ValueOutput
+Sequence Data Z7 Val	0	4194304	Value	ValueOutput
+Sequence Data Z8 Val	0	4194304	Value	ValueOutput
+Sequence Data W1 Velocity	0	4194304	Value	ValueOutput
+Sequence Data W2 Velocity	0	4194304	Value	ValueOutput
+Sequence Data W3 Velocity	0	4194304	Value	ValueOutput
+Sequence Data W4 Velocity	0	4194304	Value	ValueOutput
+Sequence Data W5 Velocity	0	4194304	Value	ValueOutput
+Sequence Data W6 Velocity	0	4194304	Value	ValueOutput
+Sequence Data W7 Velocity	0	4194304	Value	ValueOutput
+Sequence Data W8 Velocity	0	4194304	Value	ValueOutput
+Sequence Data X1 Velocity	0	4194304	Value	ValueOutput
+Sequence Data X2 Velocity	0	4194304	Value	ValueOutput
+Sequence Data X3 Velocity	0	4194304	Value	ValueOutput
+Sequence Data X4 Velocity	0	4194304	Value	ValueOutput
+Sequence Data X5 Velocity	0	4194304	Value	ValueOutput
+Sequence Data X6 Velocity	0	4194304	Value	ValueOutput
+Sequence Data X7 Velocity	0	4194304	Value	ValueOutput
+Sequence Data X8 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Y1 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Y2 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Y3 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Y4 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Y5 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Y6 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Y7 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Y8 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Z1 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Z2 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Z3 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Z4 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Z5 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Z6 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Z7 Velocity	0	4194304	Value	ValueOutput
+Sequence Data Z8 Velocity	0	4194304	Value	ValueOutput
+Sequence Data W1 Aux	0	4194304	Value	ValueOutput
+Sequence Data W2 Aux	0	4194304	Value	ValueOutput
+Sequence Data W3 Aux	0	4194304	Value	ValueOutput
+Sequence Data W4 Aux	0	4194304	Value	ValueOutput
+Sequence Data W5 Aux	0	4194304	Value	ValueOutput
+Sequence Data W6 Aux	0	4194304	Value	ValueOutput
+Sequence Data W7 Aux	0	4194304	Value	ValueOutput
+Sequence Data W8 Aux	0	4194304	Value	ValueOutput
+Sequence Data X1 Aux	0	4194304	Value	ValueOutput
+Sequence Data X2 Aux	0	4194304	Value	ValueOutput
+Sequence Data X3 Aux	0	4194304	Value	ValueOutput
+Sequence Data X4 Aux	0	4194304	Value	ValueOutput
+Sequence Data X5 Aux	0	4194304	Value	ValueOutput
+Sequence Data X6 Aux	0	4194304	Value	ValueOutput
+Sequence Data X7 Aux	0	4194304	Value	ValueOutput
+Sequence Data X8 Aux	0	4194304	Value	ValueOutput
+Sequence Data Y1 Aux	0	4194304	Value	ValueOutput
+Sequence Data Y2 Aux	0	4194304	Value	ValueOutput
+Sequence Data Y3 Aux	0	4194304	Value	ValueOutput
+Sequence Data Y4 Aux	0	4194304	Value	ValueOutput
+Sequence Data Y5 Aux	0	4194304	Value	ValueOutput
+Sequence Data Y6 Aux	0	4194304	Value	ValueOutput
+Sequence Data Y7 Aux	0	4194304	Value	ValueOutput
+Sequence Data Y8 Aux	0	4194304	Value	ValueOutput
+Sequence Data Z1 Aux	0	4194304	Value	ValueOutput
+Sequence Data Z2 Aux	0	4194304	Value	ValueOutput
+Sequence Data Z3 Aux	0	4194304	Value	ValueOutput
+Sequence Data Z4 Aux	0	4194304	Value	ValueOutput
+Sequence Data Z5 Aux	0	4194304	Value	ValueOutput
+Sequence Data Z6 Aux	0	4194304	Value	ValueOutput
+Sequence Data Z7 Aux	0	4194304	Value	ValueOutput
+Sequence Data Z8 Aux	0	4194304	Value	ValueOutput
+Pulse Selection	0	15	Value	ValueOutput
+Sequencer Selection	0	7	Value	ValueOutput
+Quantizer Selection	0	3	Value	ValueOutput
+Sequencer Data Selection	0	2	Value	ValueOutput
+Rt Running	0	1	-	ValueOutput
+Rt Pulse	0	1	-	ValueOutput
+Rt Reset	0	1	-	ValueOutput
+Rt Pulse A1	0	99	-	ValueOutput
+Rt Pulse A2	0	99	-	ValueOutput
+Rt Pulse A3	0	99	-	ValueOutput
+Rt Pulse A4	0	99	-	ValueOutput
+Rt Pulse B1	0	99	-	ValueOutput
+Rt Pulse B2	0	99	-	ValueOutput
+Rt Pulse B3	0	99	-	ValueOutput
+Rt Pulse B4	0	99	-	ValueOutput
+Rt Pulse C1	0	99	-	ValueOutput
+Rt Pulse C2	0	99	-	ValueOutput
+Rt Pulse C3	0	99	-	ValueOutput
+Rt Pulse C4	0	99	-	ValueOutput
+Rt Pulse D1	0	99	-	ValueOutput
+Rt Pulse D2	0	99	-	ValueOutput
+Rt Pulse D3	0	99	-	ValueOutput
+Rt Pulse D4	0	99	-	ValueOutput
+Rt Shift Register 0 A1	0	65535	-	ValueOutput
+Rt Shift Register 1 A1	0	65535	-	ValueOutput
+Rt Shift Register Bits A1	0	32	-	ValueOutput
+Rt Shift Register Analog A1	0	4194304	-	ValueOutput
+Rt Shift Register 0 A2	0	65535	-	ValueOutput
+Rt Shift Register 1 A2	0	65535	-	ValueOutput
+Rt Shift Register Bits A2	0	32	-	ValueOutput
+Rt Shift Register Analog A2	0	4194304	-	ValueOutput
+Rt Shift Register 0 A3	0	65535	-	ValueOutput
+Rt Shift Register 1 A3	0	65535	-	ValueOutput
+Rt Shift Register Bits A3	0	32	-	ValueOutput
+Rt Shift Register Analog A3	0	4194304	-	ValueOutput
+Rt Shift Register 0 A4	0	65535	-	ValueOutput
+Rt Shift Register 1 A4	0	65535	-	ValueOutput
+Rt Shift Register Bits A4	0	32	-	ValueOutput
+Rt Shift Register Analog A4	0	4194304	-	ValueOutput
+Rt Shift Register 0 B1	0	65535	-	ValueOutput
+Rt Shift Register 1 B1	0	65535	-	ValueOutput
+Rt Shift Register Bits B1	0	32	-	ValueOutput
+Rt Shift Register Analog B1	0	4194304	-	ValueOutput
+Rt Shift Register 0 B2	0	65535	-	ValueOutput
+Rt Shift Register 1 B2	0	65535	-	ValueOutput
+Rt Shift Register Bits B2	0	32	-	ValueOutput
+Rt Shift Register Analog B2	0	4194304	-	ValueOutput
+Rt Shift Register 0 B3	0	65535	-	ValueOutput
+Rt Shift Register 1 B3	0	65535	-	ValueOutput
+Rt Shift Register Bits B3	0	32	-	ValueOutput
+Rt Shift Register Analog B3	0	4194304	-	ValueOutput
+Rt Shift Register 0 B4	0	65535	-	ValueOutput
+Rt Shift Register 1 B4	0	65535	-	ValueOutput
+Rt Shift Register Bits B4	0	32	-	ValueOutput
+Rt Shift Register Analog B4	0	4194304	-	ValueOutput
+Rt Shift Register 0 C1	0	65535	-	ValueOutput
+Rt Shift Register 1 C1	0	65535	-	ValueOutput
+Rt Shift Register Bits C1	0	32	-	ValueOutput
+Rt Shift Register Analog C1	0	4194304	-	ValueOutput
+Rt Shift Register 0 C2	0	65535	-	ValueOutput
+Rt Shift Register 1 C2	0	65535	-	ValueOutput
+Rt Shift Register Bits C2	0	32	-	ValueOutput
+Rt Shift Register Analog C2	0	4194304	-	ValueOutput
+Rt Shift Register 0 C3	0	65535	-	ValueOutput
+Rt Shift Register 1 C3	0	65535	-	ValueOutput
+Rt Shift Register Bits C3	0	32	-	ValueOutput
+Rt Shift Register Analog C3	0	4194304	-	ValueOutput
+Rt Shift Register 0 C4	0	65535	-	ValueOutput
+Rt Shift Register 1 C4	0	65535	-	ValueOutput
+Rt Shift Register Bits C4	0	32	-	ValueOutput
+Rt Shift Register Analog C4	0	4194304	-	ValueOutput
+Rt Shift Register 0 D1	0	65535	-	ValueOutput
+Rt Shift Register 1 D1	0	65535	-	ValueOutput
+Rt Shift Register Bits D1	0	32	-	ValueOutput
+Rt Shift Register Analog D1	0	4194304	-	ValueOutput
+Rt Shift Register 0 D2	0	65535	-	ValueOutput
+Rt Shift Register 1 D2	0	65535	-	ValueOutput
+Rt Shift Register Bits D2	0	32	-	ValueOutput
+Rt Shift Register Analog D2	0	4194304	-	ValueOutput
+Rt Shift Register 0 D3	0	65535	-	ValueOutput
+Rt Shift Register 1 D3	0	65535	-	ValueOutput
+Rt Shift Register Bits D3	0	32	-	ValueOutput
+Rt Shift Register Analog D3	0	4194304	-	ValueOutput
+Rt Shift Register 0 D4	0	65535	-	ValueOutput
+Rt Shift Register 1 D4	0	65535	-	ValueOutput
+Rt Shift Register Bits D4	0	32	-	ValueOutput
+Rt Shift Register Analog D4	0	4194304	-	ValueOutput
+Rt Sequencer Pulse S1	0	99	-	ValueOutput
+Rt Sequencer Pulse S2	0	99	-	ValueOutput
+Rt Sequencer Pulse S3	0	99	-	ValueOutput
+Rt Sequencer Pulse S4	0	99	-	ValueOutput
+Rt Sequencer Pulse S5	0	99	-	ValueOutput
+Rt Sequencer Pulse S6	0	99	-	ValueOutput
+Rt Sequencer Pulse S7	0	99	-	ValueOutput
+Rt Sequencer Pulse S8	0	99	-	ValueOutput
+Rt Sequencer Position S1	0	99	-	ValueOutput
+Rt Sequencer Position S2	0	99	-	ValueOutput
+Rt Sequencer Position S3	0	99	-	ValueOutput
+Rt Sequencer Position S4	0	99	-	ValueOutput
+Rt Sequencer Position S5	0	99	-	ValueOutput
+Rt Sequencer Position S6	0	99	-	ValueOutput
+Rt Sequencer Position S7	0	99	-	ValueOutput
+Rt Sequencer Position S8	0	99	-	ValueOutput
+Rt Sequencer Value S1	0	4194304	-	ValueOutput
+Rt Sequencer Value S2	0	4194304	-	ValueOutput
+Rt Sequencer Value S3	0	4194304	-	ValueOutput
+Rt Sequencer Value S4	0	4194304	-	ValueOutput
+Rt Sequencer Value S5	0	4194304	-	ValueOutput
+Rt Sequencer Value S6	0	4194304	-	ValueOutput
+Rt Sequencer Value S7	0	4194304	-	ValueOutput
+Rt Sequencer Value S8	0	4194304	-	ValueOutput
+Rt Sequencer Position 0 S1	0	65535	-	ValueOutput
+Rt Sequencer Position 1 S1	0	65535	-	ValueOutput
+Rt Sequencer Position 0 S2	0	65535	-	ValueOutput
+Rt Sequencer Position 1 S2	0	65535	-	ValueOutput
+Rt Sequencer Position 0 S3	0	65535	-	ValueOutput
+Rt Sequencer Position 1 S3	0	65535	-	ValueOutput
+Rt Sequencer Position 0 S4	0	65535	-	ValueOutput
+Rt Sequencer Position 1 S4	0	65535	-	ValueOutput
+Rt Sequencer Position 0 S5	0	65535	-	ValueOutput
+Rt Sequencer Position 1 S5	0	65535	-	ValueOutput
+Rt Sequencer Position 0 S6	0	65535	-	ValueOutput
+Rt Sequencer Position 1 S6	0	65535	-	ValueOutput
+Rt Sequencer Position 0 S7	0	65535	-	ValueOutput
+Rt Sequencer Position 1 S7	0	65535	-	ValueOutput
+Rt Sequencer Position 0 S8	0	65535	-	ValueOutput
+Rt Sequencer Position 1 S8	0	65535	-	ValueOutput
+Rt Sequencer Quantized Note S1	0	999	-	ValueOutput
+Rt Sequencer Quantized Note S2	0	999	-	ValueOutput
+Rt Sequencer Quantized Note S3	0	999	-	ValueOutput
+Rt Sequencer Quantized Note S4	0	999	-	ValueOutput
+Rt Sequencer Quantized Note S5	0	999	-	ValueOutput
+Rt Sequencer Quantized Note S6	0	999	-	ValueOutput
+Rt Sequencer Quantized Note S7	0	999	-	ValueOutput
+Rt Sequencer Quantized Note S8	0	999	-	ValueOutput
+Rt Input Quantized Note 1	0	999	-	ValueOutput
+Rt Input Quantized Note 2	0	999	-	ValueOutput
+Rt Input Quantized Note 3	0	999	-	ValueOutput
+Rt Input Quantized Note 4	0	999	-	ValueOutput
+Rt Quantizer Q1 Note 1	0	2	-	ValueOutput
+Rt Quantizer Q1 Note 2	0	2	-	ValueOutput
+Rt Quantizer Q1 Note 3	0	2	-	ValueOutput
+Rt Quantizer Q1 Note 4	0	2	-	ValueOutput
+Rt Quantizer Q1 Note 5	0	2	-	ValueOutput
+Rt Quantizer Q1 Note 6	0	2	-	ValueOutput
+Rt Quantizer Q1 Note 7	0	2	-	ValueOutput
+Rt Quantizer Q1 Note 8	0	2	-	ValueOutput
+Rt Quantizer Q1 Note 9	0	2	-	ValueOutput
+Rt Quantizer Q1 Note 10	0	2	-	ValueOutput
+Rt Quantizer Q1 Note 11	0	2	-	ValueOutput
+Rt Quantizer Q1 Note 12	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 1	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 2	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 3	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 4	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 5	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 6	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 7	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 8	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 9	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 10	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 11	0	2	-	ValueOutput
+Rt Quantizer Q2 Note 12	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 1	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 2	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 3	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 4	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 5	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 6	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 7	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 8	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 9	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 10	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 11	0	2	-	ValueOutput
+Rt Quantizer Q3 Note 12	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 1	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 2	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 3	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 4	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 5	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 6	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 7	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 8	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 9	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 10	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 11	0	2	-	ValueOutput
+Rt Quantizer Q4 Note 12	0	2	-	ValueOutput
+Rt Sequencer Quantizer S1	0	999	-	ValueOutput
+Rt Sequencer Quantizer S2	0	999	-	ValueOutput
+Rt Sequencer Quantizer S3	0	999	-	ValueOutput
+Rt Sequencer Quantizer S4	0	999	-	ValueOutput
+Rt Sequencer Quantizer S5	0	999	-	ValueOutput
+Rt Sequencer Quantizer S6	0	999	-	ValueOutput
+Rt Sequencer Quantizer S7	0	999	-	ValueOutput
+Rt Sequencer Quantizer S8	0	999	-	ValueOutput
+Pulse Selector	0	15	-	ValueOutput
+Sequencer Selector	0	7	-	ValueOutput
+Quantizer Selector	0	3	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

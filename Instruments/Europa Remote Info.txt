@@ -1,0 +1,290 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Europa
+
+Remotable	Min	Max	Input type	Output type
+Pitch Bend Range	0	24	Value	ValueOutput
+Voices	0	15	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Portamento Mode	0	2	Value	ValueOutput
+Key Mode	0	2	Value	ValueOutput
+Osc1 Semi	0	12	Value	ValueOutput
+Osc1 Oct	0	4	Value	ValueOutput
+Osc1 Tune	0	4194304	Value	ValueOutput
+Osc1 Pitch Kbd	0	4194304	Value	ValueOutput
+Osc1 Shape	0	4194304	Value	ValueOutput
+Osc1 Shape Amt	0	4194304	Value	ValueOutput
+Osc1 Shape Vel	0	4194304	Value	ValueOutput
+Osc1 Mod1 Mod	0	4194304	Value	ValueOutput
+Osc1 Mod1 Amt	0	4194304	Value	ValueOutput
+Osc1 Mod2 Mod	0	4194304	Value	ValueOutput
+Osc1 Mod2 Amt	0	4194304	Value	ValueOutput
+Osc1 Filter Freq	0	4194304	Value	ValueOutput
+Osc1 Filter Reso	0	4194304	Value	ValueOutput
+Osc1 Filter Kbd	0	4194304	Value	ValueOutput
+Osc1 Filter Mod	0	4194304	Value	ValueOutput
+Osc1 Filter Vel	0	4194304	Value	ValueOutput
+Osc1 Harm Pos	0	4194304	Value	ValueOutput
+Osc1 Harm Amt	0	4194304	Value	ValueOutput
+Osc1 Count	0	6	Value	ValueOutput
+Osc1 Blend	0	4194304	Value	ValueOutput
+Osc1 Detune	0	4194304	Value	ValueOutput
+Osc1 Spread	0	4194304	Value	ValueOutput
+Osc2 Semi	0	12	Value	ValueOutput
+Osc2 Oct	0	4	Value	ValueOutput
+Osc2 Tune	0	4194304	Value	ValueOutput
+Osc2 Pitch Kbd	0	4194304	Value	ValueOutput
+Osc2 Shape	0	4194304	Value	ValueOutput
+Osc2 Shape Amt	0	4194304	Value	ValueOutput
+Osc2 Shape Vel	0	4194304	Value	ValueOutput
+Osc2 Mod1 Mod	0	4194304	Value	ValueOutput
+Osc2 Mod1 Amt	0	4194304	Value	ValueOutput
+Osc2 Mod2 Mod	0	4194304	Value	ValueOutput
+Osc2 Mod2 Amt	0	4194304	Value	ValueOutput
+Osc2 Filter Freq	0	4194304	Value	ValueOutput
+Osc2 Filter Reso	0	4194304	Value	ValueOutput
+Osc2 Filter Kbd	0	4194304	Value	ValueOutput
+Osc2 Filter Mod	0	4194304	Value	ValueOutput
+Osc2 Filter Vel	0	4194304	Value	ValueOutput
+Osc2 Harm Pos	0	4194304	Value	ValueOutput
+Osc2 Harm Amt	0	4194304	Value	ValueOutput
+Osc2 Count	0	6	Value	ValueOutput
+Osc2 Blend	0	4194304	Value	ValueOutput
+Osc2 Detune	0	4194304	Value	ValueOutput
+Osc2 Spread	0	4194304	Value	ValueOutput
+Osc3 Semi	0	12	Value	ValueOutput
+Osc3 Oct	0	4	Value	ValueOutput
+Osc3 Tune	0	4194304	Value	ValueOutput
+Osc3 Pitch Kbd	0	4194304	Value	ValueOutput
+Osc3 Shape	0	4194304	Value	ValueOutput
+Osc3 Shape Amt	0	4194304	Value	ValueOutput
+Osc3 Shape Vel	0	4194304	Value	ValueOutput
+Osc3 Mod1 Mod	0	4194304	Value	ValueOutput
+Osc3 Mod1 Amt	0	4194304	Value	ValueOutput
+Osc3 Mod2 Mod	0	4194304	Value	ValueOutput
+Osc3 Mod2 Amt	0	4194304	Value	ValueOutput
+Osc3 Filter Freq	0	4194304	Value	ValueOutput
+Osc3 Filter Reso	0	4194304	Value	ValueOutput
+Osc3 Filter Kbd	0	4194304	Value	ValueOutput
+Osc3 Filter Mod	0	4194304	Value	ValueOutput
+Osc3 Filter Vel	0	4194304	Value	ValueOutput
+Osc3 Harm Pos	0	4194304	Value	ValueOutput
+Osc3 Harm Amt	0	4194304	Value	ValueOutput
+Osc3 Count	0	6	Value	ValueOutput
+Osc3 Blend	0	4194304	Value	ValueOutput
+Osc3 Detune	0	4194304	Value	ValueOutput
+Osc3 Spread	0	4194304	Value	ValueOutput
+Osc1 Level	0	4194304	Value	ValueOutput
+Osc1 Pan	0	4194304	Value	ValueOutput
+Osc2 Level	0	4194304	Value	ValueOutput
+Osc2 Pan	0	4194304	Value	ValueOutput
+Osc3 Level	0	4194304	Value	ValueOutput
+Osc3 Pan	0	4194304	Value	ValueOutput
+Filter Drive	0	4194304	Value	ValueOutput
+Filter Freq	0	4194304	Value	ValueOutput
+Filter Reso	0	4194304	Value	ValueOutput
+Filter Kbd	0	4194304	Value	ValueOutput
+Filter Mod	0	4194304	Value	ValueOutput
+Filter Vel	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Amp Gain	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Env 1 Rate	0	4194304	Value	ValueOutput
+Env 2 Rate	0	4194304	Value	ValueOutput
+Env 3 Rate	0	4194304	Value	ValueOutput
+Env 4 Rate	0	4194304	Value	ValueOutput
+Env 1 Syncrate	0	17	Value	ValueOutput
+Env 2 Syncrate	0	17	Value	ValueOutput
+Env 3 Syncrate	0	17	Value	ValueOutput
+Env 4 Syncrate	0	17	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 1 Delay	0	4194304	Value	ValueOutput
+LFO 1 SyncRate	0	17	Value	ValueOutput
+LFO 1 Wave	0	9	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Delay	0	4194304	Value	ValueOutput
+LFO 2 SyncRate	0	17	Value	ValueOutput
+LFO 2 Wave	0	9	Value	ValueOutput
+LFO 3 Rate	0	4194304	Value	ValueOutput
+LFO 3 Delay	0	4194304	Value	ValueOutput
+LFO 3 SyncRate	0	17	Value	ValueOutput
+LFO 3 Wave	0	9	Value	ValueOutput
+Mod1 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod1 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod1 Scale Amt	0	4194304	Value	ValueOutput
+Mod2 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod2 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod2 Scale Amt	0	4194304	Value	ValueOutput
+Mod3 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod3 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod3 Scale Amt	0	4194304	Value	ValueOutput
+Mod4 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod4 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod4 Scale Amt	0	4194304	Value	ValueOutput
+Mod5 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod5 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod5 Scale Amt	0	4194304	Value	ValueOutput
+Mod6 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod6 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod6 Scale Amt	0	4194304	Value	ValueOutput
+Mod7 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod7 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod7 Scale Amt	0	4194304	Value	ValueOutput
+Mod8 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod8 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod8 Scale Amt	0	4194304	Value	ValueOutput
+Effect On	0	1	Toggle	ValueOutput
+Effect Order	0	719	Value	ValueOutput
+Reverb On	0	1	Toggle	ValueOutput
+Delay On	0	1	Toggle	ValueOutput
+Dist On	0	1	Toggle	ValueOutput
+Comp On	0	1	Toggle	ValueOutput
+Phaser On	0	1	Toggle	ValueOutput
+Eq On	0	1	Toggle	ValueOutput
+Dist Drive	0	4194304	Value	ValueOutput
+Dist Type	0	5	Value	ValueOutput
+Dist Tone	0	4194304	Value	ValueOutput
+Dist Amount	0	4194304	Value	ValueOutput
+Mod Effect Type	0	2	Value	ValueOutput
+Mod Effect Amount	0	4194304	Value	ValueOutput
+Mod Effect Rate	0	4194304	Value	ValueOutput
+Mod Effect Depth	0	4194304	Value	ValueOutput
+Mod Effect Spread	0	4194304	Value	ValueOutput
+Delay Pan	0	4194304	Value	ValueOutput
+Delay Amount	0	4194304	Value	ValueOutput
+Delay FB	0	4194304	Value	ValueOutput
+Delay Sync	0	1	Toggle	ValueOutput
+Delay PingPong	0	1	Toggle	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Synced Time	0	10	Value	ValueOutput
+EQ Gain	0	4194304	Value	ValueOutput
+EQ Q	0	4194304	Value	ValueOutput
+EQ Freq	0	4194304	Value	ValueOutput
+Comp Release	0	4194304	Value	ValueOutput
+Comp Attack	0	4194304	Value	ValueOutput
+Comp Threshold	0	4194304	Value	ValueOutput
+Comp Ratio	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Amount	0	4194304	Value	ValueOutput
+Mod1 Dest1	0	86	Value	ValueOutput
+Mod1 Dest2	0	86	Value	ValueOutput
+Mod1 Scale	0	32	Value	ValueOutput
+Mod1 Source	0	32	Value	ValueOutput
+Mod2 Dest1	0	86	Value	ValueOutput
+Mod2 Dest2	0	86	Value	ValueOutput
+Mod2 Scale	0	32	Value	ValueOutput
+Mod2 Source	0	32	Value	ValueOutput
+Mod3 Dest1	0	86	Value	ValueOutput
+Mod3 Dest2	0	86	Value	ValueOutput
+Mod3 Scale	0	32	Value	ValueOutput
+Mod3 Source	0	32	Value	ValueOutput
+Mod4 Dest1	0	86	Value	ValueOutput
+Mod4 Dest2	0	86	Value	ValueOutput
+Mod4 Scale	0	32	Value	ValueOutput
+Mod4 Source	0	32	Value	ValueOutput
+Mod5 Dest1	0	86	Value	ValueOutput
+Mod5 Dest2	0	86	Value	ValueOutput
+Mod5 Scale	0	32	Value	ValueOutput
+Mod5 Source	0	32	Value	ValueOutput
+Mod6 Dest1	0	86	Value	ValueOutput
+Mod6 Dest2	0	86	Value	ValueOutput
+Mod6 Scale	0	32	Value	ValueOutput
+Mod6 Source	0	32	Value	ValueOutput
+Mod7 Dest1	0	86	Value	ValueOutput
+Mod7 Dest2	0	86	Value	ValueOutput
+Mod7 Scale	0	32	Value	ValueOutput
+Mod7 Source	0	32	Value	ValueOutput
+Mod8 Dest1	0	86	Value	ValueOutput
+Mod8 Dest2	0	86	Value	ValueOutput
+Mod8 Scale	0	32	Value	ValueOutput
+Mod8 Source	0	32	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Env Select	0	3	Value	ValueOutput
+Env Edit Mode	0	3	Value	ValueOutput
+Effect Select	0	5	Value	ValueOutput
+LFO 1 KeySync	0	1	Toggle	ValueOutput
+LFO 1 Global	0	1	Toggle	ValueOutput
+LFO 1 TempoSync	0	1	Toggle	ValueOutput
+LFO 2 KeySync	0	1	Toggle	ValueOutput
+LFO 2 Global	0	1	Toggle	ValueOutput
+LFO 2 TempoSync	0	1	Toggle	ValueOutput
+LFO 3 KeySync	0	1	Toggle	ValueOutput
+LFO 3 Global	0	1	Toggle	ValueOutput
+LFO 3 TempoSync	0	1	Toggle	ValueOutput
+LFO Select	0	2	Value	ValueOutput
+Filter Type	0	8	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Osc1 Wave	0	35	Value	ValueOutput
+Osc1 Mod1	0	31	Value	ValueOutput
+Osc1 Filter	0	15	Value	ValueOutput
+Osc1 Unison Mode	0	4	Value	ValueOutput
+Osc1 Harm	0	7	Value	ValueOutput
+Osc1 Mod2	0	31	Value	ValueOutput
+Osc1 Unison On	0	1	Toggle	ValueOutput
+Osc1 Filter On	0	1	Toggle	ValueOutput
+Osc1 Harm On	0	1	Toggle	ValueOutput
+Osc1 Mod1 On	0	1	Toggle	ValueOutput
+Osc1 Mod2 On	0	1	Toggle	ValueOutput
+Osc1 To Filter	0	1	Toggle	ValueOutput
+Osc1 SyncPhase	0	1	Toggle	ValueOutput
+Osc1 Shape Source	0	135	Value	ValueOutput
+Osc1 Filter Source	0	135	Value	ValueOutput
+Osc1 Mod1 Source	0	135	Value	ValueOutput
+Osc1 Mod2 Source	0	135	Value	ValueOutput
+Filter Mod Source	0	135	Value	ValueOutput
+Osc1 On	0	1	Toggle	ValueOutput
+OscSel	0	2	Value	ValueOutput
+Osc2 Wave	0	35	Value	ValueOutput
+Osc2 Mod1	0	31	Value	ValueOutput
+Osc2 Filter	0	15	Value	ValueOutput
+Osc2 Unison Mode	0	4	Value	ValueOutput
+Osc2 Harm	0	7	Value	ValueOutput
+Osc2 Mod2	0	31	Value	ValueOutput
+Osc2 Unison On	0	1	Toggle	ValueOutput
+Osc2 Filter On	0	1	Toggle	ValueOutput
+Osc2 Harm On	0	1	Toggle	ValueOutput
+Osc2 Mod1 On	0	1	Toggle	ValueOutput
+Osc2 Mod2 On	0	1	Toggle	ValueOutput
+Osc2 To Filter	0	1	Toggle	ValueOutput
+Osc2 SyncPhase	0	1	Toggle	ValueOutput
+Osc2 Shape Source	0	135	Value	ValueOutput
+Osc2 Filter Source	0	135	Value	ValueOutput
+Osc2 Mod1 Source	0	135	Value	ValueOutput
+Osc2 Mod2 Source	0	135	Value	ValueOutput
+Osc2 On	0	1	Toggle	ValueOutput
+Osc3 Wave	0	35	Value	ValueOutput
+Osc3 Mod1	0	31	Value	ValueOutput
+Osc3 Filter	0	15	Value	ValueOutput
+Osc3 Unison Mode	0	4	Value	ValueOutput
+Osc3 Harm	0	7	Value	ValueOutput
+Osc3 Mod2	0	31	Value	ValueOutput
+Osc3 Unison On	0	1	Toggle	ValueOutput
+Osc3 Filter On	0	1	Toggle	ValueOutput
+Osc3 Harm On	0	1	Toggle	ValueOutput
+Osc3 Mod1 On	0	1	Toggle	ValueOutput
+Osc3 Mod2 On	0	1	Toggle	ValueOutput
+Osc3 To Filter	0	1	Toggle	ValueOutput
+Osc3 SyncPhase	0	1	Toggle	ValueOutput
+Osc3 Shape Source	0	135	Value	ValueOutput
+Osc3 Filter Source	0	135	Value	ValueOutput
+Osc3 Mod1 Source	0	135	Value	ValueOutput
+Osc3 Mod2 Source	0	135	Value	ValueOutput
+Osc3 On	0	1	Toggle	ValueOutput
+Click Timer	0	4194304	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Record Sample	0	0	Trig	TextOutput

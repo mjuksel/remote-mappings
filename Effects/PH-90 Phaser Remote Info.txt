@@ -1,0 +1,15 @@
+Scope
+Manufacturer	Model
+Propellerheads	PH-90 Phaser
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Frequency	0	127	Value	ValueOutput
+Split	0	127	Value	ValueOutput
+Width	0	127	Value	ValueOutput
+Rate	0	127	Value	ValueOutput
+Frequency Modulation	0	127	Value	ValueOutput
+Feedback	0	127	Value	ValueOutput
+LFO Sync Enable	0	1	Toggle	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+Device Name	0	0	-	TextOutput

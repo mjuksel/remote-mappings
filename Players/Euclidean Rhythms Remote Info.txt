@@ -1,0 +1,155 @@
+Scope
+Manufacturer	Model
+Robotic Bean	com.roboticbean.EuclidPlayer
+
+Remotable	Min	Max	Input type	Output type
+Hold	0	1	Toggle	ValueOutput
+Retrig	0	1	Toggle	ValueOutput
+Low Key	0	127	Value	ValueOutput
+High Key	0	127	Value	ValueOutput
+Reset	0	1	Toggle	ValueOutput
+Steps	0	31	Value	ValueOutput
+Density	0	4194304	Value	ValueOutput
+Offset	0	32	Value	ValueOutput
+Rate	0	6	Value	ValueOutput
+Slide	0	240	Value	ValueOutput
+Shuffle	0	4194304	Value	ValueOutput
+Note Length	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Velocity Mode	0	1	Toggle	ValueOutput
+Mute 01	0	1	Toggle	ValueOutput
+Mute 02	0	1	Toggle	ValueOutput
+Mute 03	0	1	Toggle	ValueOutput
+Mute 04	0	1	Toggle	ValueOutput
+Mute 05	0	1	Toggle	ValueOutput
+Mute 06	0	1	Toggle	ValueOutput
+Mute 07	0	1	Toggle	ValueOutput
+Mute 08	0	1	Toggle	ValueOutput
+Mute 09	0	1	Toggle	ValueOutput
+Mute 10	0	1	Toggle	ValueOutput
+Mute 11	0	1	Toggle	ValueOutput
+Mute 12	0	1	Toggle	ValueOutput
+Mute 13	0	1	Toggle	ValueOutput
+Mute 14	0	1	Toggle	ValueOutput
+Mute 15	0	1	Toggle	ValueOutput
+Mute 16	0	1	Toggle	ValueOutput
+Mute 17	0	1	Toggle	ValueOutput
+Mute 18	0	1	Toggle	ValueOutput
+Mute 19	0	1	Toggle	ValueOutput
+Mute 20	0	1	Toggle	ValueOutput
+Mute 21	0	1	Toggle	ValueOutput
+Mute 22	0	1	Toggle	ValueOutput
+Mute 23	0	1	Toggle	ValueOutput
+Mute 24	0	1	Toggle	ValueOutput
+Mute 25	0	1	Toggle	ValueOutput
+Mute 26	0	1	Toggle	ValueOutput
+Mute 27	0	1	Toggle	ValueOutput
+Mute 28	0	1	Toggle	ValueOutput
+Mute 29	0	1	Toggle	ValueOutput
+Mute 30	0	1	Toggle	ValueOutput
+Mute 31	0	1	Toggle	ValueOutput
+Mute 32	0	1	Toggle	ValueOutput
+Velocity 01	0	4194304	Value	ValueOutput
+Velocity 02	0	4194304	Value	ValueOutput
+Velocity 03	0	4194304	Value	ValueOutput
+Velocity 04	0	4194304	Value	ValueOutput
+Velocity 05	0	4194304	Value	ValueOutput
+Velocity 06	0	4194304	Value	ValueOutput
+Velocity 07	0	4194304	Value	ValueOutput
+Velocity 08	0	4194304	Value	ValueOutput
+Velocity 09	0	4194304	Value	ValueOutput
+Velocity 10	0	4194304	Value	ValueOutput
+Velocity 11	0	4194304	Value	ValueOutput
+Velocity 12	0	4194304	Value	ValueOutput
+Velocity 13	0	4194304	Value	ValueOutput
+Velocity 14	0	4194304	Value	ValueOutput
+Velocity 15	0	4194304	Value	ValueOutput
+Velocity 16	0	4194304	Value	ValueOutput
+Velocity 17	0	4194304	Value	ValueOutput
+Velocity 18	0	4194304	Value	ValueOutput
+Velocity 19	0	4194304	Value	ValueOutput
+Velocity 20	0	4194304	Value	ValueOutput
+Velocity 21	0	4194304	Value	ValueOutput
+Velocity 22	0	4194304	Value	ValueOutput
+Velocity 23	0	4194304	Value	ValueOutput
+Velocity 24	0	4194304	Value	ValueOutput
+Velocity 25	0	4194304	Value	ValueOutput
+Velocity 26	0	4194304	Value	ValueOutput
+Velocity 27	0	4194304	Value	ValueOutput
+Velocity 28	0	4194304	Value	ValueOutput
+Velocity 29	0	4194304	Value	ValueOutput
+Velocity 30	0	4194304	Value	ValueOutput
+Velocity 31	0	4194304	Value	ValueOutput
+Velocity 32	0	4194304	Value	ValueOutput
+Forced Hit 01	0	1	Toggle	ValueOutput
+Forced Hit 02	0	1	Toggle	ValueOutput
+Forced Hit 03	0	1	Toggle	ValueOutput
+Forced Hit 04	0	1	Toggle	ValueOutput
+Forced Hit 05	0	1	Toggle	ValueOutput
+Forced Hit 06	0	1	Toggle	ValueOutput
+Forced Hit 07	0	1	Toggle	ValueOutput
+Forced Hit 08	0	1	Toggle	ValueOutput
+Forced Hit 09	0	1	Toggle	ValueOutput
+Forced Hit 10	0	1	Toggle	ValueOutput
+Forced Hit 11	0	1	Toggle	ValueOutput
+Forced Hit 12	0	1	Toggle	ValueOutput
+Forced Hit 13	0	1	Toggle	ValueOutput
+Forced Hit 14	0	1	Toggle	ValueOutput
+Forced Hit 15	0	1	Toggle	ValueOutput
+Forced Hit 16	0	1	Toggle	ValueOutput
+Forced Hit 17	0	1	Toggle	ValueOutput
+Forced Hit 18	0	1	Toggle	ValueOutput
+Forced Hit 19	0	1	Toggle	ValueOutput
+Forced Hit 20	0	1	Toggle	ValueOutput
+Forced Hit 21	0	1	Toggle	ValueOutput
+Forced Hit 22	0	1	Toggle	ValueOutput
+Forced Hit 23	0	1	Toggle	ValueOutput
+Forced Hit 24	0	1	Toggle	ValueOutput
+Forced Hit 25	0	1	Toggle	ValueOutput
+Forced Hit 26	0	1	Toggle	ValueOutput
+Forced Hit 27	0	1	Toggle	ValueOutput
+Forced Hit 28	0	1	Toggle	ValueOutput
+Forced Hit 29	0	1	Toggle	ValueOutput
+Forced Hit 30	0	1	Toggle	ValueOutput
+Forced Hit 31	0	1	Toggle	ValueOutput
+Forced Hit 32	0	1	Toggle	ValueOutput
+On	0	1	Toggle	ValueOutput
+Current Step	0	32	-	ValueOutput
+Note On	0	1	-	ValueOutput
+Hit 01	0	1	-	ValueOutput
+Hit 02	0	1	-	ValueOutput
+Hit 03	0	1	-	ValueOutput
+Hit 04	0	1	-	ValueOutput
+Hit 05	0	1	-	ValueOutput
+Hit 06	0	1	-	ValueOutput
+Hit 07	0	1	-	ValueOutput
+Hit 08	0	1	-	ValueOutput
+Hit 09	0	1	-	ValueOutput
+Hit 10	0	1	-	ValueOutput
+Hit 11	0	1	-	ValueOutput
+Hit 12	0	1	-	ValueOutput
+Hit 13	0	1	-	ValueOutput
+Hit 14	0	1	-	ValueOutput
+Hit 15	0	1	-	ValueOutput
+Hit 16	0	1	-	ValueOutput
+Hit 17	0	1	-	ValueOutput
+Hit 18	0	1	-	ValueOutput
+Hit 19	0	1	-	ValueOutput
+Hit 20	0	1	-	ValueOutput
+Hit 21	0	1	-	ValueOutput
+Hit 22	0	1	-	ValueOutput
+Hit 23	0	1	-	ValueOutput
+Hit 24	0	1	-	ValueOutput
+Hit 25	0	1	-	ValueOutput
+Hit 26	0	1	-	ValueOutput
+Hit 27	0	1	-	ValueOutput
+Hit 28	0	1	-	ValueOutput
+Hit 29	0	1	-	ValueOutput
+Hit 30	0	1	-	ValueOutput
+Hit 31	0	1	-	ValueOutput
+Hit 32	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

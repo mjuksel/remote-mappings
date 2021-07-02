@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+Zvork	fr.zvork.ST100
+
+Remotable	Min	Max	Input type	Output type
+A - Step Count	0	63	Value	ValueOutput
+A - Step Length	0	12	Value	ValueOutput
+B - Step Count	0	63	Value	ValueOutput
+B - Step Length	0	12	Value	ValueOutput
+C - Step Count	0	63	Value	ValueOutput
+C - Step Length	0	12	Value	ValueOutput
+D - Step Count	0	63	Value	ValueOutput
+D - Step Length	0	12	Value	ValueOutput
+Strumming Speed	0	4194304	Value	ValueOutput
+Strumming Sustain Length	0	4194304	Value	ValueOutput
+Strumming Acceleration	0	4194304	Value	ValueOutput
+Velocity Offset	0	4194304	Value	ValueOutput
+Velocity Random	0	4194304	Value	ValueOutput
+Accentuation	0	4194304	Value	ValueOutput
+Velocity Curve	0	4194304	Value	ValueOutput
+Pattern Page	0	3	-	ValueOutput
+Shuffle	0	4194304	Value	ValueOutput
+On	0	1	Toggle	ValueOutput
+Play Pos. Retrigger	0	1	Toggle	ValueOutput
+Pattern Select	-1	3	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,20 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	com.sugarbytes.PitchDelay
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+delayleftsync	0	6	Value	ValueOutput
+delayleftsynctp	0	20	Value	ValueOutput
+delayleftfree	0	4194304	Value	ValueOutput
+delayrightsync	0	6	Value	ValueOutput
+delayrightsynctp	0	20	Value	ValueOutput
+delayrightfree	0	4194304	Value	ValueOutput
+feedback	0	4194304	Value	ValueOutput
+pitch	0	4194304	Value	ValueOutput
+drywet	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

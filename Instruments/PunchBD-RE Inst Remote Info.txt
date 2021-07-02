@@ -1,0 +1,123 @@
+Scope
+Manufacturer	Model
+Rob Papen	com.robpapen.PunchBDRE
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Tracking Off / On	0	1	Toggle	ValueOutput
+Global Tuning	0	24	Value	ValueOutput
+Global Fine Tuning	0	4194304	Value	ValueOutput
+Centre Note	0	127	Value	ValueOutput
+Pitch Bend Up	0	15	Value	ValueOutput
+Pitch Bend Down	0	15	Value	ValueOutput
+Filter Off / On	0	1	Toggle	ValueOutput
+Filter Mode	0	6	Value	ValueOutput
+Filter Frequency	0	4194304	Value	ValueOutput
+Filter Q	0	4194304	Value	ValueOutput
+Global Synth Attack	0	4194304	Value	ValueOutput
+Model 1 Off / On	0	1	Toggle	ValueOutput
+Model 1 Volume	0	4194304	Value	ValueOutput
+Model 1 Osc Wave	0	2	Value	ValueOutput
+Model 1 Curve Mode	0	1	Toggle	ValueOutput
+Model 1 Frequency Start	0	4194304	Value	ValueOutput
+Model 1 Frequency End	0	4194304	Value	ValueOutput
+Model 1 Frequency Decay	0	4194304	Value	ValueOutput
+Model 1 Frequency Curve	0	4194304	Value	ValueOutput
+Model 1 Amp Hold	0	4194304	Value	ValueOutput
+Model 1 Amp Curve	0	4194304	Value	ValueOutput
+Model 1 Amp Decay	0	4194304	Value	ValueOutput
+Model 2 Off / On	0	1	Toggle	ValueOutput
+Model 2 Volume	0	4194304	Value	ValueOutput
+Model 2 Osc Wave	0	2	Value	ValueOutput
+Model 2 Curve Mode	0	1	Toggle	ValueOutput
+Model 2 Frequency Base	0	4194304	Value	ValueOutput
+Model 2 Frequency Drop	0	4194304	Value	ValueOutput
+Model 2 Frequency Decay	0	4194304	Value	ValueOutput
+Model 2 Frequency Curve	0	4194304	Value	ValueOutput
+Model 2 Punch Amount	0	4194304	Value	ValueOutput
+Model 2 Punch Decay	0	4194304	Value	ValueOutput
+Model 2 Punch Curve	0	4194304	Value	ValueOutput
+Click Off / On	0	1	Toggle	ValueOutput
+Click Volume	0	4194304	Value	ValueOutput
+Click Colour	0	4194304	Value	ValueOutput
+Click Frequency	0	4194304	Value	ValueOutput
+Click Frequency Drop	0	4194304	Value	ValueOutput
+Click Decay	0	4194304	Value	ValueOutput
+Click Spread	0	4194304	Value	ValueOutput
+Click Offset	0	4194304	Value	ValueOutput
+Sample Off / On	0	1	Toggle	ValueOutput
+Sample Volume	0	4194304	Value	ValueOutput
+Sample	0	53	Value	ValueOutput
+Sample Filter Mode	0	6	Value	ValueOutput
+Sample Filter LFO Mode	0	1	Toggle	ValueOutput
+Sample Filter LFO Sync	0	1	Toggle	ValueOutput
+Sample Semi Tuning	0	72	Value	ValueOutput
+Sample Fine Tuning	0	4194304	Value	ValueOutput
+Vel > Sample Pitch	0	4194304	Value	ValueOutput
+Random > Sample Pitch	0	4194304	Value	ValueOutput
+Sample Filter Frequency	0	4194304	Value	ValueOutput
+Sample Filter Q	0	4194304	Value	ValueOutput
+Sample Vel > Filter	0	4194304	Value	ValueOutput
+Sample Filter LFO Amount	0	4194304	Value	ValueOutput
+Sample Filter LFO Speed in Hz	0	4194304	Value	ValueOutput
+Sample Filter LFO Speed in QB	0	34	Value	ValueOutput
+Sample Filter Envelope Amount	0	4194304	Value	ValueOutput
+Sample Filter Envelope Attack	0	4194304	Value	ValueOutput
+Sample Filter Envelope Hold	0	4194304	Value	ValueOutput
+Sample Filter Envelope Decay	0	4194304	Value	ValueOutput
+Sample Amp Envelope Attack	0	4194304	Value	ValueOutput
+Sample Amp Envelope Hold	0	4194304	Value	ValueOutput
+Sample Amp Envelope Decay	0	4194304	Value	ValueOutput
+Sample Offset	0	4194304	Value	ValueOutput
+Sample Retrig Num	0	7	Value	ValueOutput
+Sample Retrig Time	0	4194304	Value	ValueOutput
+Sample Reverse Off / On	0	1	Toggle	ValueOutput
+Sample Stereo Start	0	4194304	Value	ValueOutput
+Sample Stereo End	0	4194304	Value	ValueOutput
+Sample Stereo Time	0	4194304	Value	ValueOutput
+Sample Boost	0	4194304	Value	ValueOutput
+Distort Off / On	0	1	Toggle	ValueOutput
+Model 1 to Distort	0	1	Toggle	ValueOutput
+Model 2 to Distort	0	1	Toggle	ValueOutput
+Click to Distort	0	1	Toggle	ValueOutput
+Sample to Distort	0	1	Toggle	ValueOutput
+Distort Type	0	19	Value	ValueOutput
+Distort Amount 1	0	4194304	Value	ValueOutput
+Distort Amount 2	0	4194304	Value	ValueOutput
+Free Envelope Attack	0	4194304	Value	ValueOutput
+Free Envelope Hold	0	4194304	Value	ValueOutput
+Free Envelope Decay	0	4194304	Value	ValueOutput
+Free LFO Wave	0	5	Value	ValueOutput
+Free LFO Mode	0	1	Toggle	ValueOutput
+Free LFO Sync	0	1	Toggle	ValueOutput
+Free LFO Speed in Hz	0	4194304	Value	ValueOutput
+Free LFO Speed in QB	0	34	Value	ValueOutput
+Free LFO Symmetry	0	4194304	Value	ValueOutput
+Free LFO Humanization	0	4194304	Value	ValueOutput
+Mod 1 Amount	0	4194304	Value	ValueOutput
+Mod 2 Amount	0	4194304	Value	ValueOutput
+Mod 3 Amount	0	4194304	Value	ValueOutput
+Mod 4 Amount	0	4194304	Value	ValueOutput
+Mod 1 Source	0	30	Value	ValueOutput
+Mod 2 Source	0	30	Value	ValueOutput
+Mod 3 Source	0	30	Value	ValueOutput
+Mod 4 Source	0	30	Value	ValueOutput
+Mod 1 Destination	0	76	Value	ValueOutput
+Mod 2 Destination	0	76	Value	ValueOutput
+Mod 3 Destination	0	76	Value	ValueOutput
+Mod 4 Destination	0	76	Value	ValueOutput
+Preview	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Note In	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

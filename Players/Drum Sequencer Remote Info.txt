@@ -1,0 +1,54 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.DrumSeq
+
+Remotable	Min	Max	Input type	Output type
+Reset 1	0	128	Value	ValueOutput
+Reset 2	0	128	Value	ValueOutput
+Reset 3	0	128	Value	ValueOutput
+Reset 4	0	128	Value	ValueOutput
+Reset 5	0	128	Value	ValueOutput
+Reset 6	0	128	Value	ValueOutput
+Reset 7	0	128	Value	ValueOutput
+Reset 8	0	128	Value	ValueOutput
+Shuffle 1	0	128	Value	ValueOutput
+Shuffle 2	0	128	Value	ValueOutput
+Shuffle 3	0	128	Value	ValueOutput
+Shuffle 4	0	128	Value	ValueOutput
+Shuffle 5	0	128	Value	ValueOutput
+Shuffle 6	0	128	Value	ValueOutput
+Shuffle 7	0	128	Value	ValueOutput
+Shuffle 8	0	128	Value	ValueOutput
+Solo1	0	1	Toggle	ValueOutput
+Solo2	0	1	Toggle	ValueOutput
+Solo3	0	1	Toggle	ValueOutput
+Solo4	0	1	Toggle	ValueOutput
+Solo5	0	1	Toggle	ValueOutput
+Solo6	0	1	Toggle	ValueOutput
+Solo7	0	1	Toggle	ValueOutput
+Solo8	0	1	Toggle	ValueOutput
+Mute1	0	1	Toggle	ValueOutput
+Mute2	0	1	Toggle	ValueOutput
+Mute3	0	1	Toggle	ValueOutput
+Mute4	0	1	Toggle	ValueOutput
+Mute5	0	1	Toggle	ValueOutput
+Mute6	0	1	Toggle	ValueOutput
+Mute7	0	1	Toggle	ValueOutput
+Mute8	0	1	Toggle	ValueOutput
+Key1	0	127	Value	ValueOutput
+Key2	0	127	Value	ValueOutput
+Key3	0	127	Value	ValueOutput
+Key4	0	127	Value	ValueOutput
+Key5	0	127	Value	ValueOutput
+Key6	0	127	Value	ValueOutput
+Key7	0	127	Value	ValueOutput
+Key8	0	127	Value	ValueOutput
+On	0	1	Toggle	ValueOutput
+Play	0	1	Toggle	ValueOutput
+Record	0	1	Toggle	ValueOutput
+Pattern Select	-1	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

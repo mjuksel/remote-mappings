@@ -1,0 +1,21 @@
+Scope
+Manufacturer	Model
+Murf	net.murf.reason.VCF1
+
+Remotable	Min	Max	Input type	Output type
+Frequency	0	4194304	Value	ValueOutput
+Fine	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Frequency PW CV IN Exponential	0	4194304	Value	ValueOutput
+FQCVINTRIM	0	4194304	Value	ValueOutput
+RECVINTRIM	0	4194304	Value	ValueOutput
+DRCVINTRIM	0	4194304	Value	ValueOutput
+FQAUINTRIM	0	4194304	Value	ValueOutput
+REAUINTRIM	0	4194304	Value	ValueOutput
+DRAUINTRIM	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

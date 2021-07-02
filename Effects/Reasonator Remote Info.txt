@@ -1,0 +1,56 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.Reasonator
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Resonator A Input Signal	0	4194304	Value	ValueOutput
+Resonator B Input Signal	0	4194304	Value	ValueOutput
+Resonance Decay Time A	0	4194304	Value	ValueOutput
+Keytrack A	0	4194304	Value	ValueOutput
+Width A	0	4194304	Value	ValueOutput
+Mix A	0	4194304	Value	ValueOutput
+Gain A	0	4194304	Value	ValueOutput
+Resonance Decay Time B	0	4194304	Value	ValueOutput
+Keytrack B	0	4194304	Value	ValueOutput
+Width B	0	4194304	Value	ValueOutput
+Mix B	0	4194304	Value	ValueOutput
+Gain B	0	4194304	Value	ValueOutput
+Pattern Source A	0	1	Toggle	ValueOutput
+Pattern Form A	0	22	Value	ValueOutput
+Pattern Destination A	0	2	Value	ValueOutput
+Depth A	0	4194304	Value	ValueOutput
+Pattern Source B	0	1	Toggle	ValueOutput
+Pattern Form B	0	22	Value	ValueOutput
+Pattern Destination B	0	2	Value	ValueOutput
+Depth B	0	4194304	Value	ValueOutput
+Filter A Mode	0	6	Value	ValueOutput
+Filter B Mode	0	6	Value	ValueOutput
+Filter A Cutoff	0	4194304	Value	ValueOutput
+Filter B Cutoff	0	4194304	Value	ValueOutput
+Post Filter Mode	0	6	Value	ValueOutput
+Post Filter Cutoff	0	4194304	Value	ValueOutput
+Post Filter Resonance	0	4194304	Value	ValueOutput
+LFO Rate A	0	4194304	Value	ValueOutput
+LFO Rate B	0	4194304	Value	ValueOutput
+LFO X-time Speed A	0	4194304	Value	ValueOutput
+LFO X-time Speed B	0	4194304	Value	ValueOutput
+LFO A Sync	0	1	Toggle	ValueOutput
+LFO B Sync	0	1	Toggle	ValueOutput
+LFO Rate A Beats	0	24	Value	ValueOutput
+LFO Rate B Beats	0	24	Value	ValueOutput
+Morph A/B	0	4194304	Value	ValueOutput
+Soft Bypass A	0	1	Toggle	ValueOutput
+Soft Bypass B	0	1	Toggle	ValueOutput
+Gain Level	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

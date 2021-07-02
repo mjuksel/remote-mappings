@@ -1,0 +1,35 @@
+Scope
+Manufacturer	Model
+ThatMusicCompany	com.thatmusiccompany.T2Phaser
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Dry / Wet	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Phaser On / Off	0	1	Toggle	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+Rate synced	0	16	Value	ValueOutput
+Phase Count	0	6	Value	ValueOutput
+Phaser Resonance	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Phaser Pan	0	4194304	Value	ValueOutput
+Wave Type	0	13	Value	ValueOutput
+Wave Amount	0	4194304	Value	ValueOutput
+Sync to Tempo	0	1	Toggle	ValueOutput
+Manual Control	0	1	Toggle	ValueOutput
+Rate x 2	0	1	Toggle	ValueOutput
+Rate / 4	0	1	Toggle	ValueOutput
+HPF On / Off	0	1	Toggle	ValueOutput
+HPF Frequency	0	4194304	Value	ValueOutput
+HPF Resonance	0	4194304	Value	ValueOutput
+HPF True	0	1	Toggle	ValueOutput
+Overdrive On / Off	0	1	Toggle	ValueOutput
+Overdrive Amount	0	4194304	Value	ValueOutput
+Overdrive Harshness	0	4194304	Value	ValueOutput
+Overdrive Limiter	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

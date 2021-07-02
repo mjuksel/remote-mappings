@@ -1,0 +1,40 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Pulsar
+
+Remotable	Min	Max	Input type	Output type
+LFO1 Rate Free	0	4194304	Value	ValueOutput
+LFO1 Rate Synced	0	17	Value	ValueOutput
+LFO1 Level	0	4194304	Value	ValueOutput
+LFO1 Tempo Sync	0	1	Toggle	ValueOutput
+LFO1 Waveform	0	8	Value	ValueOutput
+LFO1 Shuffle	0	4194304	Value	ValueOutput
+LFO1 Phase	0	4194304	Value	ValueOutput
+LFO1 Lag	0	4194304	Value	ValueOutput
+LFO1 Env Sync	0	1	Toggle	ValueOutput
+Sync LFO1 to LFO2	0	1	Toggle	ValueOutput
+LFO2 Rate Free	0	4194304	Value	ValueOutput
+LFO2 Rate Synced	0	17	Value	ValueOutput
+LFO2 Level	0	4194304	Value	ValueOutput
+LFO2 Tempo Sync	0	1	Toggle	ValueOutput
+LFO2 Waveform	0	8	Value	ValueOutput
+LFO2 Shuffle	0	4194304	Value	ValueOutput
+LFO2 Phase	0	4194304	Value	ValueOutput
+LFO2 Lag	0	4194304	Value	ValueOutput
+LFO2 to LFO1 Rate	0	4194304	Value	ValueOutput
+LFO2 to LFO1 Level	0	4194304	Value	ValueOutput
+LFO2 Enabled	0	1	Toggle	ValueOutput
+Keyboard Track	0	4194304	Value	ValueOutput
+Trig	0	1	Toggle	ValueOutput
+LFO2 Triggers Envelope	0	1	Toggle	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+LFO1 Env Level	0	4194304	Value	ValueOutput
+LFO1 Env Rate	0	4194304	Value	ValueOutput
+LFO2 Env Level	0	4194304	Value	ValueOutput
+LFO2 Env Rate	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

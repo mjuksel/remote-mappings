@@ -1,0 +1,37 @@
+Scope
+Manufacturer	Model
+Propellerheads	The Echo
+
+Remotable	Min	Max	Input type	Output type
+Delay Time	0	127	Value	ValueOutput
+Sync	0	1	Toggle	ValueOutput
+Keep Pitch	0	1	Toggle	ValueOutput
+Right Ch Time Offset	0	127	Value	ValueOutput
+Ping-Pong Mode	0	1	Toggle	ValueOutput
+Ping-Pong Pan	-64	63	Value	ValueOutput
+Feedback	0	127	Value	ValueOutput
+Right Ch Feedback Offset	-64	63	Value	ValueOutput
+Diffuse On	0	1	Toggle	ValueOutput
+Diffuse Spread	0	127	Value	ValueOutput
+Diffuse Amount	0	127	Value	ValueOutput
+Drive Amount	0	127	Value	ValueOutput
+Drive Type	0	3	Value	ValueOutput
+Filter On	0	1	Toggle	ValueOutput
+Filter Frequency	0	127	Value	ValueOutput
+Filter Resonance	0	127	Value	ValueOutput
+Envelope	-64	63	Value	ValueOutput
+Wobble	0	127	Value	ValueOutput
+LFO Rate	0	127	Value	ValueOutput
+LFO Amount	0	127	Value	ValueOutput
+Input Mode	0	2	Value	ValueOutput
+Trig	0	1	Hold	ValueOutput
+Roll Enabled	0	127	Value	ValueOutput
+Ducking	0	127	Value	ValueOutput
+Dry/Wet Balance	0	127	Value	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Input Peak Meter	0	3	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

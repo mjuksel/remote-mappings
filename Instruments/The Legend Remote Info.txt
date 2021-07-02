@@ -1,0 +1,63 @@
+Scope
+Manufacturer	Model
+Synapse Audio	com.synapseAudioSoftware.Legend
+
+Remotable	Min	Max	Input type	Output type
+Glide	0	4194304	Value	ValueOutput
+Modulation Mix	0	4194304	Value	ValueOutput
+Modulation Osc	0	1	Toggle	ValueOutput
+Modulation Filter	0	1	Toggle	ValueOutput
+Tuning Coarse	0	4	Value	ValueOutput
+Tuning Fine	0	4194304	Value	ValueOutput
+Oscillator 1 Active	0	1	Toggle	ValueOutput
+Oscillator 1 Waveform	0	6	Value	ValueOutput
+Oscillator 1 Range	0	5	Value	ValueOutput
+Oscillator 1 Semi	0	4194304	Value	ValueOutput
+Oscillator 1 Fine	0	4194304	Value	ValueOutput
+Oscillator 2 Active	0	1	Toggle	ValueOutput
+Oscillator 2 Waveform	0	6	Value	ValueOutput
+Oscillator 2 Range	0	5	Value	ValueOutput
+Oscillator 2 Semi	0	4194304	Value	ValueOutput
+Oscillator 2 Fine	0	4194304	Value	ValueOutput
+Oscillator 3 Active	0	1	Toggle	ValueOutput
+Oscillator 3 Keytrack	0	1	Toggle	ValueOutput
+Oscillator 3 Waveform	0	6	Value	ValueOutput
+Oscillator 3 Range	0	5	Value	ValueOutput
+Oscillator 3 Semi	0	4194304	Value	ValueOutput
+Oscillator 3 Fine	0	4194304	Value	ValueOutput
+Oscillator 1 Volume	0	4194304	Value	ValueOutput
+Oscillator 2 Volume	0	4194304	Value	ValueOutput
+Oscillator 3 Volume	0	4194304	Value	ValueOutput
+Noise Amount	0	4194304	Value	ValueOutput
+Noise Type	0	1	Toggle	ValueOutput
+Drive Amount	0	4194304	Value	ValueOutput
+Feedback Amount	0	4194304	Value	ValueOutput
+Filter Type	0	1	Toggle	ValueOutput
+Filter LP/BP	0	1	Toggle	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Envelope Amount	0	4194304	Value	ValueOutput
+Filter Envelope Attack	0	4194304	Value	ValueOutput
+Filter Envelope Decay	0	4194304	Value	ValueOutput
+Filter Envelope Sustain	0	4194304	Value	ValueOutput
+Filter Envelope Release	0	4194304	Value	ValueOutput
+Filter Keytrack 1	0	1	Toggle	ValueOutput
+Filter Keytrack 2	0	1	Toggle	ValueOutput
+Amplifier Envelope Attack	0	4194304	Value	ValueOutput
+Amplifier Envelope Decay	0	4194304	Value	ValueOutput
+Amplifier Envelope Sustain	0	4194304	Value	ValueOutput
+Amplifier Envelope Release	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Polyphony	0	3	Value	ValueOutput
+Unison Spread	0	4194304	Value	ValueOutput
+Unison Detune	0	4194304	Value	ValueOutput
+Effects Active	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

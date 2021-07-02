@@ -1,0 +1,19 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.LPM
+
+Remotable	Min	Max	Input type	Output type
+Reset	0	1	Toggle	ValueOutput
+Sync To Transport	0	1	Toggle	ValueOutput
+Pause	0	1	Toggle	ValueOutput
+Loudness Target	0	110	Value	ValueOutput
+Display Mode	0	3	Value	ValueOutput
+Show Range	0	1	Toggle	ValueOutput
+Show Peak Max	0	1	Toggle	ValueOutput
+Scale Mode	0	2	Value	ValueOutput
+Scale Units	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

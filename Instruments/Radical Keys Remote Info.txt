@@ -1,0 +1,61 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.RadicalKeys
+
+Remotable	Min	Max	Input type	Output type
+Character	0	38	Value	ValueOutput
+Instrument Blend	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Tune Drift	0	4194304	Value	ValueOutput
+Vel Resp Curve	0	4194304	Value	ValueOutput
+Vel Resp Low	0	4194304	Value	ValueOutput
+Vel Resp High	0	4194304	Value	ValueOutput
+Symp Res Level	0	4194304	Value	ValueOutput
+Symp Res Release	0	4194304	Value	ValueOutput
+Env Attack	0	4194304	Value	ValueOutput
+Env Decay Curve	0	4194304	Value	ValueOutput
+Env Release	0	4194304	Value	ValueOutput
+Key Down Level	0	4194304	Value	ValueOutput
+Key Up Level	0	4194304	Value	ValueOutput
+Pedal Level	0	4194304	Value	ValueOutput
+Tremolo OnOff	0	1	Toggle	ValueOutput
+Tremolo Type	0	1	Toggle	ValueOutput
+Tremolo Depth	0	4194304	Value	ValueOutput
+Tremolo Stereo Width	0	4194304	Value	ValueOutput
+Tremolo Speed Free	0	4194304	Value	ValueOutput
+Tremolo Speed Synced	0	17	Value	ValueOutput
+Tremolo Sync	0	1	Toggle	ValueOutput
+Comp OnOff	0	1	Toggle	ValueOutput
+Comp Amount	0	4194304	Value	ValueOutput
+Comp Fast	0	1	Toggle	ValueOutput
+Overdrive OnOff	0	1	Toggle	ValueOutput
+Overdrive Drive	0	4194304	Value	ValueOutput
+Overdrive Presence	0	4194304	Value	ValueOutput
+Overdrive Type	0	2	Value	ValueOutput
+EQ OnOff	0	1	Toggle	ValueOutput
+EQ Lo Gain	0	4194304	Value	ValueOutput
+EQ Mid Gain	0	4194304	Value	ValueOutput
+EQ Hi Gain	0	4194304	Value	ValueOutput
+EQ Pre Overdrive	0	1	Toggle	ValueOutput
+Phaser OnOff	0	1	Toggle	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Color	0	1	Toggle	ValueOutput
+Phaser Stereo	0	1	Toggle	ValueOutput
+Chorus OnOff	0	1	Toggle	ValueOutput
+Chorus Intensity	0	4194304	Value	ValueOutput
+Chorus DryWet	0	4194304	Value	ValueOutput
+Chorus Stereo	0	1	Toggle	ValueOutput
+Ambience OnOff	0	1	Toggle	ValueOutput
+Ambience Level	0	4194304	Value	ValueOutput
+Ambience Type	0	4	Value	ValueOutput
+mic1	0	8	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+mic2	0	8	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

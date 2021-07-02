@@ -1,0 +1,24 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Anansi
+
+Remotable	Min	Max	Input type	Output type
+Stereo-to-Mono a	0	1	Toggle	ValueOutput
+Stereo-to-Mono b	0	1	Toggle	ValueOutput
+Stereo-to-Mono c	0	1	Toggle	ValueOutput
+Mode	0	1	Toggle	ValueOutput
+Merger d	0	1	Toggle	ValueOutput
+Merger e	0	1	Toggle	ValueOutput
+Merger f	0	1	Toggle	ValueOutput
+Splitter g	0	1	Toggle	ValueOutput
+Splitter h	0	1	Toggle	ValueOutput
+Splitter i	0	1	Toggle	ValueOutput
+MidSide pass	0	1	Toggle	ValueOutput
+MidSide mid	0	1	Toggle	ValueOutput
+MidSide side	0	1	Toggle	ValueOutput
+MidSide balance	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

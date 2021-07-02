@@ -1,0 +1,29 @@
+Scope
+Manufacturer	Model
+LoveOne	se.loveone.MIDICompressor
+
+Remotable	Min	Max	Input type	Output type
+On/Off	0	1	Toggle	ValueOutput
+Control Point 1 Level	0	4194304	Value	ValueOutput
+Control Point 1 Strength	0	4194304	Value	ValueOutput
+Control Point 2 Level	0	4194304	Value	ValueOutput
+Control Point 2 Strength	0	4194304	Value	ValueOutput
+Control Point 3 Level	0	4194304	Value	ValueOutput
+Control Point 3 Strength	0	4194304	Value	ValueOutput
+Control Point 4 Level	0	4194304	Value	ValueOutput
+Control Point 4 Strength	0	4194304	Value	ValueOutput
+Control Point 5 Level	0	4194304	Value	ValueOutput
+Control Point 5 Strength	0	4194304	Value	ValueOutput
+Control Point 6 Level	0	4194304	Value	ValueOutput
+Control Point 6 Strength	0	4194304	Value	ValueOutput
+Control Point 7 Level	0	4194304	Value	ValueOutput
+Control Point 7 Strength	0	4194304	Value	ValueOutput
+Control Point 8 Level	0	4194304	Value	ValueOutput
+Control Point 8 Strength	0	4194304	Value	ValueOutput
+Input Level	0	254	Value	ValueOutput
+Makeup Level	0	254	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

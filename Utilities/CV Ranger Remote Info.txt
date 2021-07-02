@@ -1,0 +1,14 @@
+Scope
+Manufacturer	Model
+Tonicmint	com.tonicmint.CVRanger
+
+Remotable	Min	Max	Input type	Output type
+Input Range Left	0	4194304	Value	ValueOutput
+Input Range Right	0	4194304	Value	ValueOutput
+Output Range Left	0	4194304	Value	ValueOutput
+Output Range Right	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

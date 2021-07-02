@@ -1,0 +1,44 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.DYN4
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Dynamic 1 Threshold	0	4194304	Value	ValueOutput
+Dynamic 1 Mode	0	4	Value	ValueOutput
+Dynamic 1 Ratio	0	4194304	Value	ValueOutput
+Dynamic 1 Attack	0	4194304	Value	ValueOutput
+Dynamic 1 Release	0	4194304	Value	ValueOutput
+Dynamic 1 Dry Wet	0	4194304	Value	ValueOutput
+Dynamic 1 Lookahead	0	4194304	Value	ValueOutput
+Dynamic 2 Threshold	0	4194304	Value	ValueOutput
+Dynamic 2 Mode	0	4	Value	ValueOutput
+Dynamic 2 Ratio	0	4194304	Value	ValueOutput
+Dynamic 2 Attack	0	4194304	Value	ValueOutput
+Dynamic 2 Release	0	4194304	Value	ValueOutput
+Dynamic 2 Dry Wet	0	4194304	Value	ValueOutput
+Dynamic 2 Lookahead	0	4194304	Value	ValueOutput
+Dynamic 3 Threshold	0	4194304	Value	ValueOutput
+Dynamic 3 Mode	0	4	Value	ValueOutput
+Dynamic 3 Ratio	0	4194304	Value	ValueOutput
+Dynamic 3 Attack	0	4194304	Value	ValueOutput
+Dynamic 3 Release	0	4194304	Value	ValueOutput
+Dynamic 3 Dry Wet	0	4194304	Value	ValueOutput
+Dynamic 3 Lookahead	0	4194304	Value	ValueOutput
+Dynamic 4 Threshold	0	4194304	Value	ValueOutput
+Dynamic 4 Mode	0	4	Value	ValueOutput
+Dynamic 4 Ratio	0	4194304	Value	ValueOutput
+Dynamic 4 Attack	0	4194304	Value	ValueOutput
+Dynamic 4 Release	0	4194304	Value	ValueOutput
+Dynamic 4 Dry Wet	0	4194304	Value	ValueOutput
+Dynamic 4 Lookahead	0	4194304	Value	ValueOutput
+Band Splitter Frequency	0	4194304	Value	ValueOutput
+Band Splitter Mode	0	1	Toggle	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Dry Wet	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

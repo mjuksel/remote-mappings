@@ -1,0 +1,36 @@
+Scope
+Manufacturer	Model
+Ravenherz	ru.ravenherz.DigitalVoltageComparator
+
+Remotable	Min	Max	Input type	Output type
+Cnd Operand A	0	3	Value	ValueOutput
+Cnd Operator	0	1	Toggle	ValueOutput
+Cnd Operand B	0	4	Value	ValueOutput
+Cnd Operand B CV Inv.	0	1	Toggle	ValueOutput
+Cnd Operand B Value	0	200	Value	ValueOutput
+ITS Source To Output	0	4	Value	ValueOutput
+ITS Source CV Inv.	0	1	Toggle	ValueOutput
+ITS Source Value	0	200	Value	ValueOutput
+ITM Perform Math	0	1	Toggle	ValueOutput
+ITM Operator	0	3	Value	ValueOutput
+ITM Operand	0	4	Value	ValueOutput
+ITM Operand CV Inv.	0	1	Toggle	ValueOutput
+ITM Operand Value	0	200	Value	ValueOutput
+IFS Source Fo Output	0	4	Value	ValueOutput
+IFS Source CV Inv.	0	1	Toggle	ValueOutput
+IFS Source Value	0	200	Value	ValueOutput
+IFM Perform Math	0	1	Toggle	ValueOutput
+IFM Operator	0	3	Value	ValueOutput
+IFM Operand	0	4	Value	ValueOutput
+IFM Operand CV Inv.	0	1	Toggle	ValueOutput
+IFM Operand Value	0	200	Value	ValueOutput
+Enc Drift Dry/Wet	0	4194304	Value	ValueOutput
+Enc Drift Acceleration	0	4194304	Value	ValueOutput
+Enc Alt. Cut Mode	0	1	Toggle	ValueOutput
+Meter Mode	0	6	Value	ValueOutput
+Meter Refresh Rate	0	49	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

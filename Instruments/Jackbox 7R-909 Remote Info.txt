@@ -1,0 +1,58 @@
+Scope
+Manufacturer	Model
+Quadelectra Audioworx	com.quadelectra.Jackbox909
+
+Remotable	Min	Max	Input type	Output type
+Bassdrum Tune	0	4194304	Value	ValueOutput
+Bassdrum Level	0	4194304	Value	ValueOutput
+Bassdrum Attack	0	4194304	Value	ValueOutput
+Bassdrum Decay	0	4194304	Value	ValueOutput
+Snare Tune	0	4194304	Value	ValueOutput
+Snare Level	0	4194304	Value	ValueOutput
+Snare Tone	0	4194304	Value	ValueOutput
+Snare Snappy	0	4194304	Value	ValueOutput
+Low Tom Tune	0	4194304	Value	ValueOutput
+Low Tom Level	0	4194304	Value	ValueOutput
+Low Tom Decay	0	4194304	Value	ValueOutput
+Mid Tom Tune	0	4194304	Value	ValueOutput
+Mid Tom Level	0	4194304	Value	ValueOutput
+Mid Tom Decay	0	4194304	Value	ValueOutput
+Hi Tom Tune	0	4194304	Value	ValueOutput
+Hi Tom Level	0	4194304	Value	ValueOutput
+Hi Tom Decay	0	4194304	Value	ValueOutput
+Rimshot Level	0	4194304	Value	ValueOutput
+Handclap Level	0	4194304	Value	ValueOutput
+Hihat Level	0	4194304	Value	ValueOutput
+Hihat Open Decay	0	4194304	Value	ValueOutput
+Hihat Closed Decay	0	4194304	Value	ValueOutput
+Crash Cymbal Level	0	4194304	Value	ValueOutput
+Ride Cymbal Level	0	4194304	Value	ValueOutput
+Crash Cymbal Tune	0	4194304	Value	ValueOutput
+Ride Cymbal Tune	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Flam Size	0	4194304	Value	ValueOutput
+Accent Level	0	4194304	Value	ValueOutput
+VelSens	0	4194304	Value	ValueOutput
+Accent	0	1	Toggle	ValueOutput
+Flam	0	1	Toggle	ValueOutput
+Pad #1 (Bassdrum)	0	1	Toggle	ValueOutput
+Pad #2 (Bassdrum)	0	1	Toggle	ValueOutput
+Pad #3 (Snare)	0	1	Toggle	ValueOutput
+Pad #4 (Snare)	0	1	Toggle	ValueOutput
+Pad #5 (Low Tom)	0	1	Toggle	ValueOutput
+Pad #6 (Low Tom)	0	1	Toggle	ValueOutput
+Pad #7 (Mid Tom)	0	1	Toggle	ValueOutput
+Pad #8 (Mid Tom)	0	1	Toggle	ValueOutput
+Pad #9 (Hi Tom)	0	1	Toggle	ValueOutput
+Pad #10 (Hi Tom)	0	1	Toggle	ValueOutput
+Pad #11 (Rimshot)	0	1	Toggle	ValueOutput
+Pad #12 (Handclap)	0	1	Toggle	ValueOutput
+Pad #13 (Hihat Closed)	0	1	Toggle	ValueOutput
+Pad #14 (Hihat Open)	0	1	Toggle	ValueOutput
+Pad #15 (Crash Cymbal)	0	1	Toggle	ValueOutput
+Pad #16 (Ride Cymbal)	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

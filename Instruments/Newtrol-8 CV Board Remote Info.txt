@@ -1,0 +1,115 @@
+Scope
+Manufacturer	Model
+HaMu	se.hamu.Newtrol_8
+
+Remotable	Min	Max	Input type	Output type
+A 1	0	4194304	Value	ValueOutput
+A 2	0	4194304	Value	ValueOutput
+A 3	0	4194304	Value	ValueOutput
+A 4	0	4194304	Value	ValueOutput
+A 5	0	4194304	Value	ValueOutput
+A 6	0	4194304	Value	ValueOutput
+A 7	0	4194304	Value	ValueOutput
+A 8	0	4194304	Value	ValueOutput
+A Bipolar 1	0	1	Toggle	ValueOutput
+A Bipolar 2	0	1	Toggle	ValueOutput
+A Bipolar 3	0	1	Toggle	ValueOutput
+A Bipolar 4	0	1	Toggle	ValueOutput
+A Bipolar 5	0	1	Toggle	ValueOutput
+A Bipolar 6	0	1	Toggle	ValueOutput
+A Bipolar 7	0	1	Toggle	ValueOutput
+A Bipolar 8	0	1	Toggle	ValueOutput
+B 1	0	4194304	Value	ValueOutput
+B 2	0	4194304	Value	ValueOutput
+B 3	0	4194304	Value	ValueOutput
+B 4	0	4194304	Value	ValueOutput
+B 5	0	4194304	Value	ValueOutput
+B 6	0	4194304	Value	ValueOutput
+B 7	0	4194304	Value	ValueOutput
+B 8	0	4194304	Value	ValueOutput
+B Bipolar 1	0	1	Toggle	ValueOutput
+B Bipolar 2	0	1	Toggle	ValueOutput
+B Bipolar 3	0	1	Toggle	ValueOutput
+B Bipolar 4	0	1	Toggle	ValueOutput
+B Bipolar 5	0	1	Toggle	ValueOutput
+B Bipolar 6	0	1	Toggle	ValueOutput
+B Bipolar 7	0	1	Toggle	ValueOutput
+B Bipolar 8	0	1	Toggle	ValueOutput
+C 1	0	4194304	Value	ValueOutput
+C 2	0	4194304	Value	ValueOutput
+C 3	0	4194304	Value	ValueOutput
+C 4	0	4194304	Value	ValueOutput
+C 5	0	4194304	Value	ValueOutput
+C 6	0	4194304	Value	ValueOutput
+C 7	0	4194304	Value	ValueOutput
+C 8	0	4194304	Value	ValueOutput
+C Bipolar 1	0	1	Toggle	ValueOutput
+C Bipolar 2	0	1	Toggle	ValueOutput
+C Bipolar 3	0	1	Toggle	ValueOutput
+C Bipolar 4	0	1	Toggle	ValueOutput
+C Bipolar 5	0	1	Toggle	ValueOutput
+C Bipolar 6	0	1	Toggle	ValueOutput
+C Bipolar 7	0	1	Toggle	ValueOutput
+C Bipolar 8	0	1	Toggle	ValueOutput
+Momentary 1	0	1	Toggle	ValueOutput
+Momentary 2	0	1	Toggle	ValueOutput
+Momentary 3	0	1	Toggle	ValueOutput
+Momentary 4	0	1	Toggle	ValueOutput
+Momentary 5	0	1	Toggle	ValueOutput
+Momentary 6	0	1	Toggle	ValueOutput
+Momentary 7	0	1	Toggle	ValueOutput
+Momentary 8	0	1	Toggle	ValueOutput
+Momentary Inverted 1	0	1	Toggle	ValueOutput
+Momentary Inverted 2	0	1	Toggle	ValueOutput
+Momentary Inverted 3	0	1	Toggle	ValueOutput
+Momentary Inverted 4	0	1	Toggle	ValueOutput
+Momentary Inverted 5	0	1	Toggle	ValueOutput
+Momentary Inverted 6	0	1	Toggle	ValueOutput
+Momentary Inverted 7	0	1	Toggle	ValueOutput
+Momentary Inverted 8	0	1	Toggle	ValueOutput
+Toggle 1	0	1	Toggle	ValueOutput
+Toggle 2	0	1	Toggle	ValueOutput
+Toggle 3	0	1	Toggle	ValueOutput
+Toggle 4	0	1	Toggle	ValueOutput
+Toggle 5	0	1	Toggle	ValueOutput
+Toggle 6	0	1	Toggle	ValueOutput
+Toggle 7	0	1	Toggle	ValueOutput
+Toggle 8	0	1	Toggle	ValueOutput
+Toggle Inverted 1	0	1	Toggle	ValueOutput
+Toggle Inverted 2	0	1	Toggle	ValueOutput
+Toggle Inverted 3	0	1	Toggle	ValueOutput
+Toggle Inverted 4	0	1	Toggle	ValueOutput
+Toggle Inverted 5	0	1	Toggle	ValueOutput
+Toggle Inverted 6	0	1	Toggle	ValueOutput
+Toggle Inverted 7	0	1	Toggle	ValueOutput
+Toggle Inverted 8	0	1	Toggle	ValueOutput
+Vertical 1	0	4194304	Value	ValueOutput
+Vertical 2	0	4194304	Value	ValueOutput
+Vertical 3	0	4194304	Value	ValueOutput
+Vertical 4	0	4194304	Value	ValueOutput
+Vertical 5	0	4194304	Value	ValueOutput
+Vertical 6	0	4194304	Value	ValueOutput
+Vertical 7	0	4194304	Value	ValueOutput
+Vertical 8	0	4194304	Value	ValueOutput
+Vertical Bipolar 1	0	1	Toggle	ValueOutput
+Vertical Bipolar 2	0	1	Toggle	ValueOutput
+Vertical Bipolar 3	0	1	Toggle	ValueOutput
+Vertical Bipolar 4	0	1	Toggle	ValueOutput
+Vertical Bipolar 5	0	1	Toggle	ValueOutput
+Vertical Bipolar 6	0	1	Toggle	ValueOutput
+Vertical Bipolar 7	0	1	Toggle	ValueOutput
+Vertical Bipolar 8	0	1	Toggle	ValueOutput
+Hold Outs	0	1	Toggle	ValueOutput
+Sustain Ignore	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Poly Cv Channels	0	14	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

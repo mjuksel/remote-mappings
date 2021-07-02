@@ -1,0 +1,13 @@
+Scope
+Manufacturer	Model
+Propellerheads	COMP-01 Compressor/Limiter
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Ratio	0	127	Value	ValueOutput
+Threshold	0	127	Value	ValueOutput
+Attack	0	127	Value	ValueOutput
+Release	0	127	Value	ValueOutput
+Gain	0	20	-	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+Device Name	0	0	-	TextOutput

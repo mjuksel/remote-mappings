@@ -1,0 +1,65 @@
+Scope
+Manufacturer	Model
+Skrock Music	se.skrockmusic.Nautilus
+
+Remotable	Min	Max	Input type	Output type
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Env	0	4194304	Value	ValueOutput
+Filter Attack	0	4194304	Value	ValueOutput
+Filter Decay	0	4194304	Value	ValueOutput
+Filter Sustain	0	4194304	Value	ValueOutput
+Filter Release	0	4194304	Value	ValueOutput
+Filter Velocity	0	4194304	Value	ValueOutput
+Filter LFO Rate	0	4194304	Value	ValueOutput
+Filter LFO Amt	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Polyphony	0	1	Toggle	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Compressor	0	1	Toggle	ValueOutput
+Bend Range	0	4194304	Value	ValueOutput
+Octave	0	4	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Mono Retrig	0	1	Toggle	ValueOutput
+Random Phase	0	1	Toggle	ValueOutput
+Saw Volume	0	4194304	Value	ValueOutput
+Saw Pan	0	4194304	Value	ValueOutput
+Saw Phase	0	4194304	Value	ValueOutput
+Saw Tune	0	4194304	Value	ValueOutput
+Saw Shaper	0	4194304	Value	ValueOutput
+Filter Pre Shaper 1	0	1	Toggle	ValueOutput
+LFO Amt 1	0	4194304	Value	ValueOutput
+LFO Rate 1	0	4194304	Value	ValueOutput
+Square Volume	0	4194304	Value	ValueOutput
+Square Pan	0	4194304	Value	ValueOutput
+Square Phase	0	4194304	Value	ValueOutput
+Square Tune	0	4194304	Value	ValueOutput
+Square Shaper	0	4194304	Value	ValueOutput
+Filter Pre Shaper 2	0	1	Toggle	ValueOutput
+LFO Amt 2	0	4194304	Value	ValueOutput
+LFO Rate 2	0	4194304	Value	ValueOutput
+Random Phase 2	0	1	Toggle	ValueOutput
+Sine Volume	0	4194304	Value	ValueOutput
+Sine Pan	0	4194304	Value	ValueOutput
+Sine Phase	0	4194304	Value	ValueOutput
+Sine Tune	0	4194304	Value	ValueOutput
+Sine Shaper	0	4194304	Value	ValueOutput
+Filter Pre Shaper 3	0	1	Toggle	ValueOutput
+LFO Amt 3	0	4194304	Value	ValueOutput
+LFO Rate 3	0	4194304	Value	ValueOutput
+Random Phase 3	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,17 @@
+Scope
+Manufacturer	Model
+Propellerheads	MClass Stereo Imager
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Low Width	-64	63	Value	ValueOutput
+High Width	-64	63	Value	ValueOutput
+X-Over Frequency	0	127	Value	ValueOutput
+Solo Mode	0	2	Value	ValueOutput
+Separate Out Mode	0	1	Toggle	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+Low Width Meter	0	7	-	ValueOutput
+High Width Meter	0	7	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Low Band Active	0	1	-	ValueOutput
+High Band Active	0	1	-	ValueOutput

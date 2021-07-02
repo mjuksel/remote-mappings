@@ -1,0 +1,27 @@
+Scope
+Manufacturer	Model
+Propellerheads	Scream 4 Distortion
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Damage On/Off	0	1	Toggle	ValueOutput
+Damage Control	0	127	Value	ValueOutput
+Damage Type	0	9	Value	ValueOutput
+Parameter 1	0	127	Value	ValueOutput
+Parameter 2	0	127	Value	ValueOutput
+Cut On/Off	0	1	Toggle	ValueOutput
+Cut Lo	-64	63	Value	ValueOutput
+Cut Mid	-64	63	Value	ValueOutput
+Cut Hi	-64	63	Value	ValueOutput
+Body On/Off	0	1	Toggle	ValueOutput
+Body Resonance	0	127	Value	ValueOutput
+Body Scale	0	127	Value	ValueOutput
+Body Auto	0	127	Value	ValueOutput
+Body Type	0	4	Value	ValueOutput
+Master Level	0	127	Value	ValueOutput
+Input Peak Meter	0	20	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

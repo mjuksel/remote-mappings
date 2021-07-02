@@ -1,0 +1,65 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Polar
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Analysis Type	0	2	Value	ValueOutput
+Algorithm Type	0	3	Value	ValueOutput
+Loop Length	0	4194304	Value	ValueOutput
+Lock Buffer	0	1	Toggle	ValueOutput
+Delay/Buffer Position	0	4194304	Value	ValueOutput
+Delay/Buffer Delay Mode	0	1	Toggle	ValueOutput
+Buffer LFO Amount	0	4194304	Value	ValueOutput
+Buffer Env Amount	0	4194304	Value	ValueOutput
+Input Summing Left + Right	0	1	Toggle	ValueOutput
+Shifter 1 Semi	0	48	Value	ValueOutput
+Shifter 1 Fine	0	4194304	Value	ValueOutput
+Shifter 1 Feedback	0	4194304	Value	ValueOutput
+Shifter 1 LFO Amount	0	4194304	Value	ValueOutput
+Shifter 1 Env Amount	0	4194304	Value	ValueOutput
+Shifter 1 Pan	0	4194304	Value	ValueOutput
+Shifter 1 Auto Pan	0	4194304	Value	ValueOutput
+Shifter 1 Level	0	4194304	Value	ValueOutput
+Shifter 2 Enable	0	1	Toggle	ValueOutput
+Shifter 2 Semi	0	48	Value	ValueOutput
+Shifter 2 Fine	0	4194304	Value	ValueOutput
+Shifter 2 Feedback	0	4194304	Value	ValueOutput
+Shifter 2 LFO Amount	0	4194304	Value	ValueOutput
+Shifter 2 Env Amount	0	4194304	Value	ValueOutput
+Shifter 2 Delay	0	4194304	Value	ValueOutput
+Shifter 2 Pan	0	4194304	Value	ValueOutput
+Shifter 2 Auto Pan	0	4194304	Value	ValueOutput
+Shifter 2 Level	0	4194304	Value	ValueOutput
+Dry Enable	0	1	Toggle	ValueOutput
+Dry Delay	0	4194304	Value	ValueOutput
+Dry Pan	0	4194304	Value	ValueOutput
+Dry Auto Pan Amount	0	4194304	Value	ValueOutput
+Dry Level	0	4194304	Value	ValueOutput
+Keyboard Input Enable	0	1	Toggle	ValueOutput
+Auto Pan Rate	0	4194304	Value	ValueOutput
+LFO Rate Free	0	4194304	Value	ValueOutput
+LFO Rate Synced	0	17	Value	ValueOutput
+LFO Phase	0	4194304	Value	ValueOutput
+LFO Tempo Sync	0	1	Toggle	ValueOutput
+LFO Waveform	0	5	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Decay	0	4194304	Value	ValueOutput
+Envelope Sustain	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Env To Amp	0	1	Toggle	ValueOutput
+Envelope Gate	0	1	Toggle	ValueOutput
+Filter Enable	0	1	Toggle	ValueOutput
+Filter Type	0	3	Value	ValueOutput
+Filter Frequency	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Keyboard Tracking	0	4194304	Value	ValueOutput
+Filter LFO Amount	0	4194304	Value	ValueOutput
+Filter Env Amount	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Audio Input LED	0	4194304	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

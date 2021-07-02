@@ -1,0 +1,40 @@
+Scope
+Manufacturer	Model
+Red Rock Sound	ru.redrocksound.RE180
+
+Remotable	Min	Max	Input type	Output type
+Attack 1	0	4194304	Value	ValueOutput
+Release 1	0	4194304	Value	ValueOutput
+Threshold 1	0	4194304	Value	ValueOutput
+Attack 2	0	4194304	Value	ValueOutput
+Release 2	0	4194304	Value	ValueOutput
+Threshold 2	0	4194304	Value	ValueOutput
+Attack 3	0	4194304	Value	ValueOutput
+Release 3	0	4194304	Value	ValueOutput
+Threshold 3	0	4194304	Value	ValueOutput
+Attack 4	0	4194304	Value	ValueOutput
+Release 4	0	4194304	Value	ValueOutput
+Threshold 4	0	4194304	Value	ValueOutput
+Attack 5	0	4194304	Value	ValueOutput
+Release 5	0	4194304	Value	ValueOutput
+Threshold 5	0	4194304	Value	ValueOutput
+Attack 6	0	4194304	Value	ValueOutput
+Release 6	0	4194304	Value	ValueOutput
+Threshold 6	0	4194304	Value	ValueOutput
+Attack 7	0	4194304	Value	ValueOutput
+Release 7	0	4194304	Value	ValueOutput
+Threshold 7	0	4194304	Value	ValueOutput
+Attack 8	0	4194304	Value	ValueOutput
+Release 8	0	4194304	Value	ValueOutput
+Threshold 8	0	4194304	Value	ValueOutput
+Attack 9	0	4194304	Value	ValueOutput
+Release 9	0	4194304	Value	ValueOutput
+Threshold 9	0	4194304	Value	ValueOutput
+Attack 10	0	4194304	Value	ValueOutput
+Release 10	0	4194304	Value	ValueOutput
+Threshold 10	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

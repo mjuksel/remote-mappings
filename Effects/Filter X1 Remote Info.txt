@@ -1,0 +1,26 @@
+Scope
+Manufacturer	Model
+BASSGRID	com.bassgrid.FilterX1
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Active_Filter	0	2	Value	ValueOutput
+Display_Mode	0	3	Value	ValueOutput
+Show_Volume_Meter	0	1	Toggle	ValueOutput
+Show_Display_Values	0	1	Toggle	ValueOutput
+Filter_1_Freq	0	4194304	Value	ValueOutput
+Filter_1_Resonance	0	4194304	Value	ValueOutput
+Filter_1_Mode	0	8	Value	ValueOutput
+Filter_2_Freq	0	4194304	Value	ValueOutput
+Filter_2_Resonance	0	4194304	Value	ValueOutput
+Filter_2_Mode	0	8	Value	ValueOutput
+Filter_3_Freq	0	4194304	Value	ValueOutput
+Filter_3_Resonance	0	4194304	Value	ValueOutput
+Filter_3_Mode	0	8	Value	ValueOutput
+Limiter_Enabled	0	1	Toggle	ValueOutput
+Dry_Wet_Balance	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

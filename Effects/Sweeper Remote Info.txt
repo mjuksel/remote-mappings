@@ -1,0 +1,45 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Sweeper
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Bandwidth	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Filter Drive	0	4194304	Value	ValueOutput
+Filter Type	0	8	Value	ValueOutput
+Freq	0	4194304	Value	ValueOutput
+Mute Dry	0	1	Toggle	ValueOutput
+Phaser Stages	0	40	Value	ValueOutput
+Polarity	0	1	Toggle	ValueOutput
+Reso	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Stereo Mode	0	1	Toggle	ValueOutput
+BeatSync	0	1	Toggle	ValueOutput
+Env Amp Mod	0	4194304	Value	ValueOutput
+Env Freq Mod	0	4194304	Value	ValueOutput
+Env Loop	0	1	Toggle	ValueOutput
+Env Rate	0	4194304	Value	ValueOutput
+Env Synced Rate	0	17	Value	ValueOutput
+Follow Attack	0	4194304	Value	ValueOutput
+Follow Gain	0	4194304	Value	ValueOutput
+Follow Release	0	4194304	Value	ValueOutput
+ModType	0	1	Toggle	ValueOutput
+Rate Mod	0	4194304	Value	ValueOutput
+Trig On	0	1	Toggle	ValueOutput
+Trig Thres	0	4194304	Value	ValueOutput
+LFO Amp Mod	0	4194304	Value	ValueOutput
+LFO Freq Mod	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Sync	0	1	Toggle	ValueOutput
+LFO Synced Rate	0	17	Value	ValueOutput
+LFO Wave	0	9	Value	ValueOutput
+EditYPos	0	1	Toggle	ValueOutput
+Type	0	2	Value	ValueOutput
+DryWet	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,190 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.EDS06sDrumSynth
+
+Remotable	Min	Max	Input type	Output type
+Ch 1 Note	0	127	Value	ValueOutput
+Ch 1 Wave	0	48	Value	ValueOutput
+Ch 1 Pitch Coarse	0	4194304	Value	ValueOutput
+Ch 1 Pitch Fine	0	4194304	Value	ValueOutput
+Ch 1 Pitch Drop	0	4194304	Value	ValueOutput
+Ch 1 Envelope Attack	0	4194304	Value	ValueOutput
+Ch 1 Envelope Decay	0	4194304	Value	ValueOutput
+Ch 1 Filter Type	0	4	Value	ValueOutput
+Ch 1 Filter Frequency	0	4194304	Value	ValueOutput
+Ch 1 Filter Resonance	0	4194304	Value	ValueOutput
+Ch 1 Distortion Drive	0	4194304	Value	ValueOutput
+Ch 1 Distortion Foldback	0	4194304	Value	ValueOutput
+Ch 1 Distortion Bit Crush	0	4194304	Value	ValueOutput
+Ch 1 Reverb Size	0	4194304	Value	ValueOutput
+Ch 1 Reverb Decay	0	4194304	Value	ValueOutput
+Ch 1 Delay Volume	0	4194304	Value	ValueOutput
+Ch 1 Delay Time	0	4194304	Value	ValueOutput
+Ch 1 Delay Feedback	0	4194304	Value	ValueOutput
+Ch 1 LFO Wave	0	6	Value	ValueOutput
+Ch 1 LFO Rate	0	4194304	Value	ValueOutput
+Ch 1 LFO Rate Sync	0	8	Value	ValueOutput
+Ch 1 LFO Destination	0	20	Value	ValueOutput
+Ch 1 LFO Scale	0	4194304	Value	ValueOutput
+Ch 1 LFO Sync	0	2	Value	ValueOutput
+Ch 1 FX Routing	0	23	Value	ValueOutput
+Ch 1 Aux Mix	0	4194304	Value	ValueOutput
+Ch 1 Volume	0	4194304	Value	ValueOutput
+Ch 1 Pan	0	4194304	Value	ValueOutput
+Ch 1 Solo	0	1	Toggle	ValueOutput
+Ch 2 Note	0	127	Value	ValueOutput
+Ch 2 Wave	0	48	Value	ValueOutput
+Ch 2 Pitch Coarse	0	4194304	Value	ValueOutput
+Ch 2 Pitch Fine	0	4194304	Value	ValueOutput
+Ch 2 Pitch Drop	0	4194304	Value	ValueOutput
+Ch 2 Envelope Attack	0	4194304	Value	ValueOutput
+Ch 2 Envelope Decay	0	4194304	Value	ValueOutput
+Ch 2 Filter Type	0	4	Value	ValueOutput
+Ch 2 Filter Frequency	0	4194304	Value	ValueOutput
+Ch 2 Filter Resonance	0	4194304	Value	ValueOutput
+Ch 2 Distortion Drive	0	4194304	Value	ValueOutput
+Ch 2 Distortion Foldback	0	4194304	Value	ValueOutput
+Ch 2 Distortion Bit Crush	0	4194304	Value	ValueOutput
+Ch 2 Reverb Size	0	4194304	Value	ValueOutput
+Ch 2 Reverb Decay	0	4194304	Value	ValueOutput
+Ch 2 Delay Volume	0	4194304	Value	ValueOutput
+Ch 2 Delay Time	0	4194304	Value	ValueOutput
+Ch 2 Delay Feedback	0	4194304	Value	ValueOutput
+Ch 2 LFO Wave	0	6	Value	ValueOutput
+Ch 2 LFO Rate	0	4194304	Value	ValueOutput
+Ch 2 LFO Rate Sync	0	8	Value	ValueOutput
+Ch 2 LFO Destination	0	20	Value	ValueOutput
+Ch 2 LFO Scale	0	4194304	Value	ValueOutput
+Ch 2 LFO Sync	0	2	Value	ValueOutput
+Ch 2 FX Routing	0	23	Value	ValueOutput
+Ch 2 Aux Mix	0	4194304	Value	ValueOutput
+Ch 2 Volume	0	4194304	Value	ValueOutput
+Ch 2 Pan	0	4194304	Value	ValueOutput
+Ch 2 Solo	0	1	Toggle	ValueOutput
+Ch 3 Note	0	127	Value	ValueOutput
+Ch 3 Wave	0	48	Value	ValueOutput
+Ch 3 Pitch Coarse	0	4194304	Value	ValueOutput
+Ch 3 Pitch Fine	0	4194304	Value	ValueOutput
+Ch 3 Pitch Drop	0	4194304	Value	ValueOutput
+Ch 3 Envelope Attack	0	4194304	Value	ValueOutput
+Ch 3 Envelope Decay	0	4194304	Value	ValueOutput
+Ch 3 Filter Type	0	4	Value	ValueOutput
+Ch 3 Filter Frequency	0	4194304	Value	ValueOutput
+Ch 3 Filter Resonance	0	4194304	Value	ValueOutput
+Ch 3 Distortion Drive	0	4194304	Value	ValueOutput
+Ch 3 Distortion Foldback	0	4194304	Value	ValueOutput
+Ch 3 Distortion Bit Crush	0	4194304	Value	ValueOutput
+Ch 3 Reverb Size	0	4194304	Value	ValueOutput
+Ch 3 Reverb Decay	0	4194304	Value	ValueOutput
+Ch 3 Delay Volume	0	4194304	Value	ValueOutput
+Ch 3 Delay Time	0	4194304	Value	ValueOutput
+Ch 3 Delay Feedback	0	4194304	Value	ValueOutput
+Ch 3 LFO Wave	0	6	Value	ValueOutput
+Ch 3 LFO Rate	0	4194304	Value	ValueOutput
+Ch 3 LFO Rate Sync	0	8	Value	ValueOutput
+Ch 3 LFO Destination	0	20	Value	ValueOutput
+Ch 3 LFO Scale	0	4194304	Value	ValueOutput
+Ch 3 LFO Sync	0	2	Value	ValueOutput
+Ch 3 FX Routing	0	23	Value	ValueOutput
+Ch 3 Aux Mix	0	4194304	Value	ValueOutput
+Ch 3 Volume	0	4194304	Value	ValueOutput
+Ch 3 Pan	0	4194304	Value	ValueOutput
+Ch 3 Solo	0	1	Toggle	ValueOutput
+Ch 4 Note	0	127	Value	ValueOutput
+Ch 4 Wave	0	48	Value	ValueOutput
+Ch 4 Pitch Coarse	0	4194304	Value	ValueOutput
+Ch 4 Pitch Fine	0	4194304	Value	ValueOutput
+Ch 4 Pitch Drop	0	4194304	Value	ValueOutput
+Ch 4 Envelope Attack	0	4194304	Value	ValueOutput
+Ch 4 Envelope Decay	0	4194304	Value	ValueOutput
+Ch 4 Filter Type	0	4	Value	ValueOutput
+Ch 4 Filter Frequency	0	4194304	Value	ValueOutput
+Ch 4 Filter Resonance	0	4194304	Value	ValueOutput
+Ch 4 Distortion Drive	0	4194304	Value	ValueOutput
+Ch 4 Distortion Foldback	0	4194304	Value	ValueOutput
+Ch 4 Distortion Bit Crush	0	4194304	Value	ValueOutput
+Ch 4 Reverb Size	0	4194304	Value	ValueOutput
+Ch 4 Reverb Decay	0	4194304	Value	ValueOutput
+Ch 4 Delay Volume	0	4194304	Value	ValueOutput
+Ch 4 Delay Time	0	4194304	Value	ValueOutput
+Ch 4 Delay Feedback	0	4194304	Value	ValueOutput
+Ch 4 LFO Wave	0	6	Value	ValueOutput
+Ch 4 LFO Rate	0	4194304	Value	ValueOutput
+Ch 4 LFO Rate Sync	0	8	Value	ValueOutput
+Ch 4 LFO Destination	0	20	Value	ValueOutput
+Ch 4 LFO Scale	0	4194304	Value	ValueOutput
+Ch 4 LFO Sync	0	2	Value	ValueOutput
+Ch 4 FX Routing	0	23	Value	ValueOutput
+Ch 4 Aux Mix	0	4194304	Value	ValueOutput
+Ch 4 Volume	0	4194304	Value	ValueOutput
+Ch 4 Pan	0	4194304	Value	ValueOutput
+Ch 4 Solo	0	1	Toggle	ValueOutput
+Ch 5 Note	0	127	Value	ValueOutput
+Ch 5 Wave	0	48	Value	ValueOutput
+Ch 5 Pitch Coarse	0	4194304	Value	ValueOutput
+Ch 5 Pitch Fine	0	4194304	Value	ValueOutput
+Ch 5 Pitch Drop	0	4194304	Value	ValueOutput
+Ch 5 Envelope Attack	0	4194304	Value	ValueOutput
+Ch 5 Envelope Decay	0	4194304	Value	ValueOutput
+Ch 5 Filter Type	0	4	Value	ValueOutput
+Ch 5 Filter Frequency	0	4194304	Value	ValueOutput
+Ch 5 Filter Resonance	0	4194304	Value	ValueOutput
+Ch 5 Distortion Drive	0	4194304	Value	ValueOutput
+Ch 5 Distortion Foldback	0	4194304	Value	ValueOutput
+Ch 5 Distortion Bit Crush	0	4194304	Value	ValueOutput
+Ch 5 Reverb Size	0	4194304	Value	ValueOutput
+Ch 5 Reverb Decay	0	4194304	Value	ValueOutput
+Ch 5 Delay Volume	0	4194304	Value	ValueOutput
+Ch 5 Delay Time	0	4194304	Value	ValueOutput
+Ch 5 Delay Feedback	0	4194304	Value	ValueOutput
+Ch 5 LFO Wave	0	6	Value	ValueOutput
+Ch 5 LFO Rate	0	4194304	Value	ValueOutput
+Ch 5 LFO Rate Sync	0	8	Value	ValueOutput
+Ch 5 LFO Destination	0	20	Value	ValueOutput
+Ch 5 LFO Scale	0	4194304	Value	ValueOutput
+Ch 5 LFO Sync	0	2	Value	ValueOutput
+Ch 5 FX Routing	0	23	Value	ValueOutput
+Ch 5 Aux Mix	0	4194304	Value	ValueOutput
+Ch 5 Volume	0	4194304	Value	ValueOutput
+Ch 5 Pan	0	4194304	Value	ValueOutput
+Ch 5 Solo	0	1	Toggle	ValueOutput
+Ch 6 Note	0	127	Value	ValueOutput
+Ch 6 Wave	0	48	Value	ValueOutput
+Ch 6 Pitch Coarse	0	4194304	Value	ValueOutput
+Ch 6 Pitch Fine	0	4194304	Value	ValueOutput
+Ch 6 Pitch Drop	0	4194304	Value	ValueOutput
+Ch 6 Envelope Attack	0	4194304	Value	ValueOutput
+Ch 6 Envelope Decay	0	4194304	Value	ValueOutput
+Ch 6 Filter Type	0	4	Value	ValueOutput
+Ch 6 Filter Frequency	0	4194304	Value	ValueOutput
+Ch 6 Filter Resonance	0	4194304	Value	ValueOutput
+Ch 6 Distortion Drive	0	4194304	Value	ValueOutput
+Ch 6 Distortion Foldback	0	4194304	Value	ValueOutput
+Ch 6 Distortion Bit Crush	0	4194304	Value	ValueOutput
+Ch 6 Reverb Size	0	4194304	Value	ValueOutput
+Ch 6 Reverb Decay	0	4194304	Value	ValueOutput
+Ch 6 Delay Volume	0	4194304	Value	ValueOutput
+Ch 6 Delay Time	0	4194304	Value	ValueOutput
+Ch 6 Delay Feedback	0	4194304	Value	ValueOutput
+Ch 6 LFO Wave	0	6	Value	ValueOutput
+Ch 6 LFO Rate	0	4194304	Value	ValueOutput
+Ch 6 LFO Rate Sync	0	8	Value	ValueOutput
+Ch 6 LFO Destination	0	20	Value	ValueOutput
+Ch 6 LFO Scale	0	4194304	Value	ValueOutput
+Ch 6 LFO Sync	0	2	Value	ValueOutput
+Ch 6 FX Routing	0	23	Value	ValueOutput
+Ch 6 Aux Mix	0	4194304	Value	ValueOutput
+Ch 6 Volume	0	4194304	Value	ValueOutput
+Ch 6 Pan	0	4194304	Value	ValueOutput
+Ch 6 Solo	0	1	Toggle	ValueOutput
+Ch 1 Play	0	1	Toggle	ValueOutput
+Ch 2 Play	0	1	Toggle	ValueOutput
+Ch 3 Play	0	1	Toggle	ValueOutput
+Ch 4 Play	0	1	Toggle	ValueOutput
+Ch 5 Play	0	1	Toggle	ValueOutput
+Ch 6 Play	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

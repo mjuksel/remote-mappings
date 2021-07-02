@@ -1,0 +1,20 @@
+Scope
+Manufacturer	Model
+Ravenherz	ru.ravenherz.DualEnvelopeGenerator
+
+Remotable	Min	Max	Input type	Output type
+Gen A Mode	0	4	Value	ValueOutput
+Gen A Attack	0	4194304	Value	ValueOutput
+Gen A Release	0	4194304	Value	ValueOutput
+Gen A Scale	0	4194304	Value	ValueOutput
+Gen A Source	0	2	Value	ValueOutput
+Gen B Mode	0	4	Value	ValueOutput
+Gen B Attack	0	4194304	Value	ValueOutput
+Gen B Release	0	4194304	Value	ValueOutput
+Gen B Scale	0	4194304	Value	ValueOutput
+Gen B Source	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,716 @@
+Scope
+Manufacturer	Model
+Propellerheads	Kong Drum Designer
+
+Remotable	Min	Max	Input type	Output type
+Master Level	0	127	Value	ValueOutput
+Note On Indicator	0	1	-	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Master FX P1	0	127	Value	ValueOutput
+Master FX P2	0	127	Value	ValueOutput
+Master FX On	0	1	Toggle	ValueOutput
+Bus FX P1	0	127	Value	ValueOutput
+Bus FX P2	0	127	Value	ValueOutput
+Bus FX On	0	1	Toggle	ValueOutput
+Level Bus FX to Master FX	0	127	Value	ValueOutput
+Master Level Output Left	0	20	-	ValueOutput
+Master Level Output Right	0	20	-	ValueOutput
+Master FX Peak Meter	0	20	-	ValueOutput
+Bus FX Peak Meter	0	20	-	ValueOutput
+Sample Loading Progress	-1	127	-	ValueOutput
+Drum 1 Level	0	127	Value	ValueOutput
+Drum 1 Pan	-64	63	Value	ValueOutput
+Drum 1 Tone	-64	63	Value	ValueOutput
+Drum 1 Bus FX Send	0	127	Value	ValueOutput
+Drum 1 Aux 1 Send	0	127	Value	ValueOutput
+Drum 1 Aux 2 Send	0	127	Value	ValueOutput
+Drum 1 Pitch Offset	-120	120	Value	ValueOutput
+Drum 1 Decay Offset	-64	63	Value	ValueOutput
+Drum 1 Output	0	9	Value	ValueOutput
+Drum 1 DM On	0	1	Toggle	ValueOutput
+Drum 1 FX1 On	0	1	Toggle	ValueOutput
+Drum 1 FX2 On	0	1	Toggle	ValueOutput
+Drum 1 DM Level	0	127	Value	ValueOutput
+Drum 1 DM Pitch	-64	63	Value	ValueOutput
+Drum 1 DM Decay	0	127	Value	ValueOutput
+Drum 1 DM Variable	0	127	Value	ValueOutput
+Drum 1 FX1 P1	0	127	Value	ValueOutput
+Drum 1 FX1 P2	0	127	Value	ValueOutput
+Drum 1 FX2 P1	0	127	Value	ValueOutput
+Drum 1 FX2 P2	0	127	Value	ValueOutput
+Drum 1 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 1 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 1 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 1 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 1 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 1 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 1 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 1 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 1 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 2 Level	0	127	Value	ValueOutput
+Drum 2 Pan	-64	63	Value	ValueOutput
+Drum 2 Tone	-64	63	Value	ValueOutput
+Drum 2 Bus FX Send	0	127	Value	ValueOutput
+Drum 2 Aux 1 Send	0	127	Value	ValueOutput
+Drum 2 Aux 2 Send	0	127	Value	ValueOutput
+Drum 2 Pitch Offset	-120	120	Value	ValueOutput
+Drum 2 Decay Offset	-64	63	Value	ValueOutput
+Drum 2 Output	0	9	Value	ValueOutput
+Drum 2 DM On	0	1	Toggle	ValueOutput
+Drum 2 FX1 On	0	1	Toggle	ValueOutput
+Drum 2 FX2 On	0	1	Toggle	ValueOutput
+Drum 2 DM Level	0	127	Value	ValueOutput
+Drum 2 DM Pitch	-64	63	Value	ValueOutput
+Drum 2 DM Decay	0	127	Value	ValueOutput
+Drum 2 DM Variable	0	127	Value	ValueOutput
+Drum 2 FX1 P1	0	127	Value	ValueOutput
+Drum 2 FX1 P2	0	127	Value	ValueOutput
+Drum 2 FX2 P1	0	127	Value	ValueOutput
+Drum 2 FX2 P2	0	127	Value	ValueOutput
+Drum 2 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 2 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 2 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 2 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 2 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 2 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 2 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 2 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 2 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 3 Level	0	127	Value	ValueOutput
+Drum 3 Pan	-64	63	Value	ValueOutput
+Drum 3 Tone	-64	63	Value	ValueOutput
+Drum 3 Bus FX Send	0	127	Value	ValueOutput
+Drum 3 Aux 1 Send	0	127	Value	ValueOutput
+Drum 3 Aux 2 Send	0	127	Value	ValueOutput
+Drum 3 Pitch Offset	-120	120	Value	ValueOutput
+Drum 3 Decay Offset	-64	63	Value	ValueOutput
+Drum 3 Output	0	9	Value	ValueOutput
+Drum 3 DM On	0	1	Toggle	ValueOutput
+Drum 3 FX1 On	0	1	Toggle	ValueOutput
+Drum 3 FX2 On	0	1	Toggle	ValueOutput
+Drum 3 DM Level	0	127	Value	ValueOutput
+Drum 3 DM Pitch	-64	63	Value	ValueOutput
+Drum 3 DM Decay	0	127	Value	ValueOutput
+Drum 3 DM Variable	0	127	Value	ValueOutput
+Drum 3 FX1 P1	0	127	Value	ValueOutput
+Drum 3 FX1 P2	0	127	Value	ValueOutput
+Drum 3 FX2 P1	0	127	Value	ValueOutput
+Drum 3 FX2 P2	0	127	Value	ValueOutput
+Drum 3 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 3 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 3 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 3 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 3 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 3 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 3 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 3 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 3 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 4 Level	0	127	Value	ValueOutput
+Drum 4 Pan	-64	63	Value	ValueOutput
+Drum 4 Tone	-64	63	Value	ValueOutput
+Drum 4 Bus FX Send	0	127	Value	ValueOutput
+Drum 4 Aux 1 Send	0	127	Value	ValueOutput
+Drum 4 Aux 2 Send	0	127	Value	ValueOutput
+Drum 4 Pitch Offset	-120	120	Value	ValueOutput
+Drum 4 Decay Offset	-64	63	Value	ValueOutput
+Drum 4 Output	0	9	Value	ValueOutput
+Drum 4 DM On	0	1	Toggle	ValueOutput
+Drum 4 FX1 On	0	1	Toggle	ValueOutput
+Drum 4 FX2 On	0	1	Toggle	ValueOutput
+Drum 4 DM Level	0	127	Value	ValueOutput
+Drum 4 DM Pitch	-64	63	Value	ValueOutput
+Drum 4 DM Decay	0	127	Value	ValueOutput
+Drum 4 DM Variable	0	127	Value	ValueOutput
+Drum 4 FX1 P1	0	127	Value	ValueOutput
+Drum 4 FX1 P2	0	127	Value	ValueOutput
+Drum 4 FX2 P1	0	127	Value	ValueOutput
+Drum 4 FX2 P2	0	127	Value	ValueOutput
+Drum 4 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 4 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 4 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 4 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 4 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 4 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 4 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 4 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 4 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 5 Level	0	127	Value	ValueOutput
+Drum 5 Pan	-64	63	Value	ValueOutput
+Drum 5 Tone	-64	63	Value	ValueOutput
+Drum 5 Bus FX Send	0	127	Value	ValueOutput
+Drum 5 Aux 1 Send	0	127	Value	ValueOutput
+Drum 5 Aux 2 Send	0	127	Value	ValueOutput
+Drum 5 Pitch Offset	-120	120	Value	ValueOutput
+Drum 5 Decay Offset	-64	63	Value	ValueOutput
+Drum 5 Output	0	9	Value	ValueOutput
+Drum 5 DM On	0	1	Toggle	ValueOutput
+Drum 5 FX1 On	0	1	Toggle	ValueOutput
+Drum 5 FX2 On	0	1	Toggle	ValueOutput
+Drum 5 DM Level	0	127	Value	ValueOutput
+Drum 5 DM Pitch	-64	63	Value	ValueOutput
+Drum 5 DM Decay	0	127	Value	ValueOutput
+Drum 5 DM Variable	0	127	Value	ValueOutput
+Drum 5 FX1 P1	0	127	Value	ValueOutput
+Drum 5 FX1 P2	0	127	Value	ValueOutput
+Drum 5 FX2 P1	0	127	Value	ValueOutput
+Drum 5 FX2 P2	0	127	Value	ValueOutput
+Drum 5 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 5 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 5 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 5 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 5 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 5 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 5 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 5 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 5 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 6 Level	0	127	Value	ValueOutput
+Drum 6 Pan	-64	63	Value	ValueOutput
+Drum 6 Tone	-64	63	Value	ValueOutput
+Drum 6 Bus FX Send	0	127	Value	ValueOutput
+Drum 6 Aux 1 Send	0	127	Value	ValueOutput
+Drum 6 Aux 2 Send	0	127	Value	ValueOutput
+Drum 6 Pitch Offset	-120	120	Value	ValueOutput
+Drum 6 Decay Offset	-64	63	Value	ValueOutput
+Drum 6 Output	0	9	Value	ValueOutput
+Drum 6 DM On	0	1	Toggle	ValueOutput
+Drum 6 FX1 On	0	1	Toggle	ValueOutput
+Drum 6 FX2 On	0	1	Toggle	ValueOutput
+Drum 6 DM Level	0	127	Value	ValueOutput
+Drum 6 DM Pitch	-64	63	Value	ValueOutput
+Drum 6 DM Decay	0	127	Value	ValueOutput
+Drum 6 DM Variable	0	127	Value	ValueOutput
+Drum 6 FX1 P1	0	127	Value	ValueOutput
+Drum 6 FX1 P2	0	127	Value	ValueOutput
+Drum 6 FX2 P1	0	127	Value	ValueOutput
+Drum 6 FX2 P2	0	127	Value	ValueOutput
+Drum 6 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 6 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 6 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 6 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 6 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 6 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 6 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 6 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 6 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 7 Level	0	127	Value	ValueOutput
+Drum 7 Pan	-64	63	Value	ValueOutput
+Drum 7 Tone	-64	63	Value	ValueOutput
+Drum 7 Bus FX Send	0	127	Value	ValueOutput
+Drum 7 Aux 1 Send	0	127	Value	ValueOutput
+Drum 7 Aux 2 Send	0	127	Value	ValueOutput
+Drum 7 Pitch Offset	-120	120	Value	ValueOutput
+Drum 7 Decay Offset	-64	63	Value	ValueOutput
+Drum 7 Output	0	9	Value	ValueOutput
+Drum 7 DM On	0	1	Toggle	ValueOutput
+Drum 7 FX1 On	0	1	Toggle	ValueOutput
+Drum 7 FX2 On	0	1	Toggle	ValueOutput
+Drum 7 DM Level	0	127	Value	ValueOutput
+Drum 7 DM Pitch	-64	63	Value	ValueOutput
+Drum 7 DM Decay	0	127	Value	ValueOutput
+Drum 7 DM Variable	0	127	Value	ValueOutput
+Drum 7 FX1 P1	0	127	Value	ValueOutput
+Drum 7 FX1 P2	0	127	Value	ValueOutput
+Drum 7 FX2 P1	0	127	Value	ValueOutput
+Drum 7 FX2 P2	0	127	Value	ValueOutput
+Drum 7 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 7 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 7 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 7 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 7 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 7 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 7 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 7 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 7 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 8 Level	0	127	Value	ValueOutput
+Drum 8 Pan	-64	63	Value	ValueOutput
+Drum 8 Tone	-64	63	Value	ValueOutput
+Drum 8 Bus FX Send	0	127	Value	ValueOutput
+Drum 8 Aux 1 Send	0	127	Value	ValueOutput
+Drum 8 Aux 2 Send	0	127	Value	ValueOutput
+Drum 8 Pitch Offset	-120	120	Value	ValueOutput
+Drum 8 Decay Offset	-64	63	Value	ValueOutput
+Drum 8 Output	0	9	Value	ValueOutput
+Drum 8 DM On	0	1	Toggle	ValueOutput
+Drum 8 FX1 On	0	1	Toggle	ValueOutput
+Drum 8 FX2 On	0	1	Toggle	ValueOutput
+Drum 8 DM Level	0	127	Value	ValueOutput
+Drum 8 DM Pitch	-64	63	Value	ValueOutput
+Drum 8 DM Decay	0	127	Value	ValueOutput
+Drum 8 DM Variable	0	127	Value	ValueOutput
+Drum 8 FX1 P1	0	127	Value	ValueOutput
+Drum 8 FX1 P2	0	127	Value	ValueOutput
+Drum 8 FX2 P1	0	127	Value	ValueOutput
+Drum 8 FX2 P2	0	127	Value	ValueOutput
+Drum 8 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 8 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 8 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 8 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 8 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 8 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 8 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 8 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 8 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 9 Level	0	127	Value	ValueOutput
+Drum 9 Pan	-64	63	Value	ValueOutput
+Drum 9 Tone	-64	63	Value	ValueOutput
+Drum 9 Bus FX Send	0	127	Value	ValueOutput
+Drum 9 Aux 1 Send	0	127	Value	ValueOutput
+Drum 9 Aux 2 Send	0	127	Value	ValueOutput
+Drum 9 Pitch Offset	-120	120	Value	ValueOutput
+Drum 9 Decay Offset	-64	63	Value	ValueOutput
+Drum 9 Output	0	9	Value	ValueOutput
+Drum 9 DM On	0	1	Toggle	ValueOutput
+Drum 9 FX1 On	0	1	Toggle	ValueOutput
+Drum 9 FX2 On	0	1	Toggle	ValueOutput
+Drum 9 DM Level	0	127	Value	ValueOutput
+Drum 9 DM Pitch	-64	63	Value	ValueOutput
+Drum 9 DM Decay	0	127	Value	ValueOutput
+Drum 9 DM Variable	0	127	Value	ValueOutput
+Drum 9 FX1 P1	0	127	Value	ValueOutput
+Drum 9 FX1 P2	0	127	Value	ValueOutput
+Drum 9 FX2 P1	0	127	Value	ValueOutput
+Drum 9 FX2 P2	0	127	Value	ValueOutput
+Drum 9 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 9 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 9 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 9 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 9 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 9 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 9 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 9 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 9 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 10 Level	0	127	Value	ValueOutput
+Drum 10 Pan	-64	63	Value	ValueOutput
+Drum 10 Tone	-64	63	Value	ValueOutput
+Drum 10 Bus FX Send	0	127	Value	ValueOutput
+Drum 10 Aux 1 Send	0	127	Value	ValueOutput
+Drum 10 Aux 2 Send	0	127	Value	ValueOutput
+Drum 10 Pitch Offset	-120	120	Value	ValueOutput
+Drum 10 Decay Offset	-64	63	Value	ValueOutput
+Drum 10 Output	0	9	Value	ValueOutput
+Drum 10 DM On	0	1	Toggle	ValueOutput
+Drum 10 FX1 On	0	1	Toggle	ValueOutput
+Drum 10 FX2 On	0	1	Toggle	ValueOutput
+Drum 10 DM Level	0	127	Value	ValueOutput
+Drum 10 DM Pitch	-64	63	Value	ValueOutput
+Drum 10 DM Decay	0	127	Value	ValueOutput
+Drum 10 DM Variable	0	127	Value	ValueOutput
+Drum 10 FX1 P1	0	127	Value	ValueOutput
+Drum 10 FX1 P2	0	127	Value	ValueOutput
+Drum 10 FX2 P1	0	127	Value	ValueOutput
+Drum 10 FX2 P2	0	127	Value	ValueOutput
+Drum 10 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 10 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 10 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 10 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 10 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 10 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 10 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 10 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 10 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 11 Level	0	127	Value	ValueOutput
+Drum 11 Pan	-64	63	Value	ValueOutput
+Drum 11 Tone	-64	63	Value	ValueOutput
+Drum 11 Bus FX Send	0	127	Value	ValueOutput
+Drum 11 Aux 1 Send	0	127	Value	ValueOutput
+Drum 11 Aux 2 Send	0	127	Value	ValueOutput
+Drum 11 Pitch Offset	-120	120	Value	ValueOutput
+Drum 11 Decay Offset	-64	63	Value	ValueOutput
+Drum 11 Output	0	9	Value	ValueOutput
+Drum 11 DM On	0	1	Toggle	ValueOutput
+Drum 11 FX1 On	0	1	Toggle	ValueOutput
+Drum 11 FX2 On	0	1	Toggle	ValueOutput
+Drum 11 DM Level	0	127	Value	ValueOutput
+Drum 11 DM Pitch	-64	63	Value	ValueOutput
+Drum 11 DM Decay	0	127	Value	ValueOutput
+Drum 11 DM Variable	0	127	Value	ValueOutput
+Drum 11 FX1 P1	0	127	Value	ValueOutput
+Drum 11 FX1 P2	0	127	Value	ValueOutput
+Drum 11 FX2 P1	0	127	Value	ValueOutput
+Drum 11 FX2 P2	0	127	Value	ValueOutput
+Drum 11 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 11 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 11 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 11 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 11 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 11 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 11 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 11 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 11 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 12 Level	0	127	Value	ValueOutput
+Drum 12 Pan	-64	63	Value	ValueOutput
+Drum 12 Tone	-64	63	Value	ValueOutput
+Drum 12 Bus FX Send	0	127	Value	ValueOutput
+Drum 12 Aux 1 Send	0	127	Value	ValueOutput
+Drum 12 Aux 2 Send	0	127	Value	ValueOutput
+Drum 12 Pitch Offset	-120	120	Value	ValueOutput
+Drum 12 Decay Offset	-64	63	Value	ValueOutput
+Drum 12 Output	0	9	Value	ValueOutput
+Drum 12 DM On	0	1	Toggle	ValueOutput
+Drum 12 FX1 On	0	1	Toggle	ValueOutput
+Drum 12 FX2 On	0	1	Toggle	ValueOutput
+Drum 12 DM Level	0	127	Value	ValueOutput
+Drum 12 DM Pitch	-64	63	Value	ValueOutput
+Drum 12 DM Decay	0	127	Value	ValueOutput
+Drum 12 DM Variable	0	127	Value	ValueOutput
+Drum 12 FX1 P1	0	127	Value	ValueOutput
+Drum 12 FX1 P2	0	127	Value	ValueOutput
+Drum 12 FX2 P1	0	127	Value	ValueOutput
+Drum 12 FX2 P2	0	127	Value	ValueOutput
+Drum 12 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 12 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 12 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 12 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 12 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 12 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 12 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 12 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 12 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 13 Level	0	127	Value	ValueOutput
+Drum 13 Pan	-64	63	Value	ValueOutput
+Drum 13 Tone	-64	63	Value	ValueOutput
+Drum 13 Bus FX Send	0	127	Value	ValueOutput
+Drum 13 Aux 1 Send	0	127	Value	ValueOutput
+Drum 13 Aux 2 Send	0	127	Value	ValueOutput
+Drum 13 Pitch Offset	-120	120	Value	ValueOutput
+Drum 13 Decay Offset	-64	63	Value	ValueOutput
+Drum 13 Output	0	9	Value	ValueOutput
+Drum 13 DM On	0	1	Toggle	ValueOutput
+Drum 13 FX1 On	0	1	Toggle	ValueOutput
+Drum 13 FX2 On	0	1	Toggle	ValueOutput
+Drum 13 DM Level	0	127	Value	ValueOutput
+Drum 13 DM Pitch	-64	63	Value	ValueOutput
+Drum 13 DM Decay	0	127	Value	ValueOutput
+Drum 13 DM Variable	0	127	Value	ValueOutput
+Drum 13 FX1 P1	0	127	Value	ValueOutput
+Drum 13 FX1 P2	0	127	Value	ValueOutput
+Drum 13 FX2 P1	0	127	Value	ValueOutput
+Drum 13 FX2 P2	0	127	Value	ValueOutput
+Drum 13 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 13 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 13 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 13 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 13 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 13 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 13 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 13 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 13 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 14 Level	0	127	Value	ValueOutput
+Drum 14 Pan	-64	63	Value	ValueOutput
+Drum 14 Tone	-64	63	Value	ValueOutput
+Drum 14 Bus FX Send	0	127	Value	ValueOutput
+Drum 14 Aux 1 Send	0	127	Value	ValueOutput
+Drum 14 Aux 2 Send	0	127	Value	ValueOutput
+Drum 14 Pitch Offset	-120	120	Value	ValueOutput
+Drum 14 Decay Offset	-64	63	Value	ValueOutput
+Drum 14 Output	0	9	Value	ValueOutput
+Drum 14 DM On	0	1	Toggle	ValueOutput
+Drum 14 FX1 On	0	1	Toggle	ValueOutput
+Drum 14 FX2 On	0	1	Toggle	ValueOutput
+Drum 14 DM Level	0	127	Value	ValueOutput
+Drum 14 DM Pitch	-64	63	Value	ValueOutput
+Drum 14 DM Decay	0	127	Value	ValueOutput
+Drum 14 DM Variable	0	127	Value	ValueOutput
+Drum 14 FX1 P1	0	127	Value	ValueOutput
+Drum 14 FX1 P2	0	127	Value	ValueOutput
+Drum 14 FX2 P1	0	127	Value	ValueOutput
+Drum 14 FX2 P2	0	127	Value	ValueOutput
+Drum 14 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 14 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 14 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 14 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 14 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 14 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 14 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 14 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 14 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 15 Level	0	127	Value	ValueOutput
+Drum 15 Pan	-64	63	Value	ValueOutput
+Drum 15 Tone	-64	63	Value	ValueOutput
+Drum 15 Bus FX Send	0	127	Value	ValueOutput
+Drum 15 Aux 1 Send	0	127	Value	ValueOutput
+Drum 15 Aux 2 Send	0	127	Value	ValueOutput
+Drum 15 Pitch Offset	-120	120	Value	ValueOutput
+Drum 15 Decay Offset	-64	63	Value	ValueOutput
+Drum 15 Output	0	9	Value	ValueOutput
+Drum 15 DM On	0	1	Toggle	ValueOutput
+Drum 15 FX1 On	0	1	Toggle	ValueOutput
+Drum 15 FX2 On	0	1	Toggle	ValueOutput
+Drum 15 DM Level	0	127	Value	ValueOutput
+Drum 15 DM Pitch	-64	63	Value	ValueOutput
+Drum 15 DM Decay	0	127	Value	ValueOutput
+Drum 15 DM Variable	0	127	Value	ValueOutput
+Drum 15 FX1 P1	0	127	Value	ValueOutput
+Drum 15 FX1 P2	0	127	Value	ValueOutput
+Drum 15 FX2 P1	0	127	Value	ValueOutput
+Drum 15 FX2 P2	0	127	Value	ValueOutput
+Drum 15 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 15 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 15 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 15 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 15 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 15 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 15 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 15 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 15 Pitch Bend Range	0	12	Value	ValueOutput
+Drum 16 Level	0	127	Value	ValueOutput
+Drum 16 Pan	-64	63	Value	ValueOutput
+Drum 16 Tone	-64	63	Value	ValueOutput
+Drum 16 Bus FX Send	0	127	Value	ValueOutput
+Drum 16 Aux 1 Send	0	127	Value	ValueOutput
+Drum 16 Aux 2 Send	0	127	Value	ValueOutput
+Drum 16 Pitch Offset	-120	120	Value	ValueOutput
+Drum 16 Decay Offset	-64	63	Value	ValueOutput
+Drum 16 Output	0	9	Value	ValueOutput
+Drum 16 DM On	0	1	Toggle	ValueOutput
+Drum 16 FX1 On	0	1	Toggle	ValueOutput
+Drum 16 FX2 On	0	1	Toggle	ValueOutput
+Drum 16 DM Level	0	127	Value	ValueOutput
+Drum 16 DM Pitch	-64	63	Value	ValueOutput
+Drum 16 DM Decay	0	127	Value	ValueOutput
+Drum 16 DM Variable	0	127	Value	ValueOutput
+Drum 16 FX1 P1	0	127	Value	ValueOutput
+Drum 16 FX1 P2	0	127	Value	ValueOutput
+Drum 16 FX2 P1	0	127	Value	ValueOutput
+Drum 16 FX2 P2	0	127	Value	ValueOutput
+Drum 16 FX1 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 16 FX1 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 16 FX1 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 16 FX1 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 16 FX2 Enable Hit 1	0	1	Toggle	ValueOutput
+Drum 16 FX2 Enable Hit 2	0	1	Toggle	ValueOutput
+Drum 16 FX2 Enable Hit 3	0	1	Toggle	ValueOutput
+Drum 16 FX2 Enable Hit 4	0	1	Toggle	ValueOutput
+Drum 16 Pitch Bend Range	0	12	Value	ValueOutput
+Pad 1 Solo	0	1	Toggle	ValueOutput
+Pad 1 Mute	0	1	Toggle	ValueOutput
+Pad 1 Hit Indication	0	1	-	ValueOutput
+Pad 1 Drum Assignment	0	15	Value	ValueOutput
+Pad 1 Hit Type	0	3	Value	ValueOutput
+Pad 1 Group A	0	1	Toggle	ValueOutput
+Pad 1 Group B	0	1	Toggle	ValueOutput
+Pad 1 Group C	0	1	Toggle	ValueOutput
+Pad 1 Group D	0	1	Toggle	ValueOutput
+Pad 1 Group E	0	1	Toggle	ValueOutput
+Pad 1 Group F	0	1	Toggle	ValueOutput
+Pad 1 Group G	0	1	Toggle	ValueOutput
+Pad 1 Group H	0	1	Toggle	ValueOutput
+Pad 1 Group I	0	1	Toggle	ValueOutput
+Pad 2 Solo	0	1	Toggle	ValueOutput
+Pad 2 Mute	0	1	Toggle	ValueOutput
+Pad 2 Hit Indication	0	1	-	ValueOutput
+Pad 2 Drum Assignment	0	15	Value	ValueOutput
+Pad 2 Hit Type	0	3	Value	ValueOutput
+Pad 2 Group A	0	1	Toggle	ValueOutput
+Pad 2 Group B	0	1	Toggle	ValueOutput
+Pad 2 Group C	0	1	Toggle	ValueOutput
+Pad 2 Group D	0	1	Toggle	ValueOutput
+Pad 2 Group E	0	1	Toggle	ValueOutput
+Pad 2 Group F	0	1	Toggle	ValueOutput
+Pad 2 Group G	0	1	Toggle	ValueOutput
+Pad 2 Group H	0	1	Toggle	ValueOutput
+Pad 2 Group I	0	1	Toggle	ValueOutput
+Pad 3 Solo	0	1	Toggle	ValueOutput
+Pad 3 Mute	0	1	Toggle	ValueOutput
+Pad 3 Hit Indication	0	1	-	ValueOutput
+Pad 3 Drum Assignment	0	15	Value	ValueOutput
+Pad 3 Hit Type	0	3	Value	ValueOutput
+Pad 3 Group A	0	1	Toggle	ValueOutput
+Pad 3 Group B	0	1	Toggle	ValueOutput
+Pad 3 Group C	0	1	Toggle	ValueOutput
+Pad 3 Group D	0	1	Toggle	ValueOutput
+Pad 3 Group E	0	1	Toggle	ValueOutput
+Pad 3 Group F	0	1	Toggle	ValueOutput
+Pad 3 Group G	0	1	Toggle	ValueOutput
+Pad 3 Group H	0	1	Toggle	ValueOutput
+Pad 3 Group I	0	1	Toggle	ValueOutput
+Pad 4 Solo	0	1	Toggle	ValueOutput
+Pad 4 Mute	0	1	Toggle	ValueOutput
+Pad 4 Hit Indication	0	1	-	ValueOutput
+Pad 4 Drum Assignment	0	15	Value	ValueOutput
+Pad 4 Hit Type	0	3	Value	ValueOutput
+Pad 4 Group A	0	1	Toggle	ValueOutput
+Pad 4 Group B	0	1	Toggle	ValueOutput
+Pad 4 Group C	0	1	Toggle	ValueOutput
+Pad 4 Group D	0	1	Toggle	ValueOutput
+Pad 4 Group E	0	1	Toggle	ValueOutput
+Pad 4 Group F	0	1	Toggle	ValueOutput
+Pad 4 Group G	0	1	Toggle	ValueOutput
+Pad 4 Group H	0	1	Toggle	ValueOutput
+Pad 4 Group I	0	1	Toggle	ValueOutput
+Pad 5 Solo	0	1	Toggle	ValueOutput
+Pad 5 Mute	0	1	Toggle	ValueOutput
+Pad 5 Hit Indication	0	1	-	ValueOutput
+Pad 5 Drum Assignment	0	15	Value	ValueOutput
+Pad 5 Hit Type	0	3	Value	ValueOutput
+Pad 5 Group A	0	1	Toggle	ValueOutput
+Pad 5 Group B	0	1	Toggle	ValueOutput
+Pad 5 Group C	0	1	Toggle	ValueOutput
+Pad 5 Group D	0	1	Toggle	ValueOutput
+Pad 5 Group E	0	1	Toggle	ValueOutput
+Pad 5 Group F	0	1	Toggle	ValueOutput
+Pad 5 Group G	0	1	Toggle	ValueOutput
+Pad 5 Group H	0	1	Toggle	ValueOutput
+Pad 5 Group I	0	1	Toggle	ValueOutput
+Pad 6 Solo	0	1	Toggle	ValueOutput
+Pad 6 Mute	0	1	Toggle	ValueOutput
+Pad 6 Hit Indication	0	1	-	ValueOutput
+Pad 6 Drum Assignment	0	15	Value	ValueOutput
+Pad 6 Hit Type	0	3	Value	ValueOutput
+Pad 6 Group A	0	1	Toggle	ValueOutput
+Pad 6 Group B	0	1	Toggle	ValueOutput
+Pad 6 Group C	0	1	Toggle	ValueOutput
+Pad 6 Group D	0	1	Toggle	ValueOutput
+Pad 6 Group E	0	1	Toggle	ValueOutput
+Pad 6 Group F	0	1	Toggle	ValueOutput
+Pad 6 Group G	0	1	Toggle	ValueOutput
+Pad 6 Group H	0	1	Toggle	ValueOutput
+Pad 6 Group I	0	1	Toggle	ValueOutput
+Pad 7 Solo	0	1	Toggle	ValueOutput
+Pad 7 Mute	0	1	Toggle	ValueOutput
+Pad 7 Hit Indication	0	1	-	ValueOutput
+Pad 7 Drum Assignment	0	15	Value	ValueOutput
+Pad 7 Hit Type	0	3	Value	ValueOutput
+Pad 7 Group A	0	1	Toggle	ValueOutput
+Pad 7 Group B	0	1	Toggle	ValueOutput
+Pad 7 Group C	0	1	Toggle	ValueOutput
+Pad 7 Group D	0	1	Toggle	ValueOutput
+Pad 7 Group E	0	1	Toggle	ValueOutput
+Pad 7 Group F	0	1	Toggle	ValueOutput
+Pad 7 Group G	0	1	Toggle	ValueOutput
+Pad 7 Group H	0	1	Toggle	ValueOutput
+Pad 7 Group I	0	1	Toggle	ValueOutput
+Pad 8 Solo	0	1	Toggle	ValueOutput
+Pad 8 Mute	0	1	Toggle	ValueOutput
+Pad 8 Hit Indication	0	1	-	ValueOutput
+Pad 8 Drum Assignment	0	15	Value	ValueOutput
+Pad 8 Hit Type	0	3	Value	ValueOutput
+Pad 8 Group A	0	1	Toggle	ValueOutput
+Pad 8 Group B	0	1	Toggle	ValueOutput
+Pad 8 Group C	0	1	Toggle	ValueOutput
+Pad 8 Group D	0	1	Toggle	ValueOutput
+Pad 8 Group E	0	1	Toggle	ValueOutput
+Pad 8 Group F	0	1	Toggle	ValueOutput
+Pad 8 Group G	0	1	Toggle	ValueOutput
+Pad 8 Group H	0	1	Toggle	ValueOutput
+Pad 8 Group I	0	1	Toggle	ValueOutput
+Pad 9 Solo	0	1	Toggle	ValueOutput
+Pad 9 Mute	0	1	Toggle	ValueOutput
+Pad 9 Hit Indication	0	1	-	ValueOutput
+Pad 9 Drum Assignment	0	15	Value	ValueOutput
+Pad 9 Hit Type	0	3	Value	ValueOutput
+Pad 9 Group A	0	1	Toggle	ValueOutput
+Pad 9 Group B	0	1	Toggle	ValueOutput
+Pad 9 Group C	0	1	Toggle	ValueOutput
+Pad 9 Group D	0	1	Toggle	ValueOutput
+Pad 9 Group E	0	1	Toggle	ValueOutput
+Pad 9 Group F	0	1	Toggle	ValueOutput
+Pad 9 Group G	0	1	Toggle	ValueOutput
+Pad 9 Group H	0	1	Toggle	ValueOutput
+Pad 9 Group I	0	1	Toggle	ValueOutput
+Pad 10 Solo	0	1	Toggle	ValueOutput
+Pad 10 Mute	0	1	Toggle	ValueOutput
+Pad 10 Hit Indication	0	1	-	ValueOutput
+Pad 10 Drum Assignment	0	15	Value	ValueOutput
+Pad 10 Hit Type	0	3	Value	ValueOutput
+Pad 10 Group A	0	1	Toggle	ValueOutput
+Pad 10 Group B	0	1	Toggle	ValueOutput
+Pad 10 Group C	0	1	Toggle	ValueOutput
+Pad 10 Group D	0	1	Toggle	ValueOutput
+Pad 10 Group E	0	1	Toggle	ValueOutput
+Pad 10 Group F	0	1	Toggle	ValueOutput
+Pad 10 Group G	0	1	Toggle	ValueOutput
+Pad 10 Group H	0	1	Toggle	ValueOutput
+Pad 10 Group I	0	1	Toggle	ValueOutput
+Pad 11 Solo	0	1	Toggle	ValueOutput
+Pad 11 Mute	0	1	Toggle	ValueOutput
+Pad 11 Hit Indication	0	1	-	ValueOutput
+Pad 11 Drum Assignment	0	15	Value	ValueOutput
+Pad 11 Hit Type	0	3	Value	ValueOutput
+Pad 11 Group A	0	1	Toggle	ValueOutput
+Pad 11 Group B	0	1	Toggle	ValueOutput
+Pad 11 Group C	0	1	Toggle	ValueOutput
+Pad 11 Group D	0	1	Toggle	ValueOutput
+Pad 11 Group E	0	1	Toggle	ValueOutput
+Pad 11 Group F	0	1	Toggle	ValueOutput
+Pad 11 Group G	0	1	Toggle	ValueOutput
+Pad 11 Group H	0	1	Toggle	ValueOutput
+Pad 11 Group I	0	1	Toggle	ValueOutput
+Pad 12 Solo	0	1	Toggle	ValueOutput
+Pad 12 Mute	0	1	Toggle	ValueOutput
+Pad 12 Hit Indication	0	1	-	ValueOutput
+Pad 12 Drum Assignment	0	15	Value	ValueOutput
+Pad 12 Hit Type	0	3	Value	ValueOutput
+Pad 12 Group A	0	1	Toggle	ValueOutput
+Pad 12 Group B	0	1	Toggle	ValueOutput
+Pad 12 Group C	0	1	Toggle	ValueOutput
+Pad 12 Group D	0	1	Toggle	ValueOutput
+Pad 12 Group E	0	1	Toggle	ValueOutput
+Pad 12 Group F	0	1	Toggle	ValueOutput
+Pad 12 Group G	0	1	Toggle	ValueOutput
+Pad 12 Group H	0	1	Toggle	ValueOutput
+Pad 12 Group I	0	1	Toggle	ValueOutput
+Pad 13 Solo	0	1	Toggle	ValueOutput
+Pad 13 Mute	0	1	Toggle	ValueOutput
+Pad 13 Hit Indication	0	1	-	ValueOutput
+Pad 13 Drum Assignment	0	15	Value	ValueOutput
+Pad 13 Hit Type	0	3	Value	ValueOutput
+Pad 13 Group A	0	1	Toggle	ValueOutput
+Pad 13 Group B	0	1	Toggle	ValueOutput
+Pad 13 Group C	0	1	Toggle	ValueOutput
+Pad 13 Group D	0	1	Toggle	ValueOutput
+Pad 13 Group E	0	1	Toggle	ValueOutput
+Pad 13 Group F	0	1	Toggle	ValueOutput
+Pad 13 Group G	0	1	Toggle	ValueOutput
+Pad 13 Group H	0	1	Toggle	ValueOutput
+Pad 13 Group I	0	1	Toggle	ValueOutput
+Pad 14 Solo	0	1	Toggle	ValueOutput
+Pad 14 Mute	0	1	Toggle	ValueOutput
+Pad 14 Hit Indication	0	1	-	ValueOutput
+Pad 14 Drum Assignment	0	15	Value	ValueOutput
+Pad 14 Hit Type	0	3	Value	ValueOutput
+Pad 14 Group A	0	1	Toggle	ValueOutput
+Pad 14 Group B	0	1	Toggle	ValueOutput
+Pad 14 Group C	0	1	Toggle	ValueOutput
+Pad 14 Group D	0	1	Toggle	ValueOutput
+Pad 14 Group E	0	1	Toggle	ValueOutput
+Pad 14 Group F	0	1	Toggle	ValueOutput
+Pad 14 Group G	0	1	Toggle	ValueOutput
+Pad 14 Group H	0	1	Toggle	ValueOutput
+Pad 14 Group I	0	1	Toggle	ValueOutput
+Pad 15 Solo	0	1	Toggle	ValueOutput
+Pad 15 Mute	0	1	Toggle	ValueOutput
+Pad 15 Hit Indication	0	1	-	ValueOutput
+Pad 15 Drum Assignment	0	15	Value	ValueOutput
+Pad 15 Hit Type	0	3	Value	ValueOutput
+Pad 15 Group A	0	1	Toggle	ValueOutput
+Pad 15 Group B	0	1	Toggle	ValueOutput
+Pad 15 Group C	0	1	Toggle	ValueOutput
+Pad 15 Group D	0	1	Toggle	ValueOutput
+Pad 15 Group E	0	1	Toggle	ValueOutput
+Pad 15 Group F	0	1	Toggle	ValueOutput
+Pad 15 Group G	0	1	Toggle	ValueOutput
+Pad 15 Group H	0	1	Toggle	ValueOutput
+Pad 15 Group I	0	1	Toggle	ValueOutput
+Pad 16 Solo	0	1	Toggle	ValueOutput
+Pad 16 Mute	0	1	Toggle	ValueOutput
+Pad 16 Hit Indication	0	1	-	ValueOutput
+Pad 16 Drum Assignment	0	15	Value	ValueOutput
+Pad 16 Hit Type	0	3	Value	ValueOutput
+Pad 16 Group A	0	1	Toggle	ValueOutput
+Pad 16 Group B	0	1	Toggle	ValueOutput
+Pad 16 Group C	0	1	Toggle	ValueOutput
+Pad 16 Group D	0	1	Toggle	ValueOutput
+Pad 16 Group E	0	1	Toggle	ValueOutput
+Pad 16 Group F	0	1	Toggle	ValueOutput
+Pad 16 Group G	0	1	Toggle	ValueOutput
+Pad 16 Group H	0	1	Toggle	ValueOutput
+Pad 16 Group I	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Quick Sample	0	1	Trig	ValueOutput
+Set all Mutes and Solos to Off	0	1	Trig	ValueOutput

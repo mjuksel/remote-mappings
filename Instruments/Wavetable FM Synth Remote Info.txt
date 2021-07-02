@@ -1,0 +1,266 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.wtfm
+
+Remotable	Min	Max	Input type	Output type
+OP-1 Operator On/Off	0	1	Toggle	ValueOutput
+OP-1 Wavetable Segment	0	4194304	Value	ValueOutput
+OP-1 Level	0	4194304	Value	ValueOutput
+OP-1 Coarse Tune	0	4194304	Value	ValueOutput
+OP-1 Fine LT Tune	0	24	Value	ValueOutput
+OP-1 Decimals Tune	0	4194304	Value	ValueOutput
+OP-1 Fine FL Tune	0	198	Value	ValueOutput
+OP-1 Amp EG Attack	0	4194304	Value	ValueOutput
+OP-1 Amp EG Hold	0	4194304	Value	ValueOutput
+OP-1 Amp EG Decay	0	4194304	Value	ValueOutput
+OP-1 Amp EG Sustain	0	4194304	Value	ValueOutput
+OP-1 Amp EG Release	0	4194304	Value	ValueOutput
+OP-1 Amp EG Amount	0	4194304	Value	ValueOutput
+OP-1 Amp EG Smooth	0	4194304	Value	ValueOutput
+OP-1 Amp EG LFO Depth	0	4194304	Value	ValueOutput
+OP-1 Amp EG Velocity	0	4194304	Value	ValueOutput
+OP-1 Amp EG Attack Curve	0	4194304	Value	ValueOutput
+OP-1 Amp EG Decay Curve	0	4194304	Value	ValueOutput
+OP-1 Amp EG Release Curve	0	4194304	Value	ValueOutput
+OP-2 Operator On/Off	0	1	Toggle	ValueOutput
+OP-2 Wavetable Segment	0	4194304	Value	ValueOutput
+OP-2 Level	0	4194304	Value	ValueOutput
+OP-2 Coarse Ratio	0	4194304	Value	ValueOutput
+OP-2 Fine LT Ratio	0	24	Value	ValueOutput
+OP-2 Decimals Ratio	0	4194304	Value	ValueOutput
+OP-2 Pythagorian Ratio	0	76	Value	ValueOutput
+OP-2 Fine FL Ratio	0	198	Value	ValueOutput
+OP-2 Microtune Macro Ratio	0	4194304	Value	ValueOutput
+OP-2 Microtune Micro Ratio	0	198	Value	ValueOutput
+OP-2 Amp EG Attack	0	4194304	Value	ValueOutput
+OP-2 Amp EG Hold	0	4194304	Value	ValueOutput
+OP-2 Amp EG Decay	0	4194304	Value	ValueOutput
+OP-2 Amp EG Sustain	0	4194304	Value	ValueOutput
+OP-2 Amp EG Release	0	4194304	Value	ValueOutput
+OP-2 Amp EG Amount	0	4194304	Value	ValueOutput
+OP-2 Amp EG Smooth	0	4194304	Value	ValueOutput
+OP-2 Amp EG LFO Depth	0	4194304	Value	ValueOutput
+OP-2 Amp EG Velocity	0	4194304	Value	ValueOutput
+OP-2 Amp EG Attack Curve	0	4194304	Value	ValueOutput
+OP-2 Amp EG Decay Curve	0	4194304	Value	ValueOutput
+OP-2 Amp EG Release Curve	0	4194304	Value	ValueOutput
+OP-3 Operator On/Off	0	1	Toggle	ValueOutput
+OP-3 Wavetable Segment	0	4194304	Value	ValueOutput
+OP-3 Level	0	4194304	Value	ValueOutput
+OP-3 Coarse Ratio	0	4194304	Value	ValueOutput
+OP-3 Fine LT Ratio	0	24	Value	ValueOutput
+OP-3 Decimals Ratio	0	4194304	Value	ValueOutput
+OP-3 Pythagorian Ratio	0	76	Value	ValueOutput
+OP-3 Fine FL Ratio	0	198	Value	ValueOutput
+OP-3 Microtune Macro Ratio	0	4194304	Value	ValueOutput
+OP-3 Microtune Micro Ratio	0	198	Value	ValueOutput
+OP-3 Amp EG Attack	0	4194304	Value	ValueOutput
+OP-3 Amp EG Hold	0	4194304	Value	ValueOutput
+OP-3 Amp EG Decay	0	4194304	Value	ValueOutput
+OP-3 Amp EG Sustain	0	4194304	Value	ValueOutput
+OP-3 Amp EG Release	0	4194304	Value	ValueOutput
+OP-3 Amp EG Amount	0	4194304	Value	ValueOutput
+OP-3 Amp EG Smooth	0	4194304	Value	ValueOutput
+OP-3 Amp EG LFO Depth	0	4194304	Value	ValueOutput
+OP-3 Amp EG Velocity	0	4194304	Value	ValueOutput
+OP-3 Amp EG Attack Curve	0	4194304	Value	ValueOutput
+OP-3 Amp EG Decay Curve	0	4194304	Value	ValueOutput
+OP-3 Amp EG Release Curve	0	4194304	Value	ValueOutput
+OP-4 Operator On/Off	0	1	Toggle	ValueOutput
+OP-4 Wavetable Segment	0	4194304	Value	ValueOutput
+OP-4 Level	0	4194304	Value	ValueOutput
+OP-4 Coarse Ratio	0	4194304	Value	ValueOutput
+OP-4 Fine LT Ratio	0	24	Value	ValueOutput
+OP-4 Decimals Ratio	0	4194304	Value	ValueOutput
+OP-4 Pythagorian Ratio	0	76	Value	ValueOutput
+OP-4 FL Full Ratio	0	198	Value	ValueOutput
+OP-4 Microtune Macro Ratio	0	4194304	Value	ValueOutput
+OP-4 Microtune Micro Ratio	0	198	Value	ValueOutput
+OP-4 Amp EG Attack	0	4194304	Value	ValueOutput
+OP-4 Amp EG Hold	0	4194304	Value	ValueOutput
+OP-4 Amp EG Decay	0	4194304	Value	ValueOutput
+OP-4 Amp EG Sustain	0	4194304	Value	ValueOutput
+OP-4 Amp EG Release	0	4194304	Value	ValueOutput
+OP-4 Amp EG Amount	0	4194304	Value	ValueOutput
+OP-4 Amp EG Smooth	0	4194304	Value	ValueOutput
+OP-4 EG Amp LFO Depth	0	4194304	Value	ValueOutput
+OP-4 Amp EG Velocity	0	4194304	Value	ValueOutput
+OP-4 Amp EG Attack Curve	0	4194304	Value	ValueOutput
+OP-4 Amp EG Decay Curve	0	4194304	Value	ValueOutput
+OP-4 Amp EG Release Curve	0	4194304	Value	ValueOutput
+Synthesis Mode	0	2	Value	ValueOutput
+Synthesis Shape	0	4194304	Value	ValueOutput
+Synthesis Depth	0	4194304	Value	ValueOutput
+Synthesis Amount	0	4194304	Value	ValueOutput
+Synthesis Smooth	0	4194304	Value	ValueOutput
+Synthesis Follower	0	4194304	Value	ValueOutput
+Synthesis Rate Unsync	0	4194304	Value	ValueOutput
+Synthesis Rate Synced	0	15	Value	ValueOutput
+Synthesis Filter FM Frequency	0	4194304	Value	ValueOutput
+Synthesis WT Tune	0	4194304	Value	ValueOutput
+Synthesis WT Position	0	4194304	Value	ValueOutput
+Synthesis WT Fine Tune	0	198	Value	ValueOutput
+Synthesis WT Pythagorian Tune	0	76	Value	ValueOutput
+Synthesis WT Fine Tune LT	0	24	Value	ValueOutput
+LFO-1 CV Converter	0	4194304	Value	ValueOutput
+LFO-2 CV Converter	0	4194304	Value	ValueOutput
+LFO-3 CV Converter	0	4194304	Value	ValueOutput
+LFO-4 CV Converter	0	4194304	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Max Polyphony	0	4194304	Value	ValueOutput
+Mono-Poly Switcher	0	1	Toggle	ValueOutput
+Mono Mode	0	1	Toggle	ValueOutput
+Portamento Glide Mode	0	2	Value	ValueOutput
+Portamento Glide Time	0	4194304	Value	ValueOutput
+PitchBand Range	0	4194304	Value	ValueOutput
+Global Amp Velocity	0	4194304	Value	ValueOutput
+Tune EG Attack	0	4194304	Value	ValueOutput
+Tune EG Hold	0	4194304	Value	ValueOutput
+Tune EG Decay	0	4194304	Value	ValueOutput
+Tune EG Sustain	0	4194304	Value	ValueOutput
+Tune EG Release	0	4194304	Value	ValueOutput
+Tune EG Amount	0	4194304	Value	ValueOutput
+Tune EG Velocity	0	4194304	Value	ValueOutput
+Tune EG Attack Curve	0	4194304	Value	ValueOutput
+Tune EG Decay Curve	0	4194304	Value	ValueOutput
+Tune EG Release Curve	0	4194304	Value	ValueOutput
+Ratio EG Attack	0	4194304	Value	ValueOutput
+Ratio EG Hold	0	4194304	Value	ValueOutput
+Ratio EG Decay	0	4194304	Value	ValueOutput
+Ratio EG Sustain	0	4194304	Value	ValueOutput
+Ratio EG Release	0	4194304	Value	ValueOutput
+Ratio EG Amount	0	4194304	Value	ValueOutput
+Ratio EG Velocity	0	4194304	Value	ValueOutput
+Ratio EG Attack Curve	0	4194304	Value	ValueOutput
+Ratio EG Decay Curve	0	4194304	Value	ValueOutput
+Ratio EG Release Curve	0	4194304	Value	ValueOutput
+Both Pitch EG Attack	0	4194304	Value	ValueOutput
+Both Pitch EG Hold	0	4194304	Value	ValueOutput
+Both Pitch EG Decay	0	4194304	Value	ValueOutput
+Both Pitch EG Sustain	0	4194304	Value	ValueOutput
+Both Pitch EG Release	0	4194304	Value	ValueOutput
+Both Pitch EG Amount	0	4194304	Value	ValueOutput
+Both Pitch EG Velocity	0	4194304	Value	ValueOutput
+Both Pitch EG Attack Curve	0	4194304	Value	ValueOutput
+Both Pitch EG Decay Curve	0	4194304	Value	ValueOutput
+Both Pitch EG Release Curve	0	4194304	Value	ValueOutput
+LFO-1 Wave	0	6	Value	ValueOutput
+LFO-1 Rate Unsync	0	4194304	Value	ValueOutput
+LFO-1 Rate Synced	0	15	Value	ValueOutput
+LFO-1 Phase	0	4194304	Value	ValueOutput
+LFO-1 Sync	0	1	Toggle	ValueOutput
+LFO-2 Wave	0	6	Value	ValueOutput
+LFO-2 Rate Unsync	0	4194304	Value	ValueOutput
+LFO-2 Rate Synced	0	15	Value	ValueOutput
+LFO-2 Phase	0	4194304	Value	ValueOutput
+LFO-2 Sync	0	1	Toggle	ValueOutput
+LFO-3 Wave	0	6	Value	ValueOutput
+LFO-3 Rate Unsync	0	4194304	Value	ValueOutput
+LFO-3 Rate Synced	0	15	Value	ValueOutput
+LFO-3 Phase	0	4194304	Value	ValueOutput
+LFO-3 Sync	0	1	Toggle	ValueOutput
+LFO-4 Wave	0	6	Value	ValueOutput
+LFO-4 Rate Unsync	0	4194304	Value	ValueOutput
+LFO-4 Rate Synced	0	15	Value	ValueOutput
+LFO-4 Phase	0	4194304	Value	ValueOutput
+LFO-4 Sync	0	1	Toggle	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Peak Limit	0	18	Value	ValueOutput
+Filter Type	0	3	Value	ValueOutput
+Filter Velocity	0	4194304	Value	ValueOutput
+Filter ModWheel Amount	0	4194304	Value	ValueOutput
+Filter Aftertouch Amount	0	4194304	Value	ValueOutput
+Filter Key Amount	0	4194304	Value	ValueOutput
+Filter LFO Amount	0	4194304	Value	ValueOutput
+Filter Release Velocity Amount	0	4194304	Value	ValueOutput
+Filter EG Attack	0	4194304	Value	ValueOutput
+Filter EG Hold	0	4194304	Value	ValueOutput
+Filter EG Decay	0	4194304	Value	ValueOutput
+Filter EG Sustain	0	4194304	Value	ValueOutput
+Filter EG Release	0	4194304	Value	ValueOutput
+Filter EG Amount	0	4194304	Value	ValueOutput
+Filter EG Attack Curve	0	4194304	Value	ValueOutput
+Filter EG Decay Curve	0	4194304	Value	ValueOutput
+Filter EG Release Curve	0	4194304	Value	ValueOutput
+Modulation Amount 1	0	4194304	Value	ValueOutput
+Modulation Amount 2	0	4194304	Value	ValueOutput
+Modulation Amount 3	0	4194304	Value	ValueOutput
+Modulation Amount 4	0	4194304	Value	ValueOutput
+Modulation Amount 5	0	4194304	Value	ValueOutput
+Modulation Amount 6	0	4194304	Value	ValueOutput
+ModWheel Velocity Amount	0	4194304	Value	ValueOutput
+ModWheel OP-1 Destination	0	1	Toggle	ValueOutput
+ModWheel OP2 Destination	0	1	Toggle	ValueOutput
+ModWheel OP-3 Destination	0	1	Toggle	ValueOutput
+ModWheel OP-4 Destination	0	1	Toggle	ValueOutput
+ModWheel OP-1 Tune Amount	0	4194304	Value	ValueOutput
+ModWheel OP-2 Ratio Amount	0	4194304	Value	ValueOutput
+ModWheel OP-3 Ratio Amount	0	4194304	Value	ValueOutput
+ModWheel OP-4 Ratio Amount	0	4194304	Value	ValueOutput
+Vocoder On/Off	0	1	Toggle	ValueOutput
+Vocoder Low Frequency	0	4194304	Value	ValueOutput
+Vocoder High Frequency	0	4194304	Value	ValueOutput
+Vocoder Resonance	0	4194304	Value	ValueOutput
+Vocoder Spread	0	4194304	Value	ValueOutput
+Vocoder Blend	0	4194304	Value	ValueOutput
+Vocoder Bands	0	2	Value	ValueOutput
+Vocoder Gain	0	4194304	Value	ValueOutput
+EQ Band On/Off	0	1	Toggle	ValueOutput
+EQ Band Frequency	0	4194304	Value	ValueOutput
+EQ Band Width	0	4194304	Value	ValueOutput
+EQ Band Gain	0	4194304	Value	ValueOutput
+Resonator On/Off	0	1	Toggle	ValueOutput
+Resonator Decay	0	4194304	Value	ValueOutput
+Resonator Width	0	4194304	Value	ValueOutput
+Resonator Mix	0	4194304	Value	ValueOutput
+Resonator Keytrack	0	4194304	Value	ValueOutput
+Chorus On/Off	0	1	Toggle	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Delay On/Off	0	1	Toggle	ValueOutput
+Delay Time	0	12	Value	ValueOutput
+Delay Ratio	0	4194304	Value	ValueOutput
+Delay Damping	0	4194304	Value	ValueOutput
+Delay Feedback Mode	0	2	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Reverb On/Off	0	1	Toggle	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb Pre Delay	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Post Filter Cutoff	0	4194304	Value	ValueOutput
+Post Filter Resonance	0	4194304	Value	ValueOutput
+Post Filter Type	0	3	Value	ValueOutput
+Post Filter LFO Amount	0	4194304	Value	ValueOutput
+Post Filter LFO Destination	0	1	Toggle	ValueOutput
+Post Filter LFO Follower	0	4194304	Value	ValueOutput
+Post Filter ModWheel Amount	0	4194304	Value	ValueOutput
+Post Filter Aftertouch Amount	0	4194304	Value	ValueOutput
+Post Filter Expression Amount	0	4194304	Value	ValueOutput
+Post Filter Sustain Velocity Amount	0	4194304	Value	ValueOutput
+Limiter Release	0	4194304	Value	ValueOutput
+Limiter Mode	0	2	Value	ValueOutput
+Maximizer On/Off	0	1	Toggle	ValueOutput
+Maximizer Overdrive	0	4194304	Value	ValueOutput
+Operators Scale	0	4	Value	ValueOutput
+Algorithm	0	23	Value	ValueOutput
+Wavetable	0	490	Value	ValueOutput
+Breakpoint Key Damping	0	84	Value	ValueOutput
+Operator Feedback	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

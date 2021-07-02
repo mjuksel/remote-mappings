@@ -1,0 +1,39 @@
+Scope
+Manufacturer	Model
+Spectral Scan Software	com.spectralscan.4PhaseLFO
+
+Remotable	Min	Max	Input type	Output type
+ui_property fader_running	0	1	Toggle	ValueOutput
+ui_property lfo_type	0	2	Value	ValueOutput
+ui_property lfo_freq_low	0	4194304	Value	ValueOutput
+ui_property lfo_freq_lin	0	4194304	Value	ValueOutput
+ui_property lfo_freq_sync	0	30	Value	ValueOutput
+ui_property lfo_amount	0	4194304	Value	ValueOutput
+ui_property lfo_waveform	0	4	Value	ValueOutput
+ui_property lfo_sym	0	4194304	Value	ValueOutput
+ui_property lfo_spike	0	4194304	Value	ValueOutput
+ui_property lfo_phase	0	4194304	Value	ValueOutput
+ui_property lfo_bias	0	4194304	Value	ValueOutput
+ui_property lfo_shuffle	0	4194304	Value	ValueOutput
+ui_property lfo_hold_type	0	2	Value	ValueOutput
+ui_property lfo_hold_time	0	4194304	Value	ValueOutput
+ui_property lfo_hold_sync	0	18	Value	ValueOutput
+ui_property lfo_hold_wave	0	18	Value	ValueOutput
+ui_property lfo_noise	0	4194304	Value	ValueOutput
+ui_property lfo_slide	0	4194304	Value	ValueOutput
+ui_property lfo_button_inv	0	1	Toggle	ValueOutput
+ui_property lfo_button_reset	0	1	Toggle	ValueOutput
+ui_property lfo_amount_2	0	4194304	Value	ValueOutput
+ui_property lfo_phase_2	0	4194304	Value	ValueOutput
+ui_property lfo_bias_2	0	4194304	Value	ValueOutput
+ui_property lfo_amount_3	0	4194304	Value	ValueOutput
+ui_property lfo_phase_3	0	4194304	Value	ValueOutput
+ui_property lfo_bias_3	0	4194304	Value	ValueOutput
+ui_property lfo_amount_4	0	4194304	Value	ValueOutput
+ui_property lfo_phase_4	0	4194304	Value	ValueOutput
+ui_property lfo_bias_4	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+kiloHearts	com.kilohearts.3BandEQ
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Low	0	4194304	Value	ValueOutput
+Low Split	0	4194304	Value	ValueOutput
+Mid	0	4194304	Value	ValueOutput
+High Split	0	4194304	Value	ValueOutput
+High	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,79 @@
+Scope
+Manufacturer	Model
+Skrock Music	se.skrockmusic.Nautilus2
+
+Remotable	Min	Max	Input type	Output type
+LFO 1 Attack	0	4194304	Value	ValueOutput
+LFO 2 Attack	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Target	0	1	Toggle	ValueOutput
+LFO 1 Shape	0	3	Value	ValueOutput
+LFO 2 Shape	0	3	Value	ValueOutput
+LFO 1 Retrig	0	1	Toggle	ValueOutput
+LFO 2 Retrig	0	1	Toggle	ValueOutput
+LFO 1 Tune Mod	0	4194304	Value	ValueOutput
+LFO 1 Phase Mod	0	4194304	Value	ValueOutput
+LFO 2 Tune Mod	0	4194304	Value	ValueOutput
+LFO 2 Phase Mod	0	4194304	Value	ValueOutput
+LFO 2 Filter Mod	0	4194304	Value	ValueOutput
+Polyphony	0	1	Toggle	ValueOutput
+Glide_Mode	0	1	Toggle	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Amp Velocity	0	2	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Global Octave	0	2	Value	ValueOutput
+Amp ADCSR Attack	0	4194304	Value	ValueOutput
+Amp ADCSR Decay	0	4194304	Value	ValueOutput
+Amp ADCSR Decay Curve	0	4194304	Value	ValueOutput
+Amp ADCSR Sustain	0	4194304	Value	ValueOutput
+Amp ADCSR Release	0	4194304	Value	ValueOutput
+Filter ADCSR Attack	0	4194304	Value	ValueOutput
+Filter ADCSR Decay	0	4194304	Value	ValueOutput
+Filter ADCSR Decay Curve	0	4194304	Value	ValueOutput
+Filter ADCSR Sustain	0	4194304	Value	ValueOutput
+Filter ADCSR Release	0	4194304	Value	ValueOutput
+Filter Type	0	3	Value	ValueOutput
+Filter Keytrack	0	1	Toggle	ValueOutput
+Filter Drive	0	1	Toggle	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Reso	0	4194304	Value	ValueOutput
+Filter Shift	0	4194304	Value	ValueOutput
+Filter Env	0	4194304	Value	ValueOutput
+Filter Velocity	0	2	Value	ValueOutput
+Osc 1 Level	0	4194304	Value	ValueOutput
+Osc 1 Pan	0	4194304	Value	ValueOutput
+Osc 1 Spice	0	2	Value	ValueOutput
+Osc 1 Retrig Phase	0	1	Toggle	ValueOutput
+Osc 1 Phase	0	4194304	Value	ValueOutput
+Osc 1 Wave Type	0	11	Value	ValueOutput
+Osc 1 Waveform	0	3	Value	ValueOutput
+Osc 1 Fine	0	4194304	Value	ValueOutput
+Osc 2 Fine	0	4194304	Value	ValueOutput
+Osc 3 Fine	0	4194304	Value	ValueOutput
+Osc 2 Level	0	4194304	Value	ValueOutput
+Osc 2 Pan	0	4194304	Value	ValueOutput
+Osc 2 Spice	0	2	Value	ValueOutput
+Osc 2 Retrig Phase	0	1	Toggle	ValueOutput
+Osc 2 Phase	0	4194304	Value	ValueOutput
+Osc 2 Wave Type	0	11	Value	ValueOutput
+Osc 2 Waveform	0	3	Value	ValueOutput
+Osc 3 Level	0	4194304	Value	ValueOutput
+Osc 3 Pan	0	4194304	Value	ValueOutput
+Osc 3 Spice	0	2	Value	ValueOutput
+Osc 3 Retrig Phase	0	1	Toggle	ValueOutput
+Osc 3 Phase	0	4194304	Value	ValueOutput
+Osc 3 Wave Type	0	11	Value	ValueOutput
+Osc 3 Waveform	0	3	Value	ValueOutput
+Chorus	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

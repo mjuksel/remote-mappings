@@ -1,0 +1,51 @@
+Scope
+Manufacturer	Model
+McDSP	com.mcdsp.FutzBox
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Sim On Off	0	1	Toggle	ValueOutput
+Sim Tune	0	4194304	Value	ValueOutput
+Sim Type	0	176	Value	ValueOutput
+Lofi On Off	0	1	Toggle	ValueOutput
+Lofi Rate	0	32	Value	ValueOutput
+Lofi Filter	0	4194304	Value	ValueOutput
+Lofi Bits	0	22	Value	ValueOutput
+Filter On Off	0	1	Toggle	ValueOutput
+High Pass Filter Frequency	0	4194304	Value	ValueOutput
+High Pass Filter Q	0	4194304	Value	ValueOutput
+High Pass Filter Mode	0	1	Toggle	ValueOutput
+Low Pass Filter Frequency	0	4194304	Value	ValueOutput
+Low Pass Filter Q	0	4194304	Value	ValueOutput
+Low Pass Filter Mode	0	1	Toggle	ValueOutput
+Distortion On Off	0	1	Toggle	ValueOutput
+Distortion Amount	0	4194304	Value	ValueOutput
+Distortion Intensity	0	4194304	Value	ValueOutput
+Distortion Rectify	0	4194304	Value	ValueOutput
+Distortion Mode	0	9	Value	ValueOutput
+EQ Filter On Off	0	1	Toggle	ValueOutput
+EQ Filter Frequency	0	4194304	Value	ValueOutput
+EQ Filter Q	0	4194304	Value	ValueOutput
+EQ Filter Gain	0	4194304	Value	ValueOutput
+EQ Filter Mode	0	2	Value	ValueOutput
+Noise On Off	0	1	Toggle	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Noise HPF	0	4194304	Value	ValueOutput
+Noise LPF	0	4194304	Value	ValueOutput
+Noise Threshold	0	4194304	Value	ValueOutput
+Noise Range	0	4194304	Value	ValueOutput
+Noise Recovery	0	4194304	Value	ValueOutput
+Gate On Off	0	1	Toggle	ValueOutput
+Gate Threshold	0	4194304	Value	ValueOutput
+Gate Range	0	4194304	Value	ValueOutput
+Gate Attack	0	4194304	Value	ValueOutput
+Gate Hold	0	4194304	Value	ValueOutput
+Gate Release	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

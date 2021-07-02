@@ -1,0 +1,26 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Rotor
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Slow Speed	0	4194304	Value	ValueOutput
+X-Over Frequency	0	4194304	Value	ValueOutput
+Doppler	0	4194304	Value	ValueOutput
+Dry Wet	0	4194304	Value	ValueOutput
+Blend	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Distance	0	4194304	Value	ValueOutput
+Acceleration	0	4194304	Value	ValueOutput
+Stop	0	1	Toggle	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Fast Speed	0	4194304	Value	ValueOutput
+Drive Type	0	1	Toggle	ValueOutput
+Slow Fast	0	1	Toggle	ValueOutput
+Input Peak Meter	0	4194304	-	ValueOutput
+Rotor Lamp	0	4194304	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,10 @@
+Scope
+Manufacturer	Model
+Propellerheads	D-11 Foldback Distortion
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Amount	0	127	Value	ValueOutput
+Foldback	0	127	Value	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+Device Name	0	0	-	TextOutput

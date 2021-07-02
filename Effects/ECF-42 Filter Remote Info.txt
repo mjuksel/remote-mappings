@@ -1,0 +1,18 @@
+Scope
+Manufacturer	Model
+Propellerheads	ECF-42 Envelope Controlled Filter
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Attack	0	127	Value	ValueOutput
+Decay	0	127	Value	ValueOutput
+Sustain	0	127	Value	ValueOutput
+Release	0	127	Value	ValueOutput
+Frequency	0	127	Value	ValueOutput
+Resonance	0	127	Value	ValueOutput
+Env Amount	0	127	Value	ValueOutput
+Mode	0	2	Value	ValueOutput
+Velocity	0	127	Value	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+Trigger	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput

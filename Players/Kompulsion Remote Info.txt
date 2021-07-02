@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.Kompulsion
+
+Remotable	Min	Max	Input type	Output type
+Arp Order	0	3	Value	ValueOutput
+Arp Order Mod	0	3	Value	ValueOutput
+Arp Fill	0	6	Value	ValueOutput
+Arp Interval	0	24	Value	ValueOutput
+Arp Hold	0	1	Toggle	ValueOutput
+Arp Retrigger	0	1	Toggle	ValueOutput
+Seq Key	0	11	Value	ValueOutput
+Seq Scale	0	21	Value	ValueOutput
+Seq Custom Scale	0	4095	Value	ValueOutput
+S1 On	0	1	Toggle	ValueOutput
+S2 On	0	1	Toggle	ValueOutput
+S3 On	0	1	Toggle	ValueOutput
+S4 On	0	1	Toggle	ValueOutput
+S5 On	0	1	Toggle	ValueOutput
+S6 On	0	1	Toggle	ValueOutput
+S7 On	0	1	Toggle	ValueOutput
+S8 On	0	1	Toggle	ValueOutput
+S9 On	0	1	Toggle	ValueOutput
+S10 On	0	1	Toggle	ValueOutput
+S11 On	0	1	Toggle	ValueOutput
+S12 On	0	1	Toggle	ValueOutput
+S13 On	0	1	Toggle	ValueOutput
+S14 On	0	1	Toggle	ValueOutput
+S15 On	0	1	Toggle	ValueOutput
+S16 On	0	1	Toggle	ValueOutput
+Rate	0	30	Value	ValueOutput
+Shuffle	0	1	Toggle	ValueOutput
+On	0	1	Toggle	ValueOutput
+Mode	0	1	Toggle	ValueOutput
+Scale Offset	0	142	Value	ValueOutput
+Seq Run	0	1	Toggle	ValueOutput
+Pattern	0	7	-	ValueOutput
+Pattern Select	-1	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

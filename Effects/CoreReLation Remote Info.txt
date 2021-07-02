@@ -1,0 +1,24 @@
+Scope
+Manufacturer	Model
+Reasonistas	com.reasonistas.CORE
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Source Inputs	0	1	Toggle	ValueOutput
+Monitor Mode	0	2	Value	ValueOutput
+Phase Invert Left	0	1	Toggle	ValueOutput
+Phase Invert Right	0	1	Toggle	ValueOutput
+Gain Left	0	4194304	Value	ValueOutput
+Gain Right	0	4194304	Value	ValueOutput
+Pan Left	0	4194304	Value	ValueOutput
+Pan Right	0	4194304	Value	ValueOutput
+Global Pan	0	4194304	Value	ValueOutput
+Global Width	0	4194304	Value	ValueOutput
+Hue	0	4194304	Value	ValueOutput
+Gonio Toggle	0	1	Toggle	ValueOutput
+Meter Mode	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

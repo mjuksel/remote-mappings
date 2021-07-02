@@ -1,0 +1,229 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Ammo1200BR
+
+Remotable	Min	Max	Input type	Output type
+Osc.A On	0	1	Toggle	ValueOutput
+Apply Master Rate to Slaves	0	1	Toggle	ValueOutput
+Osc.A Low Rate Hz	0	4194304	Value	ValueOutput
+Osc.A High Rate Hz	0	4194304	Value	ValueOutput
+Osc.A Rate Tempo Sync	0	30	Value	ValueOutput
+Osc.A Range	0	4	Value	ValueOutput
+Osc.A Keyboard	0	4194304	Value	ValueOutput
+Osc.A Depth	0	4194304	Value	ValueOutput
+Osc.A Phase	0	4194304	Value	ValueOutput
+Osc.A Env Sync	0	1	Toggle	ValueOutput
+Osc.A Oneshot	0	1	Toggle	ValueOutput
+Osc.A Waveform	0	135	Value	ValueOutput
+Osc.A Rate Semitone	0	72	Value	ValueOutput
+Osc.A Cents Detune	0	4194304	Value	ValueOutput
+Osc.B On	0	1	Toggle	ValueOutput
+Osc.B Low Rate Hz	0	4194304	Value	ValueOutput
+Osc.B High Rate Hz	0	4194304	Value	ValueOutput
+Osc.B Rate Tempo Sync	0	30	Value	ValueOutput
+Osc.B Range	0	4	Value	ValueOutput
+Osc.B Keyboard	0	4194304	Value	ValueOutput
+Osc.B Depth	0	4194304	Value	ValueOutput
+Osc.B Phase	0	4194304	Value	ValueOutput
+Osc.B Osc Sync	0	1	Toggle	ValueOutput
+Osc.B Env Sync	0	1	Toggle	ValueOutput
+Osc.B Oneshot	0	1	Toggle	ValueOutput
+Osc.B Waveform	0	135	Value	ValueOutput
+Osc.B Rate Semitone	0	72	Value	ValueOutput
+Osc.B Cents Detune	0	4194304	Value	ValueOutput
+Osc.C On	0	1	Toggle	ValueOutput
+Osc.C Low Rate Hz	0	4194304	Value	ValueOutput
+Osc.C High Rate Hz	0	4194304	Value	ValueOutput
+Osc.C Rate Tempo Sync	0	30	Value	ValueOutput
+Osc.C Range	0	4	Value	ValueOutput
+Osc.C Keyboard	0	4194304	Value	ValueOutput
+Osc.C Depth	0	4194304	Value	ValueOutput
+Osc.C Phase	0	4194304	Value	ValueOutput
+Osc.C Osc Sync	0	1	Toggle	ValueOutput
+Osc.C Env Sync	0	1	Toggle	ValueOutput
+Osc.C Oneshot	0	1	Toggle	ValueOutput
+Osc.C Waveform	0	135	Value	ValueOutput
+Osc.C Rate Semitone	0	72	Value	ValueOutput
+Osc.C Cents Detune	0	4194304	Value	ValueOutput
+Osc.D On	0	1	Toggle	ValueOutput
+Osc.D Low Rate Hz	0	4194304	Value	ValueOutput
+Osc.D High Rate Hz	0	4194304	Value	ValueOutput
+Osc.D Rate Tempo Sync	0	30	Value	ValueOutput
+Osc.D Range	0	4	Value	ValueOutput
+Osc.D Keyboard	0	4194304	Value	ValueOutput
+Osc.D Depth	0	4194304	Value	ValueOutput
+Osc.D Phase	0	4194304	Value	ValueOutput
+Osc.D Osc Sync	0	1	Toggle	ValueOutput
+Osc.D Env Sync	0	1	Toggle	ValueOutput
+Osc.D Oneshot	0	1	Toggle	ValueOutput
+Osc.D Waveform	0	135	Value	ValueOutput
+Osc.D Rate Semitone	0	72	Value	ValueOutput
+Osc.D Cents Detune	0	4194304	Value	ValueOutput
+VPM A	0	1	Toggle	ValueOutput
+VPM B	0	1	Toggle	ValueOutput
+VPM C	0	1	Toggle	ValueOutput
+VPM D	0	1	Toggle	ValueOutput
+VPM A Sum A	0	4194304	Value	ValueOutput
+VPM A X-Fade B-C-D	0	4194304	Value	ValueOutput
+VPM A Sum B	0	4194304	Value	ValueOutput
+VPM A Sum C	0	4194304	Value	ValueOutput
+VPM A Sum D	0	4194304	Value	ValueOutput
+VPM A Lag Up	0	4194304	Value	ValueOutput
+VPM A Lag Down	0	4194304	Value	ValueOutput
+VPM A Output	0	4194304	Value	ValueOutput
+VPM B Sum A	0	4194304	Value	ValueOutput
+VPM B Sum B	0	4194304	Value	ValueOutput
+VPM B X-Fade A-C-D	0	4194304	Value	ValueOutput
+VPM B Sum C	0	4194304	Value	ValueOutput
+VPM B Sum D	0	4194304	Value	ValueOutput
+VPM B Lag Up	0	4194304	Value	ValueOutput
+VPM B Lag Down	0	4194304	Value	ValueOutput
+VPM B Output	0	4194304	Value	ValueOutput
+VPM C Sum A	0	4194304	Value	ValueOutput
+VPM C Sum B	0	4194304	Value	ValueOutput
+VPM C Sum C	0	4194304	Value	ValueOutput
+VPM C X-Fade A-B-D	0	4194304	Value	ValueOutput
+VPM C Sum D	0	4194304	Value	ValueOutput
+VPM C Lag Up	0	4194304	Value	ValueOutput
+VPM C Lag Down	0	4194304	Value	ValueOutput
+VPM C Output	0	4194304	Value	ValueOutput
+VPM D Sum A	0	4194304	Value	ValueOutput
+VPM D Sum B	0	4194304	Value	ValueOutput
+VPM D Sum C	0	4194304	Value	ValueOutput
+VPM D Sum D	0	4194304	Value	ValueOutput
+VPM D X-Fade A-B-C	0	4194304	Value	ValueOutput
+VPM D Lag Up	0	4194304	Value	ValueOutput
+VPM D Lag Down	0	4194304	Value	ValueOutput
+VPM D Output	0	4194304	Value	ValueOutput
+Audio A in Level	0	4194304	Value	ValueOutput
+Audio B in Level	0	4194304	Value	ValueOutput
+Audio C in Level	0	4194304	Value	ValueOutput
+Audio D in Level	0	4194304	Value	ValueOutput
+Ch.A to Battery	0	1	Toggle	ValueOutput
+Ch.B to Battery	0	1	Toggle	ValueOutput
+Ch.C to Battery	0	1	Toggle	ValueOutput
+Ch.D to Battery	0	1	Toggle	ValueOutput
+Ch.A S&H	0	1	Toggle	ValueOutput
+Ch.B S&H	0	1	Toggle	ValueOutput
+Ch.C S&H	0	1	Toggle	ValueOutput
+Ch.D S&H	0	1	Toggle	ValueOutput
+Noise Mode	0	2	Value	ValueOutput
+S&H Noise A Level	0	4194304	Value	ValueOutput
+S&H Noise B Level	0	4194304	Value	ValueOutput
+S&H Noise C Level	0	4194304	Value	ValueOutput
+S&H Noise D Level	0	4194304	Value	ValueOutput
+S&H Sample Rate A	0	4194304	Value	ValueOutput
+S&H Sample Rate B	0	4194304	Value	ValueOutput
+S&H Sample Rate C	0	4194304	Value	ValueOutput
+S&H Sample Rate D	0	4194304	Value	ValueOutput
+Ch.A Comparator	0	1	Toggle	ValueOutput
+Ch.B Comparator	0	1	Toggle	ValueOutput
+Ch.C Comparator	0	1	Toggle	ValueOutput
+Ch.D Comparator	0	1	Toggle	ValueOutput
+Ch.A-B Comparator Mode	0	2	Value	ValueOutput
+Ch.B Comparator A-B Mode	0	2	Value	ValueOutput
+Ch.C-D Comparator Mode	0	2	Value	ValueOutput
+Ch.D Comparator C-D Mode	0	2	Value	ValueOutput
+Ch.A ES	0	1	Toggle	ValueOutput
+Ch.B ES	0	1	Toggle	ValueOutput
+Ch.C ES	0	1	Toggle	ValueOutput
+Ch.D ES	0	1	Toggle	ValueOutput
+Ch.A ES Mode	0	2	Value	ValueOutput
+Ch.B ES Mode	0	2	Value	ValueOutput
+Ch.C ES Mode	0	2	Value	ValueOutput
+Ch.D ES Mode	0	2	Value	ValueOutput
+ES 01 LFO i Free Rate	0	4194304	Value	ValueOutput
+ES 01 LFO ii Free Rate	0	4194304	Value	ValueOutput
+ES 02 LFO iii Free Rate	0	4194304	Value	ValueOutput
+ES 02 LFO iv Free Rate	0	4194304	Value	ValueOutput
+ES 01 LFO i Sync Rate	0	30	Value	ValueOutput
+ES 01 LFO ii Sync Rate	0	30	Value	ValueOutput
+ES 02 LFO iii Sync Rate	0	30	Value	ValueOutput
+ES 02 LFO iv Sync Rate	0	30	Value	ValueOutput
+ES 01 LFO i Waveform	0	27	Value	ValueOutput
+ES 01 LFO ii Waveform	0	27	Value	ValueOutput
+ES 02 LFO iii Waveform	0	27	Value	ValueOutput
+ES 02 LFO iv Waveform	0	27	Value	ValueOutput
+Electro-Switch Tempo Sync	0	1	Toggle	ValueOutput
+Electro-Switch 2 Depth	0	4194304	Value	ValueOutput
+Ch.A Attntr	0	1	Toggle	ValueOutput
+Ch.B Attntr	0	1	Toggle	ValueOutput
+Ch.C Attntr	0	1	Toggle	ValueOutput
+Ch.D Attntr	0	1	Toggle	ValueOutput
+Attntr Shift A Level	0	4194304	Value	ValueOutput
+Attntr Shift B Level	0	4194304	Value	ValueOutput
+Attntr Shift C Level	0	4194304	Value	ValueOutput
+Attntr Shift D Level	0	4194304	Value	ValueOutput
+Attntr Scale A Level	0	4194304	Value	ValueOutput
+Attntr Scale B Level	0	4194304	Value	ValueOutput
+Attntr Scale C Level	0	4194304	Value	ValueOutput
+Attntr Scale D Level	0	4194304	Value	ValueOutput
+Ch.A Limiter	0	1	Toggle	ValueOutput
+Ch.B Limiter	0	1	Toggle	ValueOutput
+Ch.C Limiter	0	1	Toggle	ValueOutput
+Ch.D Limiter	0	1	Toggle	ValueOutput
+Return Audio Route	0	1	Toggle	ValueOutput
+Sync Mode	0	1	Toggle	ValueOutput
+Soft Sync Mode	0	1	Toggle	ValueOutput
+Envelope Delay	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Hold	0	4194304	Value	ValueOutput
+Envelope Decay	0	4194304	Value	ValueOutput
+Envelope Sustain	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+PW ES I	0	4194304	Value	ValueOutput
+PW ES II	0	4194304	Value	ValueOutput
+PW ES III	0	4194304	Value	ValueOutput
+PW ES IV	0	4194304	Value	ValueOutput
+Envelope Trigger Mode	0	1	Toggle	ValueOutput
+FM Mode	0	1	Toggle	ValueOutput
+Lag Up Mode	0	1	Toggle	ValueOutput
+Lag Down Mode	0	1	Toggle	ValueOutput
+X-Fade Mode	0	1	Toggle	ValueOutput
+PW Select	0	3	Value	ValueOutput
+Pitch Wheel Input	0	4194304	Value	ValueOutput
+Mod Wheel Input	0	4194304	Value	ValueOutput
+Aftertouch Input	0	4194304	Value	ValueOutput
+Expression Input	0	4194304	Value	ValueOutput
+Source 1 Target 1 Input	0	4194304	Value	ValueOutput
+Source 1 Target 2 Input	0	4194304	Value	ValueOutput
+Source 1 Target 3 Input	0	4194304	Value	ValueOutput
+Source 2 Target 1 Input	0	4194304	Value	ValueOutput
+Source 2 Target 2 Input	0	4194304	Value	ValueOutput
+Source 2 Target 3 Input	0	4194304	Value	ValueOutput
+Source 3 Target 1 Input	0	4194304	Value	ValueOutput
+Source 3 Target 2 Input	0	4194304	Value	ValueOutput
+Source 3 Target 3 Input	0	4194304	Value	ValueOutput
+Source 4 Target 1 Input	0	4194304	Value	ValueOutput
+Source 4 Target 2 Input	0	4194304	Value	ValueOutput
+Source 4 Target 3 Input	0	4194304	Value	ValueOutput
+Source 1	0	1	Toggle	ValueOutput
+Source 2	0	1	Toggle	ValueOutput
+Source 3	0	1	Toggle	ValueOutput
+Source 4	0	1	Toggle	ValueOutput
+Pitch Wheel to Osc.A	0	1	Toggle	ValueOutput
+Mod Wheel to Osc.A	0	1	Toggle	ValueOutput
+Aftertouch to Osc.A	0	1	Toggle	ValueOutput
+Expression to Osc.A	0	1	Toggle	ValueOutput
+Pitch Wheel to Osc.B	0	1	Toggle	ValueOutput
+Mod Wheel to Osc.B	0	1	Toggle	ValueOutput
+Aftertouch to Osc.B	0	1	Toggle	ValueOutput
+Expression to Osc.B	0	1	Toggle	ValueOutput
+Pitch Wheel to Osc.C	0	1	Toggle	ValueOutput
+Mod Wheel to Osc.C	0	1	Toggle	ValueOutput
+Aftertouch to Osc.C	0	1	Toggle	ValueOutput
+Expression to Osc.C	0	1	Toggle	ValueOutput
+Pitch Wheel to Osc.D	0	1	Toggle	ValueOutput
+Mod Wheel to Osc.D	0	1	Toggle	ValueOutput
+Aftertouch to Osc.D	0	1	Toggle	ValueOutput
+Expression to Osc.D	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

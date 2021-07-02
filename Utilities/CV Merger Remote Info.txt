@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+Blamsoft, Inc.	com.blamsoft.CVMerger
+
+Remotable	Min	Max	Input type	Output type
+Amp 1 Level	0	4194304	Value	ValueOutput
+Amp 2 Level	0	4194304	Value	ValueOutput
+A Amount	0	4194304	Value	ValueOutput
+B Amount	0	4194304	Value	ValueOutput
+C Amount	0	4194304	Value	ValueOutput
+D Amount	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

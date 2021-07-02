@@ -1,0 +1,56 @@
+Scope
+Manufacturer	Model
+Quadelectra Audioworx	com.quadelectra.JackBox808
+
+Remotable	Min	Max	Input type	Output type
+BD Level	0	4194304	Value	ValueOutput
+SD Level	0	4194304	Value	ValueOutput
+LT / LC Level	0	4194304	Value	ValueOutput
+MT/ MC Level	0	4194304	Value	ValueOutput
+HT / HC Level	0	4194304	Value	ValueOutput
+RS / CL Level	0	4194304	Value	ValueOutput
+CP / MA Level	0	4194304	Value	ValueOutput
+CB Level	0	4194304	Value	ValueOutput
+CY Level	0	4194304	Value	ValueOutput
+CH Level	0	4194304	Value	ValueOutput
+OH Level	0	4194304	Value	ValueOutput
+BD Tune	0	4194304	Value	ValueOutput
+SD Tune	0	4194304	Value	ValueOutput
+LT / LC Tune	0	4194304	Value	ValueOutput
+MT / MC Tune	0	4194304	Value	ValueOutput
+HT / HC Tune	0	4194304	Value	ValueOutput
+CY Tune	0	4194304	Value	ValueOutput
+BD Decay	0	4194304	Value	ValueOutput
+SD Snappy	0	4194304	Value	ValueOutput
+CY Decay	0	4194304	Value	ValueOutput
+OH Decay	0	4194304	Value	ValueOutput
+LT / LC Switch	0	1	Toggle	ValueOutput
+MT / MC Switch	0	1	Toggle	ValueOutput
+HT / HC Switch	0	1	Toggle	ValueOutput
+RS / CL Switch	0	1	Toggle	ValueOutput
+MA / CP Switch	0	1	Toggle	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Accent Level	0	4194304	Value	ValueOutput
+Velocity Sensitivity	0	4194304	Value	ValueOutput
+Accent Mode	0	1	Toggle	ValueOutput
+Pad #1: BD	0	1	Toggle	ValueOutput
+Pad #2: BD	0	1	Toggle	ValueOutput
+Pad #3: SD	0	1	Toggle	ValueOutput
+Pad #4: SD	0	1	Toggle	ValueOutput
+Pad #5: LT / LC	0	1	Toggle	ValueOutput
+Pad #6: MT / MC	0	1	Toggle	ValueOutput
+Pad #7: HT / HC	0	1	Toggle	ValueOutput
+Pad #8: CL / RS	0	1	Toggle	ValueOutput
+Pad #9: CL / RS	0	1	Toggle	ValueOutput
+Pad #10: CP / MA	0	1	Toggle	ValueOutput
+Pad #11: CP / MA	0	1	Toggle	ValueOutput
+Pad #12: CB	0	1	Toggle	ValueOutput
+Pad #13: CY	0	1	Toggle	ValueOutput
+Pad #14: OH	0	1	Toggle	ValueOutput
+Pad #15: CH	0	1	Toggle	ValueOutput
+Pad #16: CH	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

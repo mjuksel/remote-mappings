@@ -1,0 +1,136 @@
+Scope
+Manufacturer	Model
+HaMu	se.hamu.Newtrol_16
+
+Remotable	Min	Max	Input type	Output type
+A 1	0	4194304	Value	ValueOutput
+A 2	0	4194304	Value	ValueOutput
+A 3	0	4194304	Value	ValueOutput
+A 4	0	4194304	Value	ValueOutput
+A 5	0	4194304	Value	ValueOutput
+A 6	0	4194304	Value	ValueOutput
+A 7	0	4194304	Value	ValueOutput
+A 8	0	4194304	Value	ValueOutput
+A 9	0	4194304	Value	ValueOutput
+A 10	0	4194304	Value	ValueOutput
+A 11	0	4194304	Value	ValueOutput
+A 12	0	4194304	Value	ValueOutput
+A 13	0	4194304	Value	ValueOutput
+A 14	0	4194304	Value	ValueOutput
+A 15	0	4194304	Value	ValueOutput
+A 16	0	4194304	Value	ValueOutput
+B 1	0	4194304	Value	ValueOutput
+B 2	0	4194304	Value	ValueOutput
+B 3	0	4194304	Value	ValueOutput
+B 4	0	4194304	Value	ValueOutput
+B 5	0	4194304	Value	ValueOutput
+B 6	0	4194304	Value	ValueOutput
+B 7	0	4194304	Value	ValueOutput
+B 8	0	4194304	Value	ValueOutput
+B 9	0	4194304	Value	ValueOutput
+B 10	0	4194304	Value	ValueOutput
+B 11	0	4194304	Value	ValueOutput
+B 12	0	4194304	Value	ValueOutput
+B 13	0	4194304	Value	ValueOutput
+B 14	0	4194304	Value	ValueOutput
+B 15	0	4194304	Value	ValueOutput
+B 16	0	4194304	Value	ValueOutput
+C 1	0	4194304	Value	ValueOutput
+C 2	0	4194304	Value	ValueOutput
+C 3	0	4194304	Value	ValueOutput
+C 4	0	4194304	Value	ValueOutput
+C 5	0	4194304	Value	ValueOutput
+C 6	0	4194304	Value	ValueOutput
+C 7	0	4194304	Value	ValueOutput
+C 8	0	4194304	Value	ValueOutput
+C 9	0	4194304	Value	ValueOutput
+C 10	0	4194304	Value	ValueOutput
+C 11	0	4194304	Value	ValueOutput
+C 12	0	4194304	Value	ValueOutput
+C 13	0	4194304	Value	ValueOutput
+C 14	0	4194304	Value	ValueOutput
+C 15	0	4194304	Value	ValueOutput
+C 16	0	4194304	Value	ValueOutput
+Momentary 1	0	1	Toggle	ValueOutput
+Momentary 2	0	1	Toggle	ValueOutput
+Momentary 3	0	1	Toggle	ValueOutput
+Momentary 4	0	1	Toggle	ValueOutput
+Momentary 5	0	1	Toggle	ValueOutput
+Momentary 6	0	1	Toggle	ValueOutput
+Momentary 7	0	1	Toggle	ValueOutput
+Momentary 8	0	1	Toggle	ValueOutput
+Momentary 9	0	1	Toggle	ValueOutput
+Momentary 10	0	1	Toggle	ValueOutput
+Momentary 11	0	1	Toggle	ValueOutput
+Momentary 12	0	1	Toggle	ValueOutput
+Momentary 13	0	1	Toggle	ValueOutput
+Momentary 14	0	1	Toggle	ValueOutput
+Momentary 15	0	1	Toggle	ValueOutput
+Momentary 16	0	1	Toggle	ValueOutput
+Toggle 1	0	1	Toggle	ValueOutput
+Toggle 2	0	1	Toggle	ValueOutput
+Toggle 3	0	1	Toggle	ValueOutput
+Toggle 4	0	1	Toggle	ValueOutput
+Toggle 5	0	1	Toggle	ValueOutput
+Toggle 6	0	1	Toggle	ValueOutput
+Toggle 7	0	1	Toggle	ValueOutput
+Toggle 8	0	1	Toggle	ValueOutput
+Toggle 9	0	1	Toggle	ValueOutput
+Toggle 10	0	1	Toggle	ValueOutput
+Toggle 11	0	1	Toggle	ValueOutput
+Toggle 12	0	1	Toggle	ValueOutput
+Toggle 13	0	1	Toggle	ValueOutput
+Toggle 14	0	1	Toggle	ValueOutput
+Toggle 15	0	1	Toggle	ValueOutput
+Toggle 16	0	1	Toggle	ValueOutput
+Vertical 1	0	4194304	Value	ValueOutput
+Vertical 2	0	4194304	Value	ValueOutput
+Vertical 3	0	4194304	Value	ValueOutput
+Vertical 4	0	4194304	Value	ValueOutput
+Vertical 5	0	4194304	Value	ValueOutput
+Vertical 6	0	4194304	Value	ValueOutput
+Vertical 7	0	4194304	Value	ValueOutput
+Vertical 8	0	4194304	Value	ValueOutput
+Vertical 9	0	4194304	Value	ValueOutput
+Vertical 10	0	4194304	Value	ValueOutput
+Vertical 11	0	4194304	Value	ValueOutput
+Vertical 12	0	4194304	Value	ValueOutput
+Vertical 13	0	4194304	Value	ValueOutput
+Vertical 14	0	4194304	Value	ValueOutput
+Vertical 15	0	4194304	Value	ValueOutput
+Vertical 16	0	4194304	Value	ValueOutput
+Vertical Bipolar 1	0	1	Toggle	ValueOutput
+Vertical Bipolar 2	0	1	Toggle	ValueOutput
+Vertical Bipolar 3	0	1	Toggle	ValueOutput
+Vertical Bipolar 4	0	1	Toggle	ValueOutput
+Vertical Bipolar 5	0	1	Toggle	ValueOutput
+Vertical Bipolar 6	0	1	Toggle	ValueOutput
+Vertical Bipolar 7	0	1	Toggle	ValueOutput
+Vertical Bipolar 8	0	1	Toggle	ValueOutput
+Vertical Bipolar 9	0	1	Toggle	ValueOutput
+Vertical Bipolar 10	0	1	Toggle	ValueOutput
+Vertical Bipolar 11	0	1	Toggle	ValueOutput
+Vertical Bipolar 12	0	1	Toggle	ValueOutput
+Vertical Bipolar 13	0	1	Toggle	ValueOutput
+Vertical Bipolar 14	0	1	Toggle	ValueOutput
+Vertical Bipolar 15	0	1	Toggle	ValueOutput
+Vertical Bipolar 16	0	1	Toggle	ValueOutput
+Bipolar Left A	0	1	Toggle	ValueOutput
+Bipolar Left B	0	1	Toggle	ValueOutput
+Bipolar Left C	0	1	Toggle	ValueOutput
+Bipolar Right A	0	1	Toggle	ValueOutput
+Bipolar Right B	0	1	Toggle	ValueOutput
+Bipolar Right C	0	1	Toggle	ValueOutput
+Inverted Left Mom	0	1	Toggle	ValueOutput
+Inverted Right Mom	0	1	Toggle	ValueOutput
+Inverted Left Toggle	0	1	Toggle	ValueOutput
+Inverted Right Toggle	0	1	Toggle	ValueOutput
+Hold Outs	0	1	Toggle	ValueOutput
+Sustain Ignore	0	1	Toggle	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Poly Cv Channels	0	14	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

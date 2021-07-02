@@ -1,0 +1,62 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.GlitchEffect
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Randomize Effect Resolutions Knob	0	7	Value	ValueOutput
+Randomize Effect Include Triplets	0	1	Toggle	ValueOutput
+Random Resolution Knob	0	1	Toggle	ValueOutput
+Random Enable Button	0	1	Toggle	ValueOutput
+Shuffle Volume Knob	0	4194304	Value	ValueOutput
+Shuffle Probability Knob	0	4194304	Value	ValueOutput
+Shuffle Resolution Tempo Sync	0	1	Toggle	ValueOutput
+Shuffle Resolution Knob Button	0	7	Value	ValueOutput
+Shuffle Resolution Free Knob	0	4194304	Value	ValueOutput
+Shuffle Enable Button	0	1	Toggle	ValueOutput
+Stutter Volume Knob	0	4194304	Value	ValueOutput
+Stutter Probability Knob	0	4194304	Value	ValueOutput
+Stutter Resolution Tempo Sync	0	1	Toggle	ValueOutput
+Stutter Resolution Knob	0	7	Value	ValueOutput
+Stutter Resolution Free Knob	0	4194304	Value	ValueOutput
+Stutter Enable Button	0	1	Toggle	ValueOutput
+Gate Volume Knob	0	4194304	Value	ValueOutput
+Gate Probability Knob	0	4194304	Value	ValueOutput
+Gate Resolution Tempo Sync	0	1	Toggle	ValueOutput
+Gate Resolution Knob	0	7	Value	ValueOutput
+Gate Resolution Free Knob	0	4194304	Value	ValueOutput
+Gate Enable Button	0	1	Toggle	ValueOutput
+Tape Stop Volume Knob	0	4194304	Value	ValueOutput
+Tape Stop Probability Knob	0	4194304	Value	ValueOutput
+Tape Stop Duration Knob	0	4194304	Value	ValueOutput
+Tape Stop Enable Button	0	1	Toggle	ValueOutput
+Reverse Volume Knob	0	4194304	Value	ValueOutput
+Reverse Probability Knob	0	4194304	Value	ValueOutput
+Reverse Resolution Tempo Sync	0	1	Toggle	ValueOutput
+Reverse Resolution Knob	0	7	Value	ValueOutput
+Reverse Resolution Free Knob	0	4194304	Value	ValueOutput
+Reverse Enable Button	0	1	Toggle	ValueOutput
+External Effect 1 Volume Knob	0	4194304	Value	ValueOutput
+External Effect 1 Probability Knob	0	4194304	Value	ValueOutput
+External Effect 1 Mix Knob	0	4194304	Value	ValueOutput
+External Effect 1 Enable Button	0	1	Toggle	ValueOutput
+External Effect 2 Volume Knob	0	4194304	Value	ValueOutput
+External Effect 2 Probability Knob	0	4194304	Value	ValueOutput
+External Effect 2 Mix Knob	0	4194304	Value	ValueOutput
+External Effect 2 Enable Button	0	1	Toggle	ValueOutput
+External Effect 3 Volume Knob	0	4194304	Value	ValueOutput
+External Effect 3 Probability Knob	0	4194304	Value	ValueOutput
+External Effect 3 Mix Knob	0	4194304	Value	ValueOutput
+External Effect 3 Enable Button	0	1	Toggle	ValueOutput
+External Effect 4 Volume Knob	0	4194304	Value	ValueOutput
+External Effect 4 Probability Knob	0	4194304	Value	ValueOutput
+External Effect 4 Mix Knob	0	4194304	Value	ValueOutput
+External Effect 4 Enable Button	0	1	Toggle	ValueOutput
+Click Knob	0	4194304	Value	ValueOutput
+Random Seed Knob	0	4194304	Value	ValueOutput
+Clear All Buffers	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

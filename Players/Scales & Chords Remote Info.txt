@@ -1,0 +1,22 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.ScalesAndChords
+
+Remotable	Min	Max	Input type	Output type
+On/Off	0	1	Toggle	ValueOutput
+Key	0	11	Value	ValueOutput
+Scale	0	13	Value	ValueOutput
+Filter Notes	0	1	Toggle	ValueOutput
+Chords	0	1	Toggle	ValueOutput
+Notes	0	4	Value	ValueOutput
+Inversion	0	4	Value	ValueOutput
+Open Chords	0	1	Toggle	ValueOutput
+Add Octave Up	0	1	Toggle	ValueOutput
+Add Octave Down	0	1	Toggle	ValueOutput
+Add Color	0	1	Toggle	ValueOutput
+Alter	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

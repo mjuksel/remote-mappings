@@ -1,0 +1,12 @@
+Scope
+Manufacturer	Model
+Propellerheads	Spider CV Merger & Splitter
+
+Remotable	Min	Max	Input type	Output type
+Merge Input 1 Activity	0	1	-	ValueOutput
+Merge Input 2 Activity	0	1	-	ValueOutput
+Merge Input 3 Activity	0	1	-	ValueOutput
+Merge Input 4 Activity	0	1	-	ValueOutput
+Split A Input Activity	0	1	-	ValueOutput
+Split B Input Activity	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput

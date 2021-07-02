@@ -1,0 +1,120 @@
+Scope
+Manufacturer	Model
+DLD Technology	com.dldtechnology.as16
+
+Remotable	Min	Max	Input type	Output type
+Control Voltage 1	0	4194304	Value	ValueOutput
+Gate Width 1	0	4194304	Value	ValueOutput
+Mute 1	0	1	Toggle	ValueOutput
+Pass 1	0	1	Toggle	ValueOutput
+Jump 1	0	1	Toggle	ValueOutput
+Control Voltage 2	0	4194304	Value	ValueOutput
+Gate Width 2	0	4194304	Value	ValueOutput
+Mute 2	0	1	Toggle	ValueOutput
+Pass 2	0	1	Toggle	ValueOutput
+Jump 2	0	1	Toggle	ValueOutput
+Control Voltage 3	0	4194304	Value	ValueOutput
+Gate Width 3	0	4194304	Value	ValueOutput
+Mute 3	0	1	Toggle	ValueOutput
+Pass 3	0	1	Toggle	ValueOutput
+Jump 3	0	1	Toggle	ValueOutput
+Control Voltage 4	0	4194304	Value	ValueOutput
+Gate Width 4	0	4194304	Value	ValueOutput
+Mute 4	0	1	Toggle	ValueOutput
+Pass 4	0	1	Toggle	ValueOutput
+Jump 4	0	1	Toggle	ValueOutput
+Control Voltage 5	0	4194304	Value	ValueOutput
+Gate Width 5	0	4194304	Value	ValueOutput
+Mute 5	0	1	Toggle	ValueOutput
+Pass 5	0	1	Toggle	ValueOutput
+Jump 5	0	1	Toggle	ValueOutput
+Control Voltage 6	0	4194304	Value	ValueOutput
+Gate Width 6	0	4194304	Value	ValueOutput
+Mute 6	0	1	Toggle	ValueOutput
+Pass 6	0	1	Toggle	ValueOutput
+Jump 6	0	1	Toggle	ValueOutput
+Control Voltage 7	0	4194304	Value	ValueOutput
+Gate Width 7	0	4194304	Value	ValueOutput
+Mute 7	0	1	Toggle	ValueOutput
+Pass 7	0	1	Toggle	ValueOutput
+Jump 7	0	1	Toggle	ValueOutput
+Control Voltage 8	0	4194304	Value	ValueOutput
+Gate Width 8	0	4194304	Value	ValueOutput
+Mute 8	0	1	Toggle	ValueOutput
+Pass 8	0	1	Toggle	ValueOutput
+Jump 8	0	1	Toggle	ValueOutput
+Control Voltage 9	0	4194304	Value	ValueOutput
+Gate Width 9	0	4194304	Value	ValueOutput
+Mute 9	0	1	Toggle	ValueOutput
+Pass 9	0	1	Toggle	ValueOutput
+Jump 9	0	1	Toggle	ValueOutput
+Control Voltage 10	0	4194304	Value	ValueOutput
+Gate Width 10	0	4194304	Value	ValueOutput
+Mute 10	0	1	Toggle	ValueOutput
+Pass 10	0	1	Toggle	ValueOutput
+Jump 10	0	1	Toggle	ValueOutput
+Control Voltage 11	0	4194304	Value	ValueOutput
+Gate Width 11	0	4194304	Value	ValueOutput
+Mute 11	0	1	Toggle	ValueOutput
+Pass 11	0	1	Toggle	ValueOutput
+Jump 11	0	1	Toggle	ValueOutput
+Control Voltage 12	0	4194304	Value	ValueOutput
+Gate Width 12	0	4194304	Value	ValueOutput
+Mute 12	0	1	Toggle	ValueOutput
+Pass 12	0	1	Toggle	ValueOutput
+Jump 12	0	1	Toggle	ValueOutput
+Control Voltage 13	0	4194304	Value	ValueOutput
+Gate Width 13	0	4194304	Value	ValueOutput
+Mute 13	0	1	Toggle	ValueOutput
+Pass 13	0	1	Toggle	ValueOutput
+Jump 13	0	1	Toggle	ValueOutput
+Control Voltage 14	0	4194304	Value	ValueOutput
+Gate Width 14	0	4194304	Value	ValueOutput
+Mute 14	0	1	Toggle	ValueOutput
+Pass 14	0	1	Toggle	ValueOutput
+Jump 14	0	1	Toggle	ValueOutput
+Control Voltage 15	0	4194304	Value	ValueOutput
+Gate Width 15	0	4194304	Value	ValueOutput
+Mute 15	0	1	Toggle	ValueOutput
+Pass 15	0	1	Toggle	ValueOutput
+Jump 15	0	1	Toggle	ValueOutput
+Control Voltage 16	0	4194304	Value	ValueOutput
+Gate Width 16	0	4194304	Value	ValueOutput
+Mute 16	0	1	Toggle	ValueOutput
+Pass 16	0	1	Toggle	ValueOutput
+Jump 16	0	1	Toggle	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Auto Run	0	1	Toggle	ValueOutput
+Octave	0	2	Value	ValueOutput
+Range	0	2	Value	ValueOutput
+Mode	0	3	Value	ValueOutput
+Slide	0	2	Value	ValueOutput
+Direction	0	3	Value	ValueOutput
+Sync	0	3	Value	ValueOutput
+Free Clock	0	4194304	Value	ValueOutput
+Ext Clock	0	4194304	Value	ValueOutput
+Sync Clock	0	12	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Note Mode	0	8	Value	ValueOutput
+Root Key	0	12	Value	ValueOutput
+Trig 1	0	1	-	ValueOutput
+Trig 2	0	1	-	ValueOutput
+Trig 3	0	1	-	ValueOutput
+Trig 4	0	1	-	ValueOutput
+Trig 5	0	1	-	ValueOutput
+Trig 6	0	1	-	ValueOutput
+Trig 7	0	1	-	ValueOutput
+Trig 8	0	1	-	ValueOutput
+Trig 9	0	1	-	ValueOutput
+Trig 10	0	1	-	ValueOutput
+Trig 11	0	1	-	ValueOutput
+Trig 12	0	1	-	ValueOutput
+Trig 13	0	1	-	ValueOutput
+Trig 14	0	1	-	ValueOutput
+Trig 15	0	1	-	ValueOutput
+Trig 16	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

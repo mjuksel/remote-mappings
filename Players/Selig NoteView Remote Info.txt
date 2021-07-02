@@ -1,0 +1,14 @@
+Scope
+Manufacturer	Model
+Selig Audio	com.seligaudio.NoteView
+
+Remotable	Min	Max	Input type	Output type
+On/Off	0	1	Toggle	ValueOutput
+Transpose Octave	0	16	Value	ValueOutput
+Transpose Semitone	0	24	Value	ValueOutput
+Display MIDI	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

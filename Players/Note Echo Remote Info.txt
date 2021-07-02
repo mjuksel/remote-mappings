@@ -1,0 +1,35 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.NoteEcho
+
+Remotable	Min	Max	Input type	Output type
+On/Off	0	1	Toggle	ValueOutput
+Tempo Sync	0	1	Toggle	ValueOutput
+Repeats	0	16	Value	ValueOutput
+Pitch	0	24	Value	ValueOutput
+Step Length Free	0	4194304	Value	ValueOutput
+Step Length Synced	0	16	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Original Note Enable	0	1	Toggle	ValueOutput
+Step 1 Enable	0	1	Toggle	ValueOutput
+Step 2 Enable	0	1	Toggle	ValueOutput
+Step 3 Enable	0	1	Toggle	ValueOutput
+Step 4 Enable	0	1	Toggle	ValueOutput
+Step 5 Enable	0	1	Toggle	ValueOutput
+Step 6 Enable	0	1	Toggle	ValueOutput
+Step 7 Enable	0	1	Toggle	ValueOutput
+Step 8 Enable	0	1	Toggle	ValueOutput
+Step 9 Enable	0	1	Toggle	ValueOutput
+Step 10 Enable	0	1	Toggle	ValueOutput
+Step 11 Enable	0	1	Toggle	ValueOutput
+Step 12 Enable	0	1	Toggle	ValueOutput
+Step 13 Enable	0	1	Toggle	ValueOutput
+Step 14 Enable	0	1	Toggle	ValueOutput
+Step 15 Enable	0	1	Toggle	ValueOutput
+Step 16 Enable	0	1	Toggle	ValueOutput
+Step 17 Enable	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

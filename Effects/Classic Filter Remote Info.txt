@@ -1,0 +1,18 @@
+Scope
+Manufacturer	Model
+MagmaSonic	drno.magmasonic.ClassicFilter
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Spice	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Switch on/off	0	1	Toggle	ValueOutput
+Hp/Lp	0	1	Toggle	ValueOutput
+Filter type	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

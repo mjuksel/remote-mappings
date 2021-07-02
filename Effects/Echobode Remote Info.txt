@@ -1,0 +1,33 @@
+Scope
+Manufacturer	Model
+Sonic Charge	com.soniccharge.Echobode
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Frequency Shift Range	0	2	Value	ValueOutput
+Frequency Shift Fine	0	4194304	Value	ValueOutput
+Frequency Shift Wide	0	4194304	Value	ValueOutput
+Frequency Shift Synced	0	20	Value	ValueOutput
+Phase Shift	0	4194304	Value	ValueOutput
+Anti Reflection	0	1	Toggle	ValueOutput
+Sideband Mix	0	4194304	Value	ValueOutput
+Delay Sync	0	1	Toggle	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Time Synced	0	14	Value	ValueOutput
+Filter Cutoff Frequency	0	4194304	Value	ValueOutput
+Cross Channels	0	1	Toggle	ValueOutput
+Feedback Amount	0	4194304	Value	ValueOutput
+Wet Mix	0	4194304	Value	ValueOutput
+LFO Target	0	2	Value	ValueOutput
+LFO Sync	0	1	Toggle	ValueOutput
+LFO Stereo	0	1	Toggle	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Rate Synced	0	24	Value	ValueOutput
+LFO Amount Frequency	0	4194304	Value	ValueOutput
+LFO Amount Phase	0	4194304	Value	ValueOutput
+LFO Amount Delay	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

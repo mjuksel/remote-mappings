@@ -1,0 +1,35 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.CustomVibe
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Dry Signal Gain	0	4194304	Value	ValueOutput
+Wet Signal Gaind	0	4194304	Value	ValueOutput
+Custom: 1 step	0	4194304	Value	ValueOutput
+Custom: 2 step	0	4194304	Value	ValueOutput
+Custom: 3 step	0	4194304	Value	ValueOutput
+Custom: 4 step	0	4194304	Value	ValueOutput
+Custom: 5 step	0	4194304	Value	ValueOutput
+Custom: 6 step	0	4194304	Value	ValueOutput
+Custom: 7 step	0	4194304	Value	ValueOutput
+Custom: 8 step	0	4194304	Value	ValueOutput
+Custom: 9 step	0	4194304	Value	ValueOutput
+Custom: 10 step	0	4194304	Value	ValueOutput
+Custom: 11 step	0	4194304	Value	ValueOutput
+Custom: 12 step	0	4194304	Value	ValueOutput
+Amount	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Soft Bypass	0	1	Toggle	ValueOutput
+Type Selector	0	1	Toggle	ValueOutput
+Vibrato Mode	0	7	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Intensity	0	4194304	Value	ValueOutput
+Wobble Osc	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Widening	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

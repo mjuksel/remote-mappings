@@ -1,0 +1,56 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Klang
+
+Remotable	Min	Max	Input type	Output type
+SampleStart	0	4194304	Value	ValueOutput
+Octave	0	4	Value	ValueOutput
+Semitune	0	24	Value	ValueOutput
+Finetune	0	4194304	Value	ValueOutput
+Filter_On	0	1	Toggle	ValueOutput
+Filter_Type	0	3	Value	ValueOutput
+Filter_Cutoff	0	4194304	Value	ValueOutput
+Filter_Reso	0	4194304	Value	ValueOutput
+Filter_Env	0	4194304	Value	ValueOutput
+Filter_Attack	0	4194304	Value	ValueOutput
+Filter_Decay	0	4194304	Value	ValueOutput
+Filter_Sustain	0	4194304	Value	ValueOutput
+Filter_Release	0	4194304	Value	ValueOutput
+Filter_Velocity	0	4194304	Value	ValueOutput
+Filter_KeyFollow	0	4194304	Value	ValueOutput
+Master_Volume	0	4194304	Value	ValueOutput
+Amp_Velocity	0	4194304	Value	ValueOutput
+Amp_Attack	0	4194304	Value	ValueOutput
+Amp_Decay	0	4194304	Value	ValueOutput
+Amp_Sustain	0	4194304	Value	ValueOutput
+Amp_Release	0	4194304	Value	ValueOutput
+Delay_On	0	1	Toggle	ValueOutput
+Delay_Time	0	4194304	Value	ValueOutput
+Synced_Delay_Time	0	11	Value	ValueOutput
+Delay_Feedback	0	4194304	Value	ValueOutput
+Delay_Sync	0	1	Toggle	ValueOutput
+Delay_PingPong	0	1	Toggle	ValueOutput
+Delay_Damp	0	4194304	Value	ValueOutput
+Delay Amount	0	4194304	Value	ValueOutput
+Reverb_On	0	1	Toggle	ValueOutput
+Reverb_Time	0	4194304	Value	ValueOutput
+Reverb_PreDelay	0	4194304	Value	ValueOutput
+Reverb_HighDamp	0	4194304	Value	ValueOutput
+Reverb_LowDamp	0	4194304	Value	ValueOutput
+Reverb Amount	0	4194304	Value	ValueOutput
+Pitch_Bend_Range	0	12	Value	ValueOutput
+Mod Wheel to Sample Start	0	4194304	Value	ValueOutput
+Mod Wheel to Filter Cutoff	0	4194304	Value	ValueOutput
+Mod Wheel to Amp Level	0	4194304	Value	ValueOutput
+Instrument	0	9	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

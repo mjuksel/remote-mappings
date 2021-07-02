@@ -1,0 +1,182 @@
+Scope
+Manufacturer	Model
+Speo	com.speomusic.Tribute
+
+Remotable	Min	Max	Input type	Output type
+Osc1 Level	0	4194304	Value	ValueOutput
+Osc1 Pan	0	4194304	Value	ValueOutput
+Osc1 Attack	0	4194304	Value	ValueOutput
+Osc1 Release	0	4194304	Value	ValueOutput
+Osc1 Octave	0	8	Value	ValueOutput
+Osc1 Semi	0	24	Value	ValueOutput
+Osc1 Cent	0	200	Value	ValueOutput
+Osc1 Unison Voices	0	7	Value	ValueOutput
+Osc1 Unison Detune	0	4194304	Value	ValueOutput
+Osc1 Unison Spread	0	4194304	Value	ValueOutput
+Osc1 Wavetable Position	0	4194304	Value	ValueOutput
+Osc1 Outer FM	0	4194304	Value	ValueOutput
+Osc1 Inner FM	0	4194304	Value	ValueOutput
+Osc1 FM Position	0	4194304	Value	ValueOutput
+Osc1 FM Ratio	0	4194304	Value	ValueOutput
+Osc1 FM Ratio (Smooth)	0	4194304	Value	ValueOutput
+Osc1 Squarify	0	1	Toggle	ValueOutput
+Osc1 Smooth	0	1	Toggle	ValueOutput
+Osc1 Enabled	0	1	Toggle	ValueOutput
+Osc2 Level	0	4194304	Value	ValueOutput
+Osc2 Pan	0	4194304	Value	ValueOutput
+Osc2 Attack	0	4194304	Value	ValueOutput
+Osc2 Release	0	4194304	Value	ValueOutput
+Osc2 Octave	0	8	Value	ValueOutput
+Osc2 Semi	0	24	Value	ValueOutput
+Osc2 Cent	0	200	Value	ValueOutput
+Osc2 Unison Voices	0	7	Value	ValueOutput
+Osc2 Unison Detune	0	4194304	Value	ValueOutput
+Osc2 Unison Spread	0	4194304	Value	ValueOutput
+Osc2 Wavetable Position	0	4194304	Value	ValueOutput
+Osc2 Outer FM	0	4194304	Value	ValueOutput
+Osc2 Inner FM	0	4194304	Value	ValueOutput
+Osc2 FM Position	0	4194304	Value	ValueOutput
+Osc2 FM Ratio	0	4194304	Value	ValueOutput
+Osc2 FM Ratio (Smooth)	0	4194304	Value	ValueOutput
+Osc2 Squarify	0	1	Toggle	ValueOutput
+Osc2 Smooth	0	1	Toggle	ValueOutput
+Osc2 Enabled	0	1	Toggle	ValueOutput
+Env1 Tempo Sync	0	1	Toggle	ValueOutput
+Env1 Free Tempo	0	4194304	Value	ValueOutput
+Env1 Synced Tempo	0	4194304	Value	ValueOutput
+Env1 Attack Curve	0	4194304	Value	ValueOutput
+Env1 Attack Curve S Form	0	1	Toggle	ValueOutput
+Env1 Decay Curve	0	4194304	Value	ValueOutput
+Env1 Decay Curve S Form	0	1	Toggle	ValueOutput
+Env1 Attack/Decay Ratio	0	4194304	Value	ValueOutput
+Env1 Hold	0	4194304	Value	ValueOutput
+Env1 Fractal	0	4194304	Value	ValueOutput
+Env1 Sustain Enabled	0	1	Toggle	ValueOutput
+Env1 Sustain Position	0	4194304	Value	ValueOutput
+Env2 Tempo Sync	0	1	Toggle	ValueOutput
+Env2 Free Tempo	0	4194304	Value	ValueOutput
+Env2 Synced Tempo	0	4194304	Value	ValueOutput
+Env2 Attack Curve	0	4194304	Value	ValueOutput
+Env2 Attack Curve S Form	0	1	Toggle	ValueOutput
+Env2 Decay Curve	0	4194304	Value	ValueOutput
+Env2 Decay Curve S Form	0	1	Toggle	ValueOutput
+Env2 Attack/Decay Ratio	0	4194304	Value	ValueOutput
+Env2 Hold	0	4194304	Value	ValueOutput
+Env2 Fractal	0	4194304	Value	ValueOutput
+Env2 Sustain Enabled	0	1	Toggle	ValueOutput
+Env2 Sustain Position	0	4194304	Value	ValueOutput
+Env3 Tempo Sync	0	1	Toggle	ValueOutput
+Env3 Free Tempo	0	4194304	Value	ValueOutput
+Env3 Synced Tempo	0	4194304	Value	ValueOutput
+Env3 Attack Curve	0	4194304	Value	ValueOutput
+Env3 Attack Curve S Form	0	1	Toggle	ValueOutput
+Env3 Decay Curve	0	4194304	Value	ValueOutput
+Env3 Decay Curve S Form	0	1	Toggle	ValueOutput
+Env3 Attack/Decay Ratio	0	4194304	Value	ValueOutput
+Env3 Hold	0	4194304	Value	ValueOutput
+Env3 Fractal	0	4194304	Value	ValueOutput
+Env3 Sustain Enabled	0	1	Toggle	ValueOutput
+Env3 Sustain Position	0	4194304	Value	ValueOutput
+Env4 Tempo Sync	0	1	Toggle	ValueOutput
+Env4 Free Tempo	0	4194304	Value	ValueOutput
+Env4 Synced Tempo	0	4194304	Value	ValueOutput
+Env4 Attack Curve	0	4194304	Value	ValueOutput
+Env4 Attack Curve S Form	0	1	Toggle	ValueOutput
+Env4 Decay Curve	0	4194304	Value	ValueOutput
+Env4 Decay Curve S Form	0	1	Toggle	ValueOutput
+Env4 Attack/Decay Ratio	0	4194304	Value	ValueOutput
+Env4 Hold	0	4194304	Value	ValueOutput
+Env4 Fractal	0	4194304	Value	ValueOutput
+Env4 Sustain Enabled	0	1	Toggle	ValueOutput
+Env4 Sustain Position	0	4194304	Value	ValueOutput
+Env5 Tempo Sync	0	1	Toggle	ValueOutput
+Env5 Free Tempo	0	4194304	Value	ValueOutput
+Env5 Synced Tempo	0	4194304	Value	ValueOutput
+Env5 Attack Curve	0	4194304	Value	ValueOutput
+Env5 Attack Curve S Form	0	1	Toggle	ValueOutput
+Env5 Decay Curve	0	4194304	Value	ValueOutput
+Env5 Decay Curve S Form	0	1	Toggle	ValueOutput
+Env5 Attack/Decay Ratio	0	4194304	Value	ValueOutput
+Env5 Hold	0	4194304	Value	ValueOutput
+Env5 Fractal	0	4194304	Value	ValueOutput
+Env5 Sustain Enabled	0	1	Toggle	ValueOutput
+Env5 Sustain Position	0	4194304	Value	ValueOutput
+Env6 Tempo Sync	0	1	Toggle	ValueOutput
+Env6 Free Tempo	0	4194304	Value	ValueOutput
+Env6 Synced Tempo	0	4194304	Value	ValueOutput
+Env6 Attack Curve	0	4194304	Value	ValueOutput
+Env6 Attack Curve S Form	0	1	Toggle	ValueOutput
+Env6 Decay Curve	0	4194304	Value	ValueOutput
+Env6 Decay Curve S Form	0	1	Toggle	ValueOutput
+Env6 Attack/Decay Ratio	0	4194304	Value	ValueOutput
+Env6 Hold	0	4194304	Value	ValueOutput
+Env6 Fractal	0	4194304	Value	ValueOutput
+Env6 Sustain Enabled	0	1	Toggle	ValueOutput
+Env6 Sustain Position	0	4194304	Value	ValueOutput
+Mod1 Global	0	1	Toggle	ValueOutput
+Mod1 Bipolar	0	1	Toggle	ValueOutput
+Mod1 Start	0	4194304	Value	ValueOutput
+Mod1 Time Scale	0	4194304	Value	ValueOutput
+Mod2 Global	0	1	Toggle	ValueOutput
+Mod2 Bipolar	0	1	Toggle	ValueOutput
+Mod2 Start	0	4194304	Value	ValueOutput
+Mod2 Time Scale	0	4194304	Value	ValueOutput
+Mod3 Global	0	1	Toggle	ValueOutput
+Mod3 Bipolar	0	1	Toggle	ValueOutput
+Mod3 Start	0	4194304	Value	ValueOutput
+Mod3 Time Scale	0	4194304	Value	ValueOutput
+Mod4 Global	0	1	Toggle	ValueOutput
+Mod4 Bipolar	0	1	Toggle	ValueOutput
+Mod4 Start	0	4194304	Value	ValueOutput
+Mod4 Time Scale	0	4194304	Value	ValueOutput
+Macro 1	0	4194304	Value	ValueOutput
+Macro 2	0	4194304	Value	ValueOutput
+Macro 3	0	4194304	Value	ValueOutput
+Macro 4	0	4194304	Value	ValueOutput
+Flt1 Type	0	53	Value	ValueOutput
+Flt1 Cutoff	0	4194304	Value	ValueOutput
+Flt1 Keyboard Track Offset	0	4194304	Value	ValueOutput
+Flt1 Resonance	0	4194304	Value	ValueOutput
+Flt1 Keyboard Track	0	1	Toggle	ValueOutput
+Flt1 Mix	0	4194304	Value	ValueOutput
+Flt1 Spread	0	4194304	Value	ValueOutput
+Osc1 to Flt1	0	1	Toggle	ValueOutput
+Osc2 to Flt1	0	1	Toggle	ValueOutput
+Ext Audio to Flt1	0	1	Toggle	ValueOutput
+Flt1 Enabled	0	1	Toggle	ValueOutput
+Flt2 Type	0	53	Value	ValueOutput
+Flt2 Cutoff	0	4194304	Value	ValueOutput
+Flt2 Keyboard Track Offset	0	4194304	Value	ValueOutput
+Flt2 Resonance	0	4194304	Value	ValueOutput
+Flt2 Keyboard Track	0	1	Toggle	ValueOutput
+Flt2 Mix	0	4194304	Value	ValueOutput
+Flt2 Spread	0	4194304	Value	ValueOutput
+Osc1 to Flt2	0	1	Toggle	ValueOutput
+Osc2 to Flt2	0	1	Toggle	ValueOutput
+Ext Audio to Flt2	0	1	Toggle	ValueOutput
+Flt2 Enabled	0	1	Toggle	ValueOutput
+Pitch Bend Range	0	48	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Monophonic	0	1	Toggle	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Serial Filter Routing	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Select Oscillator	0	1	-	ValueOutput
+Select Envelope	0	5	-	ValueOutput
+Select Mod	0	5	-	ValueOutput
+Select Filter	0	1	-	ValueOutput
+Enter Emit Mode	0	1	-	ValueOutput
+Number of Emitted Frames	0	255	Value	ValueOutput
+Emit Period Tempo Sync	0	1	Toggle	ValueOutput
+Free Emit Period	0	4194304	Value	ValueOutput
+Synced Emit Period	0	4194304	Value	ValueOutput
+Emit on Note C8	0	1	Toggle	ValueOutput
+Emit Button	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Record Sample	0	0	Trig	TextOutput

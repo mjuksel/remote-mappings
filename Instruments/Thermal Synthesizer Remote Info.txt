@@ -1,0 +1,78 @@
+Scope
+Manufacturer	Model
+Skrock Music	se.skrockmusic.Radiator
+
+Remotable	Min	Max	Input type	Output type
+Glide	0	4194304	Value	ValueOutput
+Sub Level	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Poly	0	1	Toggle	ValueOutput
+Filter key Tracking	0	1	Toggle	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Filter Vel	0	4194304	Value	ValueOutput
+Filter Env	0	4194304	Value	ValueOutput
+Filter Env Attack	0	4194304	Value	ValueOutput
+Filter Env Decay	0	4194304	Value	ValueOutput
+Filter Env Sustain	0	4194304	Value	ValueOutput
+Filter Env Release	0	4194304	Value	ValueOutput
+Amp Env Attack	0	4194304	Value	ValueOutput
+Amp Env Decay	0	4194304	Value	ValueOutput
+Amp Env Sustain	0	4194304	Value	ValueOutput
+Amp Env Release	0	4194304	Value	ValueOutput
+Env 1 Attack	0	4194304	Value	ValueOutput
+Env 1 Decay	0	4194304	Value	ValueOutput
+Env 1 Sustain	0	4194304	Value	ValueOutput
+Env 1 Release	0	4194304	Value	ValueOutput
+Env 1 Amount	0	4194304	Value	ValueOutput
+Env 1 Destination	0	23	Value	ValueOutput
+Env 2 Attack	0	4194304	Value	ValueOutput
+Env 2 Decay	0	4194304	Value	ValueOutput
+Env 2 Sustain	0	4194304	Value	ValueOutput
+Env 2 Release	0	4194304	Value	ValueOutput
+Env 2 Amount	0	4194304	Value	ValueOutput
+Env 2 Destination	0	23	Value	ValueOutput
+Wave A	0	7	Value	ValueOutput
+Wave A Amp	0	4194304	Value	ValueOutput
+Wave A Pan	0	4194304	Value	ValueOutput
+Wave A Semi	0	4194304	Value	ValueOutput
+Wave A Cent	0	4194304	Value	ValueOutput
+Wave B	0	7	Value	ValueOutput
+Wave B Amp	0	4194304	Value	ValueOutput
+Wave B Pan	0	4194304	Value	ValueOutput
+Wave B Semi	0	4194304	Value	ValueOutput
+Wave B Cent	0	4194304	Value	ValueOutput
+Wave C	0	7	Value	ValueOutput
+Wave C Amp	0	4194304	Value	ValueOutput
+Wave C Pan	0	4194304	Value	ValueOutput
+Wave C Semi	0	4194304	Value	ValueOutput
+Wave C Cent	0	4194304	Value	ValueOutput
+Wave D	0	7	Value	ValueOutput
+Wave D Amp	0	4194304	Value	ValueOutput
+Wave D Pan	0	4194304	Value	ValueOutput
+Wave D Semi	0	4194304	Value	ValueOutput
+Wave D Cent	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 1 Waveform	0	4	Value	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 1 Retrig	0	1	Toggle	ValueOutput
+LFO 1 Amount	0	4194304	Value	ValueOutput
+LFO 1 Destination	0	23	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Waveform	0	4	Value	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+LFO 2 Retrig	0	1	Toggle	ValueOutput
+LFO 2 Amount	0	4194304	Value	ValueOutput
+LFO 2 Destination	0	23	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

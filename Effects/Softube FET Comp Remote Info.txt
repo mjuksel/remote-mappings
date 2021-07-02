@@ -1,0 +1,21 @@
+Scope
+Manufacturer	Model
+Softube	com.softube.re.FETCompressor
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Parallel Inject	0	4194304	Value	ValueOutput
+Low Cut	0	4194304	Value	ValueOutput
+High Cut	0	4194304	Value	ValueOutput
+Lookahead	0	4194304	Value	ValueOutput
+External Side Chain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

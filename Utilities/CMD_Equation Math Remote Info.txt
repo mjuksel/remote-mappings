@@ -1,0 +1,27 @@
+Scope
+Manufacturer	Model
+The Chronologists	com.thechronologists.Equation
+
+Remotable	Min	Max	Input type	Output type
+Term 1	0	12	Value	ValueOutput
+Term 2	0	12	Value	ValueOutput
+Term 3	0	12	Value	ValueOutput
+Term 4	0	12	Value	ValueOutput
+Bracket Select 1	0	1	Toggle	ValueOutput
+Bracket Select 2	0	1	Toggle	ValueOutput
+Bracket Select 3	0	1	Toggle	ValueOutput
+Operation 1	0	9	Value	ValueOutput
+Operation 2	0	9	Value	ValueOutput
+Operation 3	0	9	Value	ValueOutput
+Unary Operator 1	0	20	Value	ValueOutput
+Unary Operator 2	0	20	Value	ValueOutput
+Unary Operator 3	0	20	Value	ValueOutput
+Unary Operator 4	0	20	Value	ValueOutput
+Unary Operator Final	0	20	Value	ValueOutput
+Cv Interpolation	0	1	Toggle	ValueOutput
+Display Status	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

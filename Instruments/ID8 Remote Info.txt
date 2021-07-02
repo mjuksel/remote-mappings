@@ -1,0 +1,28 @@
+Scope
+Manufacturer	Model
+Propellerheads	ID8 Instrument Device
+
+Remotable	Min	Max	Input type	Output type
+Mod Wheel	0	127	Value	ValueOutput
+Note On Indicator	0	1	-	ValueOutput
+Parameter 1	0	127	Value	ValueOutput
+Parameter 2	0	127	Value	ValueOutput
+Volume	0	127	Value	ValueOutput
+Sample Loading Progress	-1	127	-	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Category	0	8	Value	ValueOutput
+Select Previous Category	0	0	Trig	TextOutput
+Select Next Category	0	0	Trig	TextOutput
+Sound	0	3	Value	ValueOutput
+Select Previous Sound	0	0	Trig	TextOutput
+Select Next Sound	0	0	Trig	TextOutput
+Sound A	0	1	Trig	ValueOutput
+Sound B	0	1	Trig	ValueOutput
+Sound C	0	1	Trig	ValueOutput
+Sound D	0	1	Trig	ValueOutput
+Preset	0	35	Value	ValueOutput
+Select Previous Preset	0	0	Trig	TextOutput
+Select Next Preset	0	0	Trig	TextOutput
+Category Name	0	0	-	TextOutput
+Sound Name	0	0	-	TextOutput

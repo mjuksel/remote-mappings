@@ -1,0 +1,15 @@
+Scope
+Manufacturer	Model
+Propellerheads	PEQ-2 Two Band Parametric EQ
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Filter A Freq	0	127	Value	ValueOutput
+Filter A Q	0	127	Value	ValueOutput
+Filter A Gain	-64	63	Value	ValueOutput
+Filter B Freq	0	127	Value	ValueOutput
+Filter B Q	0	127	Value	ValueOutput
+Filter B Gain	-64	63	Value	ValueOutput
+Filter B On/Off	0	1	Toggle	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+Device Name	0	0	-	TextOutput

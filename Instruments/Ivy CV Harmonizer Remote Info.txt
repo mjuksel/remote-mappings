@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+Rainwaves	co.uk.rainwaves.Ivy
+
+Remotable	Min	Max	Input type	Output type
+Custom Scale C	0	1	Toggle	ValueOutput
+Custom Scale Csh	0	1	Toggle	ValueOutput
+Custom Scale D	0	1	Toggle	ValueOutput
+Custom Scale Dsh	0	1	Toggle	ValueOutput
+Custom Scale E	0	1	Toggle	ValueOutput
+Custom Scale F	0	1	Toggle	ValueOutput
+Custom Scale Fsh	0	1	Toggle	ValueOutput
+Custom Scale G	0	1	Toggle	ValueOutput
+Custom Scale Gsh	0	1	Toggle	ValueOutput
+Custom Scale A	0	1	Toggle	ValueOutput
+Custom Scale Ash	0	1	Toggle	ValueOutput
+Custom Scale B	0	1	Toggle	ValueOutput
+Harmony Interval	0	14	Value	ValueOutput
+Adv Harmony Interval_0	0	14	Value	ValueOutput
+Adv Harmony Interval_1	0	14	Value	ValueOutput
+Adv Harmony Interval_2	0	14	Value	ValueOutput
+Adv Harmony Interval_3	0	14	Value	ValueOutput
+Adv Harmony Interval_4	0	14	Value	ValueOutput
+Adv Harmony Interval_5	0	14	Value	ValueOutput
+Adv Harmony Interval_6	0	14	Value	ValueOutput
+Adv Harmony Interval_7	0	14	Value	ValueOutput
+Adv Harmony Interval_8	0	14	Value	ValueOutput
+Adv Harmony Interval_9	0	14	Value	ValueOutput
+Adv Harmony Interval_10	0	14	Value	ValueOutput
+Adv Harmony Interval_11	0	14	Value	ValueOutput
+Harmony Interval Free	0	24	Value	ValueOutput
+Adv Harmony Interval Free_0	0	24	Value	ValueOutput
+Adv Harmony Interval Free_1	0	24	Value	ValueOutput
+Adv Harmony Interval Free_2	0	24	Value	ValueOutput
+Adv Harmony Interval Free_3	0	24	Value	ValueOutput
+Adv Harmony Interval Free_4	0	24	Value	ValueOutput
+Adv Harmony Interval Free_5	0	24	Value	ValueOutput
+Adv Harmony Interval Free_6	0	24	Value	ValueOutput
+Adv Harmony Interval Free_7	0	24	Value	ValueOutput
+Adv Harmony Interval Free_8	0	24	Value	ValueOutput
+Adv Harmony Interval Free_9	0	24	Value	ValueOutput
+Adv Harmony Interval Free_10	0	24	Value	ValueOutput
+Adv Harmony Interval Free_11	0	24	Value	ValueOutput
+Key Root Note	0	11	Value	ValueOutput
+Harmony Key Sync	0	1	Toggle	ValueOutput
+Accidentals Mode	0	1	Toggle	ValueOutput
+Harmony Advanced Mode	0	1	Toggle	ValueOutput
+Global Octave	0	8	Value	ValueOutput
+Flush Notes	0	1	Toggle	ValueOutput
+Scale	0	6	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

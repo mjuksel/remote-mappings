@@ -1,0 +1,33 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.ZFO_2
+
+Remotable	Min	Max	Input type	Output type
+Lfo 1 Phase	0	4194304	Value	ValueOutput
+Lfo 1 Rate Free	0	4194304	Value	ValueOutput
+Lfo 1 Rate Sync	0	30	Value	ValueOutput
+Lfo 1 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 1 Waveform	0	999	Value	ValueOutput
+Lfo 1 Lag	0	4194304	Value	ValueOutput
+Lfo 1 Transport Sync	0	1	Toggle	ValueOutput
+Lfo 1 Trigger	0	1	Toggle	ValueOutput
+Lfo 1 Scale	0	4194304	Value	ValueOutput
+Lfo 1 To Lfo2 Rate	0	4194304	Value	ValueOutput
+Lfo 1 To Lfo2 Phase	0	4194304	Value	ValueOutput
+Lfo 2 Phase	0	4194304	Value	ValueOutput
+Lfo 2 Rate Free	0	4194304	Value	ValueOutput
+Lfo 2 Rate Sync	0	30	Value	ValueOutput
+Lfo 2 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 2 Waveform	0	999	Value	ValueOutput
+Lfo 2 Lag	0	4194304	Value	ValueOutput
+Lfo 2 Transport Sync	0	1	Toggle	ValueOutput
+Lfo 2 Trigger	0	1	Toggle	ValueOutput
+Lfo 2 Scale	0	4194304	Value	ValueOutput
+Lfo 2 To Lfo1 Rate	0	4194304	Value	ValueOutput
+Lfo 2 To Lfo1 Phase	0	4194304	Value	ValueOutput
+Lfo Trigger	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

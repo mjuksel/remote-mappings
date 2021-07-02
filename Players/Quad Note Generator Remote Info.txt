@@ -1,0 +1,86 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.QuadNoteGenerator
+
+Remotable	Min	Max	Input type	Output type
+Line 1 On	0	1	Toggle	ValueOutput
+Line 1 Rate	0	11	Value	ValueOutput
+Line 1 Steps	0	31	Value	ValueOutput
+Line 1 Pitch Range Up	0	24	Value	ValueOutput
+Line 1 Pitch Range Down	0	24	Value	ValueOutput
+Line 1 Pitch Vary	0	4194304	Value	ValueOutput
+Line 1 Pitch Spread	0	4194304	Value	ValueOutput
+Line 1 Rhythm Pattern	0	31	Value	ValueOutput
+Line 1 Rhythm Shift	0	8	Value	ValueOutput
+Line 1 Rhythm Vary	0	4194304	Value	ValueOutput
+Line 1 Rhythm Bias	0	4194304	Value	ValueOutput
+Line 1 Note Length	0	19	Value	ValueOutput
+Line 1 Note Length Vary	0	4194304	Value	ValueOutput
+Line 1 Velocity	0	126	Value	ValueOutput
+Line 1 Velocity Vary	0	4194304	Value	ValueOutput
+Line 2 On	0	1	Toggle	ValueOutput
+Line 2 Rate	0	11	Value	ValueOutput
+Line 2 Steps	0	31	Value	ValueOutput
+Line 2 Pitch Range Up	0	24	Value	ValueOutput
+Line 2 Pitch Range Down	0	24	Value	ValueOutput
+Line 2 Pitch Vary	0	4194304	Value	ValueOutput
+Line 2 Pitch Spread	0	4194304	Value	ValueOutput
+Line 2 Rhythm Pattern	0	31	Value	ValueOutput
+Line 2 Rhythm Shift	0	8	Value	ValueOutput
+Line 2 Rhythm Vary	0	4194304	Value	ValueOutput
+Line 2 Rhythm Bias	0	4194304	Value	ValueOutput
+Line 2 Note Length	0	19	Value	ValueOutput
+Line 2 Note Length Vary	0	4194304	Value	ValueOutput
+Line 2 Velocity	0	126	Value	ValueOutput
+Line 2 Velocity Vary	0	4194304	Value	ValueOutput
+Line 2 Pitch Offset	0	48	Value	ValueOutput
+Line 3 On	0	1	Toggle	ValueOutput
+Line 3 Rate	0	11	Value	ValueOutput
+Line 3 Steps	0	31	Value	ValueOutput
+Line 3 Pitch Range Up	0	24	Value	ValueOutput
+Line 3 Pitch Range Down	0	24	Value	ValueOutput
+Line 3 Pitch Vary	0	4194304	Value	ValueOutput
+Line 3 Pitch Spread	0	4194304	Value	ValueOutput
+Line 3 Rhythm Pattern	0	31	Value	ValueOutput
+Line 3 Rhythm Shift	0	8	Value	ValueOutput
+Line 3 Rhythm Vary	0	4194304	Value	ValueOutput
+Line 3 Rhythm Bias	0	4194304	Value	ValueOutput
+Line 3 Note Length	0	19	Value	ValueOutput
+Line 3 Note Length Vary	0	4194304	Value	ValueOutput
+Line 3 Velocity	0	126	Value	ValueOutput
+Line 3 Velocity Vary	0	4194304	Value	ValueOutput
+Line 3 Pitch Offset	0	48	Value	ValueOutput
+Line 4 On	0	1	Toggle	ValueOutput
+Line 4 Rate	0	11	Value	ValueOutput
+Line 4 Steps	0	31	Value	ValueOutput
+Line 4 Pitch Range Up	0	24	Value	ValueOutput
+Line 4 Pitch Range Down	0	24	Value	ValueOutput
+Line 4 Pitch Vary	0	4194304	Value	ValueOutput
+Line 4 Pitch Spread	0	4194304	Value	ValueOutput
+Line 4 Rhythm Pattern	0	31	Value	ValueOutput
+Line 4 Rhythm Shift	0	8	Value	ValueOutput
+Line 4 Rhythm Vary	0	4194304	Value	ValueOutput
+Line 4 Rhythm Bias	0	4194304	Value	ValueOutput
+Line 4 Note Length	0	19	Value	ValueOutput
+Line 4 Note Length Vary	0	4194304	Value	ValueOutput
+Line 4 Velocity	0	126	Value	ValueOutput
+Line 4 Velocity Vary	0	4194304	Value	ValueOutput
+Line 4 Pitch Offset	0	48	Value	ValueOutput
+On	0	1	Toggle	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Run Mode	0	1	Toggle	ValueOutput
+Freeze Start	0	32	Value	ValueOutput
+Freeze Length	0	32	Value	ValueOutput
+Global Steps	0	31	Value	ValueOutput
+Output Mode	0	4	Value	ValueOutput
+Output To Scale	0	1	Toggle	ValueOutput
+Output Key	0	12	Value	ValueOutput
+Output Scale	0	15	Value	ValueOutput
+Output Octave	0	4	Value	ValueOutput
+Master Vary	0	4194304	Value	ValueOutput
+Base Key	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,49 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.ElectricBass
+
+Remotable	Min	Max	Input type	Output type
+Hammer On	0	1	Toggle	ValueOutput
+Glissando	0	1	Toggle	ValueOutput
+Randomness	0	4194304	Value	ValueOutput
+EQ On/Off	0	1	Toggle	ValueOutput
+EQ Band 1	0	4194304	Value	ValueOutput
+EQ Band 2	0	4194304	Value	ValueOutput
+EQ Band 3	0	4194304	Value	ValueOutput
+EQ Band 4	0	4194304	Value	ValueOutput
+EQ Band 5	0	4194304	Value	ValueOutput
+EQ Gain	0	4194304	Value	ValueOutput
+Compressor On/Off	0	1	Toggle	ValueOutput
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor Sustain	0	4194304	Value	ValueOutput
+Compressor Level	0	4194304	Value	ValueOutput
+Drive Dist On/Off	0	1	Toggle	ValueOutput
+Drive Dist Dist	0	4194304	Value	ValueOutput
+Drive Dist Tone	0	4194304	Value	ValueOutput
+Drive Dist Level	0	4194304	Value	ValueOutput
+Chorus On/Off	0	1	Toggle	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Level	0	4194304	Value	ValueOutput
+Reamp On/Off	0	1	Toggle	ValueOutput
+Reamp Pre Effects	0	1	Toggle	ValueOutput
+Reamp Gain	0	4194304	Value	ValueOutput
+Reamp Bass	0	4194304	Value	ValueOutput
+Reamp Mid	0	4194304	Value	ValueOutput
+Reamp Treble	0	4194304	Value	ValueOutput
+Source Mix	0	4194304	Value	ValueOutput
+Pickup Mix	0	4194304	Value	ValueOutput
+Amp & Mic	0	7	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Bass	0	7	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

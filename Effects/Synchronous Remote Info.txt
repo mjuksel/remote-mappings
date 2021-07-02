@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Synchronous
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Dist On	0	1	Toggle	ValueOutput
+Dist Amount	0	4194304	Value	ValueOutput
+Dist Character	0	4194304	Value	ValueOutput
+Dist Type	0	3	Value	ValueOutput
+Dist Post Filter	0	1	Toggle	ValueOutput
+Filter On	0	1	Toggle	ValueOutput
+Filter Freq	0	4194304	Value	ValueOutput
+Filter Reso	0	4194304	Value	ValueOutput
+Filter Type	0	3	Value	ValueOutput
+Filter Lag	0	4194304	Value	ValueOutput
+Delay On	0	1	Toggle	ValueOutput
+Delay  Amount	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Synched Time	0	15	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Keep Pitch	0	1	Toggle	ValueOutput
+Delay Tempo Sync	0	1	Toggle	ValueOutput
+Delay Ping Pong	0	1	Toggle	ValueOutput
+Delay Roll	0	1	Toggle	ValueOutput
+Delay SendReturn	0	1	Toggle	ValueOutput
+Delay Pan	0	4194304	Value	ValueOutput
+Reverb On	0	1	Toggle	ValueOutput
+Reverb Amount	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Reverb SendReturn	0	1	Toggle	ValueOutput
+Level	0	4194304	Value	ValueOutput
+Level InOut	0	1	Toggle	ValueOutput
+DryWet	0	4194304	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Input Peak Meter	0	4194304	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

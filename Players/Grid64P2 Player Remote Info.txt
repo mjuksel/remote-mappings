@@ -1,0 +1,147 @@
+Scope
+Manufacturer	Model
+Retouch Control	com.retouchcontrol.grid64P2
+
+Remotable	Min	Max	Input type	Output type
+Grid 1	0	127	Value	ValueOutput
+Grid 2	0	127	Value	ValueOutput
+Grid 3	0	127	Value	ValueOutput
+Grid 4	0	127	Value	ValueOutput
+Grid 5	0	127	Value	ValueOutput
+Grid 6	0	127	Value	ValueOutput
+Grid 7	0	127	Value	ValueOutput
+Grid 8	0	127	Value	ValueOutput
+Grid 9	0	127	Value	ValueOutput
+Grid 10	0	127	Value	ValueOutput
+Grid 11	0	127	Value	ValueOutput
+Grid 12	0	127	Value	ValueOutput
+Grid 13	0	127	Value	ValueOutput
+Grid 14	0	127	Value	ValueOutput
+Grid 15	0	127	Value	ValueOutput
+Grid 16	0	127	Value	ValueOutput
+Grid 17	0	127	Value	ValueOutput
+Grid 18	0	127	Value	ValueOutput
+Grid 19	0	127	Value	ValueOutput
+Grid 20	0	127	Value	ValueOutput
+Grid 21	0	127	Value	ValueOutput
+Grid 22	0	127	Value	ValueOutput
+Grid 23	0	127	Value	ValueOutput
+Grid 24	0	127	Value	ValueOutput
+Grid 25	0	127	Value	ValueOutput
+Grid 26	0	127	Value	ValueOutput
+Grid 27	0	127	Value	ValueOutput
+Grid 28	0	127	Value	ValueOutput
+Grid 29	0	127	Value	ValueOutput
+Grid 30	0	127	Value	ValueOutput
+Grid 31	0	127	Value	ValueOutput
+Grid 32	0	127	Value	ValueOutput
+Grid 33	0	127	Value	ValueOutput
+Grid 34	0	127	Value	ValueOutput
+Grid 35	0	127	Value	ValueOutput
+Grid 36	0	127	Value	ValueOutput
+Grid 37	0	127	Value	ValueOutput
+Grid 38	0	127	Value	ValueOutput
+Grid 39	0	127	Value	ValueOutput
+Grid 40	0	127	Value	ValueOutput
+Grid 41	0	127	Value	ValueOutput
+Grid 42	0	127	Value	ValueOutput
+Grid 43	0	127	Value	ValueOutput
+Grid 44	0	127	Value	ValueOutput
+Grid 45	0	127	Value	ValueOutput
+Grid 46	0	127	Value	ValueOutput
+Grid 47	0	127	Value	ValueOutput
+Grid 48	0	127	Value	ValueOutput
+Grid 49	0	127	Value	ValueOutput
+Grid 50	0	127	Value	ValueOutput
+Grid 51	0	127	Value	ValueOutput
+Grid 52	0	127	Value	ValueOutput
+Grid 53	0	127	Value	ValueOutput
+Grid 54	0	127	Value	ValueOutput
+Grid 55	0	127	Value	ValueOutput
+Grid 56	0	127	Value	ValueOutput
+Grid 57	0	127	Value	ValueOutput
+Grid 58	0	127	Value	ValueOutput
+Grid 59	0	127	Value	ValueOutput
+Grid 60	0	127	Value	ValueOutput
+Grid 61	0	127	Value	ValueOutput
+Grid 62	0	127	Value	ValueOutput
+Grid 63	0	127	Value	ValueOutput
+Grid 64	0	127	Value	ValueOutput
+Map	0	1	Toggle	ValueOutput
+Engine	0	2	Value	ValueOutput
+Input Mode	0	2	Value	ValueOutput
+Velocity	0	127	Value	ValueOutput
+Trigger Probability	0	4194304	Value	ValueOutput
+Engine2 Random	0	4194304	Value	ValueOutput
+Engine3 Seed	0	8	Value	ValueOutput
+Engine3 Spread	0	4194304	Value	ValueOutput
+Rate	0	12	Value	ValueOutput
+Grid LED 1	0	7	-	ValueOutput
+Grid LED 2	0	7	-	ValueOutput
+Grid LED 3	0	7	-	ValueOutput
+Grid LED 4	0	7	-	ValueOutput
+Grid LED 5	0	7	-	ValueOutput
+Grid LED 6	0	7	-	ValueOutput
+Grid LED 7	0	7	-	ValueOutput
+Grid LED 8	0	7	-	ValueOutput
+Grid LED 9	0	7	-	ValueOutput
+Grid LED 10	0	7	-	ValueOutput
+Grid LED 11	0	7	-	ValueOutput
+Grid LED 12	0	7	-	ValueOutput
+Grid LED 13	0	7	-	ValueOutput
+Grid LED 14	0	7	-	ValueOutput
+Grid LED 15	0	7	-	ValueOutput
+Grid LED 16	0	7	-	ValueOutput
+Grid LED 17	0	7	-	ValueOutput
+Grid LED 18	0	7	-	ValueOutput
+Grid LED 19	0	7	-	ValueOutput
+Grid LED 20	0	7	-	ValueOutput
+Grid LED 21	0	7	-	ValueOutput
+Grid LED 22	0	7	-	ValueOutput
+Grid LED 23	0	7	-	ValueOutput
+Grid LED 24	0	7	-	ValueOutput
+Grid LED 25	0	7	-	ValueOutput
+Grid LED 26	0	7	-	ValueOutput
+Grid LED 27	0	7	-	ValueOutput
+Grid LED 28	0	7	-	ValueOutput
+Grid LED 29	0	7	-	ValueOutput
+Grid LED 30	0	7	-	ValueOutput
+Grid LED 31	0	7	-	ValueOutput
+Grid LED 32	0	7	-	ValueOutput
+Grid LED 33	0	7	-	ValueOutput
+Grid LED 34	0	7	-	ValueOutput
+Grid LED 35	0	7	-	ValueOutput
+Grid LED 36	0	7	-	ValueOutput
+Grid LED 37	0	7	-	ValueOutput
+Grid LED 38	0	7	-	ValueOutput
+Grid LED 39	0	7	-	ValueOutput
+Grid LED 40	0	7	-	ValueOutput
+Grid LED 41	0	7	-	ValueOutput
+Grid LED 42	0	7	-	ValueOutput
+Grid LED 43	0	7	-	ValueOutput
+Grid LED 44	0	7	-	ValueOutput
+Grid LED 45	0	7	-	ValueOutput
+Grid LED 46	0	7	-	ValueOutput
+Grid LED 47	0	7	-	ValueOutput
+Grid LED 48	0	7	-	ValueOutput
+Grid LED 49	0	7	-	ValueOutput
+Grid LED 50	0	7	-	ValueOutput
+Grid LED 51	0	7	-	ValueOutput
+Grid LED 52	0	7	-	ValueOutput
+Grid LED 53	0	7	-	ValueOutput
+Grid LED 54	0	7	-	ValueOutput
+Grid LED 55	0	7	-	ValueOutput
+Grid LED 56	0	7	-	ValueOutput
+Grid LED 57	0	7	-	ValueOutput
+Grid LED 58	0	7	-	ValueOutput
+Grid LED 59	0	7	-	ValueOutput
+Grid LED 60	0	7	-	ValueOutput
+Grid LED 61	0	7	-	ValueOutput
+Grid LED 62	0	7	-	ValueOutput
+Grid LED 63	0	7	-	ValueOutput
+Grid LED 64	0	7	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

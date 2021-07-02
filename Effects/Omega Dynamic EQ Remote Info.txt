@@ -1,0 +1,26 @@
+Scope
+Manufacturer	Model
+Forgotten Clank Studios	com.forgottenclankstudios.OmegaDEQ
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Type	0	2	Value	ValueOutput
+Frequency	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Q	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Amount	0	4194304	Value	ValueOutput
+Center Frequency	0	4194304	Value	ValueOutput
+Auto Center Frequency	0	1	Toggle	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Auto Width	0	1	Toggle	ValueOutput
+Monitor Detection Signal	0	1	Toggle	ValueOutput
+Lookahead	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

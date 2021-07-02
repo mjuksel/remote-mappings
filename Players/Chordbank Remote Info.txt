@@ -1,0 +1,19 @@
+Scope
+Manufacturer	Model
+Enlightenspeed Ltd	uk.enlightenspeed.Chordbank
+
+Remotable	Min	Max	Input type	Output type
+Mode	0	3	Value	ValueOutput
+Store	0	1	Toggle	ValueOutput
+Trigger Mute	0	1	Toggle	ValueOutput
+On/Off	0	1	Toggle	ValueOutput
+Quick Learn	0	1	Toggle	ValueOutput
+Velocity Override	0	4194304	Value	ValueOutput
+Velocity Through	0	1	Toggle	ValueOutput
+Global Transpose	0	72	Value	ValueOutput
+Scale Focus	0	23	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

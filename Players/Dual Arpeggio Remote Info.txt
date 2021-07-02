@@ -1,0 +1,41 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Arpeggio
+
+Remotable	Min	Max	Input type	Output type
+Arpeggio On 1	0	1	Toggle	ValueOutput
+Low Key 1	0	127	Value	ValueOutput
+High Key 1	0	127	Value	ValueOutput
+Rate 1	0	20	Value	ValueOutput
+Octaves 1	0	3	Value	ValueOutput
+Direction 1	0	3	Value	ValueOutput
+Repeat 1	0	1	Toggle	ValueOutput
+Arp Steps On 1	0	1	Toggle	ValueOutput
+Arp Steps 1	0	16	Value	ValueOutput
+Pattern On 1	0	1	Toggle	ValueOutput
+Velocity On 1	0	1	Toggle	ValueOutput
+Shift Step 1	0	32	Value	ValueOutput
+Transpose 1	0	48	Value	ValueOutput
+Gate Length 1	0	4194304	Value	ValueOutput
+Arpeggio On 2	0	1	Toggle	ValueOutput
+Low Key 2	0	127	Value	ValueOutput
+High Key 2	0	127	Value	ValueOutput
+Rate 2	0	20	Value	ValueOutput
+Octaves 2	0	3	Value	ValueOutput
+Direction 2	0	3	Value	ValueOutput
+Repeat 2	0	1	Toggle	ValueOutput
+Arp Steps On 2	0	1	Toggle	ValueOutput
+Arp Steps 2	0	16	Value	ValueOutput
+Pattern On 2	0	1	Toggle	ValueOutput
+Velocity On 2	0	1	Toggle	ValueOutput
+Shift Step 2	0	32	Value	ValueOutput
+Transpose 2	0	48	Value	ValueOutput
+Gate Length 2	0	4194304	Value	ValueOutput
+Hold	0	1	Toggle	ValueOutput
+On	0	1	Toggle	ValueOutput
+Pattern Select	-1	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,35 @@
+Scope
+Manufacturer	Model
+HaMu	se.hamu.ModSlewer
+
+Remotable	Min	Max	Input type	Output type
+Up Slew 1	0	4194304	Value	ValueOutput
+Down Slew 1	0	4194304	Value	ValueOutput
+Up Slew 2	0	4194304	Value	ValueOutput
+Down Slew 2	0	4194304	Value	ValueOutput
+Up Slew 3	0	4194304	Value	ValueOutput
+Down Slew 3	0	4194304	Value	ValueOutput
+Up Slew 4	0	4194304	Value	ValueOutput
+Down Slew 4	0	4194304	Value	ValueOutput
+Up Slew 5	0	4194304	Value	ValueOutput
+Down Slew 5	0	4194304	Value	ValueOutput
+Up Slew 6	0	4194304	Value	ValueOutput
+Down Slew 6	0	4194304	Value	ValueOutput
+Up Slew 7	0	4194304	Value	ValueOutput
+Down Slew 7	0	4194304	Value	ValueOutput
+Up Slew 8	0	4194304	Value	ValueOutput
+Down Slew 8	0	4194304	Value	ValueOutput
+Up Slew 9	0	4194304	Value	ValueOutput
+Down Slew 9	0	4194304	Value	ValueOutput
+Up Slew 10	0	4194304	Value	ValueOutput
+Down Slew 10	0	4194304	Value	ValueOutput
+Up Slew 11	0	4194304	Value	ValueOutput
+Down Slew 11	0	4194304	Value	ValueOutput
+Up Slew 12	0	4194304	Value	ValueOutput
+Down Slew 12	0	4194304	Value	ValueOutput
+Align Time	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,19 @@
+Scope
+Manufacturer	Model
+kiloHearts	com.kilohearts.Gate
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Tolerance	0	4194304	Value	ValueOutput
+Range	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Flip	0	1	Toggle	ValueOutput
+Look-ahead	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

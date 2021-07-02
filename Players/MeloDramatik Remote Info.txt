@@ -1,0 +1,21 @@
+Scope
+Manufacturer	Model
+Enlightenspeed Ltd	uk.enlightenspeed.MeloDramatik
+
+Remotable	Min	Max	Input type	Output type
+On/Off	0	1	Toggle	ValueOutput
+Step Trigger	0	1	Toggle	ValueOutput
+Play Mode	0	2	Value	ValueOutput
+Global Algorithm	0	52	Value	ValueOutput
+Pattern Number	0	7	Value	ValueOutput
+Input Filter HP	0	127	Value	ValueOutput
+Input Filter LP	0	127	Value	ValueOutput
+Output Filter HP	0	127	Value	ValueOutput
+Output Filter LP	0	127	Value	ValueOutput
+Mute Group On	0	1	Toggle	ValueOutput
+Pass Group On	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

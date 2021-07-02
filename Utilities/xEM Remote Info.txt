@@ -1,0 +1,13 @@
+Scope
+Manufacturer	Model
+Bcase	fr.bcase.xem
+
+Remotable	Min	Max	Input type	Output type
+Display Mode	0	2	Value	ValueOutput
+Time Window	0	2	Value	ValueOutput
+Peak	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

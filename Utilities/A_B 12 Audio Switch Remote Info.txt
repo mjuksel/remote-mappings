@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+pongasoft	com.pongasoft.AB12AudioSwitch
+
+Remotable	Min	Max	Input type	Output type
+Multi [A1]	0	1	Toggle	ValueOutput
+Multi [A2]	0	1	Toggle	ValueOutput
+Multi [A3]	0	1	Toggle	ValueOutput
+Multi [A4]	0	1	Toggle	ValueOutput
+Multi [A5]	0	1	Toggle	ValueOutput
+Multi [A6]	0	1	Toggle	ValueOutput
+Multi [B1]	0	1	Toggle	ValueOutput
+Multi [B2]	0	1	Toggle	ValueOutput
+Multi [B3]	0	1	Toggle	ValueOutput
+Multi [B4]	0	1	Toggle	ValueOutput
+Multi [B5]	0	1	Toggle	ValueOutput
+Multi [B6]	0	1	Toggle	ValueOutput
+Volume [A1]	0	4194304	Value	ValueOutput
+Volume [A2]	0	4194304	Value	ValueOutput
+Volume [A3]	0	4194304	Value	ValueOutput
+Volume [A4]	0	4194304	Value	ValueOutput
+Volume [A5]	0	4194304	Value	ValueOutput
+Volume [A6]	0	4194304	Value	ValueOutput
+Volume [B1]	0	4194304	Value	ValueOutput
+Volume [B2]	0	4194304	Value	ValueOutput
+Volume [B3]	0	4194304	Value	ValueOutput
+Volume [B4]	0	4194304	Value	ValueOutput
+Volume [B5]	0	4194304	Value	ValueOutput
+Volume [B6]	0	4194304	Value	ValueOutput
+A/B Mode	0	2	Value	ValueOutput
+Switch State Single	0	12	Value	ValueOutput
+Soften	0	1	Toggle	ValueOutput
+A/B Bank Selection	0	3	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

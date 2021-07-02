@@ -1,0 +1,14 @@
+Scope
+Manufacturer	Model
+Propellerheads	CF-101 Chorus/Flanger
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Delay	0	127	Value	ValueOutput
+Feedback	-64	63	Value	ValueOutput
+Rate	0	127	Value	ValueOutput
+Modulation Amount	0	127	Value	ValueOutput
+Send/Insert Mode	0	1	Toggle	ValueOutput
+LFO Sync Enable	0	1	Toggle	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+Device Name	0	0	-	TextOutput

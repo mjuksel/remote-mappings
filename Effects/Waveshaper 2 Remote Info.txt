@@ -1,0 +1,207 @@
+Scope
+Manufacturer	Model
+Forgotten Clank Studios	com.forgottenclankstudios.Waveshaper2
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Global Gain Stage Input Gain	0	4194304	Value	ValueOutput
+Global Gain Stage Dry/Wet	0	4194304	Value	ValueOutput
+Global Gain Stage Output Gain	0	4194304	Value	ValueOutput
+Crossover 1 Cutoff	0	4194304	Value	ValueOutput
+Crossover 2 Cutoff	0	4194304	Value	ValueOutput
+Crossover 3 Cutoff	0	4194304	Value	ValueOutput
+Crossover 1 Solo	0	1	Toggle	ValueOutput
+Crossover 1 Mute	0	1	Toggle	ValueOutput
+Frequency Band 1 Module Balance	0	4194304	Value	ValueOutput
+Frequency Band 1 Slot 1 Bypass	0	1	Toggle	ValueOutput
+Frequency Band 1 Slot 2 Bypass	0	1	Toggle	ValueOutput
+Frequency Band 1 Output Gain	0	4194304	Value	ValueOutput
+Crossover 2 Solo	0	1	Toggle	ValueOutput
+Crossover 2 Mute	0	1	Toggle	ValueOutput
+Frequency Band 2 Module Balance	0	4194304	Value	ValueOutput
+Frequency Band 2 Slot 1 Bypass	0	1	Toggle	ValueOutput
+Frequency Band 2 Slot 2 Bypass	0	1	Toggle	ValueOutput
+Frequency Band 2 Output Gain	0	4194304	Value	ValueOutput
+Crossover 3 Solo	0	1	Toggle	ValueOutput
+Crossover 3 Mute	0	1	Toggle	ValueOutput
+Frequency Band 3 Module Balance	0	4194304	Value	ValueOutput
+Frequency Band 3 Slot 1 Bypass	0	1	Toggle	ValueOutput
+Frequency Band 3 Slot 2 Bypass	0	1	Toggle	ValueOutput
+Frequency Band 3 Output Gain	0	4194304	Value	ValueOutput
+Frequency Band 4 Module Balance	0	4194304	Value	ValueOutput
+Frequency Band 4 Slot 1 Bypass	0	1	Toggle	ValueOutput
+Frequency Band 4 Slot 2 Bypass	0	1	Toggle	ValueOutput
+Frequency Band 4 Output Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Curve Morpher Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Curve Morpher Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Curve Bender Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Curve Bender Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Curve Bender Parameter 3	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Curve Bender Parameter 4	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Shift Horizontal	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Shift Vertical	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Timbre Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 1 Timbre Value	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Dynamics Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 1 Dynamics Threshold	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Dynamics Ratio	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Dynamics Attack	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Dynamics Release	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Dynamics Invert	0	1	Toggle	ValueOutput
+Wave Shape Module 1 Input Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Pan	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Wet Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Dry Wet	0	4194304	Value	ValueOutput
+Wave Shape Module 1 Output Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Curve Morpher Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Curve Morpher Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Curve Bender Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Curve Bender Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Curve Bender Parameter 3	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Curve Bender Parameter 4	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Shift Horizontal	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Shift Vertical	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Timbre Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 2 Timbre Value	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Dynamics Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 2 Dynamics Threshold	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Dynamics Ratio	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Dynamics Attack	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Dynamics Release	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Dynamics Invert	0	1	Toggle	ValueOutput
+Wave Shape Module 2 Input Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Pan	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Wet Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Dry Wet	0	4194304	Value	ValueOutput
+Wave Shape Module 2 Output Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Curve Morpher Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Curve Morpher Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Curve Bender Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Curve Bender Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Curve Bender Parameter 3	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Curve Bender Parameter 4	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Shift Horizontal	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Shift Vertical	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Timbre Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 3 Timbre Value	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Dynamics Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 3 Dynamics Threshold	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Dynamics Ratio	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Dynamics Attack	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Dynamics Release	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Dynamics Invert	0	1	Toggle	ValueOutput
+Wave Shape Module 3 Input Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Pan	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Wet Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Dry Wet	0	4194304	Value	ValueOutput
+Wave Shape Module 3 Output Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Curve Morpher Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Curve Morpher Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Curve Bender Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Curve Bender Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Curve Bender Parameter 3	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Curve Bender Parameter 4	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Shift Horizontal	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Shift Vertical	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Timbre Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 4 Timbre Value	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Dynamics Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 4 Dynamics Threshold	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Dynamics Ratio	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Dynamics Attack	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Dynamics Release	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Dynamics Invert	0	1	Toggle	ValueOutput
+Wave Shape Module 4 Input Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Pan	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Wet Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Dry Wet	0	4194304	Value	ValueOutput
+Wave Shape Module 4 Output Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Curve Morpher Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Curve Morpher Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Curve Bender Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Curve Bender Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Curve Bender Parameter 3	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Curve Bender Parameter 4	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Shift Horizontal	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Shift Vertical	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Timbre Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 5 Timbre Value	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Dynamics Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 5 Dynamics Threshold	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Dynamics Ratio	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Dynamics Attack	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Dynamics Release	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Dynamics Invert	0	1	Toggle	ValueOutput
+Wave Shape Module 5 Input Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Pan	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Wet Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Dry Wet	0	4194304	Value	ValueOutput
+Wave Shape Module 5 Output Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Curve Morpher Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Curve Morpher Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Curve Bender Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Curve Bender Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Curve Bender Parameter 3	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Curve Bender Parameter 4	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Shift Horizontal	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Shift Vertical	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Timbre Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 6 Timbre Value	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Dynamics Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 6 Dynamics Threshold	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Dynamics Ratio	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Dynamics Attack	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Dynamics Release	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Dynamics Invert	0	1	Toggle	ValueOutput
+Wave Shape Module 6 Input Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Pan	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Wet Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Dry Wet	0	4194304	Value	ValueOutput
+Wave Shape Module 6 Output Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Curve Morpher Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Curve Morpher Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Curve Bender Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Curve Bender Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Curve Bender Parameter 3	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Curve Bender Parameter 4	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Shift Horizontal	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Shift Vertical	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Timbre Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 7 Timbre Value	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Dynamics Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 7 Dynamics Threshold	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Dynamics Ratio	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Dynamics Attack	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Dynamics Release	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Dynamics Invert	0	1	Toggle	ValueOutput
+Wave Shape Module 7 Input Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Pan	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Wet Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Dry Wet	0	4194304	Value	ValueOutput
+Wave Shape Module 7 Output Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Curve Morpher Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Curve Morpher Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Curve Bender Parameter 1	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Curve Bender Parameter 2	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Curve Bender Parameter 3	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Curve Bender Parameter 4	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Shift Horizontal	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Shift Vertical	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Timbre Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 8 Timbre Value	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Dynamics Toggle	0	1	Toggle	ValueOutput
+Wave Shape Module 8 Dynamics Threshold	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Dynamics Ratio	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Dynamics Attack	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Dynamics Release	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Dynamics Invert	0	1	Toggle	ValueOutput
+Wave Shape Module 8 Input Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Pan	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Wet Gain	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Dry Wet	0	4194304	Value	ValueOutput
+Wave Shape Module 8 Output Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

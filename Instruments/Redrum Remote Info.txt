@@ -1,0 +1,767 @@
+Scope
+Manufacturer	Model
+Propellerheads	Redrum Drum Computer
+
+Remotable	Min	Max	Input type	Output type
+Master Level	0	127	Value	ValueOutput
+Drum 1 Mute	0	1	Toggle	ValueOutput
+Drum 2 Mute	0	1	Toggle	ValueOutput
+Drum 3 Mute	0	1	Toggle	ValueOutput
+Drum 4 Mute	0	1	Toggle	ValueOutput
+Drum 5 Mute	0	1	Toggle	ValueOutput
+Drum 6 Mute	0	1	Toggle	ValueOutput
+Drum 7 Mute	0	1	Toggle	ValueOutput
+Drum 8 Mute	0	1	Toggle	ValueOutput
+Drum 9 Mute	0	1	Toggle	ValueOutput
+Drum 10 Mute	0	1	Toggle	ValueOutput
+Drum 1 is playing	0	1	-	ValueOutput
+Drum 2 is playing	0	1	-	ValueOutput
+Drum 3 is playing	0	1	-	ValueOutput
+Drum 4 is playing	0	1	-	ValueOutput
+Drum 5 is playing	0	1	-	ValueOutput
+Drum 6 is playing	0	1	-	ValueOutput
+Drum 7 is playing	0	1	-	ValueOutput
+Drum 8 is playing	0	1	-	ValueOutput
+Drum 9 is playing	0	1	-	ValueOutput
+Drum 10 is playing	0	1	-	ValueOutput
+Drum 1 Send 1 Amount	0	127	Value	ValueOutput
+Drum 2 Send 1 Amount	0	127	Value	ValueOutput
+Drum 3 Send 1 Amount	0	127	Value	ValueOutput
+Drum 4 Send 1 Amount	0	127	Value	ValueOutput
+Drum 5 Send 1 Amount	0	127	Value	ValueOutput
+Drum 6 Send 1 Amount	0	127	Value	ValueOutput
+Drum 7 Send 1 Amount	0	127	Value	ValueOutput
+Drum 8 Send 1 Amount	0	127	Value	ValueOutput
+Drum 9 Send 1 Amount	0	127	Value	ValueOutput
+Drum 10 Send 1 Amount	0	127	Value	ValueOutput
+Drum 1 Send 2 Amount	0	127	Value	ValueOutput
+Drum 2 Send 2 Amount	0	127	Value	ValueOutput
+Drum 3 Send 2 Amount	0	127	Value	ValueOutput
+Drum 4 Send 2 Amount	0	127	Value	ValueOutput
+Drum 5 Send 2 Amount	0	127	Value	ValueOutput
+Drum 6 Send 2 Amount	0	127	Value	ValueOutput
+Drum 7 Send 2 Amount	0	127	Value	ValueOutput
+Drum 8 Send 2 Amount	0	127	Value	ValueOutput
+Drum 9 Send 2 Amount	0	127	Value	ValueOutput
+Drum 10 Send 2 Amount	0	127	Value	ValueOutput
+Drum 1 Pan	-64	63	Value	ValueOutput
+Drum 2 Pan	-64	63	Value	ValueOutput
+Drum 3 Pan	-64	63	Value	ValueOutput
+Drum 4 Pan	-64	63	Value	ValueOutput
+Drum 5 Pan	-64	63	Value	ValueOutput
+Drum 6 Pan	-64	63	Value	ValueOutput
+Drum 7 Pan	-64	63	Value	ValueOutput
+Drum 8 Pan	-64	63	Value	ValueOutput
+Drum 9 Pan	-64	63	Value	ValueOutput
+Drum 10 Pan	-64	63	Value	ValueOutput
+Drum 1 Level	0	127	Value	ValueOutput
+Drum 2 Level	0	127	Value	ValueOutput
+Drum 3 Level	0	127	Value	ValueOutput
+Drum 4 Level	0	127	Value	ValueOutput
+Drum 5 Level	0	127	Value	ValueOutput
+Drum 6 Level	0	127	Value	ValueOutput
+Drum 7 Level	0	127	Value	ValueOutput
+Drum 8 Level	0	127	Value	ValueOutput
+Drum 9 Level	0	127	Value	ValueOutput
+Drum 10 Level	0	127	Value	ValueOutput
+Drum 1 Vel to Level	-64	63	Value	ValueOutput
+Drum 2 Vel to Level	-64	63	Value	ValueOutput
+Drum 3 Vel to Level	-64	63	Value	ValueOutput
+Drum 4 Vel to Level	-64	63	Value	ValueOutput
+Drum 5 Vel to Level	-64	63	Value	ValueOutput
+Drum 6 Vel to Level	-64	63	Value	ValueOutput
+Drum 7 Vel to Level	-64	63	Value	ValueOutput
+Drum 8 Vel to Level	-64	63	Value	ValueOutput
+Drum 9 Vel to Level	-64	63	Value	ValueOutput
+Drum 10 Vel to Level	-64	63	Value	ValueOutput
+Drum 1 Length	0	127	Value	ValueOutput
+Drum 2 Length	0	127	Value	ValueOutput
+Drum 3 Length	0	127	Value	ValueOutput
+Drum 4 Length	0	127	Value	ValueOutput
+Drum 5 Length	0	127	Value	ValueOutput
+Drum 6 Length	0	127	Value	ValueOutput
+Drum 7 Length	0	127	Value	ValueOutput
+Drum 8 Length	0	127	Value	ValueOutput
+Drum 9 Length	0	127	Value	ValueOutput
+Drum 10 Length	0	127	Value	ValueOutput
+Drum 1 Decay/Gate Mode	0	1	Toggle	ValueOutput
+Drum 2 Decay/Gate Mode	0	1	Toggle	ValueOutput
+Drum 3 Decay/Gate Mode	0	1	Toggle	ValueOutput
+Drum 4 Decay/Gate Mode	0	1	Toggle	ValueOutput
+Drum 5 Decay/Gate Mode	0	1	Toggle	ValueOutput
+Drum 6 Decay/Gate Mode	0	1	Toggle	ValueOutput
+Drum 7 Decay/Gate Mode	0	1	Toggle	ValueOutput
+Drum 8 Decay/Gate Mode	0	1	Toggle	ValueOutput
+Drum 9 Decay/Gate Mode	0	1	Toggle	ValueOutput
+Drum 10 Decay/Gate Mode	0	1	Toggle	ValueOutput
+Drum 1 Pitch	-64	63	Value	ValueOutput
+Drum 2 Pitch	-64	63	Value	ValueOutput
+Drum 3 Pitch	-64	63	Value	ValueOutput
+Drum 4 Pitch	-64	63	Value	ValueOutput
+Drum 5 Pitch	-64	63	Value	ValueOutput
+Drum 6 Pitch	-64	63	Value	ValueOutput
+Drum 7 Pitch	-64	63	Value	ValueOutput
+Drum 8 Pitch	-64	63	Value	ValueOutput
+Drum 9 Pitch	-64	63	Value	ValueOutput
+Drum 10 Pitch	-64	63	Value	ValueOutput
+Drum 6 Pitch Bend Amount	-64	63	Value	ValueOutput
+Drum 7 Pitch Bend Amount	-64	63	Value	ValueOutput
+Drum 6 Vel to Pitch Bend	-64	63	Value	ValueOutput
+Drum 7 Vel to Pitch Bend	-64	63	Value	ValueOutput
+Drum 6 Pitch Bend Rate	0	127	Value	ValueOutput
+Drum 7 Pitch Bend Rate	0	127	Value	ValueOutput
+Drum 1 Tone	-64	63	Value	ValueOutput
+Drum 2 Tone	-64	63	Value	ValueOutput
+Drum 10 Tone	-64	63	Value	ValueOutput
+Drum 1 Vel to Tone	-64	63	Value	ValueOutput
+Drum 2 Vel to Tone	-64	63	Value	ValueOutput
+Drum 10 Vel to Tone	-64	63	Value	ValueOutput
+Drum 3 Sample Start	0	127	Value	ValueOutput
+Drum 4 Sample Start	0	127	Value	ValueOutput
+Drum 5 Sample Start	0	127	Value	ValueOutput
+Drum 8 Sample Start	0	127	Value	ValueOutput
+Drum 9 Sample Start	0	127	Value	ValueOutput
+Drum 3 Vel to Sample Start	-64	63	Value	ValueOutput
+Drum 4 Vel to Sample Start	-64	63	Value	ValueOutput
+Drum 5 Vel to Sample Start	-64	63	Value	ValueOutput
+Drum 8 Vel to Sample Start	-64	63	Value	ValueOutput
+Drum 9 Vel to Sample Start	-64	63	Value	ValueOutput
+Channel 8 and 9 Exclusive	0	1	Toggle	ValueOutput
+High Quality Interpolation	0	1	Toggle	ValueOutput
+Enable Pattern Section Playback	0	1	Toggle	ValueOutput
+Pattern Enable	0	1	Toggle	ValueOutput
+Selected Pattern	-1	31	Value	ValueOutput
+Step Playing	0	63	-	ValueOutput
+Flam Amount	0	127	Value	ValueOutput
+Drum 1 Solo	0	1	Toggle	ValueOutput
+Drum 2 Solo	0	1	Toggle	ValueOutput
+Drum 3 Solo	0	1	Toggle	ValueOutput
+Drum 4 Solo	0	1	Toggle	ValueOutput
+Drum 5 Solo	0	1	Toggle	ValueOutput
+Drum 6 Solo	0	1	Toggle	ValueOutput
+Drum 7 Solo	0	1	Toggle	ValueOutput
+Drum 8 Solo	0	1	Toggle	ValueOutput
+Drum 9 Solo	0	1	Toggle	ValueOutput
+Drum 10 Solo	0	1	Toggle	ValueOutput
+Sample Loading Progress	-1	127	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Pattern Select in Bank	0	7	Value	ValueOutput
+Bank Select	0	3	Value	ValueOutput
+Pattern 1	0	1	Trig	ValueOutput
+Pattern 2	0	1	Trig	ValueOutput
+Pattern 3	0	1	Trig	ValueOutput
+Pattern 4	0	1	Trig	ValueOutput
+Pattern 5	0	1	Trig	ValueOutput
+Pattern 6	0	1	Trig	ValueOutput
+Pattern 7	0	1	Trig	ValueOutput
+Pattern 8	0	1	Trig	ValueOutput
+Bank A	0	1	Trig	ValueOutput
+Bank B	0	1	Trig	ValueOutput
+Bank C	0	1	Trig	ValueOutput
+Bank D	0	1	Trig	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Resolution	0	8	Value	ValueOutput
+Channel 1 Play	0	1	Trig	ValueOutput
+Channel 2 Play	0	1	Trig	ValueOutput
+Channel 3 Play	0	1	Trig	ValueOutput
+Channel 4 Play	0	1	Trig	ValueOutput
+Channel 5 Play	0	1	Trig	ValueOutput
+Channel 6 Play	0	1	Trig	ValueOutput
+Channel 7 Play	0	1	Trig	ValueOutput
+Channel 8 Play	0	1	Trig	ValueOutput
+Channel 9 Play	0	1	Trig	ValueOutput
+Channel 10 Play	0	1	Trig	ValueOutput
+Channel 1 Sample	0	1	Trig	ValueOutput
+Channel 2 Sample	0	1	Trig	ValueOutput
+Channel 3 Sample	0	1	Trig	ValueOutput
+Channel 4 Sample	0	1	Trig	ValueOutput
+Channel 5 Sample	0	1	Trig	ValueOutput
+Channel 6 Sample	0	1	Trig	ValueOutput
+Channel 7 Sample	0	1	Trig	ValueOutput
+Channel 8 Sample	0	1	Trig	ValueOutput
+Channel 9 Sample	0	1	Trig	ValueOutput
+Channel 10 Sample	0	1	Trig	ValueOutput
+Channel 1 Sample Name	0	0	-	TextOutput
+Channel 2 Sample Name	0	0	-	TextOutput
+Channel 3 Sample Name	0	0	-	TextOutput
+Channel 4 Sample Name	0	0	-	TextOutput
+Channel 5 Sample Name	0	0	-	TextOutput
+Channel 6 Sample Name	0	0	-	TextOutput
+Channel 7 Sample Name	0	0	-	TextOutput
+Channel 8 Sample Name	0	0	-	TextOutput
+Channel 9 Sample Name	0	0	-	TextOutput
+Channel 10 Sample Name	0	0	-	TextOutput
+Steps	1	64	Value	ValueOutput
+Shuffle	0	1	Toggle	ValueOutput
+Edit Steps	0	3	Value	ValueOutput
+Edit Accent	1	3	Value	ValueOutput
+Edit Flam	0	1	Toggle	ValueOutput
+Selected Drum	1	10	Value	ValueOutput
+Select Drum 1	0	1	Toggle	ValueOutput
+Select Drum 2	0	1	Toggle	ValueOutput
+Select Drum 3	0	1	Toggle	ValueOutput
+Select Drum 4	0	1	Toggle	ValueOutput
+Select Drum 5	0	1	Toggle	ValueOutput
+Select Drum 6	0	1	Toggle	ValueOutput
+Select Drum 7	0	1	Toggle	ValueOutput
+Select Drum 8	0	1	Toggle	ValueOutput
+Select Drum 9	0	1	Toggle	ValueOutput
+Select Drum 10	0	1	Toggle	ValueOutput
+Playing Step	1	64	-	ValueOutput
+Step 1 Playing	0	1	-	ValueOutput
+Step 2 Playing	0	1	-	ValueOutput
+Step 3 Playing	0	1	-	ValueOutput
+Step 4 Playing	0	1	-	ValueOutput
+Step 5 Playing	0	1	-	ValueOutput
+Step 6 Playing	0	1	-	ValueOutput
+Step 7 Playing	0	1	-	ValueOutput
+Step 8 Playing	0	1	-	ValueOutput
+Step 9 Playing	0	1	-	ValueOutput
+Step 10 Playing	0	1	-	ValueOutput
+Step 11 Playing	0	1	-	ValueOutput
+Step 12 Playing	0	1	-	ValueOutput
+Step 13 Playing	0	1	-	ValueOutput
+Step 14 Playing	0	1	-	ValueOutput
+Step 15 Playing	0	1	-	ValueOutput
+Step 16 Playing	0	1	-	ValueOutput
+Selected Drum Toggle Step 1	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 2	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 3	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 4	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 5	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 6	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 7	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 8	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 9	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 10	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 11	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 12	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 13	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 14	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 15	0	1	Toggle	ValueOutput
+Selected Drum Toggle Step 16	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 1	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 2	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 3	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 4	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 5	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 6	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 7	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 8	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 9	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 10	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 11	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 12	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 13	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 14	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 15	0	1	Toggle	ValueOutput
+Drum 1 Toggle Step 16	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 1	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 2	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 3	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 4	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 5	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 6	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 7	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 8	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 9	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 10	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 11	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 12	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 13	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 14	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 15	0	1	Toggle	ValueOutput
+Drum 2 Toggle Step 16	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 1	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 2	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 3	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 4	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 5	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 6	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 7	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 8	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 9	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 10	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 11	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 12	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 13	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 14	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 15	0	1	Toggle	ValueOutput
+Drum 3 Toggle Step 16	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 1	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 2	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 3	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 4	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 5	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 6	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 7	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 8	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 9	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 10	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 11	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 12	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 13	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 14	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 15	0	1	Toggle	ValueOutput
+Drum 4 Toggle Step 16	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 1	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 2	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 3	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 4	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 5	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 6	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 7	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 8	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 9	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 10	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 11	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 12	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 13	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 14	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 15	0	1	Toggle	ValueOutput
+Drum 5 Toggle Step 16	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 1	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 2	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 3	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 4	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 5	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 6	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 7	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 8	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 9	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 10	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 11	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 12	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 13	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 14	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 15	0	1	Toggle	ValueOutput
+Drum 6 Toggle Step 16	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 1	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 2	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 3	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 4	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 5	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 6	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 7	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 8	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 9	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 10	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 11	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 12	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 13	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 14	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 15	0	1	Toggle	ValueOutput
+Drum 7 Toggle Step 16	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 1	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 2	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 3	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 4	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 5	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 6	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 7	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 8	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 9	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 10	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 11	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 12	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 13	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 14	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 15	0	1	Toggle	ValueOutput
+Drum 8 Toggle Step 16	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 1	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 2	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 3	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 4	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 5	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 6	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 7	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 8	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 9	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 10	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 11	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 12	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 13	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 14	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 15	0	1	Toggle	ValueOutput
+Drum 9 Toggle Step 16	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 1	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 2	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 3	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 4	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 5	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 6	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 7	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 8	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 9	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 10	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 11	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 12	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 13	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 14	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 15	0	1	Toggle	ValueOutput
+Drum 10 Toggle Step 16	0	1	Toggle	ValueOutput
+Selected Drum Step 1	0	3	Value	ValueOutput
+Selected Drum Step 2	0	3	Value	ValueOutput
+Selected Drum Step 3	0	3	Value	ValueOutput
+Selected Drum Step 4	0	3	Value	ValueOutput
+Selected Drum Step 5	0	3	Value	ValueOutput
+Selected Drum Step 6	0	3	Value	ValueOutput
+Selected Drum Step 7	0	3	Value	ValueOutput
+Selected Drum Step 8	0	3	Value	ValueOutput
+Selected Drum Step 9	0	3	Value	ValueOutput
+Selected Drum Step 10	0	3	Value	ValueOutput
+Selected Drum Step 11	0	3	Value	ValueOutput
+Selected Drum Step 12	0	3	Value	ValueOutput
+Selected Drum Step 13	0	3	Value	ValueOutput
+Selected Drum Step 14	0	3	Value	ValueOutput
+Selected Drum Step 15	0	3	Value	ValueOutput
+Selected Drum Step 16	0	3	Value	ValueOutput
+Drum 1 Step 1	0	3	Value	ValueOutput
+Drum 1 Step 2	0	3	Value	ValueOutput
+Drum 1 Step 3	0	3	Value	ValueOutput
+Drum 1 Step 4	0	3	Value	ValueOutput
+Drum 1 Step 5	0	3	Value	ValueOutput
+Drum 1 Step 6	0	3	Value	ValueOutput
+Drum 1 Step 7	0	3	Value	ValueOutput
+Drum 1 Step 8	0	3	Value	ValueOutput
+Drum 1 Step 9	0	3	Value	ValueOutput
+Drum 1 Step 10	0	3	Value	ValueOutput
+Drum 1 Step 11	0	3	Value	ValueOutput
+Drum 1 Step 12	0	3	Value	ValueOutput
+Drum 1 Step 13	0	3	Value	ValueOutput
+Drum 1 Step 14	0	3	Value	ValueOutput
+Drum 1 Step 15	0	3	Value	ValueOutput
+Drum 1 Step 16	0	3	Value	ValueOutput
+Drum 2 Step 1	0	3	Value	ValueOutput
+Drum 2 Step 2	0	3	Value	ValueOutput
+Drum 2 Step 3	0	3	Value	ValueOutput
+Drum 2 Step 4	0	3	Value	ValueOutput
+Drum 2 Step 5	0	3	Value	ValueOutput
+Drum 2 Step 6	0	3	Value	ValueOutput
+Drum 2 Step 7	0	3	Value	ValueOutput
+Drum 2 Step 8	0	3	Value	ValueOutput
+Drum 2 Step 9	0	3	Value	ValueOutput
+Drum 2 Step 10	0	3	Value	ValueOutput
+Drum 2 Step 11	0	3	Value	ValueOutput
+Drum 2 Step 12	0	3	Value	ValueOutput
+Drum 2 Step 13	0	3	Value	ValueOutput
+Drum 2 Step 14	0	3	Value	ValueOutput
+Drum 2 Step 15	0	3	Value	ValueOutput
+Drum 2 Step 16	0	3	Value	ValueOutput
+Drum 3 Step 1	0	3	Value	ValueOutput
+Drum 3 Step 2	0	3	Value	ValueOutput
+Drum 3 Step 3	0	3	Value	ValueOutput
+Drum 3 Step 4	0	3	Value	ValueOutput
+Drum 3 Step 5	0	3	Value	ValueOutput
+Drum 3 Step 6	0	3	Value	ValueOutput
+Drum 3 Step 7	0	3	Value	ValueOutput
+Drum 3 Step 8	0	3	Value	ValueOutput
+Drum 3 Step 9	0	3	Value	ValueOutput
+Drum 3 Step 10	0	3	Value	ValueOutput
+Drum 3 Step 11	0	3	Value	ValueOutput
+Drum 3 Step 12	0	3	Value	ValueOutput
+Drum 3 Step 13	0	3	Value	ValueOutput
+Drum 3 Step 14	0	3	Value	ValueOutput
+Drum 3 Step 15	0	3	Value	ValueOutput
+Drum 3 Step 16	0	3	Value	ValueOutput
+Drum 4 Step 1	0	3	Value	ValueOutput
+Drum 4 Step 2	0	3	Value	ValueOutput
+Drum 4 Step 3	0	3	Value	ValueOutput
+Drum 4 Step 4	0	3	Value	ValueOutput
+Drum 4 Step 5	0	3	Value	ValueOutput
+Drum 4 Step 6	0	3	Value	ValueOutput
+Drum 4 Step 7	0	3	Value	ValueOutput
+Drum 4 Step 8	0	3	Value	ValueOutput
+Drum 4 Step 9	0	3	Value	ValueOutput
+Drum 4 Step 10	0	3	Value	ValueOutput
+Drum 4 Step 11	0	3	Value	ValueOutput
+Drum 4 Step 12	0	3	Value	ValueOutput
+Drum 4 Step 13	0	3	Value	ValueOutput
+Drum 4 Step 14	0	3	Value	ValueOutput
+Drum 4 Step 15	0	3	Value	ValueOutput
+Drum 4 Step 16	0	3	Value	ValueOutput
+Drum 5 Step 1	0	3	Value	ValueOutput
+Drum 5 Step 2	0	3	Value	ValueOutput
+Drum 5 Step 3	0	3	Value	ValueOutput
+Drum 5 Step 4	0	3	Value	ValueOutput
+Drum 5 Step 5	0	3	Value	ValueOutput
+Drum 5 Step 6	0	3	Value	ValueOutput
+Drum 5 Step 7	0	3	Value	ValueOutput
+Drum 5 Step 8	0	3	Value	ValueOutput
+Drum 5 Step 9	0	3	Value	ValueOutput
+Drum 5 Step 10	0	3	Value	ValueOutput
+Drum 5 Step 11	0	3	Value	ValueOutput
+Drum 5 Step 12	0	3	Value	ValueOutput
+Drum 5 Step 13	0	3	Value	ValueOutput
+Drum 5 Step 14	0	3	Value	ValueOutput
+Drum 5 Step 15	0	3	Value	ValueOutput
+Drum 5 Step 16	0	3	Value	ValueOutput
+Drum 6 Step 1	0	3	Value	ValueOutput
+Drum 6 Step 2	0	3	Value	ValueOutput
+Drum 6 Step 3	0	3	Value	ValueOutput
+Drum 6 Step 4	0	3	Value	ValueOutput
+Drum 6 Step 5	0	3	Value	ValueOutput
+Drum 6 Step 6	0	3	Value	ValueOutput
+Drum 6 Step 7	0	3	Value	ValueOutput
+Drum 6 Step 8	0	3	Value	ValueOutput
+Drum 6 Step 9	0	3	Value	ValueOutput
+Drum 6 Step 10	0	3	Value	ValueOutput
+Drum 6 Step 11	0	3	Value	ValueOutput
+Drum 6 Step 12	0	3	Value	ValueOutput
+Drum 6 Step 13	0	3	Value	ValueOutput
+Drum 6 Step 14	0	3	Value	ValueOutput
+Drum 6 Step 15	0	3	Value	ValueOutput
+Drum 6 Step 16	0	3	Value	ValueOutput
+Drum 7 Step 1	0	3	Value	ValueOutput
+Drum 7 Step 2	0	3	Value	ValueOutput
+Drum 7 Step 3	0	3	Value	ValueOutput
+Drum 7 Step 4	0	3	Value	ValueOutput
+Drum 7 Step 5	0	3	Value	ValueOutput
+Drum 7 Step 6	0	3	Value	ValueOutput
+Drum 7 Step 7	0	3	Value	ValueOutput
+Drum 7 Step 8	0	3	Value	ValueOutput
+Drum 7 Step 9	0	3	Value	ValueOutput
+Drum 7 Step 10	0	3	Value	ValueOutput
+Drum 7 Step 11	0	3	Value	ValueOutput
+Drum 7 Step 12	0	3	Value	ValueOutput
+Drum 7 Step 13	0	3	Value	ValueOutput
+Drum 7 Step 14	0	3	Value	ValueOutput
+Drum 7 Step 15	0	3	Value	ValueOutput
+Drum 7 Step 16	0	3	Value	ValueOutput
+Drum 8 Step 1	0	3	Value	ValueOutput
+Drum 8 Step 2	0	3	Value	ValueOutput
+Drum 8 Step 3	0	3	Value	ValueOutput
+Drum 8 Step 4	0	3	Value	ValueOutput
+Drum 8 Step 5	0	3	Value	ValueOutput
+Drum 8 Step 6	0	3	Value	ValueOutput
+Drum 8 Step 7	0	3	Value	ValueOutput
+Drum 8 Step 8	0	3	Value	ValueOutput
+Drum 8 Step 9	0	3	Value	ValueOutput
+Drum 8 Step 10	0	3	Value	ValueOutput
+Drum 8 Step 11	0	3	Value	ValueOutput
+Drum 8 Step 12	0	3	Value	ValueOutput
+Drum 8 Step 13	0	3	Value	ValueOutput
+Drum 8 Step 14	0	3	Value	ValueOutput
+Drum 8 Step 15	0	3	Value	ValueOutput
+Drum 8 Step 16	0	3	Value	ValueOutput
+Drum 9 Step 1	0	3	Value	ValueOutput
+Drum 9 Step 2	0	3	Value	ValueOutput
+Drum 9 Step 3	0	3	Value	ValueOutput
+Drum 9 Step 4	0	3	Value	ValueOutput
+Drum 9 Step 5	0	3	Value	ValueOutput
+Drum 9 Step 6	0	3	Value	ValueOutput
+Drum 9 Step 7	0	3	Value	ValueOutput
+Drum 9 Step 8	0	3	Value	ValueOutput
+Drum 9 Step 9	0	3	Value	ValueOutput
+Drum 9 Step 10	0	3	Value	ValueOutput
+Drum 9 Step 11	0	3	Value	ValueOutput
+Drum 9 Step 12	0	3	Value	ValueOutput
+Drum 9 Step 13	0	3	Value	ValueOutput
+Drum 9 Step 14	0	3	Value	ValueOutput
+Drum 9 Step 15	0	3	Value	ValueOutput
+Drum 9 Step 16	0	3	Value	ValueOutput
+Drum 10 Step 1	0	3	Value	ValueOutput
+Drum 10 Step 2	0	3	Value	ValueOutput
+Drum 10 Step 3	0	3	Value	ValueOutput
+Drum 10 Step 4	0	3	Value	ValueOutput
+Drum 10 Step 5	0	3	Value	ValueOutput
+Drum 10 Step 6	0	3	Value	ValueOutput
+Drum 10 Step 7	0	3	Value	ValueOutput
+Drum 10 Step 8	0	3	Value	ValueOutput
+Drum 10 Step 9	0	3	Value	ValueOutput
+Drum 10 Step 10	0	3	Value	ValueOutput
+Drum 10 Step 11	0	3	Value	ValueOutput
+Drum 10 Step 12	0	3	Value	ValueOutput
+Drum 10 Step 13	0	3	Value	ValueOutput
+Drum 10 Step 14	0	3	Value	ValueOutput
+Drum 10 Step 15	0	3	Value	ValueOutput
+Drum 10 Step 16	0	3	Value	ValueOutput
+Selected Drum Step Out 1	0	4	-	ValueOutput
+Selected Drum Step Out 2	0	4	-	ValueOutput
+Selected Drum Step Out 3	0	4	-	ValueOutput
+Selected Drum Step Out 4	0	4	-	ValueOutput
+Selected Drum Step Out 5	0	4	-	ValueOutput
+Selected Drum Step Out 6	0	4	-	ValueOutput
+Selected Drum Step Out 7	0	4	-	ValueOutput
+Selected Drum Step Out 8	0	4	-	ValueOutput
+Selected Drum Step Out 9	0	4	-	ValueOutput
+Selected Drum Step Out 10	0	4	-	ValueOutput
+Selected Drum Step Out 11	0	4	-	ValueOutput
+Selected Drum Step Out 12	0	4	-	ValueOutput
+Selected Drum Step Out 13	0	4	-	ValueOutput
+Selected Drum Step Out 14	0	4	-	ValueOutput
+Selected Drum Step Out 15	0	4	-	ValueOutput
+Selected Drum Step Out 16	0	4	-	ValueOutput
+Drum 1 Step Out 1	0	4	-	ValueOutput
+Drum 1 Step Out 2	0	4	-	ValueOutput
+Drum 1 Step Out 3	0	4	-	ValueOutput
+Drum 1 Step Out 4	0	4	-	ValueOutput
+Drum 1 Step Out 5	0	4	-	ValueOutput
+Drum 1 Step Out 6	0	4	-	ValueOutput
+Drum 1 Step Out 7	0	4	-	ValueOutput
+Drum 1 Step Out 8	0	4	-	ValueOutput
+Drum 1 Step Out 9	0	4	-	ValueOutput
+Drum 1 Step Out 10	0	4	-	ValueOutput
+Drum 1 Step Out 11	0	4	-	ValueOutput
+Drum 1 Step Out 12	0	4	-	ValueOutput
+Drum 1 Step Out 13	0	4	-	ValueOutput
+Drum 1 Step Out 14	0	4	-	ValueOutput
+Drum 1 Step Out 15	0	4	-	ValueOutput
+Drum 1 Step Out 16	0	4	-	ValueOutput
+Drum 2 Step Out 1	0	4	-	ValueOutput
+Drum 2 Step Out 2	0	4	-	ValueOutput
+Drum 2 Step Out 3	0	4	-	ValueOutput
+Drum 2 Step Out 4	0	4	-	ValueOutput
+Drum 2 Step Out 5	0	4	-	ValueOutput
+Drum 2 Step Out 6	0	4	-	ValueOutput
+Drum 2 Step Out 7	0	4	-	ValueOutput
+Drum 2 Step Out 8	0	4	-	ValueOutput
+Drum 2 Step Out 9	0	4	-	ValueOutput
+Drum 2 Step Out 10	0	4	-	ValueOutput
+Drum 2 Step Out 11	0	4	-	ValueOutput
+Drum 2 Step Out 12	0	4	-	ValueOutput
+Drum 2 Step Out 13	0	4	-	ValueOutput
+Drum 2 Step Out 14	0	4	-	ValueOutput
+Drum 2 Step Out 15	0	4	-	ValueOutput
+Drum 2 Step Out 16	0	4	-	ValueOutput
+Drum 3 Step Out 1	0	4	-	ValueOutput
+Drum 3 Step Out 2	0	4	-	ValueOutput
+Drum 3 Step Out 3	0	4	-	ValueOutput
+Drum 3 Step Out 4	0	4	-	ValueOutput
+Drum 3 Step Out 5	0	4	-	ValueOutput
+Drum 3 Step Out 6	0	4	-	ValueOutput
+Drum 3 Step Out 7	0	4	-	ValueOutput
+Drum 3 Step Out 8	0	4	-	ValueOutput
+Drum 3 Step Out 9	0	4	-	ValueOutput
+Drum 3 Step Out 10	0	4	-	ValueOutput
+Drum 3 Step Out 11	0	4	-	ValueOutput
+Drum 3 Step Out 12	0	4	-	ValueOutput
+Drum 3 Step Out 13	0	4	-	ValueOutput
+Drum 3 Step Out 14	0	4	-	ValueOutput
+Drum 3 Step Out 15	0	4	-	ValueOutput
+Drum 3 Step Out 16	0	4	-	ValueOutput
+Drum 4 Step Out 1	0	4	-	ValueOutput
+Drum 4 Step Out 2	0	4	-	ValueOutput
+Drum 4 Step Out 3	0	4	-	ValueOutput
+Drum 4 Step Out 4	0	4	-	ValueOutput
+Drum 4 Step Out 5	0	4	-	ValueOutput
+Drum 4 Step Out 6	0	4	-	ValueOutput
+Drum 4 Step Out 7	0	4	-	ValueOutput
+Drum 4 Step Out 8	0	4	-	ValueOutput
+Drum 4 Step Out 9	0	4	-	ValueOutput
+Drum 4 Step Out 10	0	4	-	ValueOutput
+Drum 4 Step Out 11	0	4	-	ValueOutput
+Drum 4 Step Out 12	0	4	-	ValueOutput
+Drum 4 Step Out 13	0	4	-	ValueOutput
+Drum 4 Step Out 14	0	4	-	ValueOutput
+Drum 4 Step Out 15	0	4	-	ValueOutput
+Drum 4 Step Out 16	0	4	-	ValueOutput
+Drum 5 Step Out 1	0	4	-	ValueOutput
+Drum 5 Step Out 2	0	4	-	ValueOutput
+Drum 5 Step Out 3	0	4	-	ValueOutput
+Drum 5 Step Out 4	0	4	-	ValueOutput
+Drum 5 Step Out 5	0	4	-	ValueOutput
+Drum 5 Step Out 6	0	4	-	ValueOutput
+Drum 5 Step Out 7	0	4	-	ValueOutput
+Drum 5 Step Out 8	0	4	-	ValueOutput
+Drum 5 Step Out 9	0	4	-	ValueOutput
+Drum 5 Step Out 10	0	4	-	ValueOutput
+Drum 5 Step Out 11	0	4	-	ValueOutput
+Drum 5 Step Out 12	0	4	-	ValueOutput
+Drum 5 Step Out 13	0	4	-	ValueOutput
+Drum 5 Step Out 14	0	4	-	ValueOutput
+Drum 5 Step Out 15	0	4	-	ValueOutput
+Drum 5 Step Out 16	0	4	-	ValueOutput
+Drum 6 Step Out 1	0	4	-	ValueOutput
+Drum 6 Step Out 2	0	4	-	ValueOutput
+Drum 6 Step Out 3	0	4	-	ValueOutput
+Drum 6 Step Out 4	0	4	-	ValueOutput
+Drum 6 Step Out 5	0	4	-	ValueOutput
+Drum 6 Step Out 6	0	4	-	ValueOutput
+Drum 6 Step Out 7	0	4	-	ValueOutput
+Drum 6 Step Out 8	0	4	-	ValueOutput
+Drum 6 Step Out 9	0	4	-	ValueOutput
+Drum 6 Step Out 10	0	4	-	ValueOutput
+Drum 6 Step Out 11	0	4	-	ValueOutput
+Drum 6 Step Out 12	0	4	-	ValueOutput
+Drum 6 Step Out 13	0	4	-	ValueOutput
+Drum 6 Step Out 14	0	4	-	ValueOutput
+Drum 6 Step Out 15	0	4	-	ValueOutput
+Drum 6 Step Out 16	0	4	-	ValueOutput
+Drum 7 Step Out 1	0	4	-	ValueOutput
+Drum 7 Step Out 2	0	4	-	ValueOutput
+Drum 7 Step Out 3	0	4	-	ValueOutput
+Drum 7 Step Out 4	0	4	-	ValueOutput
+Drum 7 Step Out 5	0	4	-	ValueOutput
+Drum 7 Step Out 6	0	4	-	ValueOutput
+Drum 7 Step Out 7	0	4	-	ValueOutput
+Drum 7 Step Out 8	0	4	-	ValueOutput
+Drum 7 Step Out 9	0	4	-	ValueOutput
+Drum 7 Step Out 10	0	4	-	ValueOutput
+Drum 7 Step Out 11	0	4	-	ValueOutput
+Drum 7 Step Out 12	0	4	-	ValueOutput
+Drum 7 Step Out 13	0	4	-	ValueOutput
+Drum 7 Step Out 14	0	4	-	ValueOutput
+Drum 7 Step Out 15	0	4	-	ValueOutput
+Drum 7 Step Out 16	0	4	-	ValueOutput
+Drum 8 Step Out 1	0	4	-	ValueOutput
+Drum 8 Step Out 2	0	4	-	ValueOutput
+Drum 8 Step Out 3	0	4	-	ValueOutput
+Drum 8 Step Out 4	0	4	-	ValueOutput
+Drum 8 Step Out 5	0	4	-	ValueOutput
+Drum 8 Step Out 6	0	4	-	ValueOutput
+Drum 8 Step Out 7	0	4	-	ValueOutput
+Drum 8 Step Out 8	0	4	-	ValueOutput
+Drum 8 Step Out 9	0	4	-	ValueOutput
+Drum 8 Step Out 10	0	4	-	ValueOutput
+Drum 8 Step Out 11	0	4	-	ValueOutput
+Drum 8 Step Out 12	0	4	-	ValueOutput
+Drum 8 Step Out 13	0	4	-	ValueOutput
+Drum 8 Step Out 14	0	4	-	ValueOutput
+Drum 8 Step Out 15	0	4	-	ValueOutput
+Drum 8 Step Out 16	0	4	-	ValueOutput
+Drum 9 Step Out 1	0	4	-	ValueOutput
+Drum 9 Step Out 2	0	4	-	ValueOutput
+Drum 9 Step Out 3	0	4	-	ValueOutput
+Drum 9 Step Out 4	0	4	-	ValueOutput
+Drum 9 Step Out 5	0	4	-	ValueOutput
+Drum 9 Step Out 6	0	4	-	ValueOutput
+Drum 9 Step Out 7	0	4	-	ValueOutput
+Drum 9 Step Out 8	0	4	-	ValueOutput
+Drum 9 Step Out 9	0	4	-	ValueOutput
+Drum 9 Step Out 10	0	4	-	ValueOutput
+Drum 9 Step Out 11	0	4	-	ValueOutput
+Drum 9 Step Out 12	0	4	-	ValueOutput
+Drum 9 Step Out 13	0	4	-	ValueOutput
+Drum 9 Step Out 14	0	4	-	ValueOutput
+Drum 9 Step Out 15	0	4	-	ValueOutput
+Drum 9 Step Out 16	0	4	-	ValueOutput
+Drum 10 Step Out 1	0	4	-	ValueOutput
+Drum 10 Step Out 2	0	4	-	ValueOutput
+Drum 10 Step Out 3	0	4	-	ValueOutput
+Drum 10 Step Out 4	0	4	-	ValueOutput
+Drum 10 Step Out 5	0	4	-	ValueOutput
+Drum 10 Step Out 6	0	4	-	ValueOutput
+Drum 10 Step Out 7	0	4	-	ValueOutput
+Drum 10 Step Out 8	0	4	-	ValueOutput
+Drum 10 Step Out 9	0	4	-	ValueOutput
+Drum 10 Step Out 10	0	4	-	ValueOutput
+Drum 10 Step Out 11	0	4	-	ValueOutput
+Drum 10 Step Out 12	0	4	-	ValueOutput
+Drum 10 Step Out 13	0	4	-	ValueOutput
+Drum 10 Step Out 14	0	4	-	ValueOutput
+Drum 10 Step Out 15	0	4	-	ValueOutput
+Drum 10 Step Out 16	0	4	-	ValueOutput
+Remote Start Step	1	64	Value	ValueOutput
+Next Remote Start Step	0	1	Trig	ValueOutput
+Previous Remote Start Step	0	1	Trig	ValueOutput
+Next 4 Remote Start Step	0	1	Trig	ValueOutput
+Previous 4 Remote Start Step	0	1	Trig	ValueOutput
+Next 8 Remote Start Step	0	1	Trig	ValueOutput
+Previous 8 Remote Start Step	0	1	Trig	ValueOutput
+Next 16 Remote Start Step	0	1	Trig	ValueOutput
+Previous 16 Remote Start Step	0	1	Trig	ValueOutput

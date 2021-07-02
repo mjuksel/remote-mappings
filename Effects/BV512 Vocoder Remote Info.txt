@@ -1,0 +1,81 @@
+Scope
+Manufacturer	Model
+Propellerheads	BV512 Digital Vocoder
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Band Count	0	4	Value	ValueOutput
+Vocoder/Equalizer	0	1	Toggle	ValueOutput
+HF Emphasis	0	127	Value	ValueOutput
+Shift	-64	63	Value	ValueOutput
+Attack	0	127	Value	ValueOutput
+Decay	0	127	Value	ValueOutput
+Hold	0	1	Toggle	ValueOutput
+Dry/Wet	0	127	Value	ValueOutput
+Band Level 1	0	127	Value	ValueOutput
+Band Level 2	0	127	Value	ValueOutput
+Band Level 3	0	127	Value	ValueOutput
+Band Level 4	0	127	Value	ValueOutput
+Band Level 5	0	127	Value	ValueOutput
+Band Level 6	0	127	Value	ValueOutput
+Band Level 7	0	127	Value	ValueOutput
+Band Level 8	0	127	Value	ValueOutput
+Band Level 9	0	127	Value	ValueOutput
+Band Level 10	0	127	Value	ValueOutput
+Band Level 11	0	127	Value	ValueOutput
+Band Level 12	0	127	Value	ValueOutput
+Band Level 13	0	127	Value	ValueOutput
+Band Level 14	0	127	Value	ValueOutput
+Band Level 15	0	127	Value	ValueOutput
+Band Level 16	0	127	Value	ValueOutput
+Band Level 17	0	127	Value	ValueOutput
+Band Level 18	0	127	Value	ValueOutput
+Band Level 19	0	127	Value	ValueOutput
+Band Level 20	0	127	Value	ValueOutput
+Band Level 21	0	127	Value	ValueOutput
+Band Level 22	0	127	Value	ValueOutput
+Band Level 23	0	127	Value	ValueOutput
+Band Level 24	0	127	Value	ValueOutput
+Band Level 25	0	127	Value	ValueOutput
+Band Level 26	0	127	Value	ValueOutput
+Band Level 27	0	127	Value	ValueOutput
+Band Level 28	0	127	Value	ValueOutput
+Band Level 29	0	127	Value	ValueOutput
+Band Level 30	0	127	Value	ValueOutput
+Band Level 31	0	127	Value	ValueOutput
+Band Level 32	0	127	Value	ValueOutput
+Mod Level 1	0	127	-	ValueOutput
+Mod Level 2	0	127	-	ValueOutput
+Mod Level 3	0	127	-	ValueOutput
+Mod Level 4	0	127	-	ValueOutput
+Mod Level 5	0	127	-	ValueOutput
+Mod Level 6	0	127	-	ValueOutput
+Mod Level 7	0	127	-	ValueOutput
+Mod Level 8	0	127	-	ValueOutput
+Mod Level 9	0	127	-	ValueOutput
+Mod Level 10	0	127	-	ValueOutput
+Mod Level 11	0	127	-	ValueOutput
+Mod Level 12	0	127	-	ValueOutput
+Mod Level 13	0	127	-	ValueOutput
+Mod Level 14	0	127	-	ValueOutput
+Mod Level 15	0	127	-	ValueOutput
+Mod Level 16	0	127	-	ValueOutput
+Mod Level 17	0	127	-	ValueOutput
+Mod Level 18	0	127	-	ValueOutput
+Mod Level 19	0	127	-	ValueOutput
+Mod Level 20	0	127	-	ValueOutput
+Mod Level 21	0	127	-	ValueOutput
+Mod Level 22	0	127	-	ValueOutput
+Mod Level 23	0	127	-	ValueOutput
+Mod Level 24	0	127	-	ValueOutput
+Mod Level 25	0	127	-	ValueOutput
+Mod Level 26	0	127	-	ValueOutput
+Mod Level 27	0	127	-	ValueOutput
+Mod Level 28	0	127	-	ValueOutput
+Mod Level 29	0	127	-	ValueOutput
+Mod Level 30	0	127	-	ValueOutput
+Mod Level 31	0	127	-	ValueOutput
+Mod Level 32	0	127	-	ValueOutput
+Source Peak Meter	0	20	-	ValueOutput
+Modulator Peak Meter	0	20	-	ValueOutput
+Device Name	0	0	-	TextOutput

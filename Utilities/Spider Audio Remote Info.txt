@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+Propellerheads	Spider Audio Merger & Splitter
+
+Remotable	Min	Max	Input type	Output type
+Merge Input 1 Left Activity	0	1	-	ValueOutput
+Merge Input 2 Left Activity	0	1	-	ValueOutput
+Merge Input 3 Left Activity	0	1	-	ValueOutput
+Merge Input 4 Left Activity	0	1	-	ValueOutput
+Merge Input 1 Right Activity	0	1	-	ValueOutput
+Merge Input 2 Right Activity	0	1	-	ValueOutput
+Merge Input 3 Right Activity	0	1	-	ValueOutput
+Merge Input 4 Right Activity	0	1	-	ValueOutput
+Split Input Left Activity	0	1	-	ValueOutput
+Split Input Right Activity	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput

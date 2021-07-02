@@ -1,0 +1,27 @@
+Scope
+Manufacturer	Model
+LAB ONE Recordings	co.uk.labonerecordings.EQUILA
+
+Remotable	Min	Max	Input type	Output type
+EQ State	0	1	Toggle	ValueOutput
+Warmth	0	1	Toggle	ValueOutput
+Routing	0	1	Toggle	ValueOutput
+Low Band Frequency	0	4194304	Value	ValueOutput
+Low Band Gain	0	4194304	Value	ValueOutput
+Low Band Mode	0	1	Toggle	ValueOutput
+Low Band Slope	0	1	Toggle	ValueOutput
+Mid Band Gain	0	4194304	Value	ValueOutput
+Mid Band Frequency	0	4194304	Value	ValueOutput
+Mid Band Q	0	4194304	Value	ValueOutput
+Mid Band Slope	0	1	Toggle	ValueOutput
+Mid Band Frequency Multiply	0	1	Toggle	ValueOutput
+High Band Frequency	0	4194304	Value	ValueOutput
+High Band Gain	0	4194304	Value	ValueOutput
+High Band Mode	0	1	Toggle	ValueOutput
+High Band Slope	0	1	Toggle	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

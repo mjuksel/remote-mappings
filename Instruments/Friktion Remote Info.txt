@@ -1,0 +1,124 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Friktion
+
+Remotable	Min	Max	Input type	Output type
+Bow Accent	0	4194304	Value	ValueOutput
+Bow Noise	0	4194304	Value	ValueOutput
+Bow Position	0	4194304	Value	ValueOutput
+Bow Pressure	0	4194304	Value	ValueOutput
+Articulation to Bow Pressure	0	4194304	Value	ValueOutput
+Bow Variation	0	4194304	Value	ValueOutput
+Pluck Level	0	4194304	Value	ValueOutput
+Pluck Noise	0	4194304	Value	ValueOutput
+Pluck Position	0	4194304	Value	ValueOutput
+Pluck Style	0	1	Toggle	ValueOutput
+Pull Level	0	4194304	Value	ValueOutput
+Pull Velocity Threshold	0	4194304	Value	ValueOutput
+Bow-Pluck Key	0	1	Hold	ValueOutput
+Bow-Pluck Mode	0	1	Toggle	ValueOutput
+Finger Non-linearity	0	4194304	Value	ValueOutput
+Fingerboard Collisions	0	4194304	Value	ValueOutput
+String Decay	0	4194304	Value	ValueOutput
+Hi Damp Frequency	0	4194304	Value	ValueOutput
+Hi Damp Keyfollow	0	4194304	Value	ValueOutput
+Hi Damp Slope	0	4194304	Value	ValueOutput
+Release Damp Amount	0	4194304	Value	ValueOutput
+Release Damp Key	0	1	Hold	ValueOutput
+Release Damp On	0	1	Toggle	ValueOutput
+Harmonics Key	0	1	Hold	ValueOutput
+Harmonics On	0	1	Toggle	ValueOutput
+Harmonics Position	0	4194304	Value	ValueOutput
+Harmonics Touch	0	4194304	Value	ValueOutput
+EQ Hi Gain	0	4194304	Value	ValueOutput
+EQ Lo Gain	0	4194304	Value	ValueOutput
+EQ On	0	1	Toggle	ValueOutput
+EQ Parametric Freq	0	4194304	Value	ValueOutput
+EQ Parametric Gain	0	4194304	Value	ValueOutput
+EQ Parametric Q	0	4194304	Value	ValueOutput
+Max Start Level	0	4194304	Value	ValueOutput
+Max Sustain Level	0	4194304	Value	ValueOutput
+Min Start Level	0	4194304	Value	ValueOutput
+Min Sustain Level	0	4194304	Value	ValueOutput
+Sustain Control Select	0	4	Value	ValueOutput
+Sustain Level	0	4194304	Value	ValueOutput
+Articulation Attack	0	4194304	Value	ValueOutput
+Articulation Decay	0	4194304	Value	ValueOutput
+Articulation Release	0	4194304	Value	ValueOutput
+Velocity Curve	0	4194304	Value	ValueOutput
+Velocity to Start Level	0	4194304	Value	ValueOutput
+Vibrato Amount	0	4194304	Value	ValueOutput
+Vibrato Delay	0	4194304	Value	ValueOutput
+Vibrato Key	0	1	Hold	ValueOutput
+Vibrato On	0	1	Toggle	ValueOutput
+Vibrato Rate	0	4194304	Value	ValueOutput
+Vibrato Scale Select	0	4	Value	ValueOutput
+Glide Key	0	1	Hold	ValueOutput
+Glide Mode	0	2	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Auto Mono Range	0	12	Value	ValueOutput
+Legato Retrig Key	0	1	Hold	ValueOutput
+Legato Retrig On	0	1	Toggle	ValueOutput
+Mono Key	0	1	Hold	ValueOutput
+Key Mode	0	2	Value	ValueOutput
+Poly Key	0	1	Hold	ValueOutput
+Trig1 Key	0	1	Hold	ValueOutput
+Trig2 Key	0	1	Hold	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Wave	0	9	Value	ValueOutput
+Mod Env Attack	0	4194304	Value	ValueOutput
+Mod Env Decay	0	4194304	Value	ValueOutput
+Mod1 Amt	0	4194304	Value	ValueOutput
+Mod2 Amt	0	4194304	Value	ValueOutput
+Mod3 Amt	0	4194304	Value	ValueOutput
+Mod4 Amt	0	4194304	Value	ValueOutput
+Resonator Select	0	20	Value	ValueOutput
+Resonator Size	0	24	Value	ValueOutput
+Resonator Smear	0	4194304	Value	ValueOutput
+Resonator Direct	0	4194304	Value	ValueOutput
+Resonator Width	0	4194304	Value	ValueOutput
+Reverb Early Reflections	0	4194304	Value	ValueOutput
+Reverb Level	0	4194304	Value	ValueOutput
+Reverb On	0	1	Toggle	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Type	0	5	Value	ValueOutput
+Number of Players	0	2	Value	ValueOutput
+Doubling On	0	1	Toggle	ValueOutput
+Random Timing	0	4194304	Value	ValueOutput
+Stereo Image	0	4194304	Value	ValueOutput
+Tremolo Key	0	1	Hold	ValueOutput
+Tremolo On	0	1	Toggle	ValueOutput
+Tremolo Rate	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Octave Transpose	0	2	Value	ValueOutput
+Lo Key Range	0	127	Value	ValueOutput
+Hi Key Range	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Pitch Bend Range	0	12	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Sustain Pedal Function	0	9	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Articulation Shape	0	4194304	Value	ValueOutput
+PlayRef	0	1	Toggle	ValueOutput
+Aux Key	0	1	Hold	ValueOutput
+Mod1 Source	0	20	Value	ValueOutput
+Mod1 Dest	0	15	Value	ValueOutput
+Mod1 Scale	0	20	Value	ValueOutput
+Mod2 Source	0	20	Value	ValueOutput
+Mod2 Dest	0	15	Value	ValueOutput
+Mod2 Scale	0	20	Value	ValueOutput
+Mod3 Source	0	20	Value	ValueOutput
+Mod3 Dest	0	15	Value	ValueOutput
+Mod3 Scale	0	20	Value	ValueOutput
+Mod4 Source	0	20	Value	ValueOutput
+Mod4 Dest	0	15	Value	ValueOutput
+Mod4 Scale	0	20	Value	ValueOutput
+Control Keys On	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

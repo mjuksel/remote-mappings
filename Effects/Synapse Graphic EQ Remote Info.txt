@@ -1,0 +1,49 @@
+Scope
+Manufacturer	Model
+Synapse Audio Software	com.synapseAudioSoftware.SynapseGQ7
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Band 1 Active	0	1	Toggle	ValueOutput
+Band 1 Type	0	2	Value	ValueOutput
+Band 1 Gain	0	4194304	Value	ValueOutput
+Band 1 Freq	0	4194304	Value	ValueOutput
+Band 1 Q	0	4194304	Value	ValueOutput
+Band 2 Active	0	1	Toggle	ValueOutput
+Band 2 Type	0	2	Value	ValueOutput
+Band 2 Gain	0	4194304	Value	ValueOutput
+Band 2 Freq	0	4194304	Value	ValueOutput
+Band 2 Q	0	4194304	Value	ValueOutput
+Band 3 Active	0	1	Toggle	ValueOutput
+Band 3 Type	0	2	Value	ValueOutput
+Band 3 Gain	0	4194304	Value	ValueOutput
+Band 3 Freq	0	4194304	Value	ValueOutput
+Band 3 Q	0	4194304	Value	ValueOutput
+Band 4 Active	0	1	Toggle	ValueOutput
+Band 4 Type	0	2	Value	ValueOutput
+Band 4 Gain	0	4194304	Value	ValueOutput
+Band 4 Freq	0	4194304	Value	ValueOutput
+Band 4 Q	0	4194304	Value	ValueOutput
+Band 5 Active	0	1	Toggle	ValueOutput
+Band 5 Type	0	2	Value	ValueOutput
+Band 5 Gain	0	4194304	Value	ValueOutput
+Band 5 Freq	0	4194304	Value	ValueOutput
+Band 5 Q	0	4194304	Value	ValueOutput
+Low Cut Filter Active	0	1	Toggle	ValueOutput
+Low Cut Filter Freq	0	4194304	Value	ValueOutput
+Low Cut Filter Resonance	0	4194304	Value	ValueOutput
+Low Cut Filter Slope	0	11	Value	ValueOutput
+High Cut Filter Active	0	1	Toggle	ValueOutput
+High Cut Filter Freq	0	4194304	Value	ValueOutput
+High Cut Filter Resonance	0	4194304	Value	ValueOutput
+High Cut Filter Slope	0	11	Value	ValueOutput
+Output Volume	0	4194304	Value	ValueOutput
+Automatic Gain Compensation	0	1	Toggle	ValueOutput
+Phase Inversion	0	1	Toggle	ValueOutput
+Send Mode	0	1	Toggle	ValueOutput
+EQ Mode	0	4	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

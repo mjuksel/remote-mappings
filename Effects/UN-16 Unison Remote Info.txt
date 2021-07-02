@@ -1,0 +1,11 @@
+Scope
+Manufacturer	Model
+Propellerheads	UN-16 Unison
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Voice Count	0	2	Value	ValueOutput
+Detune	0	127	Value	ValueOutput
+Dry/Wet	0	127	Value	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+Device Name	0	0	-	TextOutput

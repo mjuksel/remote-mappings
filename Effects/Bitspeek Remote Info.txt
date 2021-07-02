@@ -1,0 +1,23 @@
+Scope
+Manufacturer	Model
+Sonic Charge	com.soniccharge.Bitspeek
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Pitch Coarse	0	72	Value	ValueOutput
+Pitch Fine	0	4194304	Value	ValueOutput
+Tracking	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Noise Adjust	0	4194304	Value	ValueOutput
+Sample Rate	0	3	Value	ValueOutput
+Frame Rate No Sync	0	4194304	Value	ValueOutput
+Frame Rate Sync	0	16	Value	ValueOutput
+Sync	0	1	Toggle	ValueOutput
+Keyboard Mode	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

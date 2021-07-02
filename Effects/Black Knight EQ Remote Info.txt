@@ -1,0 +1,52 @@
+Scope
+Manufacturer	Model
+LAB ONE Recordings	co.uk.labonerecordings.BlackKnightEq
+
+Remotable	Min	Max	Input type	Output type
+Feed in	0	4194304	Value	ValueOutput
+Gain Out	0	4194304	Value	ValueOutput
+Hear EQ	0	1	Toggle	ValueOutput
+Mode	0	2	Value	ValueOutput
+Saturate	0	4194304	Value	ValueOutput
+Sat. Pre/Post	0	1	Toggle	ValueOutput
+Band 1 Active	0	1	Toggle	ValueOutput
+Band 1 Parametric Frequency	0	4194304	Value	ValueOutput
+Band 1 Graphic (ISO) Frequency	0	6	Value	ValueOutput
+Band 1 Graphic (MUS) Frequency	0	6	Value	ValueOutput
+Band 1 Resonance	0	4194304	Value	ValueOutput
+Band 1 Gain	0	4194304	Value	ValueOutput
+Band 1 Type	0	1	Toggle	ValueOutput
+Band 2 Active	0	1	Toggle	ValueOutput
+Band 2 Parametric Frequency	0	4194304	Value	ValueOutput
+Band 2 Graphic (ISO) Frequency	0	6	Value	ValueOutput
+Band 2 Graphic (MUS) Frequency	0	6	Value	ValueOutput
+Band 2 Resonance	0	4194304	Value	ValueOutput
+Band 2 Gain	0	4194304	Value	ValueOutput
+Band 2 Type	0	1	Toggle	ValueOutput
+Band 3 Active	0	1	Toggle	ValueOutput
+Band 3 Parametric Frequency	0	4194304	Value	ValueOutput
+Band 3 Graphic (ISO) Frequency	0	6	Value	ValueOutput
+Band 3 Graphic (MUS) Frequency	0	6	Value	ValueOutput
+Band 3 Resonance	0	4194304	Value	ValueOutput
+Band 3 Gain	0	4194304	Value	ValueOutput
+Band 3 Type	0	1	Toggle	ValueOutput
+Band 4 Active	0	1	Toggle	ValueOutput
+Band 4 Parametric Frequency	0	4194304	Value	ValueOutput
+Band 4 Graphic (ISO) Frequency	0	6	Value	ValueOutput
+Band 4 Graphic (MUS) Frequency	0	6	Value	ValueOutput
+Band 4 Resonance	0	4194304	Value	ValueOutput
+Band 4 Gain	0	4194304	Value	ValueOutput
+Band 4 Type	0	1	Toggle	ValueOutput
+Band 5 Active	0	1	Toggle	ValueOutput
+Band 5 Parametric Frequency	0	4194304	Value	ValueOutput
+Band 5 Graphic (ISO) Frequency	0	6	Value	ValueOutput
+Band 5 Graphic (MUS) Frequency	0	6	Value	ValueOutput
+Band 5 Resonance	0	4194304	Value	ValueOutput
+Band 5 Gain	0	4194304	Value	ValueOutput
+Band 5 Type	0	1	Toggle	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

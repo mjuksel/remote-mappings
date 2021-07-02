@@ -1,0 +1,70 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Chenille
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Chorus Mode	0	1	Toggle	ValueOutput
+Chorus Model	0	2	Value	ValueOutput
+BBD Delay Samples	0	3	Value	ValueOutput
+BBD512	0	4194304	Value	ValueOutput
+BBD1024	0	4194304	Value	ValueOutput
+BBD2048	0	4194304	Value	ValueOutput
+BBD Full Range	0	4194304	Value	ValueOutput
+BBD Clock Rate	0	4194304	Value	ValueOutput
+BBD1 Enable	0	1	Toggle	ValueOutput
+BBD2 Enable	0	1	Toggle	ValueOutput
+BBD3 Enable	0	1	Toggle	ValueOutput
+BBD4 Enable	0	1	Toggle	ValueOutput
+BBD5 Enable	0	1	Toggle	ValueOutput
+BBD6 Enable	0	1	Toggle	ValueOutput
+Modulation Shape	0	4194304	Value	ValueOutput
+Fast Modulation Shape	0	4194304	Value	ValueOutput
+Oscillator Sync	0	1	Toggle	ValueOutput
+Rate Edit Mode	0	1	Toggle	ValueOutput
+BBD 1 Slow LFO Rate	0	4194304	Value	ValueOutput
+BBD 2 Slow LFO Rate	0	4194304	Value	ValueOutput
+BBD 3 Slow LFO Rate	0	4194304	Value	ValueOutput
+BBD 4 Slow LFO Rate	0	4194304	Value	ValueOutput
+BBD 5 Slow LFO Rate	0	4194304	Value	ValueOutput
+BBD 6 Slow LFO Rate	0	4194304	Value	ValueOutput
+BBD1 Fast LFO Rate	0	4194304	Value	ValueOutput
+BBD2 Fast LFO Rate	0	4194304	Value	ValueOutput
+BBD3 Fast LFO Rate	0	4194304	Value	ValueOutput
+BBD4 Fast LFO Rate	0	4194304	Value	ValueOutput
+BBD5 Fast LFO Rate	0	4194304	Value	ValueOutput
+BBD6 Fast LFO Rate	0	4194304	Value	ValueOutput
+BBD 1 Slow LFO Depth	0	4194304	Value	ValueOutput
+BBD 2 Slow LFO Depth	0	4194304	Value	ValueOutput
+BBD 3 Slow LFO Depth	0	4194304	Value	ValueOutput
+BBD 4 Slow LFO Depth	0	4194304	Value	ValueOutput
+BBD 5 Slow LFO Depth	0	4194304	Value	ValueOutput
+BBD 6 Slow LFO Depth	0	4194304	Value	ValueOutput
+BBD1 Fast LFO Depth	0	4194304	Value	ValueOutput
+BBD2 Fast LFO Depth	0	4194304	Value	ValueOutput
+BBD3 Fast LFO Depth	0	4194304	Value	ValueOutput
+BBD4 Fast LFO Depth	0	4194304	Value	ValueOutput
+BBD5 Fast LFO Depth	0	4194304	Value	ValueOutput
+BBD6 Fast LFO Depth	0	4194304	Value	ValueOutput
+BBD Mixer Gain	0	4194304	Value	ValueOutput
+THD Amount	0	4194304	Value	ValueOutput
+BBD1 Amp Mix	0	4194304	Value	ValueOutput
+BBD2 Amp Mix	0	4194304	Value	ValueOutput
+BBD3 Amp Mix	0	4194304	Value	ValueOutput
+BBD4 Amp Mix	0	4194304	Value	ValueOutput
+BBD5 Amp Mix	0	4194304	Value	ValueOutput
+BBD6 Amp Mix	0	4194304	Value	ValueOutput
+Unison Level	0	4194304	Value	ValueOutput
+Unison Detune	0	4194304	Value	ValueOutput
+HPF Frequency	0	4194304	Value	ValueOutput
+LPF Frequency	0	4194304	Value	ValueOutput
+Compander	0	1	Toggle	ValueOutput
+Bass Boost	0	1	Toggle	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Feedback Left	0	4194304	Value	ValueOutput
+Feedback Right	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	com.sugarbytes.SliceArranger
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+pattern	0	4194304	Value	ValueOutput
+fill1	0	7	Value	ValueOutput
+fill2	0	7	Value	ValueOutput
+decay	0	4194304	Value	ValueOutput
+drywet	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

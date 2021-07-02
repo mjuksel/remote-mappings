@@ -1,0 +1,18 @@
+Scope
+Manufacturer	Model
+Groovy Melon	com.groovymelon.MorfinXF
+
+Remotable	Min	Max	Input type	Output type
+Crossfader	0	4194304	Value	ValueOutput
+Ch A Select Input	0	3	Value	ValueOutput
+Ch B Select Input	0	3	Value	ValueOutput
+Curve Type	0	9	Value	ValueOutput
+Volume A	0	4194304	Value	ValueOutput
+Volume B	0	4194304	Value	ValueOutput
+Phase Invert A	0	1	Toggle	ValueOutput
+Phase Invert B	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

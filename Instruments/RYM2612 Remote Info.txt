@@ -1,0 +1,84 @@
+Scope
+Manufacturer	Model
+Inphonik	fr.mathieudemange.RYM2612
+
+Remotable	Min	Max	Input type	Output type
+OP1 Total Level Modwheel Amount	0	4194304	Value	ValueOutput
+OP1 Amplitude Modulation	0	1	Toggle	ValueOutput
+OP1 Attack Rate	0	31	Value	ValueOutput
+OP1 Decay Rate	0	31	Value	ValueOutput
+OP1 Secondary Decay Rate	0	31	Value	ValueOutput
+OP1 Secondary Decay Level	0	15	Value	ValueOutput
+OP1 Release Rate	0	15	Value	ValueOutput
+OP1 Rate Scaling	0	3	Value	ValueOutput
+OP1 Envelope Generator	0	8	Value	ValueOutput
+OP1 Frequency Multiplier	0	4194304	Value	ValueOutput
+OP1 Fixed Frequency	0	1	Toggle	ValueOutput
+OP1 Detune	0	6	Value	ValueOutput
+OP1 Total Level Velocity Amount	0	4194304	Value	ValueOutput
+OP1 Total Level	0	4194304	Value	ValueOutput
+OP1 Feedback	0	7	Value	ValueOutput
+OP2 Total Level Modwheel Amount	0	4194304	Value	ValueOutput
+OP2 Amplitude Modulation	0	1	Toggle	ValueOutput
+OP2 Attack Rate	0	31	Value	ValueOutput
+OP2 Decay Rate	0	31	Value	ValueOutput
+OP2 Secondary Decay Rate	0	31	Value	ValueOutput
+OP2 Secondary Decay Level	0	15	Value	ValueOutput
+OP2 Release Rate	0	15	Value	ValueOutput
+OP2 Rate Scaling	0	3	Value	ValueOutput
+OP2 Envelope Generator	0	8	Value	ValueOutput
+OP2 Frequency Multiplier	0	4194304	Value	ValueOutput
+OP2 Fixed Frequency	0	1	Toggle	ValueOutput
+OP2 Detune	0	6	Value	ValueOutput
+OP2 Total Level Velocity Amount	0	4194304	Value	ValueOutput
+OP2 Total Level	0	4194304	Value	ValueOutput
+OP3 Total Level Modwheel Amount	0	4194304	Value	ValueOutput
+OP3 Amplitude Modulation	0	1	Toggle	ValueOutput
+OP3 Attack Rate	0	31	Value	ValueOutput
+OP3 Decay Rate	0	31	Value	ValueOutput
+OP3 Secondary Decay Rate	0	31	Value	ValueOutput
+OP3 Secondary Decay Level	0	15	Value	ValueOutput
+OP3 Release Rate	0	15	Value	ValueOutput
+OP3 Rate Scaling	0	3	Value	ValueOutput
+OP3 Envelope Generator	0	8	Value	ValueOutput
+OP3 Frequency Multiplier	0	4194304	Value	ValueOutput
+OP3 Fixed Frequency	0	1	Toggle	ValueOutput
+OP3 Detune	0	6	Value	ValueOutput
+OP3 Total Level Velocity Amount	0	4194304	Value	ValueOutput
+OP3 Total Level	0	4194304	Value	ValueOutput
+OP4 Total Level Modwheel Amount	0	4194304	Value	ValueOutput
+OP4 Amplitude Modulation	0	1	Toggle	ValueOutput
+OP4 Attack Rate	0	31	Value	ValueOutput
+OP4 Decay Rate	0	31	Value	ValueOutput
+OP4 Secondary Decay Rate	0	31	Value	ValueOutput
+OP4 Secondary Decay Level	0	15	Value	ValueOutput
+OP4 Release Rate	0	15	Value	ValueOutput
+OP4 Rate Scaling	0	3	Value	ValueOutput
+OP4 Envelope Generator	0	8	Value	ValueOutput
+OP4 Frequency Multiplier	0	4194304	Value	ValueOutput
+OP4 Fixed Frequency	0	1	Toggle	ValueOutput
+OP4 Detune	0	6	Value	ValueOutput
+OP4 Total Level Velocity Amount	0	4194304	Value	ValueOutput
+OP4 Total Level	0	4194304	Value	ValueOutput
+LFO Enable	0	1	Toggle	ValueOutput
+LFO Rate	0	7	Value	ValueOutput
+Pitch Modulation Sensitivity	0	7	Value	ValueOutput
+Pitch Modulation Sensitivity Modwheel Amount	0	4194304	Value	ValueOutput
+Amplitude Modulation Sensitivity	0	3	Value	ValueOutput
+Key Mode	0	1	Toggle	ValueOutput
+Pitchbend Range	0	11	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Frequency Control Mode	0	2	Value	ValueOutput
+Auto Retrig Rate	0	4194304	Value	ValueOutput
+Algorithm	0	7	Value	ValueOutput
+DAC Prescaler	0	4194304	Value	ValueOutput
+Polyphony	0	15	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

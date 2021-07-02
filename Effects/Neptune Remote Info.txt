@@ -1,0 +1,32 @@
+Scope
+Manufacturer	Model
+Propellerheads	Neptune Pitch Adjuster
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Pitch Bend Range	0	24	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Vibrato Rate	0	127	Value	ValueOutput
+Low Freq Input	0	1	Toggle	ValueOutput
+Wide Vibrato	0	1	Toggle	ValueOutput
+Live Mode	0	1	Toggle	ValueOutput
+MIDI Destination	0	1	Toggle	ValueOutput
+Pitch Adjust On/Off	0	1	Toggle	ValueOutput
+Scale Memory	0	3	Value	ValueOutput
+Correction Speed	0	127	Value	ValueOutput
+Preserve Expression	0	127	Value	ValueOutput
+Transpose On/Off	0	1	Toggle	ValueOutput
+Semitones	-12	12	Value	ValueOutput
+Cent	-50	50	Value	ValueOutput
+Formant On/Off	0	1	Toggle	ValueOutput
+Formant Shift	-64	63	Value	ValueOutput
+Pitched Signal Level	0	127	Value	ValueOutput
+Voice Synth Level	0	127	Value	ValueOutput
+Input Peak Meter	0	20	-	ValueOutput
+MIDI Input	0	1	-	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Catch Zone	20	600	Value	ValueOutput
+Target Note Name	0	0	-	TextOutput
+Target Note	0	11	-	ValueOutput
+Pitch Adjust Amount	-200	200	-	ValueOutput

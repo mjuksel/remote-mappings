@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+The Chronologists	com.thechronologists.ScopeJr
+
+Remotable	Min	Max	Input type	Output type
+Speed	0	99	Value	ValueOutput
+Zoom	0	299	Value	ValueOutput
+Select Input	0	1	Toggle	ValueOutput
+Retrigger	0	1	Toggle	ValueOutput
+Retrigger Crossings	0	99	Value	ValueOutput
+Enable	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

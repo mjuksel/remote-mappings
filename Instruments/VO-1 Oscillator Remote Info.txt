@@ -1,0 +1,36 @@
+Scope
+Manufacturer	Model
+Blamsoft, Inc.	com.blamsoft.VO1
+
+Remotable	Min	Max	Input type	Output type
+OSC1 Frequency Range	0	1	Toggle	ValueOutput
+OSC 1 Frequency	0	4194304	Value	ValueOutput
+OSC 1 Frequency Synced	0	20	Value	ValueOutput
+OSC 1 Octave	0	5	Value	ValueOutput
+OSC 1 Wave	0	4194304	Value	ValueOutput
+OSC 1 Volume	0	4194304	Value	ValueOutput
+Oscillator 1 Output	0	1	Toggle	ValueOutput
+OSC2-OSC1 Sync	0	1	Toggle	ValueOutput
+OSC2-OSC1 FM	0	1	Toggle	ValueOutput
+OSC1 Frequency Fine	0	1	Toggle	ValueOutput
+OSC1 Frequency Synced	0	1	Toggle	ValueOutput
+OSC2 Frequency Range	0	1	Toggle	ValueOutput
+OSC 2 Frequency	0	4194304	Value	ValueOutput
+OSC 2 Frequency Synced	0	20	Value	ValueOutput
+OSC 2 Octave	0	5	Value	ValueOutput
+OSC 2 Wave	0	4194304	Value	ValueOutput
+OSC 2 Volume	0	4194304	Value	ValueOutput
+Oscillator 2 Output	0	1	Toggle	ValueOutput
+OSC2 Frequency Fine	0	1	Toggle	ValueOutput
+OSC2 Frequency Synced	0	1	Toggle	ValueOutput
+Noise Type	0	1	Toggle	ValueOutput
+Noise Volume	0	4194304	Value	ValueOutput
+Noise Output	0	1	Toggle	ValueOutput
+Pitch Wheel Range	0	23	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Glide Rate	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

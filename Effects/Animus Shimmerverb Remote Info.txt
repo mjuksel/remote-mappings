@@ -1,0 +1,156 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Animus
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Dry Wet	0	4194304	Value	ValueOutput
+Dry Pan	0	4194304	Value	ValueOutput
+Shimmer Wet	0	4194304	Value	ValueOutput
+Shimmer Gain	0	4194304	Value	ValueOutput
+Low Cut	0	4194304	Value	ValueOutput
+High Cut	0	4194304	Value	ValueOutput
+Auto Mode	0	1	Toggle	ValueOutput
+Gate	0	1	Toggle	ValueOutput
+BBD Mode	0	1	Toggle	ValueOutput
+Buckets	0	4194304	Value	ValueOutput
+Clock Rate	0	4194304	Value	ValueOutput
+Filter Enable	0	1	Toggle	ValueOutput
+Filter Type	0	5	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Filter Frequency	0	4194304	Value	ValueOutput
+Filter Mod Frequency	0	4194304	Value	ValueOutput
+Filter Q	0	4194304	Value	ValueOutput
+Filter Mod Q	0	4194304	Value	ValueOutput
+Mod LFO Shape	0	6	Value	ValueOutput
+Mod LFO Rate	0	4194304	Value	ValueOutput
+Mod LFO Offset Phase	0	1	Toggle	ValueOutput
+Mod LFO Offset Rate	0	1	Toggle	ValueOutput
+Mod Target Select	0	1	Toggle	ValueOutput
+Reverb Type	0	126	Value	ValueOutput
+Reverb Signal	0	1	Toggle	ValueOutput
+Reverb Predelay	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Follower Type	0	2	Value	ValueOutput
+Reverb Follower Attack	0	4194304	Value	ValueOutput
+Reverb Follower Release	0	4194304	Value	ValueOutput
+Reverb Follower Threshold	0	4194304	Value	ValueOutput
+Reverb Follower Depth	0	4194304	Value	ValueOutput
+EQ Low Frequency	0	4194304	Value	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ High Frequency	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+Shimmer 1 Enable	0	1	Toggle	ValueOutput
+Shimmer 1 Direction	0	3	Value	ValueOutput
+Shimmer 1 Delay	0	4194304	Value	ValueOutput
+Shimmer 1 Samples	0	4194304	Value	ValueOutput
+Randomise Shimmer 1 Samples	0	4194304	Value	ValueOutput
+Shimmer 1 Density	0	4194304	Value	ValueOutput
+Shimmer 1 Level	0	4194304	Value	ValueOutput
+Shimmer 1 Pan	0	4194304	Value	ValueOutput
+Alternate Shimmer 1 Pan	0	4194304	Value	ValueOutput
+Randomise Shimmer 1 Pan	0	4194304	Value	ValueOutput
+Shimmer 1 Feedback	0	4194304	Value	ValueOutput
+Shimmer 1 Pitch	0	4194304	Value	ValueOutput
+Alternate Shimmer 1 Pitch	0	4194304	Value	ValueOutput
+Randomise Shimmer 1 Pitch	0	4194304	Value	ValueOutput
+Shimmer 1 THD	0	4194304	Value	ValueOutput
+Shimmer 1 Mod	0	4194304	Value	ValueOutput
+Shimmer 1 Mod Target	0	12	Value	ValueOutput
+Shimmer 2 Enable	0	1	Toggle	ValueOutput
+Shimmer 2 Direction	0	3	Value	ValueOutput
+Shimmer 2 Delay	0	4194304	Value	ValueOutput
+Shimmer 2 Samples	0	4194304	Value	ValueOutput
+Randomise Shimmer 2 Samples	0	4194304	Value	ValueOutput
+Shimmer 2 Density	0	4194304	Value	ValueOutput
+Shimmer 2 Level	0	4194304	Value	ValueOutput
+Shimmer 2 Pan	0	4194304	Value	ValueOutput
+Alternate Shimmer 2 Pan	0	4194304	Value	ValueOutput
+Randomise Shimmer 2 Pan	0	4194304	Value	ValueOutput
+Shimmer 2 Feedback	0	4194304	Value	ValueOutput
+Shimmer 2 Pitch	0	4194304	Value	ValueOutput
+Alternate Shimmer 2 Pitch	0	4194304	Value	ValueOutput
+Randomise Shimmer 2 Pitch	0	4194304	Value	ValueOutput
+Shimmer 2 THD	0	4194304	Value	ValueOutput
+Shimmer 2 Mod	0	4194304	Value	ValueOutput
+Shimmer 2 Mod Target	0	12	Value	ValueOutput
+Shimmer 3 Enable	0	1	Toggle	ValueOutput
+Shimmer 3 Direction	0	3	Value	ValueOutput
+Shimmer 3 Delay	0	4194304	Value	ValueOutput
+Shimmer 3 Samples	0	4194304	Value	ValueOutput
+Randomise Shimmer 3 Samples	0	4194304	Value	ValueOutput
+Shimmer 3 Density	0	4194304	Value	ValueOutput
+Shimmer 3 Level	0	4194304	Value	ValueOutput
+Shimmer 3 Pan	0	4194304	Value	ValueOutput
+Alternate Shimmer 3 Pan	0	4194304	Value	ValueOutput
+Randomise Shimmer 3 Pan	0	4194304	Value	ValueOutput
+Shimmer 3 Feedback	0	4194304	Value	ValueOutput
+Shimmer 3 Pitch	0	4194304	Value	ValueOutput
+Alternate Shimmer 3 Pitch	0	4194304	Value	ValueOutput
+Randomise Shimmer 3 Pitch	0	4194304	Value	ValueOutput
+Shimmer 3 THD	0	4194304	Value	ValueOutput
+Shimmer 3 Mod	0	4194304	Value	ValueOutput
+Shimmer 3 Mod Target	0	12	Value	ValueOutput
+Shimmer 4 Enable	0	1	Toggle	ValueOutput
+Shimmer 4 Direction	0	3	Value	ValueOutput
+Shimmer 4 Delay	0	4194304	Value	ValueOutput
+Shimmer 4 Samples	0	4194304	Value	ValueOutput
+Randomise Shimmer 4 Samples	0	4194304	Value	ValueOutput
+Shimmer 4 Density	0	4194304	Value	ValueOutput
+Shimmer 4 Level	0	4194304	Value	ValueOutput
+Shimmer 4 Pan	0	4194304	Value	ValueOutput
+Alternate Shimmer 4 Pan	0	4194304	Value	ValueOutput
+Randomise Shimmer 4 Pan	0	4194304	Value	ValueOutput
+Shimmer 4 Feedback	0	4194304	Value	ValueOutput
+Shimmer 4 Pitch	0	4194304	Value	ValueOutput
+Alternate Shimmer 4 Pitch	0	4194304	Value	ValueOutput
+Randomise Shimmer 4 Pitch	0	4194304	Value	ValueOutput
+Shimmer 4 THD	0	4194304	Value	ValueOutput
+Shimmer 4 Mod	0	4194304	Value	ValueOutput
+Shimmer 4 Mod Target	0	12	Value	ValueOutput
+Shimmer 5 Enable	0	1	Toggle	ValueOutput
+Shimmer 5 Direction	0	3	Value	ValueOutput
+Shimmer 5 Delay	0	4194304	Value	ValueOutput
+Shimmer 5 Samples	0	4194304	Value	ValueOutput
+Randomise Shimmer 5 Samples	0	4194304	Value	ValueOutput
+Shimmer 5 Density	0	4194304	Value	ValueOutput
+Shimmer 5 Level	0	4194304	Value	ValueOutput
+Shimmer 5 Pan	0	4194304	Value	ValueOutput
+Alternate Shimmer 5 Pan	0	4194304	Value	ValueOutput
+Randomise Shimmer 5 Pan	0	4194304	Value	ValueOutput
+Shimmer 5 Feedback	0	4194304	Value	ValueOutput
+Shimmer 5 Pitch	0	4194304	Value	ValueOutput
+Alternate Shimmer 5 Pitch	0	4194304	Value	ValueOutput
+Randomise Shimmer 5 Pitch	0	4194304	Value	ValueOutput
+Shimmer 5 THD	0	4194304	Value	ValueOutput
+Shimmer 5 Mod	0	4194304	Value	ValueOutput
+Shimmer 5 Mod Target	0	12	Value	ValueOutput
+Shimmer 6 Enable	0	1	Toggle	ValueOutput
+Shimmer 6 Direction	0	3	Value	ValueOutput
+Shimmer 6 Delay	0	4194304	Value	ValueOutput
+Shimmer 6 Samples	0	4194304	Value	ValueOutput
+Randomise Shimmer 6 Samples	0	4194304	Value	ValueOutput
+Shimmer 6 Density	0	4194304	Value	ValueOutput
+Shimmer 6 Level	0	4194304	Value	ValueOutput
+Shimmer 6 Pan	0	4194304	Value	ValueOutput
+Alternate Shimmer 6 Pan	0	4194304	Value	ValueOutput
+Randomise Shimmer 6 Pan	0	4194304	Value	ValueOutput
+Shimmer 6 Feedback	0	4194304	Value	ValueOutput
+Shimmer 6 Pitch	0	4194304	Value	ValueOutput
+Alternate Shimmer 6 Pitch	0	4194304	Value	ValueOutput
+Randomise Shimmer 6 Pitch	0	4194304	Value	ValueOutput
+Shimmer 6 THD	0	4194304	Value	ValueOutput
+Shimmer 6 Mod	0	4194304	Value	ValueOutput
+Shimmer 6 Mod Target	0	12	Value	ValueOutput
+Clock Rate Null	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

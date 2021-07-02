@@ -1,0 +1,57 @@
+Scope
+Manufacturer	Model
+Rob Papen	com.robpapen.RPVerb
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Dry / Wet	0	4194304	Value	ValueOutput
+Ensemble On/Off	0	1	Toggle	ValueOutput
+Ensemble Volume	0	4194304	Value	ValueOutput
+Ensemble Mode	0	1	Toggle	ValueOutput
+Distortion On/Off	0	1	Toggle	ValueOutput
+Distortion Amount	0	4194304	Value	ValueOutput
+Early Reflection On/Off	0	1	Toggle	ValueOutput
+Early Reflection Volume	0	4194304	Value	ValueOutput
+Early Reflection Length	0	4194304	Value	ValueOutput
+Early Reflection Damping	0	4194304	Value	ValueOutput
+Early Reflection Feedback	0	4194304	Value	ValueOutput
+Early Reflection Side Feed	0	4194304	Value	ValueOutput
+Early Reflection Cross Feed	0	4194304	Value	ValueOutput
+Early Reflection Mode	0	1	Toggle	ValueOutput
+Reverb On/Off	0	1	Toggle	ValueOutput
+Reverb Space Size	0	4194304	Value	ValueOutput
+Reverb Length	0	4194304	Value	ValueOutput
+Reverb Pre-Delay	0	4194304	Value	ValueOutput
+Reverb Disorder	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb Volume	0	4194304	Value	ValueOutput
+Reverb Pre-Delay Disorder	0	4194304	Value	ValueOutput
+Reverb Diffusion	0	4194304	Value	ValueOutput
+Reverb Lowpass Colour	0	4194304	Value	ValueOutput
+Reverb Highpass Colour	0	4194304	Value	ValueOutput
+Reverb Space Type	0	17	Value	ValueOutput
+Reverb Colour Type	0	4	Value	ValueOutput
+Late Reflection On/Off	0	1	Toggle	ValueOutput
+Late Reflection Volume	0	4194304	Value	ValueOutput
+Late Reflection Length	0	4194304	Value	ValueOutput
+Late Reflection Damping	0	4194304	Value	ValueOutput
+Late Reflection Mode	0	1	Toggle	ValueOutput
+Envelope On/Off	0	1	Toggle	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Hold	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Envelope Modulation Amount	0	4194304	Value	ValueOutput
+Envelope Stereo / Mono Input	0	1	Toggle	ValueOutput
+Envelope Latch On/Off	0	1	Toggle	ValueOutput
+Envelope Mode	0	4	Value	ValueOutput
+EQ On/Off	0	1	Toggle	ValueOutput
+EQ Low	0	4194304	Value	ValueOutput
+EQ Mid	0	4194304	Value	ValueOutput
+EQ High	0	4194304	Value	ValueOutput
+EQ Position	0	1	Toggle	ValueOutput
+Reset	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

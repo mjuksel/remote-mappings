@@ -1,0 +1,103 @@
+Scope
+Manufacturer	Model
+Quadelectra Audioworx	com.quadelectra.ThreePlex
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Line 1: Enabled	0	1	Toggle	ValueOutput
+Line 1: Time Unit	0	2	Value	ValueOutput
+Line 1: Time (ms)	0	4194304	Value	ValueOutput
+Line 1: Time (Steps)	0	15	Value	ValueOutput
+Line 1: Time Micro Adjust	0	4194304	Value	ValueOutput
+Line 1: Feedback	0	4194304	Value	ValueOutput
+Line 1: Pre / Post Filter Mode	0	1	Toggle	ValueOutput
+Line 1: Filter Envelope Amount	0	4194304	Value	ValueOutput
+Line 1: Filter LFO Amount	0	4194304	Value	ValueOutput
+Line 1: Filter LFO Source	0	2	Value	ValueOutput
+Line 1: Filter Frequency	0	4194304	Value	ValueOutput
+Line 1: Filter Resonance	0	4194304	Value	ValueOutput
+Line 1: Filter Type	0	4	Value	ValueOutput
+Line 1: Filter Poles	0	1	Toggle	ValueOutput
+Line 1: Filter Env. Attack	0	4194304	Value	ValueOutput
+Line 1: Filter Env. Hold	0	4194304	Value	ValueOutput
+Line 1: Filter Env. Decay	0	4194304	Value	ValueOutput
+Line 1: Pan LFO Source	0	2	Value	ValueOutput
+Line 1: Pan LFO Amount	0	4194304	Value	ValueOutput
+Line 1: Pan	0	4194304	Value	ValueOutput
+Line 1: Level LFO Source	0	2	Value	ValueOutput
+Line 1: Level LFO Amount	0	4194304	Value	ValueOutput
+Line 1: Level	0	4194304	Value	ValueOutput
+Line 2: Enabled	0	1	Toggle	ValueOutput
+Line 2: Time Unit	0	2	Value	ValueOutput
+Line 2: Time (ms)	0	4194304	Value	ValueOutput
+Line 2: Time (Steps)	0	15	Value	ValueOutput
+Line 2: Time Micro Adjust	0	4194304	Value	ValueOutput
+Line 2: Feedback	0	4194304	Value	ValueOutput
+Line 2: Pre / Post Filter Mode	0	1	Toggle	ValueOutput
+Line 2: Filter Envelope Amount	0	4194304	Value	ValueOutput
+Line 2: Filter LFO Amount	0	4194304	Value	ValueOutput
+Line 2: Filter LFO Source	0	2	Value	ValueOutput
+Line 2: Filter Frequency	0	4194304	Value	ValueOutput
+Line 2: Filter Resonance	0	4194304	Value	ValueOutput
+Line 2: Filter Type	0	4	Value	ValueOutput
+Line 2: Filter Poles	0	1	Toggle	ValueOutput
+Line 2: Filter Env. Attack	0	4194304	Value	ValueOutput
+Line 2: Filter Env. Hold	0	4194304	Value	ValueOutput
+Line 2: Filter Env. Decay	0	4194304	Value	ValueOutput
+Line 2: Pan LFO Source	0	2	Value	ValueOutput
+Line 2: Pan LFO Amount	0	4194304	Value	ValueOutput
+Line 2: Pan	0	4194304	Value	ValueOutput
+Line 2: Level LFO Source	0	2	Value	ValueOutput
+Line 2: Level LFO Amount	0	4194304	Value	ValueOutput
+Line 2: Level	0	4194304	Value	ValueOutput
+Line 3: Enabled	0	1	Toggle	ValueOutput
+Line 3: Time Unit	0	2	Value	ValueOutput
+Line 3: Time (ms)	0	4194304	Value	ValueOutput
+Line 3: Time (Steps)	0	15	Value	ValueOutput
+Line 3: Time Micro Adjust	0	4194304	Value	ValueOutput
+Line 3: Feedback	0	4194304	Value	ValueOutput
+Line 3: Pre / Post Filter Mode	0	1	Toggle	ValueOutput
+Line 3: Filter Envelope Amount	0	4194304	Value	ValueOutput
+Line 3: Filter LFO Amount	0	4194304	Value	ValueOutput
+Line 3: Filter LFO Source	0	2	Value	ValueOutput
+Line 3: Filter Frequency	0	4194304	Value	ValueOutput
+Line 3: Filter Resonance	0	4194304	Value	ValueOutput
+Line 3: Filter Type	0	4	Value	ValueOutput
+Line 3: Filter Poles	0	1	Toggle	ValueOutput
+Line 3: Filter Env. Attack	0	4194304	Value	ValueOutput
+Line 3: Filter Env. Hold	0	4194304	Value	ValueOutput
+Line 3: Filter Env. Decay	0	4194304	Value	ValueOutput
+Line 3: Pan LFO Source	0	2	Value	ValueOutput
+Line 3: Pan LFO Amount	0	4194304	Value	ValueOutput
+Line 3: Pan	0	4194304	Value	ValueOutput
+Line 3: Level LFO Source	0	2	Value	ValueOutput
+Line 3: Level LFO Amount	0	4194304	Value	ValueOutput
+Line 3: Level	0	4194304	Value	ValueOutput
+LFO 1: Sync	0	1	Toggle	ValueOutput
+LFO 1: Rate	0	4194304	Value	ValueOutput
+LFO 1: Rate (Synced)	0	25	Value	ValueOutput
+LFO 1: Waveform	0	4	Value	ValueOutput
+LFO 2: Sync	0	1	Toggle	ValueOutput
+LFO 2: Rate	0	4194304	Value	ValueOutput
+LFO 2: Rate (Synced)	0	25	Value	ValueOutput
+LFO 2: Waveform	0	4	Value	ValueOutput
+LFO 3: Sync	0	1	Toggle	ValueOutput
+LFO 3: Rate	0	4194304	Value	ValueOutput
+LFO 3: Rate (Synced)	0	25	Value	ValueOutput
+LFO 3: Waveform	0	4	Value	ValueOutput
+Bus Setup	0	2	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Global Feedback	0	4194304	Value	ValueOutput
+Global Filter LFO Amount	0	4194304	Value	ValueOutput
+Global Pan LFO Amount	0	4194304	Value	ValueOutput
+Global Level LFO Amount	0	4194304	Value	ValueOutput
+Global Filter Env. Amount	0	4194304	Value	ValueOutput
+Ducking	0	4194304	Value	ValueOutput
+Dry / Wet Mix	0	4194304	Value	ValueOutput
+Pan Position	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

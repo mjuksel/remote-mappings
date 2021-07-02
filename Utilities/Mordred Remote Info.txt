@@ -1,0 +1,32 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Mordred
+
+Remotable	Min	Max	Input type	Output type
+Speed	0	4194304	Value	ValueOutput
+Stripe	0	1	Toggle	ValueOutput
+Ch1Pass	0	1	Toggle	ValueOutput
+Ch1a	0	1	Toggle	ValueOutput
+Ch1b	0	1	Toggle	ValueOutput
+Ch1c	0	1	Toggle	ValueOutput
+Ch1d	0	1	Toggle	ValueOutput
+Ch2Pass	0	1	Toggle	ValueOutput
+Ch2e	0	1	Toggle	ValueOutput
+Ch2f	0	1	Toggle	ValueOutput
+Ch2g	0	1	Toggle	ValueOutput
+Ch2h	0	1	Toggle	ValueOutput
+Ch3Pass	0	1	Toggle	ValueOutput
+Ch3i	0	1	Toggle	ValueOutput
+Ch3j	0	1	Toggle	ValueOutput
+Ch3k	0	1	Toggle	ValueOutput
+Ch3l	0	1	Toggle	ValueOutput
+Ch4Pass	0	1	Toggle	ValueOutput
+Ch4m	0	1	Toggle	ValueOutput
+Ch4n	0	1	Toggle	ValueOutput
+Ch4o	0	1	Toggle	ValueOutput
+Ch4p	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

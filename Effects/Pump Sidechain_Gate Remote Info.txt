@@ -1,0 +1,25 @@
+Scope
+Manufacturer	Model
+sonicbits.io	io.sonicbits.Pump
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Slide	0	511	Value	ValueOutput
+Smooth	0	100	Value	ValueOutput
+Shape	0	63	Value	ValueOutput
+Smooth value	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Rate	0	17	Value	ValueOutput
+Display Waveform	0	1	Toggle	ValueOutput
+Wrap	0	1	Toggle	ValueOutput
+Activate Send Mode	0	1	Toggle	ValueOutput
+Trigger	0	2	Value	ValueOutput
+Tension	0	4194304	Value	ValueOutput
+Floor	0	4194304	Value	ValueOutput
+Slide value	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+Zvork	fr.zvork.VoltCB1
+
+Remotable	Min	Max	Input type	Output type
+Input A Level	0	4194304	Value	ValueOutput
+Input B Level	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Operation	0	6	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Active	0	3	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

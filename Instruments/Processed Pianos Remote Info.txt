@@ -1,0 +1,134 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.ProcessedPianos
+
+Remotable	Min	Max	Input type	Output type
+Mic_A_On	0	1	Toggle	ValueOutput
+Mic_A_DryLevel	0	4194304	Value	ValueOutput
+Mic_A_FXLevel	0	4194304	Value	ValueOutput
+Mic_A_Attack	0	4194304	Value	ValueOutput
+Mic_A_LowCut	0	4194304	Value	ValueOutput
+Mic_A_HiCut	0	4194304	Value	ValueOutput
+Mic_A_Pan	0	4194304	Value	ValueOutput
+Mic_A_StereoWidth	0	4194304	Value	ValueOutput
+Mic_A_HammerNoise	0	4194304	Value	ValueOutput
+Mic_A_ReleaseResonance	0	4194304	Value	ValueOutput
+Mic_A_EchoAmount	0	4194304	Value	ValueOutput
+Mic_A_ReverbAmount	0	4194304	Value	ValueOutput
+Mic_B_On	0	1	Toggle	ValueOutput
+Mic_B_DryLevel	0	4194304	Value	ValueOutput
+Mic_B_FXLevel	0	4194304	Value	ValueOutput
+Mic_B_Attack	0	4194304	Value	ValueOutput
+Mic_B_LowCut	0	4194304	Value	ValueOutput
+Mic_B_HiCut	0	4194304	Value	ValueOutput
+Mic_B_Pan	0	4194304	Value	ValueOutput
+Mic_B_StereoWidth	0	4194304	Value	ValueOutput
+Mic_B_HammerNoise	0	4194304	Value	ValueOutput
+Mic_B_ReleaseResonance	0	4194304	Value	ValueOutput
+Mic_B_EchoAmount	0	4194304	Value	ValueOutput
+Mic_B_ReverbAmount	0	4194304	Value	ValueOutput
+Mic_C_On	0	1	Toggle	ValueOutput
+Mic_C_DryLevel	0	4194304	Value	ValueOutput
+Mic_C_FXLevel	0	4194304	Value	ValueOutput
+Mic_C_Attack	0	4194304	Value	ValueOutput
+Mic_C_LowCut	0	4194304	Value	ValueOutput
+Mic_C_HiCut	0	4194304	Value	ValueOutput
+Mic_C_Pan	0	4194304	Value	ValueOutput
+Mic_C_StereoWidth	0	4194304	Value	ValueOutput
+Mic_C_HammerNoise	0	4194304	Value	ValueOutput
+Mic_C_ReleaseResonance	0	4194304	Value	ValueOutput
+Mic_C_EchoAmount	0	4194304	Value	ValueOutput
+Mic_C_ReverbAmount	0	4194304	Value	ValueOutput
+LoFi_Enabled	0	1	Toggle	ValueOutput
+LoFi_SampleRate	0	4194304	Value	ValueOutput
+LoFi_BitDepth	0	4194304	Value	ValueOutput
+LoFi_Distortion	0	4194304	Value	ValueOutput
+LoFi_DryWet	0	4194304	Value	ValueOutput
+FreqShifter_Enabled	0	1	Toggle	ValueOutput
+FreqShifter_Range	0	4194304	Value	ValueOutput
+FreqShifter_Depth	0	4194304	Value	ValueOutput
+FreqShifter_Feedback	0	4194304	Value	ValueOutput
+FreqShifter_DryWet	0	4194304	Value	ValueOutput
+Chorus_Enabled	0	1	Toggle	ValueOutput
+Chorus_Rate	0	4194304	Value	ValueOutput
+Chorus_Depth	0	4194304	Value	ValueOutput
+Chorus_Mode	0	1	Toggle	ValueOutput
+Filter_Enabled	0	1	Toggle	ValueOutput
+Filter_Frequency	0	4194304	Value	ValueOutput
+Filter_Resonance	0	4194304	Value	ValueOutput
+Filter_Mode	0	5	Value	ValueOutput
+Filter_Position	0	1	Toggle	ValueOutput
+Bass	0	4194304	Value	ValueOutput
+Treble	0	4194304	Value	ValueOutput
+InsertEchoAmount	0	4194304	Value	ValueOutput
+InsertReverbAmount	0	4194304	Value	ValueOutput
+LFO_1_Sync	0	1	Toggle	ValueOutput
+LFO_1_Rate	0	4194304	Value	ValueOutput
+LFO_1_Synced_Rate	0	19	Value	ValueOutput
+LFO_1_Amount_1	0	4194304	Value	ValueOutput
+LFO_1_Amount_2	0	4194304	Value	ValueOutput
+LFO_1_Amount_3	0	4194304	Value	ValueOutput
+LFO_2_Rate	0	4194304	Value	ValueOutput
+LFO_2_Synced_Rate	0	19	Value	ValueOutput
+LFO_2_Amount_1	0	4194304	Value	ValueOutput
+LFO_2_Amount_2	0	4194304	Value	ValueOutput
+LFO_2_Amount_3	0	4194304	Value	ValueOutput
+EnvelopeFollowerOn	0	1	Toggle	ValueOutput
+EnvelopeFollowerThreshold	0	4194304	Value	ValueOutput
+EnvelopeFollowerAttack	0	4194304	Value	ValueOutput
+EnvelopeFollowerRelease	0	4194304	Value	ValueOutput
+Envelope_Follower_Amount_1	0	4194304	Value	ValueOutput
+Envelope_Follower_Amount_2	0	4194304	Value	ValueOutput
+Envelope_Follower_Amount_3	0	4194304	Value	ValueOutput
+Mod_Matrix_Amount_1	0	4194304	Value	ValueOutput
+Mod_Matrix_Amount_2	0	4194304	Value	ValueOutput
+Mod_Matrix_Amount_3	0	4194304	Value	ValueOutput
+Echo_On	0	1	Toggle	ValueOutput
+Echo_Sync	0	1	Toggle	ValueOutput
+Echo_Time	0	4194304	Value	ValueOutput
+Echo_Synced_Time	0	12	Value	ValueOutput
+Echo_Feedback_Tap	0	15	Value	ValueOutput
+Echo_Feedback_Amount	0	4194304	Value	ValueOutput
+Echo_Feedback_Saturation	0	4194304	Value	ValueOutput
+Echo_Feedback_Filter	0	4194304	Value	ValueOutput
+Echo_Tap_Resonance	0	4194304	Value	ValueOutput
+Echo_Level	0	4194304	Value	ValueOutput
+Reverb_On	0	1	Toggle	ValueOutput
+Reverb_PreDelay	0	4194304	Value	ValueOutput
+Reverb_HiDamp	0	4194304	Value	ValueOutput
+Reverb_Shimmer	0	4194304	Value	ValueOutput
+Reverb_Time	0	4194304	Value	ValueOutput
+Reverb_LoDamp	0	4194304	Value	ValueOutput
+Reverb_Level	0	4194304	Value	ValueOutput
+Clean_Level	0	4194304	Value	ValueOutput
+InsertFX_Level	0	4194304	Value	ValueOutput
+EQ_On	0	1	Toggle	ValueOutput
+EQ_LowFreq	0	4194304	Value	ValueOutput
+EQ_LowGain	0	4194304	Value	ValueOutput
+EQ_LoMidFreq	0	4194304	Value	ValueOutput
+EQ_LoMidGain	0	4194304	Value	ValueOutput
+EQ_LoMidQ	0	4194304	Value	ValueOutput
+EQ_HiMidFreq	0	4194304	Value	ValueOutput
+EQ_HiMidGain	0	4194304	Value	ValueOutput
+EQ_HiMidQ	0	4194304	Value	ValueOutput
+EQ_HiFreq	0	4194304	Value	ValueOutput
+EQ_HiGain	0	4194304	Value	ValueOutput
+Compressor_On	0	1	Toggle	ValueOutput
+Compressor_Threshold	0	4194304	Value	ValueOutput
+Compressor_Ratio	0	4194304	Value	ValueOutput
+Compressor_Attack	0	4194304	Value	ValueOutput
+Compressor_Release	0	4194304	Value	ValueOutput
+Compressor_MakeUpGain	0	4194304	Value	ValueOutput
+Compressor_DryWet	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

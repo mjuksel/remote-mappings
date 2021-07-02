@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+Static Cling	com.staticcling.Optic
+
+Remotable	Min	Max	Input type	Output type
+Panning Setting	0	2	Value	ValueOutput
+Global Freeze	0	1	Toggle	ValueOutput
+Peak Hold	0	1	Toggle	ValueOutput
+Offset Setting	0	240	Value	ValueOutput
+Release Setting	0	1000	Value	ValueOutput
+Mute Channel 1	0	1	Toggle	ValueOutput
+Solo Channel 1	0	1	Toggle	ValueOutput
+Focus Channel 1	0	1	Toggle	ValueOutput
+Mute Channel 2	0	1	Toggle	ValueOutput
+Solo Channel 2	0	1	Toggle	ValueOutput
+Focus Channel 2	0	1	Toggle	ValueOutput
+Mute Channel 3	0	1	Toggle	ValueOutput
+Solo Channel 3	0	1	Toggle	ValueOutput
+Focus Channel 3	0	1	Toggle	ValueOutput
+Mute Channel 4	0	1	Toggle	ValueOutput
+Solo Channel 4	0	1	Toggle	ValueOutput
+Focus Channel 4	0	1	Toggle	ValueOutput
+Mute Channel 5	0	1	Toggle	ValueOutput
+Solo Channel 5	0	1	Toggle	ValueOutput
+Focus Channel 5	0	1	Toggle	ValueOutput
+Mute Channel 6	0	1	Toggle	ValueOutput
+Solo Channel 6	0	1	Toggle	ValueOutput
+Focus Channel 6	0	1	Toggle	ValueOutput
+Mute Channel 7	0	1	Toggle	ValueOutput
+Solo Channel 7	0	1	Toggle	ValueOutput
+Focus Channel 7	0	1	Toggle	ValueOutput
+Oscilloscope Zoom	0	2048	Value	ValueOutput
+Oscilloscope Normalization	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

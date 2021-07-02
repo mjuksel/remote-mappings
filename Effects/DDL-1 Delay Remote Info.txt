@@ -1,0 +1,15 @@
+Scope
+Manufacturer	Model
+Propellerheads	DDL-1 Digital Delay Line
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Unit	0	1	Toggle	ValueOutput
+Step Length	0	1	Toggle	ValueOutput
+DelayTime (steps)	1	16	Value	ValueOutput
+Feedback	0	127	Value	ValueOutput
+Pan	-64	63	Value	ValueOutput
+Dry/Wet Balance	0	127	Value	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+DelayTime (ms)	1	2000	Value	ValueOutput
+Device Name	0	0	-	TextOutput

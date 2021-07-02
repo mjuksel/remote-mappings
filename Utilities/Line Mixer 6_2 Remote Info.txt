@@ -1,0 +1,54 @@
+Scope
+Manufacturer	Model
+Propellerheads	Line Mixer 6:2
+
+Remotable	Min	Max	Input type	Output type
+Master Level	0	127	Value	ValueOutput
+Channel 1 Level	0	127	Value	ValueOutput
+Channel 2 Level	0	127	Value	ValueOutput
+Channel 3 Level	0	127	Value	ValueOutput
+Channel 4 Level	0	127	Value	ValueOutput
+Channel 5 Level	0	127	Value	ValueOutput
+Channel 6 Level	0	127	Value	ValueOutput
+Channel 1 Pan	-64	63	Value	ValueOutput
+Channel 2 Pan	-64	63	Value	ValueOutput
+Channel 3 Pan	-64	63	Value	ValueOutput
+Channel 4 Pan	-64	63	Value	ValueOutput
+Channel 5 Pan	-64	63	Value	ValueOutput
+Channel 6 Pan	-64	63	Value	ValueOutput
+Channel 1 Solo	0	1	Toggle	ValueOutput
+Channel 2 Solo	0	1	Toggle	ValueOutput
+Channel 3 Solo	0	1	Toggle	ValueOutput
+Channel 4 Solo	0	1	Toggle	ValueOutput
+Channel 5 Solo	0	1	Toggle	ValueOutput
+Channel 6 Solo	0	1	Toggle	ValueOutput
+Channel 1 Mute	0	1	Toggle	ValueOutput
+Channel 2 Mute	0	1	Toggle	ValueOutput
+Channel 3 Mute	0	1	Toggle	ValueOutput
+Channel 4 Mute	0	1	Toggle	ValueOutput
+Channel 5 Mute	0	1	Toggle	ValueOutput
+Channel 6 Mute	0	1	Toggle	ValueOutput
+Channel 1 Aux Send	0	127	Value	ValueOutput
+Channel 2 Aux Send	0	127	Value	ValueOutput
+Channel 3 Aux Send	0	127	Value	ValueOutput
+Channel 4 Aux Send	0	127	Value	ValueOutput
+Channel 5 Aux Send	0	127	Value	ValueOutput
+Channel 6 Aux Send	0	127	Value	ValueOutput
+Aux Return Level	0	127	Value	ValueOutput
+Channel 1 Peak Meter	0	20	-	ValueOutput
+Channel 2 Peak Meter	0	20	-	ValueOutput
+Channel 3 Peak Meter	0	20	-	ValueOutput
+Channel 4 Peak Meter	0	20	-	ValueOutput
+Channel 5 Peak Meter	0	20	-	ValueOutput
+Channel 6 Peak Meter	0	20	-	ValueOutput
+Master Left Peak Meter	0	20	-	ValueOutput
+Master Right Peak Meter	0	20	-	ValueOutput
+Aux Pre/Post	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Channel 1 Name	0	0	-	TextOutput
+Channel 2 Name	0	0	-	TextOutput
+Channel 3 Name	0	0	-	TextOutput
+Channel 4 Name	0	0	-	TextOutput
+Channel 5 Name	0	0	-	TextOutput
+Channel 6 Name	0	0	-	TextOutput
+Aux Return Name	0	0	-	TextOutput

@@ -1,0 +1,36 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.Evolution
+
+Remotable	Min	Max	Input type	Output type
+Rhythm Mode	0	8	Value	ValueOutput
+Rhythm X	0	14	Value	ValueOutput
+Rhythm Y	0	14	Value	ValueOutput
+Rhythm Z	0	14	Value	ValueOutput
+Steps	0	192	Value	ValueOutput
+Repeats	0	128	Value	ValueOutput
+Variation Selection	0	11	Value	ValueOutput
+Variation Operation	0	5	Value	ValueOutput
+Variation Rotation	0	256	Value	ValueOutput
+History	0	5	Value	ValueOutput
+Note Low	0	127	Value	ValueOutput
+Note High	0	127	Value	ValueOutput
+Velocity Low	0	126	Value	ValueOutput
+Velocity High	0	126	Value	ValueOutput
+Split Mode	0	5	Value	ValueOutput
+Split Density	0	4194304	Value	ValueOutput
+Split Mod Pitch	0	24	Value	ValueOutput
+Split Mod Velocity	0	4194304	Value	ValueOutput
+Key	0	11	Value	ValueOutput
+Scale	0	21	Value	ValueOutput
+Custom Scale	0	4095	Value	ValueOutput
+On	0	1	Toggle	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Rate	0	30	Value	ValueOutput
+Density	0	99	Value	ValueOutput
+Pattern Select	-1	3	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

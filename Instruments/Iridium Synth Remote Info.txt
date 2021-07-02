@@ -1,0 +1,74 @@
+Scope
+Manufacturer	Model
+Skrock Music	se.skrockmusic.Iridium
+
+Remotable	Min	Max	Input type	Output type
+Global Velocity	0	4194304	Value	ValueOutput
+Global EQ Gain	0	4194304	Value	ValueOutput
+Global EQ Freq	0	15	Value	ValueOutput
+Global EQ Bandwidth	0	4194304	Value	ValueOutput
+Global Reverb Amt	0	4194304	Value	ValueOutput
+Global Drive Amt	0	4194304	Value	ValueOutput
+Global Pan	0	4194304	Value	ValueOutput
+Global Volume	0	4194304	Value	ValueOutput
+Gen 1 Tune	0	4194304	Value	ValueOutput
+Gen 1 Shaper AMT	0	4194304	Value	ValueOutput
+Gen 1 Shaper Mode	0	1	Toggle	ValueOutput
+Gen 1 Filter Routing	0	1	Toggle	ValueOutput
+Gen 1 Wave Select	0	15	Value	ValueOutput
+Gen 1 Level	0	4194304	Value	ValueOutput
+Gen 1 Amp Env Attack	0	4194304	Value	ValueOutput
+Gen 1 Amp Env Decay	0	4194304	Value	ValueOutput
+Gen 1 Amp Env Curve	0	4194304	Value	ValueOutput
+Gen 1 Amp Env Sustain	0	4194304	Value	ValueOutput
+Gen 1 Amp Env Release	0	4194304	Value	ValueOutput
+Gen 1 Pitch Env Invert	0	1	Toggle	ValueOutput
+Gen 1 Pitch Env Start	0	4194304	Value	ValueOutput
+Gen 1 Pitch Env Attack	0	4194304	Value	ValueOutput
+Gen 1 Pitch Env Decay	0	4194304	Value	ValueOutput
+Gen 1 Pitch Env Curve	0	4194304	Value	ValueOutput
+Gen 1 Pitch Env Sustain	0	4194304	Value	ValueOutput
+Gen 1 Pitch Env Release	0	4194304	Value	ValueOutput
+Gen 1 EQ Bandwidth	0	4194304	Value	ValueOutput
+Gen 1 EQ Freq	0	4194304	Value	ValueOutput
+Gen 1 EQ Gain	0	4194304	Value	ValueOutput
+Gen 2 Tune	0	4194304	Value	ValueOutput
+Gen 2 Shaper AMT	0	4194304	Value	ValueOutput
+Gen 2 Shaper Mode	0	1	Toggle	ValueOutput
+Gen 2 Filter Routing	0	1	Toggle	ValueOutput
+Gen 2 Level	0	4194304	Value	ValueOutput
+Gen 2 Wave Select	0	15	Value	ValueOutput
+Gen 2 Amp Env Attack	0	4194304	Value	ValueOutput
+Gen 2 Amp Env Decay	0	4194304	Value	ValueOutput
+Gen 2 Amp Env Curve	0	4194304	Value	ValueOutput
+Gen 2 Amp Env Sustain	0	4194304	Value	ValueOutput
+Gen 2 Amp Env Release	0	4194304	Value	ValueOutput
+Gen 2 Pitch Env Invert	0	1	Toggle	ValueOutput
+Gen 2 Pitch Env Start	0	4194304	Value	ValueOutput
+Gen 2 Pitch Env Attack	0	4194304	Value	ValueOutput
+Gen 2 Pitch Env Decay	0	4194304	Value	ValueOutput
+Gen 2 Pitch Env Curve	0	4194304	Value	ValueOutput
+Gen 2 Pitch Env Sustain	0	4194304	Value	ValueOutput
+Gen 2 Pitch Env Release	0	4194304	Value	ValueOutput
+Gen 2 EQ Bandwidth	0	4194304	Value	ValueOutput
+Gen 2 EQ Freq	0	4194304	Value	ValueOutput
+Gen 2 EQ Gain	0	4194304	Value	ValueOutput
+Filter Attack	0	4194304	Value	ValueOutput
+Filter Decay	0	4194304	Value	ValueOutput
+Filter Curve	0	4194304	Value	ValueOutput
+Filter Sustain	0	4194304	Value	ValueOutput
+Filter Release	0	4194304	Value	ValueOutput
+Filter Envelope Amt	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,405 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.Torsion
+
+Remotable	Min	Max	Input type	Output type
+Grain 1 Sample	0	4194304	Value	ValueOutput
+Grain 1 Gate	0	1	Toggle	ValueOutput
+Grain 1 Rate Free	0	4194304	Value	ValueOutput
+Grain 1 Rate Sync	0	30	Value	ValueOutput
+Grain 1 Tempo Sync	0	1	Toggle	ValueOutput
+Grain 1 Jitter	0	4194304	Value	ValueOutput
+Grain 1 Rate Length Link	0	1	Toggle	ValueOutput
+Grain 1 Length Scale	0	4194304	Value	ValueOutput
+Grain 1 Length Free	0	4194304	Value	ValueOutput
+Grain 1 Loop Gate Sync	0	1	Toggle	ValueOutput
+Grain 1 Loop Position	0	4194304	Value	ValueOutput
+Grain 1 Loop Size	0	4194304	Value	ValueOutput
+Grain 1 Loop Enable	0	1	Toggle	ValueOutput
+Grain 1 Position Pitch Link	0	1	Toggle	ValueOutput
+Grain 1 Pitch	0	4194304	Value	ValueOutput
+Grain 1 Direction	0	4194304	Value	ValueOutput
+Grain 1 Position	0	4194304	Value	ValueOutput
+Grain 1 Shape	0	4194304	Value	ValueOutput
+Grain 1 Skew	0	4194304	Value	ValueOutput
+Grain 1 Pan	0	4194304	Value	ValueOutput
+Grain 1 Level	0	4194304	Value	ValueOutput
+Grain 2 Sample	0	4194304	Value	ValueOutput
+Grain 2 Gate	0	1	Toggle	ValueOutput
+Grain 2 Rate Free	0	4194304	Value	ValueOutput
+Grain 2 Rate Sync	0	30	Value	ValueOutput
+Grain 2 Tempo Sync	0	1	Toggle	ValueOutput
+Grain 2 Jitter	0	4194304	Value	ValueOutput
+Grain 2 Rate Length Link	0	1	Toggle	ValueOutput
+Grain 2 Length Scale	0	4194304	Value	ValueOutput
+Grain 2 Length Free	0	4194304	Value	ValueOutput
+Grain 2 Loop Gate Sync	0	1	Toggle	ValueOutput
+Grain 2 Loop Position	0	4194304	Value	ValueOutput
+Grain 2 Loop Size	0	4194304	Value	ValueOutput
+Grain 2 Loop Enable	0	1	Toggle	ValueOutput
+Grain 2 Position Pitch Link	0	1	Toggle	ValueOutput
+Grain 2 Pitch	0	4194304	Value	ValueOutput
+Grain 2 Direction	0	4194304	Value	ValueOutput
+Grain 2 Position	0	4194304	Value	ValueOutput
+Grain 2 Shape	0	4194304	Value	ValueOutput
+Grain 2 Skew	0	4194304	Value	ValueOutput
+Grain 2 Pan	0	4194304	Value	ValueOutput
+Grain 2 Level	0	4194304	Value	ValueOutput
+Grain 3 Sample	0	4194304	Value	ValueOutput
+Grain 3 Gate	0	1	Toggle	ValueOutput
+Grain 3 Rate Free	0	4194304	Value	ValueOutput
+Grain 3 Rate Sync	0	30	Value	ValueOutput
+Grain 3 Tempo Sync	0	1	Toggle	ValueOutput
+Grain 3 Jitter	0	4194304	Value	ValueOutput
+Grain 3 Rate Length Link	0	1	Toggle	ValueOutput
+Grain 3 Length Scale	0	4194304	Value	ValueOutput
+Grain 3 Length Free	0	4194304	Value	ValueOutput
+Grain 3 Loop Gate Sync	0	1	Toggle	ValueOutput
+Grain 3 Loop Position	0	4194304	Value	ValueOutput
+Grain 3 Loop Size	0	4194304	Value	ValueOutput
+Grain 3 Loop Enable	0	1	Toggle	ValueOutput
+Grain 3 Position Pitch Link	0	1	Toggle	ValueOutput
+Grain 3 Pitch	0	4194304	Value	ValueOutput
+Grain 3 Direction	0	4194304	Value	ValueOutput
+Grain 3 Position	0	4194304	Value	ValueOutput
+Grain 3 Shape	0	4194304	Value	ValueOutput
+Grain 3 Skew	0	4194304	Value	ValueOutput
+Grain 3 Pan	0	4194304	Value	ValueOutput
+Grain 3 Level	0	4194304	Value	ValueOutput
+Sample 1 Loop Start Position	0	4194304	Value	ValueOutput
+Sample 1 Loop End Position	0	4194304	Value	ValueOutput
+Sample 2 Loop Start Position	0	4194304	Value	ValueOutput
+Sample 2 Loop End Position	0	4194304	Value	ValueOutput
+Sample 3 Loop Start Position	0	4194304	Value	ValueOutput
+Sample 3 Loop End Position	0	4194304	Value	ValueOutput
+Sample 4 Loop Start Position	0	4194304	Value	ValueOutput
+Sample 4 Loop End Position	0	4194304	Value	ValueOutput
+Sample 5 Loop Start Position	0	4194304	Value	ValueOutput
+Sample 5 Loop End Position	0	4194304	Value	ValueOutput
+Sample 6 Loop Start Position	0	4194304	Value	ValueOutput
+Sample 6 Loop End Position	0	4194304	Value	ValueOutput
+Loop Lfo 1 Phase	0	4194304	Value	ValueOutput
+Loop Lfo 1 Phase Stereo	0	4194304	Value	ValueOutput
+Loop Lfo 1 Rate Free	0	4194304	Value	ValueOutput
+Loop Lfo 1 Rate Sync	0	30	Value	ValueOutput
+Loop Lfo 1 Tempo Sync	0	1	Toggle	ValueOutput
+Loop Lfo 1 Waveform	0	999	Value	ValueOutput
+Loop Lfo 1 Lag	0	4194304	Value	ValueOutput
+Loop Lfo 1 Transport Sync	0	1	Toggle	ValueOutput
+Loop Lfo 1 Trigger	0	1	Toggle	ValueOutput
+Loop Lfo 2 Phase	0	4194304	Value	ValueOutput
+Loop Lfo 2 Phase Stereo	0	4194304	Value	ValueOutput
+Loop Lfo 2 Rate Free	0	4194304	Value	ValueOutput
+Loop Lfo 2 Rate Sync	0	30	Value	ValueOutput
+Loop Lfo 2 Tempo Sync	0	1	Toggle	ValueOutput
+Loop Lfo 2 Waveform	0	999	Value	ValueOutput
+Loop Lfo 2 Lag	0	4194304	Value	ValueOutput
+Loop Lfo 2 Transport Sync	0	1	Toggle	ValueOutput
+Loop Lfo 2 Trigger	0	1	Toggle	ValueOutput
+Loop Lfo 3 Phase	0	4194304	Value	ValueOutput
+Loop Lfo 3 Phase Stereo	0	4194304	Value	ValueOutput
+Loop Lfo 3 Rate Free	0	4194304	Value	ValueOutput
+Loop Lfo 3 Rate Sync	0	30	Value	ValueOutput
+Loop Lfo 3 Tempo Sync	0	1	Toggle	ValueOutput
+Loop Lfo 3 Waveform	0	999	Value	ValueOutput
+Loop Lfo 3 Lag	0	4194304	Value	ValueOutput
+Loop Lfo 3 Transport Sync	0	1	Toggle	ValueOutput
+Loop Lfo 3 Trigger	0	1	Toggle	ValueOutput
+Lfo 1 Phase	0	4194304	Value	ValueOutput
+Lfo 1 Phase Stereo	0	4194304	Value	ValueOutput
+Lfo 1 Rate Free	0	4194304	Value	ValueOutput
+Lfo 1 Rate Sync	0	30	Value	ValueOutput
+Lfo 1 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 1 Waveform	0	999	Value	ValueOutput
+Lfo 1 Lag	0	4194304	Value	ValueOutput
+Lfo 1 Transport Sync	0	1	Toggle	ValueOutput
+Lfo 1 Trigger	0	1	Toggle	ValueOutput
+Lfo 2 Phase	0	4194304	Value	ValueOutput
+Lfo 2 Phase Stereo	0	4194304	Value	ValueOutput
+Lfo 2 Rate Free	0	4194304	Value	ValueOutput
+Lfo 2 Rate Sync	0	30	Value	ValueOutput
+Lfo 2 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 2 Waveform	0	999	Value	ValueOutput
+Lfo 2 Lag	0	4194304	Value	ValueOutput
+Lfo 2 Transport Sync	0	1	Toggle	ValueOutput
+Lfo 2 Trigger	0	1	Toggle	ValueOutput
+Lfo 3 Phase	0	4194304	Value	ValueOutput
+Lfo 3 Phase Stereo	0	4194304	Value	ValueOutput
+Lfo 3 Rate Free	0	4194304	Value	ValueOutput
+Lfo 3 Rate Sync	0	30	Value	ValueOutput
+Lfo 3 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 3 Waveform	0	999	Value	ValueOutput
+Lfo 3 Lag	0	4194304	Value	ValueOutput
+Lfo 3 Transport Sync	0	1	Toggle	ValueOutput
+Lfo 3 Trigger	0	1	Toggle	ValueOutput
+Lfo 4 Phase	0	4194304	Value	ValueOutput
+Lfo 4 Phase Stereo	0	4194304	Value	ValueOutput
+Lfo 4 Rate Free	0	4194304	Value	ValueOutput
+Lfo 4 Rate Sync	0	30	Value	ValueOutput
+Lfo 4 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 4 Waveform	0	999	Value	ValueOutput
+Lfo 4 Lag	0	4194304	Value	ValueOutput
+Lfo 4 Transport Sync	0	1	Toggle	ValueOutput
+Lfo 4 Trigger	0	1	Toggle	ValueOutput
+Lfo 5 Phase	0	4194304	Value	ValueOutput
+Lfo 5 Phase Stereo	0	4194304	Value	ValueOutput
+Lfo 5 Rate Free	0	4194304	Value	ValueOutput
+Lfo 5 Rate Sync	0	30	Value	ValueOutput
+Lfo 5 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 5 Waveform	0	999	Value	ValueOutput
+Lfo 5 Lag	0	4194304	Value	ValueOutput
+Lfo 5 Transport Sync	0	1	Toggle	ValueOutput
+Lfo 5 Trigger	0	1	Toggle	ValueOutput
+Lfo 6 Phase	0	4194304	Value	ValueOutput
+Lfo 6 Phase Stereo	0	4194304	Value	ValueOutput
+Lfo 6 Rate Free	0	4194304	Value	ValueOutput
+Lfo 6 Rate Sync	0	30	Value	ValueOutput
+Lfo 6 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 6 Waveform	0	999	Value	ValueOutput
+Lfo 6 Lag	0	4194304	Value	ValueOutput
+Lfo 6 Transport Sync	0	1	Toggle	ValueOutput
+Lfo 6 Trigger	0	1	Toggle	ValueOutput
+Master Gate	0	1	Toggle	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Dynamic Enable	0	1	Toggle	ValueOutput
+Stereo Width	0	4194304	Value	ValueOutput
+Drift 1 Phase Stereo	0	4194304	Value	ValueOutput
+Drift 2 Phase Stereo	0	4194304	Value	ValueOutput
+Drift 3 Phase Stereo	0	4194304	Value	ValueOutput
+Noise 1 Phase Stereo	0	4194304	Value	ValueOutput
+Noise 2 Phase Stereo	0	4194304	Value	ValueOutput
+Noise 3 Phase Stereo	0	4194304	Value	ValueOutput
+Modmatrix 1 Source	0	32	Value	ValueOutput
+Modmatrix 1 Dest 1	0	86	Value	ValueOutput
+Modmatrix 1 Dest 2	0	86	Value	ValueOutput
+Modmatrix 1 Scale	0	32	Value	ValueOutput
+Modmatrix 1 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 1 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 1 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 2 Source	0	32	Value	ValueOutput
+Modmatrix 2 Dest 1	0	86	Value	ValueOutput
+Modmatrix 2 Dest 2	0	86	Value	ValueOutput
+Modmatrix 2 Scale	0	32	Value	ValueOutput
+Modmatrix 2 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 2 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 2 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 3 Source	0	32	Value	ValueOutput
+Modmatrix 3 Dest 1	0	86	Value	ValueOutput
+Modmatrix 3 Dest 2	0	86	Value	ValueOutput
+Modmatrix 3 Scale	0	32	Value	ValueOutput
+Modmatrix 3 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 3 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 3 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 4 Source	0	32	Value	ValueOutput
+Modmatrix 4 Dest 1	0	86	Value	ValueOutput
+Modmatrix 4 Dest 2	0	86	Value	ValueOutput
+Modmatrix 4 Scale	0	32	Value	ValueOutput
+Modmatrix 4 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 4 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 4 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 5 Source	0	32	Value	ValueOutput
+Modmatrix 5 Dest 1	0	86	Value	ValueOutput
+Modmatrix 5 Dest 2	0	86	Value	ValueOutput
+Modmatrix 5 Scale	0	32	Value	ValueOutput
+Modmatrix 5 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 5 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 5 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 6 Source	0	32	Value	ValueOutput
+Modmatrix 6 Dest 1	0	86	Value	ValueOutput
+Modmatrix 6 Dest 2	0	86	Value	ValueOutput
+Modmatrix 6 Scale	0	32	Value	ValueOutput
+Modmatrix 6 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 6 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 6 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 7 Source	0	32	Value	ValueOutput
+Modmatrix 7 Dest 1	0	86	Value	ValueOutput
+Modmatrix 7 Dest 2	0	86	Value	ValueOutput
+Modmatrix 7 Scale	0	32	Value	ValueOutput
+Modmatrix 7 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 7 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 7 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 8 Source	0	32	Value	ValueOutput
+Modmatrix 8 Dest 1	0	86	Value	ValueOutput
+Modmatrix 8 Dest 2	0	86	Value	ValueOutput
+Modmatrix 8 Scale	0	32	Value	ValueOutput
+Modmatrix 8 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 8 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 8 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 9 Source	0	32	Value	ValueOutput
+Modmatrix 9 Dest 1	0	86	Value	ValueOutput
+Modmatrix 9 Dest 2	0	86	Value	ValueOutput
+Modmatrix 9 Scale	0	32	Value	ValueOutput
+Modmatrix 9 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 9 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 9 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 10 Source	0	32	Value	ValueOutput
+Modmatrix 10 Dest 1	0	86	Value	ValueOutput
+Modmatrix 10 Dest 2	0	86	Value	ValueOutput
+Modmatrix 10 Scale	0	32	Value	ValueOutput
+Modmatrix 10 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 10 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 10 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 11 Source	0	32	Value	ValueOutput
+Modmatrix 11 Dest 1	0	86	Value	ValueOutput
+Modmatrix 11 Dest 2	0	86	Value	ValueOutput
+Modmatrix 11 Scale	0	32	Value	ValueOutput
+Modmatrix 11 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 11 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 11 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 12 Source	0	32	Value	ValueOutput
+Modmatrix 12 Dest 1	0	86	Value	ValueOutput
+Modmatrix 12 Dest 2	0	86	Value	ValueOutput
+Modmatrix 12 Scale	0	32	Value	ValueOutput
+Modmatrix 12 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 12 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 12 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 13 Source	0	32	Value	ValueOutput
+Modmatrix 13 Dest 1	0	86	Value	ValueOutput
+Modmatrix 13 Dest 2	0	86	Value	ValueOutput
+Modmatrix 13 Scale	0	32	Value	ValueOutput
+Modmatrix 13 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 13 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 13 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 14 Source	0	32	Value	ValueOutput
+Modmatrix 14 Dest 1	0	86	Value	ValueOutput
+Modmatrix 14 Dest 2	0	86	Value	ValueOutput
+Modmatrix 14 Scale	0	32	Value	ValueOutput
+Modmatrix 14 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 14 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 14 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 15 Source	0	32	Value	ValueOutput
+Modmatrix 15 Dest 1	0	86	Value	ValueOutput
+Modmatrix 15 Dest 2	0	86	Value	ValueOutput
+Modmatrix 15 Scale	0	32	Value	ValueOutput
+Modmatrix 15 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 15 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 15 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 16 Source	0	32	Value	ValueOutput
+Modmatrix 16 Dest 1	0	86	Value	ValueOutput
+Modmatrix 16 Dest 2	0	86	Value	ValueOutput
+Modmatrix 16 Scale	0	32	Value	ValueOutput
+Modmatrix 16 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 16 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 16 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 17 Source	0	32	Value	ValueOutput
+Modmatrix 17 Dest 1	0	86	Value	ValueOutput
+Modmatrix 17 Dest 2	0	86	Value	ValueOutput
+Modmatrix 17 Scale	0	32	Value	ValueOutput
+Modmatrix 17 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 17 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 17 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 18 Source	0	32	Value	ValueOutput
+Modmatrix 18 Dest 1	0	86	Value	ValueOutput
+Modmatrix 18 Dest 2	0	86	Value	ValueOutput
+Modmatrix 18 Scale	0	32	Value	ValueOutput
+Modmatrix 18 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 18 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 18 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 19 Source	0	32	Value	ValueOutput
+Modmatrix 19 Dest 1	0	86	Value	ValueOutput
+Modmatrix 19 Dest 2	0	86	Value	ValueOutput
+Modmatrix 19 Scale	0	32	Value	ValueOutput
+Modmatrix 19 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 19 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 19 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 20 Source	0	32	Value	ValueOutput
+Modmatrix 20 Dest 1	0	86	Value	ValueOutput
+Modmatrix 20 Dest 2	0	86	Value	ValueOutput
+Modmatrix 20 Scale	0	32	Value	ValueOutput
+Modmatrix 20 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 20 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 20 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 21 Source	0	32	Value	ValueOutput
+Modmatrix 21 Dest 1	0	86	Value	ValueOutput
+Modmatrix 21 Dest 2	0	86	Value	ValueOutput
+Modmatrix 21 Scale	0	32	Value	ValueOutput
+Modmatrix 21 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 21 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 21 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 22 Source	0	32	Value	ValueOutput
+Modmatrix 22 Dest 1	0	86	Value	ValueOutput
+Modmatrix 22 Dest 2	0	86	Value	ValueOutput
+Modmatrix 22 Scale	0	32	Value	ValueOutput
+Modmatrix 22 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 22 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 22 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 23 Source	0	32	Value	ValueOutput
+Modmatrix 23 Dest 1	0	86	Value	ValueOutput
+Modmatrix 23 Dest 2	0	86	Value	ValueOutput
+Modmatrix 23 Scale	0	32	Value	ValueOutput
+Modmatrix 23 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 23 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 23 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 24 Source	0	32	Value	ValueOutput
+Modmatrix 24 Dest 1	0	86	Value	ValueOutput
+Modmatrix 24 Dest 2	0	86	Value	ValueOutput
+Modmatrix 24 Scale	0	32	Value	ValueOutput
+Modmatrix 24 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 24 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 24 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 25 Source	0	32	Value	ValueOutput
+Modmatrix 25 Dest 1	0	86	Value	ValueOutput
+Modmatrix 25 Dest 2	0	86	Value	ValueOutput
+Modmatrix 25 Scale	0	32	Value	ValueOutput
+Modmatrix 25 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 25 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 25 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 26 Source	0	32	Value	ValueOutput
+Modmatrix 26 Dest 1	0	86	Value	ValueOutput
+Modmatrix 26 Dest 2	0	86	Value	ValueOutput
+Modmatrix 26 Scale	0	32	Value	ValueOutput
+Modmatrix 26 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 26 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 26 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 27 Source	0	32	Value	ValueOutput
+Modmatrix 27 Dest 1	0	86	Value	ValueOutput
+Modmatrix 27 Dest 2	0	86	Value	ValueOutput
+Modmatrix 27 Scale	0	32	Value	ValueOutput
+Modmatrix 27 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 27 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 27 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 28 Source	0	32	Value	ValueOutput
+Modmatrix 28 Dest 1	0	86	Value	ValueOutput
+Modmatrix 28 Dest 2	0	86	Value	ValueOutput
+Modmatrix 28 Scale	0	32	Value	ValueOutput
+Modmatrix 28 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 28 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 28 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 29 Source	0	32	Value	ValueOutput
+Modmatrix 29 Dest 1	0	86	Value	ValueOutput
+Modmatrix 29 Dest 2	0	86	Value	ValueOutput
+Modmatrix 29 Scale	0	32	Value	ValueOutput
+Modmatrix 29 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 29 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 29 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 30 Source	0	32	Value	ValueOutput
+Modmatrix 30 Dest 1	0	86	Value	ValueOutput
+Modmatrix 30 Dest 2	0	86	Value	ValueOutput
+Modmatrix 30 Scale	0	32	Value	ValueOutput
+Modmatrix 30 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 30 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 30 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 31 Source	0	32	Value	ValueOutput
+Modmatrix 31 Dest 1	0	86	Value	ValueOutput
+Modmatrix 31 Dest 2	0	86	Value	ValueOutput
+Modmatrix 31 Scale	0	32	Value	ValueOutput
+Modmatrix 31 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 31 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 31 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 32 Source	0	32	Value	ValueOutput
+Modmatrix 32 Dest 1	0	86	Value	ValueOutput
+Modmatrix 32 Dest 2	0	86	Value	ValueOutput
+Modmatrix 32 Scale	0	32	Value	ValueOutput
+Modmatrix 32 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 32 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 32 Scale Amt	0	4194304	Value	ValueOutput
+Key Pitch	0	4194304	Value	ValueOutput
+Lfo Selection	0	2	-	ValueOutput
+Grain Selection	0	2	-	ValueOutput
+Modmatrix Selection	0	3	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Record Sample	0	0	Trig	TextOutput

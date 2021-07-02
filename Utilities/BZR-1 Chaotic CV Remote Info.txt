@@ -1,0 +1,18 @@
+Scope
+Manufacturer	Model
+LoveOne	se.loveone.BZR1
+
+Remotable	Min	Max	Input type	Output type
+Type	0	8	Value	ValueOutput
+Init 1	0	4194304	Value	ValueOutput
+Init 2	0	4194304	Value	ValueOutput
+Init 3	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Amp	0	4194304	Value	ValueOutput
+Retrig	0	1	Toggle	ValueOutput
+Offset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

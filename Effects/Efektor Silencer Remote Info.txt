@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+Kuassa	com.kuassa.EfektorSilencer
+
+Remotable	Min	Max	Input type	Output type
+On / Bypass	0	1	Toggle	ValueOutput
+Dual Mono On/Off	0	1	Toggle	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

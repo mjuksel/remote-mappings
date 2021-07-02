@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+DLD Technology	com.dldtechnology.cvmeter
+
+Remotable	Min	Max	Input type	Output type
+Control Voltage 1	0	4194304	Value	ValueOutput
+Control Voltage 1 Bipolar	0	4194304	Value	ValueOutput
+Control Voltage 2	0	4194304	Value	ValueOutput
+Control Voltage 2 Bipolar	0	4194304	Value	ValueOutput
+Gate Switch 1	0	1	Toggle	ValueOutput
+Gate Switch 2	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

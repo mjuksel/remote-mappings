@@ -1,0 +1,37 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Ammo100LA
+
+Remotable	Min	Max	Input type	Output type
+Oscillator On	0	1	Toggle	ValueOutput
+Range	0	4	Value	ValueOutput
+Low Rate Hz	0	4194304	Value	ValueOutput
+High Rate Hz	0	4194304	Value	ValueOutput
+Rate Semitone	0	72	Value	ValueOutput
+Cents Detune	0	4194304	Value	ValueOutput
+Rate Tempo Sync	0	30	Value	ValueOutput
+Keyboard	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Oscillator Free Run	0	1	Toggle	ValueOutput
+Oneshot	0	1	Toggle	ValueOutput
+Waveform	0	127	Value	ValueOutput
+Pulse Width	0	4194304	Value	ValueOutput
+Rate CV In Amount	0	4194304	Value	ValueOutput
+Depth CV In Amount	0	4194304	Value	ValueOutput
+Phase CV In Amount	0	4194304	Value	ValueOutput
+Envelope CV In Amount	0	4194304	Value	ValueOutput
+Lag Up	0	4194304	Value	ValueOutput
+Lag Down	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

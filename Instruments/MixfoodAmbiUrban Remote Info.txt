@@ -1,0 +1,570 @@
+Scope
+Manufacturer	Model
+Studio Corbach	nl.studiocorbach.MixfoodAmbiUrban
+
+Remotable	Min	Max	Input type	Output type
+Master Volume	0	4194304	Value	ValueOutput
+Filter Type General	0	1	Toggle	ValueOutput
+Filter Cutoff General	0	4194304	Value	ValueOutput
+Filter Resonance General	0	4194304	Value	ValueOutput
+Amp Envelope Attack General	0	4194304	Value	ValueOutput
+Amp Envelope Decay General	0	4194304	Value	ValueOutput
+Amp Envelope Sustain General	0	4194304	Value	ValueOutput
+Amp Envelope Release General	0	4194304	Value	ValueOutput
+Filter Envelope Attack General	0	4194304	Value	ValueOutput
+Filter Envelope Decay General	0	4194304	Value	ValueOutput
+Filter Envelope Sustain General	0	4194304	Value	ValueOutput
+Filter Envelope Release General	0	4194304	Value	ValueOutput
+EQ 1 Q General	0	4194304	Value	ValueOutput
+EQ 1 Frequency General	0	4194304	Value	ValueOutput
+EQ 1 Gain General	0	4194304	Value	ValueOutput
+EQ 2 Q General	0	4194304	Value	ValueOutput
+EQ 2 Frequency General	0	4194304	Value	ValueOutput
+EQ 2 Gain General	0	4194304	Value	ValueOutput
+Phaser Rate General	0	4194304	Value	ValueOutput
+Phaser Depth General	0	4194304	Value	ValueOutput
+Phaser Feedback General	0	4194304	Value	ValueOutput
+Phaser Center General	0	4194304	Value	ValueOutput
+Phaser Spread General	0	4194304	Value	ValueOutput
+Phaser Mix General	0	4194304	Value	ValueOutput
+Reverb Time General	0	4194304	Value	ValueOutput
+Reverb Pre General	0	4194304	Value	ValueOutput
+Reverb Mix General	0	4194304	Value	ValueOutput
+Reverb Low Cut General	0	4194304	Value	ValueOutput
+Reverb High Cut General	0	4194304	Value	ValueOutput
+Reverb Damping General	0	4194304	Value	ValueOutput
+Amp Envelope Amount General	0	4194304	Value	ValueOutput
+Amp Envelope Invert General	0	1	Toggle	ValueOutput
+Amp Envelope Amount Generator 1	0	4194304	Value	ValueOutput
+Amp Envelope Invert Generator 1	0	1	Toggle	ValueOutput
+Amp Envelope Amount Generator 2	0	4194304	Value	ValueOutput
+Amp Envelope Invert Generator 2	0	1	Toggle	ValueOutput
+Amp Envelope Amount Generator 3	0	4194304	Value	ValueOutput
+Amp Envelope Invert Generator 3	0	1	Toggle	ValueOutput
+Amp Envelope Amount Generator 4	0	4194304	Value	ValueOutput
+Amp Envelope Invert Generator 4	0	1	Toggle	ValueOutput
+Amp Envelope Amount Generator 5	0	4194304	Value	ValueOutput
+Amp Envelope Invert Generator 5	0	1	Toggle	ValueOutput
+Amp Envelope Amount Generator 6	0	4194304	Value	ValueOutput
+Amp Envelope Invert Generator 6	0	1	Toggle	ValueOutput
+Amp Envelope Amount Generator 7	0	4194304	Value	ValueOutput
+Amp Envelope Invert Generator 7	0	1	Toggle	ValueOutput
+Amp Envelope Amount Generator 8	0	4194304	Value	ValueOutput
+Amp Envelope Invert Generator 8	0	1	Toggle	ValueOutput
+Volume Generator 1	0	4194304	Value	ValueOutput
+Solo Generator 1	0	1	Toggle	ValueOutput
+Mute Generator 1	0	1	Toggle	ValueOutput
+Semi Tune Generator 1	0	4194304	Value	ValueOutput
+Fine Tune Generator 1	0	4194304	Value	ValueOutput
+Sample Start Generator 1	0	4194304	Value	ValueOutput
+Pan Generator 1	0	4194304	Value	ValueOutput
+Pan Width Generator 1	0	4194304	Value	ValueOutput
+Pan Swap Generator 1	0	1	Toggle	ValueOutput
+Pan Invert Generator 1	0	1	Toggle	ValueOutput
+Filter Type Generator 1	0	1	Toggle	ValueOutput
+Filter Cutoff Generator 1	0	4194304	Value	ValueOutput
+Filter Resonance Generator 1	0	4194304	Value	ValueOutput
+EQ 1 Q Generator 1	0	4194304	Value	ValueOutput
+EQ 1 Frequency Generator 1	0	4194304	Value	ValueOutput
+EQ 1 Gain Generator 1	0	4194304	Value	ValueOutput
+EQ 2 Q Generator 1	0	4194304	Value	ValueOutput
+EQ 2 Frequency Generator 1	0	4194304	Value	ValueOutput
+EQ 2 Gain Generator 1	0	4194304	Value	ValueOutput
+Phaser Rate Generator 1	0	4194304	Value	ValueOutput
+Phaser Depth Generator 1	0	4194304	Value	ValueOutput
+Phaser Feedback Generator 1	0	4194304	Value	ValueOutput
+Phaser Center Generator 1	0	4194304	Value	ValueOutput
+Phaser Spread Generator 1	0	4194304	Value	ValueOutput
+Phaser Mix Generator 1	0	4194304	Value	ValueOutput
+Reverb Time Generator 1	0	4194304	Value	ValueOutput
+Reverb Pre Generator 1	0	4194304	Value	ValueOutput
+Reverb Mix Generator 1	0	4194304	Value	ValueOutput
+Reverb Low Cut Generator 1	0	4194304	Value	ValueOutput
+Reverb High Cut Generator 1	0	4194304	Value	ValueOutput
+Reverb Damping Generator 1	0	4194304	Value	ValueOutput
+Amp Envelope Attack Generator 1	0	4194304	Value	ValueOutput
+Amp Envelope Decay Generator 1	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Generator 1	0	4194304	Value	ValueOutput
+Amp Envelope Release Generator 1	0	4194304	Value	ValueOutput
+Filter Envelope Attack Generator 1	0	4194304	Value	ValueOutput
+Filter Envelope Decay Generator 1	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Generator 1	0	4194304	Value	ValueOutput
+Filter Envelope Release Generator 1	0	4194304	Value	ValueOutput
+Sample Reverse Generator 1	0	1	Toggle	ValueOutput
+Volume Generator 2	0	4194304	Value	ValueOutput
+Solo Generator 2	0	1	Toggle	ValueOutput
+Mute Generator 2	0	1	Toggle	ValueOutput
+Semi Tune Generator 2	0	4194304	Value	ValueOutput
+Fine Tune Generator 2	0	4194304	Value	ValueOutput
+Sample Start Generator 2	0	4194304	Value	ValueOutput
+Pan Generator 2	0	4194304	Value	ValueOutput
+Pan Width Generator 2	0	4194304	Value	ValueOutput
+Pan Swap Generator 2	0	1	Toggle	ValueOutput
+Pan Invert Generator 2	0	1	Toggle	ValueOutput
+Filter Type Generator 2	0	1	Toggle	ValueOutput
+Filter Cutoff Generator 2	0	4194304	Value	ValueOutput
+Filter Resonance Generator 2	0	4194304	Value	ValueOutput
+EQ 1 Q Generator 2	0	4194304	Value	ValueOutput
+EQ 1 Frequency Generator 2	0	4194304	Value	ValueOutput
+EQ 1 Gain Generator 2	0	4194304	Value	ValueOutput
+EQ 2 Q Generator 2	0	4194304	Value	ValueOutput
+EQ 2 Frequency Generator 2	0	4194304	Value	ValueOutput
+EQ 2 Gain Generator 2	0	4194304	Value	ValueOutput
+Phaser Rate Generator 2	0	4194304	Value	ValueOutput
+Phaser Depth Generator 2	0	4194304	Value	ValueOutput
+Phaser Feedback Generator 2	0	4194304	Value	ValueOutput
+Phaser Center Generator 2	0	4194304	Value	ValueOutput
+Phaser Spread Generator 2	0	4194304	Value	ValueOutput
+Phaser Mix Generator 2	0	4194304	Value	ValueOutput
+Reverb Time Generator 2	0	4194304	Value	ValueOutput
+Reverb Pre Generator 2	0	4194304	Value	ValueOutput
+Reverb Mix Generator 2	0	4194304	Value	ValueOutput
+Reverb Low Cut Generator 2	0	4194304	Value	ValueOutput
+Reverb High Cut Generator 2	0	4194304	Value	ValueOutput
+Reverb Damping Generator 2	0	4194304	Value	ValueOutput
+Amp Envelope Attack Generator 2	0	4194304	Value	ValueOutput
+Amp Envelope Decay Generator 2	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Generator 2	0	4194304	Value	ValueOutput
+Amp Envelope Release Generator 2	0	4194304	Value	ValueOutput
+Filter Envelope Attack Generator 2	0	4194304	Value	ValueOutput
+Filter Envelope Decay Generator 2	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Generator 2	0	4194304	Value	ValueOutput
+Filter Envelope Release Generator 2	0	4194304	Value	ValueOutput
+Sample Reverse Generator 2	0	1	Toggle	ValueOutput
+Volume Generator 3	0	4194304	Value	ValueOutput
+Solo Generator 3	0	1	Toggle	ValueOutput
+Mute Generator 3	0	1	Toggle	ValueOutput
+Semi Tune Generator 3	0	4194304	Value	ValueOutput
+Fine Tune Generator 3	0	4194304	Value	ValueOutput
+Sample Start Generator 3	0	4194304	Value	ValueOutput
+Pan Generator 3	0	4194304	Value	ValueOutput
+Pan Width Generator 3	0	4194304	Value	ValueOutput
+Pan Swap Generator 3	0	1	Toggle	ValueOutput
+Pan Invert Generator 3	0	1	Toggle	ValueOutput
+Filter Type Generator 3	0	1	Toggle	ValueOutput
+Filter Cutoff Generator 3	0	4194304	Value	ValueOutput
+Filter Resonance Generator 3	0	4194304	Value	ValueOutput
+EQ 1 Q Generator 3	0	4194304	Value	ValueOutput
+EQ 1 Frequency Generator 3	0	4194304	Value	ValueOutput
+EQ 1 Gain Generator 3	0	4194304	Value	ValueOutput
+EQ 2 Q Generator 3	0	4194304	Value	ValueOutput
+EQ 2 Frequency Generator 3	0	4194304	Value	ValueOutput
+EQ 2 Gain Generator 3	0	4194304	Value	ValueOutput
+Phaser Rate Generator 3	0	4194304	Value	ValueOutput
+Phaser Depth Generator 3	0	4194304	Value	ValueOutput
+Phaser Feedback Generator 3	0	4194304	Value	ValueOutput
+Phaser Center Generator 3	0	4194304	Value	ValueOutput
+Phaser Spread Generator 3	0	4194304	Value	ValueOutput
+Phaser Mix Generator 3	0	4194304	Value	ValueOutput
+Reverb Time Generator 3	0	4194304	Value	ValueOutput
+Reverb Pre Generator 3	0	4194304	Value	ValueOutput
+Reverb Mix Generator 3	0	4194304	Value	ValueOutput
+Reverb Low Cut Generator 3	0	4194304	Value	ValueOutput
+Reverb High Cut Generator 3	0	4194304	Value	ValueOutput
+Reverb Damping Generator 3	0	4194304	Value	ValueOutput
+Amp Envelope Attack Generator 3	0	4194304	Value	ValueOutput
+Amp Envelope Decay Generator 3	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Generator 3	0	4194304	Value	ValueOutput
+Amp Envelope Release Generator 3	0	4194304	Value	ValueOutput
+Filter Envelope Attack Generator 3	0	4194304	Value	ValueOutput
+Filter Envelope Decay Generator 3	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Generator 3	0	4194304	Value	ValueOutput
+Filter Envelope Release Generator 3	0	4194304	Value	ValueOutput
+Sample Reverse Generator 3	0	1	Toggle	ValueOutput
+Volume Generator 4	0	4194304	Value	ValueOutput
+Solo Generator 4	0	1	Toggle	ValueOutput
+Mute Generator 4	0	1	Toggle	ValueOutput
+Semi Tune Generator 4	0	4194304	Value	ValueOutput
+Fine Tune Generator 4	0	4194304	Value	ValueOutput
+Sample Start Generator 4	0	4194304	Value	ValueOutput
+Pan Generator 4	0	4194304	Value	ValueOutput
+Pan Width Generator 4	0	4194304	Value	ValueOutput
+Pan Swap Generator 4	0	1	Toggle	ValueOutput
+Pan Invert Generator 4	0	1	Toggle	ValueOutput
+Filter Type Generator 4	0	1	Toggle	ValueOutput
+Filter Cutoff Generator 4	0	4194304	Value	ValueOutput
+Filter Resonance Generator 4	0	4194304	Value	ValueOutput
+EQ 1 Q Generator 4	0	4194304	Value	ValueOutput
+EQ 1 Frequency Generator 4	0	4194304	Value	ValueOutput
+EQ 1 Gain Generator 4	0	4194304	Value	ValueOutput
+EQ 2 Q Generator 4	0	4194304	Value	ValueOutput
+EQ 2 Frequency Generator 4	0	4194304	Value	ValueOutput
+EQ 2 Gain Generator 4	0	4194304	Value	ValueOutput
+Phaser Rate Generator 4	0	4194304	Value	ValueOutput
+Phaser Depth Generator 4	0	4194304	Value	ValueOutput
+Phaser Feedback Generator 4	0	4194304	Value	ValueOutput
+Phaser Center Generator 4	0	4194304	Value	ValueOutput
+Phaser Spread Generator 4	0	4194304	Value	ValueOutput
+Phaser Mix Generator 4	0	4194304	Value	ValueOutput
+Reverb Time Generator 4	0	4194304	Value	ValueOutput
+Reverb Pre Generator 4	0	4194304	Value	ValueOutput
+Reverb Mix Generator 4	0	4194304	Value	ValueOutput
+Reverb Low Cut Generator 4	0	4194304	Value	ValueOutput
+Reverb High Cut Generator 4	0	4194304	Value	ValueOutput
+Reverb Damping Generator 4	0	4194304	Value	ValueOutput
+Amp Envelope Attack Generator 4	0	4194304	Value	ValueOutput
+Amp Envelope Decay Generator 4	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Generator 4	0	4194304	Value	ValueOutput
+Amp Envelope Release Generator 4	0	4194304	Value	ValueOutput
+Filter Envelope Attack Generator 4	0	4194304	Value	ValueOutput
+Filter Envelope Decay Generator 4	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Generator 4	0	4194304	Value	ValueOutput
+Filter Envelope Release Generator 4	0	4194304	Value	ValueOutput
+Sample Reverse Generator 4	0	1	Toggle	ValueOutput
+Volume Generator 5	0	4194304	Value	ValueOutput
+Solo Generator 5	0	1	Toggle	ValueOutput
+Mute Generator 5	0	1	Toggle	ValueOutput
+Semi Tune Generator 5	0	4194304	Value	ValueOutput
+Fine Tune Generator 5	0	4194304	Value	ValueOutput
+Sample Start Generator 5	0	4194304	Value	ValueOutput
+Pan Generator 5	0	4194304	Value	ValueOutput
+Pan Width Generator 5	0	4194304	Value	ValueOutput
+Pan Swap Generator 5	0	1	Toggle	ValueOutput
+Pan Invert Generator 5	0	1	Toggle	ValueOutput
+Filter Type Generator 5	0	1	Toggle	ValueOutput
+Filter Cutoff Generator 5	0	4194304	Value	ValueOutput
+Filter Resonance Generator 5	0	4194304	Value	ValueOutput
+EQ 1 Q Generator 5	0	4194304	Value	ValueOutput
+EQ 1 Frequency Generator 5	0	4194304	Value	ValueOutput
+EQ 1 Gain Generator 5	0	4194304	Value	ValueOutput
+EQ 2 Q Generator 5	0	4194304	Value	ValueOutput
+EQ 2 Frequency Generator 5	0	4194304	Value	ValueOutput
+EQ 2 Gain Generator 5	0	4194304	Value	ValueOutput
+Phaser Rate Generator 5	0	4194304	Value	ValueOutput
+Phaser Depth Generator 5	0	4194304	Value	ValueOutput
+Phaser Feedback Generator 5	0	4194304	Value	ValueOutput
+Phaser Center Generator 5	0	4194304	Value	ValueOutput
+Phaser Spread Generator 5	0	4194304	Value	ValueOutput
+Phaser Mix Generator 5	0	4194304	Value	ValueOutput
+Reverb Time Generator 5	0	4194304	Value	ValueOutput
+Reverb Pre Generator 5	0	4194304	Value	ValueOutput
+Reverb Mix Generator 5	0	4194304	Value	ValueOutput
+Reverb Low Cut Generator 5	0	4194304	Value	ValueOutput
+Reverb High Cut Generator 5	0	4194304	Value	ValueOutput
+Reverb Damping Generator 5	0	4194304	Value	ValueOutput
+Amp Envelope Attack Generator 5	0	4194304	Value	ValueOutput
+Amp Envelope Decay Generator 5	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Generator 5	0	4194304	Value	ValueOutput
+Amp Envelope Release Generator 5	0	4194304	Value	ValueOutput
+Filter Envelope Attack Generator 5	0	4194304	Value	ValueOutput
+Filter Envelope Decay Generator 5	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Generator 5	0	4194304	Value	ValueOutput
+Filter Envelope Release Generator 5	0	4194304	Value	ValueOutput
+Sample Reverse Generator 5	0	1	Toggle	ValueOutput
+Volume Generator 6	0	4194304	Value	ValueOutput
+Solo Generator 6	0	1	Toggle	ValueOutput
+Mute Generator 6	0	1	Toggle	ValueOutput
+Semi Tune Generator 6	0	4194304	Value	ValueOutput
+Fine Tune Generator 6	0	4194304	Value	ValueOutput
+Sample Start Generator 6	0	4194304	Value	ValueOutput
+Pan Generator 6	0	4194304	Value	ValueOutput
+Pan Width Generator 6	0	4194304	Value	ValueOutput
+Pan Swap Generator 6	0	1	Toggle	ValueOutput
+Pan Invert Generator 6	0	1	Toggle	ValueOutput
+Filter Type Generator 6	0	1	Toggle	ValueOutput
+Filter Cutoff Generator 6	0	4194304	Value	ValueOutput
+Filter Resonance Generator 6	0	4194304	Value	ValueOutput
+EQ 1 Q Generator 6	0	4194304	Value	ValueOutput
+EQ 1 Frequency Generator 6	0	4194304	Value	ValueOutput
+EQ 1 Gain Generator 6	0	4194304	Value	ValueOutput
+EQ 2 Q Generator 6	0	4194304	Value	ValueOutput
+EQ 2 Frequency Generator 6	0	4194304	Value	ValueOutput
+EQ 2 Gain Generator 6	0	4194304	Value	ValueOutput
+Phaser Rate Generator 6	0	4194304	Value	ValueOutput
+Phaser Depth Generator 6	0	4194304	Value	ValueOutput
+Phaser Feedback Generator 6	0	4194304	Value	ValueOutput
+Phaser Center Generator 6	0	4194304	Value	ValueOutput
+Phaser Spread Generator 6	0	4194304	Value	ValueOutput
+Phaser Mix Generator 6	0	4194304	Value	ValueOutput
+Reverb Time Generator 6	0	4194304	Value	ValueOutput
+Reverb Pre Generator 6	0	4194304	Value	ValueOutput
+Reverb Mix Generator 6	0	4194304	Value	ValueOutput
+Reverb Low Cut Generator 6	0	4194304	Value	ValueOutput
+Reverb High Cut Generator 6	0	4194304	Value	ValueOutput
+Reverb Damping Generator 6	0	4194304	Value	ValueOutput
+Amp Envelope Attack Generator 6	0	4194304	Value	ValueOutput
+Amp Envelope Decay Generator 6	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Generator 6	0	4194304	Value	ValueOutput
+Amp Envelope Release Generator 6	0	4194304	Value	ValueOutput
+Filter Envelope Attack Generator 6	0	4194304	Value	ValueOutput
+Filter Envelope Decay Generator 6	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Generator 6	0	4194304	Value	ValueOutput
+Filter Envelope Release Generator 6	0	4194304	Value	ValueOutput
+Sample Reverse Generator 6	0	1	Toggle	ValueOutput
+Volume Generator 7	0	4194304	Value	ValueOutput
+Solo Generator 7	0	1	Toggle	ValueOutput
+Mute Generator 7	0	1	Toggle	ValueOutput
+Semi Tune Generator 7	0	4194304	Value	ValueOutput
+Fine Tune Generator 7	0	4194304	Value	ValueOutput
+Sample Start Generator 7	0	4194304	Value	ValueOutput
+Pan Generator 7	0	4194304	Value	ValueOutput
+Pan Width Generator 7	0	4194304	Value	ValueOutput
+Pan Swap Generator 7	0	1	Toggle	ValueOutput
+Pan Invert Generator 7	0	1	Toggle	ValueOutput
+Filter Type Generator 7	0	1	Toggle	ValueOutput
+Filter Cutoff Generator 7	0	4194304	Value	ValueOutput
+Filter Resonance Generator 7	0	4194304	Value	ValueOutput
+EQ 1 Q Generator 7	0	4194304	Value	ValueOutput
+EQ 1 Frequency Generator 7	0	4194304	Value	ValueOutput
+EQ 1 Gain Generator 7	0	4194304	Value	ValueOutput
+EQ 2 Q Generator 7	0	4194304	Value	ValueOutput
+EQ 2 Frequency Generator 7	0	4194304	Value	ValueOutput
+EQ 2 Gain Generator 7	0	4194304	Value	ValueOutput
+Phaser Rate Generator 7	0	4194304	Value	ValueOutput
+Phaser Depth Generator 7	0	4194304	Value	ValueOutput
+Phaser Feedback Generator 7	0	4194304	Value	ValueOutput
+Phaser Center Generator 7	0	4194304	Value	ValueOutput
+Phaser Spread Generator 7	0	4194304	Value	ValueOutput
+Phaser Mix Generator 7	0	4194304	Value	ValueOutput
+Reverb Time Generator 7	0	4194304	Value	ValueOutput
+Reverb Pre Generator 7	0	4194304	Value	ValueOutput
+Reverb Mix Generator 7	0	4194304	Value	ValueOutput
+Reverb Low Cut Generator 7	0	4194304	Value	ValueOutput
+Reverb High Cut Generator 7	0	4194304	Value	ValueOutput
+Reverb Damping Generator 7	0	4194304	Value	ValueOutput
+Amp Envelope Attack Generator 7	0	4194304	Value	ValueOutput
+Amp Envelope Decay Generator 7	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Generator 7	0	4194304	Value	ValueOutput
+Amp Envelope Release Generator 7	0	4194304	Value	ValueOutput
+Filter Envelope Attack Generator 7	0	4194304	Value	ValueOutput
+Filter Envelope Attack Generator 8	0	4194304	Value	ValueOutput
+Filter Envelope Decay Generator 7	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Generator 7	0	4194304	Value	ValueOutput
+Filter Envelope Release Generator 7	0	4194304	Value	ValueOutput
+Sample Reverse Generator 7	0	1	Toggle	ValueOutput
+Volume Generator 8	0	4194304	Value	ValueOutput
+Semi Tune Generator 8	0	4194304	Value	ValueOutput
+Fine Tune Generator 8	0	4194304	Value	ValueOutput
+Sample Start Generator 8	0	4194304	Value	ValueOutput
+Pan Generator 8	0	4194304	Value	ValueOutput
+Pan Width Generator 8	0	4194304	Value	ValueOutput
+Pan Swap Generator 8	0	1	Toggle	ValueOutput
+Pan Invert Generator 8	0	1	Toggle	ValueOutput
+Filter Type Generator 8	0	1	Toggle	ValueOutput
+Filter Cutoff Generator 8	0	4194304	Value	ValueOutput
+Filter Resonance Generator 8	0	4194304	Value	ValueOutput
+EQ 1 Q Generator 8	0	4194304	Value	ValueOutput
+EQ 1 Frequency Generator 8	0	4194304	Value	ValueOutput
+EQ 1 Gain Generator 8	0	4194304	Value	ValueOutput
+EQ 2 Q Generator 8	0	4194304	Value	ValueOutput
+EQ 2 Frequency Generator 8	0	4194304	Value	ValueOutput
+EQ 2 Gain Generator 8	0	4194304	Value	ValueOutput
+Phaser Rate Generator 8	0	4194304	Value	ValueOutput
+Phaser Depth Generator 8	0	4194304	Value	ValueOutput
+Phaser Feedback Generator 8	0	4194304	Value	ValueOutput
+Phaser Center Generator 8	0	4194304	Value	ValueOutput
+Phaser Spread Generator 8	0	4194304	Value	ValueOutput
+Phaser Mix Generator 8	0	4194304	Value	ValueOutput
+Reverb Time Generator 8	0	4194304	Value	ValueOutput
+Reverb Pre Generator 8	0	4194304	Value	ValueOutput
+Reverb Mix Generator 8	0	4194304	Value	ValueOutput
+Reverb Low Cut Generator 8	0	4194304	Value	ValueOutput
+Reverb High Cut Generator 8	0	4194304	Value	ValueOutput
+Reverb Damping Generator 8	0	4194304	Value	ValueOutput
+Amp Envelope Attack Generator 8	0	4194304	Value	ValueOutput
+Amp Envelope Decay Generator 8	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Generator 8	0	4194304	Value	ValueOutput
+Amp Envelope Release Generator 8	0	4194304	Value	ValueOutput
+Filter Envelope Decay Generator 8	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Generator 8	0	4194304	Value	ValueOutput
+Filter Envelope Release Generator 8	0	4194304	Value	ValueOutput
+Sample Reverse Generator 8	0	1	Toggle	ValueOutput
+Filter Envelope Amount General	0	4194304	Value	ValueOutput
+Filter Envelope Invert General	0	1	Toggle	ValueOutput
+Filter Envelope Amount Generator 1	0	4194304	Value	ValueOutput
+Filter Envelope Invert Generator 1	0	1	Toggle	ValueOutput
+Filter Envelope Amount Generator 2	0	4194304	Value	ValueOutput
+Filter Envelope Invert Generator 2	0	1	Toggle	ValueOutput
+Filter Envelope Amount Generator 3	0	4194304	Value	ValueOutput
+Filter Envelope Invert Generator 3	0	1	Toggle	ValueOutput
+Filter Envelope Amount Generator 4	0	4194304	Value	ValueOutput
+Filter Envelope Invert Generator 4	0	1	Toggle	ValueOutput
+Filter Envelope Amount Generator 5	0	4194304	Value	ValueOutput
+Filter Envelope Invert Generator 5	0	1	Toggle	ValueOutput
+Filter Envelope Amount Generator 6	0	4194304	Value	ValueOutput
+Filter Envelope Invert Generator 6	0	1	Toggle	ValueOutput
+Filter Envelope Amount Generator 7	0	4194304	Value	ValueOutput
+Filter Envelope Invert Generator 7	0	1	Toggle	ValueOutput
+Filter Envelope Amount Generator 8	0	4194304	Value	ValueOutput
+Filter Envelope Invert Generator 8	0	1	Toggle	ValueOutput
+LFO Type General	0	5	Value	ValueOutput
+LFO Rate (Lineair) General	0	4194304	Value	ValueOutput
+LFO Rate (Synced) General	0	44	Value	ValueOutput
+LFO Start Phase General	0	4194304	Value	ValueOutput
+LFO Sync General	0	1	Toggle	ValueOutput
+LFO Retrig General	0	1	Toggle	ValueOutput
+LFO Volume Depth General	0	4194304	Value	ValueOutput
+LFO Volume Smooth General	0	4194304	Value	ValueOutput
+LFO Pan Depth General	0	4194304	Value	ValueOutput
+LFO Pan Smooth General	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Depth General	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Smooth General	0	4194304	Value	ValueOutput
+LFO Filter Resonance Depth General	0	4194304	Value	ValueOutput
+LFO Filter Resonance Smooth General	0	4194304	Value	ValueOutput
+LFO EQ 1 Depth General	0	4194304	Value	ValueOutput
+LFO EQ 1 Smooth General	0	4194304	Value	ValueOutput
+LFO EQ 2 Depth General	0	4194304	Value	ValueOutput
+LFO EQ 2 Smooth General	0	4194304	Value	ValueOutput
+LFO Type Generator 1	0	5	Value	ValueOutput
+LFO Rate (Lineair) Generator 1	0	4194304	Value	ValueOutput
+LFO Rate (Synced) Generator 1	0	44	Value	ValueOutput
+LFO Start Phase Generator 1	0	4194304	Value	ValueOutput
+LFO Sync Generator 1	0	1	Toggle	ValueOutput
+LFO Retrig Generator 1	0	1	Toggle	ValueOutput
+LFO Volume Depth Generator 1	0	4194304	Value	ValueOutput
+LFO Volume Smooth Generator 1	0	4194304	Value	ValueOutput
+LFO Pan Depth Generator 1	0	4194304	Value	ValueOutput
+LFO Pan Smooth Generator 1	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Depth Generator 1	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Smooth Generator 1	0	4194304	Value	ValueOutput
+LFO Filter Resonance Depth Generator 1	0	4194304	Value	ValueOutput
+LFO Filter Resonance Smooth Generator 1	0	4194304	Value	ValueOutput
+LFO EQ 1 Depth Generator 1	0	4194304	Value	ValueOutput
+LFO EQ 1 Smooth Generator 1	0	4194304	Value	ValueOutput
+LFO EQ 2 Depth Generator 1	0	4194304	Value	ValueOutput
+LFO EQ 2 Smooth Generator 1	0	4194304	Value	ValueOutput
+LFO Type Generator 2	0	5	Value	ValueOutput
+LFO Rate (Lineair) Generator 2	0	4194304	Value	ValueOutput
+LFO Rate (Synced) Generator 2	0	44	Value	ValueOutput
+LFO Start Phase Generator 2	0	4194304	Value	ValueOutput
+LFO Sync Generator 2	0	1	Toggle	ValueOutput
+LFO Retrig Generator 2	0	1	Toggle	ValueOutput
+LFO Volume Depth Generator 2	0	4194304	Value	ValueOutput
+LFO Volume Smooth Generator 2	0	4194304	Value	ValueOutput
+LFO Pan Depth Generator 2	0	4194304	Value	ValueOutput
+LFO Pan Smooth Generator 2	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Depth Generator 2	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Smooth Generator 2	0	4194304	Value	ValueOutput
+LFO Filter Resonance Depth Generator 2	0	4194304	Value	ValueOutput
+LFO Filter Resonance Smooth Generator 2	0	4194304	Value	ValueOutput
+LFO EQ 1 Depth Generator 2	0	4194304	Value	ValueOutput
+LFO EQ 1 Smooth Generator 2	0	4194304	Value	ValueOutput
+LFO EQ 2 Depth Generator 2	0	4194304	Value	ValueOutput
+LFO EQ 2 Smooth Generator 2	0	4194304	Value	ValueOutput
+LFO Type Generator 3	0	5	Value	ValueOutput
+LFO Rate (Lineair) Generator 3	0	4194304	Value	ValueOutput
+LFO Rate (Synced) Generator 3	0	44	Value	ValueOutput
+LFO Start Phase Generator 3	0	4194304	Value	ValueOutput
+LFO Sync Generator 3	0	1	Toggle	ValueOutput
+LFO Retrig Generator 3	0	1	Toggle	ValueOutput
+LFO Volume Depth Generator 3	0	4194304	Value	ValueOutput
+LFO Volume Smooth Generator 3	0	4194304	Value	ValueOutput
+LFO Pan Depth Generator 3	0	4194304	Value	ValueOutput
+LFO Pan Smooth Generator 3	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Depth Generator 3	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Smooth Generator 3	0	4194304	Value	ValueOutput
+LFO Filter Resonance Depth Generator 3	0	4194304	Value	ValueOutput
+LFO Filter Resonance Smooth Generator 3	0	4194304	Value	ValueOutput
+LFO EQ 1 Depth Generator 3	0	4194304	Value	ValueOutput
+LFO EQ 1 Smooth Generator 3	0	4194304	Value	ValueOutput
+LFO EQ 2 Depth Generator 3	0	4194304	Value	ValueOutput
+LFO EQ 2 Smooth Generator 3	0	4194304	Value	ValueOutput
+LFO Type Generator 4	0	5	Value	ValueOutput
+LFO Rate (Lineair) Generator 4	0	4194304	Value	ValueOutput
+LFO Rate (Synced) Generator 4	0	44	Value	ValueOutput
+LFO Start Phase Generator 4	0	4194304	Value	ValueOutput
+LFO Sync Generator 4	0	1	Toggle	ValueOutput
+LFO Retrig Generator 4	0	1	Toggle	ValueOutput
+LFO Volume Depth Generator 4	0	4194304	Value	ValueOutput
+LFO Volume Smooth Generator 4	0	4194304	Value	ValueOutput
+LFO Pan Depth Generator 4	0	4194304	Value	ValueOutput
+LFO Pan Smooth Generator 4	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Depth Generator 4	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Smooth Generator 4	0	4194304	Value	ValueOutput
+LFO Filter Resonance Depth Generator 4	0	4194304	Value	ValueOutput
+LFO Filter Resonance Smooth Generator 4	0	4194304	Value	ValueOutput
+LFO EQ 1 Depth Generator 4	0	4194304	Value	ValueOutput
+LFO EQ 1 Smooth Generator 4	0	4194304	Value	ValueOutput
+LFO EQ 2 Depth Generator 4	0	4194304	Value	ValueOutput
+LFO EQ 2 Smooth Generator 4	0	4194304	Value	ValueOutput
+LFO Type Generator 5	0	5	Value	ValueOutput
+LFO Rate (Lineair) Generator 5	0	4194304	Value	ValueOutput
+LFO Rate (Synced) Generator 5	0	44	Value	ValueOutput
+LFO Start Phase Generator 5	0	4194304	Value	ValueOutput
+LFO Sync Generator 5	0	1	Toggle	ValueOutput
+LFO Retrig Generator 5	0	1	Toggle	ValueOutput
+LFO Volume Depth Generator 5	0	4194304	Value	ValueOutput
+LFO Volume Smooth Generator 5	0	4194304	Value	ValueOutput
+LFO Pan Depth Generator 5	0	4194304	Value	ValueOutput
+LFO Pan Smooth Generator 5	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Depth Generator 5	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Smooth Generator 5	0	4194304	Value	ValueOutput
+LFO Filter Resonance Depth Generator 5	0	4194304	Value	ValueOutput
+LFO Filter Resonance Smooth Generator 5	0	4194304	Value	ValueOutput
+LFO EQ 1 Depth Generator 5	0	4194304	Value	ValueOutput
+LFO EQ 1 Smooth Generator 5	0	4194304	Value	ValueOutput
+LFO EQ 2 Depth Generator 5	0	4194304	Value	ValueOutput
+LFO EQ 2 Smooth Generator 5	0	4194304	Value	ValueOutput
+LFO Type Generator 6	0	5	Value	ValueOutput
+LFO Rate (Lineair) Generator 6	0	4194304	Value	ValueOutput
+LFO Rate (Synced) Generator 6	0	44	Value	ValueOutput
+LFO Start Phase Generator 6	0	4194304	Value	ValueOutput
+LFO Sync Generator 6	0	1	Toggle	ValueOutput
+LFO Retrig Generator 6	0	1	Toggle	ValueOutput
+LFO Volume Depth Generator 6	0	4194304	Value	ValueOutput
+LFO Volume Smooth Generator 6	0	4194304	Value	ValueOutput
+LFO Pan Depth Generator 6	0	4194304	Value	ValueOutput
+LFO Pan Smooth Generator 6	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Depth Generator 6	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Smooth Generator 6	0	4194304	Value	ValueOutput
+LFO Filter Resonance Depth Generator 6	0	4194304	Value	ValueOutput
+LFO Filter Resonance Smooth Generator 6	0	4194304	Value	ValueOutput
+LFO EQ 1 Depth Generator 6	0	4194304	Value	ValueOutput
+LFO EQ 1 Smooth Generator 6	0	4194304	Value	ValueOutput
+LFO EQ 2 Depth Generator 6	0	4194304	Value	ValueOutput
+LFO EQ 2 Smooth Generator 6	0	4194304	Value	ValueOutput
+LFO Type Generator 7	0	5	Value	ValueOutput
+LFO Rate (Lineair) Generator 7	0	4194304	Value	ValueOutput
+LFO Rate (Synced) Generator 7	0	44	Value	ValueOutput
+LFO Start Phase Generator 7	0	4194304	Value	ValueOutput
+LFO Sync Generator 7	0	1	Toggle	ValueOutput
+LFO Retrig Generator 7	0	1	Toggle	ValueOutput
+LFO Volume Depth Generator 7	0	4194304	Value	ValueOutput
+LFO Volume Smooth Generator 7	0	4194304	Value	ValueOutput
+LFO Pan Depth Generator 7	0	4194304	Value	ValueOutput
+LFO Pan Smooth Generator 7	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Depth Generator 7	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Smooth Generator 7	0	4194304	Value	ValueOutput
+LFO Filter Resonance Depth Generator 7	0	4194304	Value	ValueOutput
+LFO Filter Resonance Smooth Generator 7	0	4194304	Value	ValueOutput
+LFO EQ 1 Depth Generator 7	0	4194304	Value	ValueOutput
+LFO EQ 1 Smooth Generator 7	0	4194304	Value	ValueOutput
+LFO EQ 2 Depth Generator 7	0	4194304	Value	ValueOutput
+LFO EQ 2 Smooth Generator 7	0	4194304	Value	ValueOutput
+LFO Type Generator 8	0	5	Value	ValueOutput
+LFO Rate (Lineair) Generator 8	0	4194304	Value	ValueOutput
+LFO Rate (Synced) Generator 8	0	44	Value	ValueOutput
+LFO Start Phase Generator 8	0	4194304	Value	ValueOutput
+LFO Sync Generator 8	0	1	Toggle	ValueOutput
+LFO Retrig Generator 8	0	1	Toggle	ValueOutput
+LFO Volume Depth Generator 8	0	4194304	Value	ValueOutput
+LFO Volume Smooth Generator 8	0	4194304	Value	ValueOutput
+LFO Pan Depth Generator 8	0	4194304	Value	ValueOutput
+LFO Pan Smooth Generator 8	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Depth Generator 8	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Smooth Generator 8	0	4194304	Value	ValueOutput
+LFO Filter Resonance Depth Generator 8	0	4194304	Value	ValueOutput
+LFO Filter Resonance Smooth Generator 8	0	4194304	Value	ValueOutput
+LFO EQ 1 Depth Generator 8	0	4194304	Value	ValueOutput
+LFO EQ 1 Smooth Generator 8	0	4194304	Value	ValueOutput
+LFO EQ 2 Depth Generator 8	0	4194304	Value	ValueOutput
+LFO EQ 2 Smooth Generator 8	0	4194304	Value	ValueOutput
+Edit Generator	0	8	Value	ValueOutput
+Generator 1	0	218	Value	ValueOutput
+Generator 2	0	218	Value	ValueOutput
+Generator 3	0	218	Value	ValueOutput
+Generator 4	0	218	Value	ValueOutput
+Generator 5	0	218	Value	ValueOutput
+Generator 6	0	218	Value	ValueOutput
+Generator 7	0	218	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

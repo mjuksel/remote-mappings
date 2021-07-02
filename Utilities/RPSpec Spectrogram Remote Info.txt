@@ -1,0 +1,15 @@
+Scope
+Manufacturer	Model
+Rob Papen	com.robpapen.RPSpec
+
+Remotable	Min	Max	Input type	Output type
+Boost	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Freeze Spectogram	0	1	Toggle	ValueOutput
+Spectogram Mode	0	3	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

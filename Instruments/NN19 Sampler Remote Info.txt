@@ -1,0 +1,65 @@
+Scope
+Manufacturer	Model
+Propellerheads	NN19 Digital Sampler
+
+Remotable	Min	Max	Input type	Output type
+Amp Env Attack	0	127	Value	ValueOutput
+Amp Env Decay	0	127	Value	ValueOutput
+Amp Env Sustain	0	127	Value	ValueOutput
+Amp Env Release	0	127	Value	ValueOutput
+Master Level	0	127	Value	ValueOutput
+Filter Env Attack	0	127	Value	ValueOutput
+Filter Env Decay	0	127	Value	ValueOutput
+Filter Env Sustain	0	127	Value	ValueOutput
+Filter Env Release	0	127	Value	ValueOutput
+Filter Env Amount	0	127	Value	ValueOutput
+Filter Env Invert	0	1	Toggle	ValueOutput
+Filter On/Off	0	1	Toggle	ValueOutput
+Filter Freq	0	127	Value	ValueOutput
+Filter Res	0	127	Value	ValueOutput
+Filter Kbd Track	0	127	Value	ValueOutput
+Filter Mode	0	4	Value	ValueOutput
+Sample Start	0	127	Value	ValueOutput
+Osc Octave	0	8	Value	ValueOutput
+Osc Semitone	0	12	Value	ValueOutput
+Osc Fine Tune	-50	50	Value	ValueOutput
+Osc Kbd Track	0	1	Toggle	ValueOutput
+Osc Env Amount	-64	63	Value	ValueOutput
+LFO Rate	0	127	Value	ValueOutput
+LFO Amount	0	127	Value	ValueOutput
+LFO Wave	0	5	Value	ValueOutput
+LFO Dest	0	2	Value	ValueOutput
+Key Mode	0	1	Toggle	ValueOutput
+Portamento	0	127	Value	ValueOutput
+Polyphony	1	99	Value	ValueOutput
+Stereo Spread	0	127	Value	ValueOutput
+Spread Mode	0	2	Value	ValueOutput
+Low Bandwidth On/Off	0	1	Toggle	ValueOutput
+High Quality Interpolation	0	1	Toggle	ValueOutput
+Filter Freq Mod Wheel Amount	-64	63	Value	ValueOutput
+Filter Res Mod Wheel Amount	-64	63	Value	ValueOutput
+Filter Decay Mod Wheel Amount	-64	63	Value	ValueOutput
+Amp Mod Wheel Amount	-64	63	Value	ValueOutput
+LFO Mod Wheel Amount	-64	63	Value	ValueOutput
+Pitch Bend Range	0	24	Value	ValueOutput
+Filter Freq Ext Mod	-64	63	Value	ValueOutput
+LFO Ext Mod	-64	63	Value	ValueOutput
+Amp Ext Mod	-64	63	Value	ValueOutput
+Ext Mod Select	0	2	Value	ValueOutput
+Amp Vel Amount	-64	63	Value	ValueOutput
+Filter Env Vel Amount	-64	63	Value	ValueOutput
+Filter Decay Vel Amount	-64	63	Value	ValueOutput
+Amp Attack Vel Amount	-64	63	Value	ValueOutput
+Sample Start Vel Amount	-64	63	Value	ValueOutput
+LFO Sync Enable	0	1	Toggle	ValueOutput
+Solo Sample	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Note On Indicator	0	1	-	ValueOutput
+Sample Loading Progress	-1	127	-	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Sample	0	1	Trig	ValueOutput

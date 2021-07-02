@@ -1,0 +1,19 @@
+Scope
+Manufacturer	Model
+McDSP	com.mcdsp.FRG4RE
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Compression Ratio	0	4194304	Value	ValueOutput
+Attack Time	0	4194304	Value	ValueOutput
+Release Time	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Key Listen	0	1	Toggle	ValueOutput
+Key Enable	0	1	Toggle	ValueOutput
+VU Meter Mode	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

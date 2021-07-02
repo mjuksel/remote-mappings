@@ -1,0 +1,54 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Monotone
+
+Remotable	Min	Max	Input type	Output type
+Portamento	0	4194304	Value	ValueOutput
+Portamento Mode	0	2	Value	ValueOutput
+ReTrig	0	1	Toggle	ValueOutput
+Bend Range	0	24	Value	ValueOutput
+Wheel Filter Amt	0	4194304	Value	ValueOutput
+Wheel LFO Amt	0	4194304	Value	ValueOutput
+Osc Detune	0	4194304	Value	ValueOutput
+Osc Mix	0	4194304	Value	ValueOutput
+Osc1 Oct	0	4	Value	ValueOutput
+Osc1 Wave	0	3	Value	ValueOutput
+Osc2 Oct	0	4	Value	ValueOutput
+Osc2 Pitch	0	24	Value	ValueOutput
+Osc2 Wave	0	3	Value	ValueOutput
+Pitch LFO Amt	0	4194304	Value	ValueOutput
+FM Env Amt	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+Filter Attack	0	4194304	Value	ValueOutput
+Filter Decay	0	4194304	Value	ValueOutput
+Filter Drive	0	4194304	Value	ValueOutput
+Filter Env Amount	0	4194304	Value	ValueOutput
+Filter Freq	0	4194304	Value	ValueOutput
+Filter Key Amt	0	4194304	Value	ValueOutput
+Filter LFO Amt	0	4194304	Value	ValueOutput
+Filter Release	0	4194304	Value	ValueOutput
+Filter Reso	0	4194304	Value	ValueOutput
+Filter Sustain	0	4194304	Value	ValueOutput
+Filter Vel	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Wave	0	2	Value	ValueOutput
+Chorus Amount	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Spread	0	4194304	Value	ValueOutput
+Delay Amount	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Pingpong	0	1	Toggle	ValueOutput
+Delay Time	0	10	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

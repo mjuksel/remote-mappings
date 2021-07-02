@@ -1,0 +1,176 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.externalmidiinstrument
+
+Remotable	Min	Max	Input type	Output type
+MIDI Channel	0	15	Value	ValueOutput
+Program Change On/Off	0	1	Toggle	ValueOutput
+Program Change	0	127	Value	ValueOutput
+CC 0	0	127	Value	ValueOutput
+CC 1	0	127	Value	ValueOutput
+CC 2	0	127	Value	ValueOutput
+CC 3	0	127	Value	ValueOutput
+CC 4	0	127	Value	ValueOutput
+CC 5	0	127	Value	ValueOutput
+CC 6	0	127	Value	ValueOutput
+CC 7	0	127	Value	ValueOutput
+CC 8	0	127	Value	ValueOutput
+CC 9	0	127	Value	ValueOutput
+CC 10	0	127	Value	ValueOutput
+CC 11	0	127	Value	ValueOutput
+CC 12	0	127	Value	ValueOutput
+CC 13	0	127	Value	ValueOutput
+CC 14	0	127	Value	ValueOutput
+CC 15	0	127	Value	ValueOutput
+CC 16	0	127	Value	ValueOutput
+CC 17	0	127	Value	ValueOutput
+CC 18	0	127	Value	ValueOutput
+CC 19	0	127	Value	ValueOutput
+CC 20	0	127	Value	ValueOutput
+CC 21	0	127	Value	ValueOutput
+CC 22	0	127	Value	ValueOutput
+CC 23	0	127	Value	ValueOutput
+CC 24	0	127	Value	ValueOutput
+CC 25	0	127	Value	ValueOutput
+CC 26	0	127	Value	ValueOutput
+CC 27	0	127	Value	ValueOutput
+CC 28	0	127	Value	ValueOutput
+CC 29	0	127	Value	ValueOutput
+CC 30	0	127	Value	ValueOutput
+CC 31	0	127	Value	ValueOutput
+CC 32	0	127	Value	ValueOutput
+CC 33	0	127	Value	ValueOutput
+CC 34	0	127	Value	ValueOutput
+CC 35	0	127	Value	ValueOutput
+CC 36	0	127	Value	ValueOutput
+CC 37	0	127	Value	ValueOutput
+CC 38	0	127	Value	ValueOutput
+CC 39	0	127	Value	ValueOutput
+CC 40	0	127	Value	ValueOutput
+CC 41	0	127	Value	ValueOutput
+CC 42	0	127	Value	ValueOutput
+CC 43	0	127	Value	ValueOutput
+CC 44	0	127	Value	ValueOutput
+CC 45	0	127	Value	ValueOutput
+CC 46	0	127	Value	ValueOutput
+CC 47	0	127	Value	ValueOutput
+CC 48	0	127	Value	ValueOutput
+CC 49	0	127	Value	ValueOutput
+CC 50	0	127	Value	ValueOutput
+CC 51	0	127	Value	ValueOutput
+CC 52	0	127	Value	ValueOutput
+CC 53	0	127	Value	ValueOutput
+CC 54	0	127	Value	ValueOutput
+CC 55	0	127	Value	ValueOutput
+CC 56	0	127	Value	ValueOutput
+CC 57	0	127	Value	ValueOutput
+CC 58	0	127	Value	ValueOutput
+CC 59	0	127	Value	ValueOutput
+CC 60	0	127	Value	ValueOutput
+CC 61	0	127	Value	ValueOutput
+CC 62	0	127	Value	ValueOutput
+CC 63	0	127	Value	ValueOutput
+CC 64	0	127	Value	ValueOutput
+CC 65	0	127	Value	ValueOutput
+CC 66	0	127	Value	ValueOutput
+CC 67	0	127	Value	ValueOutput
+CC 68	0	127	Value	ValueOutput
+CC 69	0	127	Value	ValueOutput
+CC 70	0	127	Value	ValueOutput
+CC 71	0	127	Value	ValueOutput
+CC 72	0	127	Value	ValueOutput
+CC 73	0	127	Value	ValueOutput
+CC 74	0	127	Value	ValueOutput
+CC 75	0	127	Value	ValueOutput
+CC 76	0	127	Value	ValueOutput
+CC 77	0	127	Value	ValueOutput
+CC 78	0	127	Value	ValueOutput
+CC 79	0	127	Value	ValueOutput
+CC 80	0	127	Value	ValueOutput
+CC 81	0	127	Value	ValueOutput
+CC 82	0	127	Value	ValueOutput
+CC 83	0	127	Value	ValueOutput
+CC 84	0	127	Value	ValueOutput
+CC 85	0	127	Value	ValueOutput
+CC 86	0	127	Value	ValueOutput
+CC 87	0	127	Value	ValueOutput
+CC 88	0	127	Value	ValueOutput
+CC 89	0	127	Value	ValueOutput
+CC 90	0	127	Value	ValueOutput
+CC 91	0	127	Value	ValueOutput
+CC 92	0	127	Value	ValueOutput
+CC 93	0	127	Value	ValueOutput
+CC 94	0	127	Value	ValueOutput
+CC 95	0	127	Value	ValueOutput
+CC 96	0	127	Value	ValueOutput
+CC 97	0	127	Value	ValueOutput
+CC 98	0	127	Value	ValueOutput
+CC 99	0	127	Value	ValueOutput
+CC 100	0	127	Value	ValueOutput
+CC 101	0	127	Value	ValueOutput
+CC 102	0	127	Value	ValueOutput
+CC 103	0	127	Value	ValueOutput
+CC 104	0	127	Value	ValueOutput
+CC 105	0	127	Value	ValueOutput
+CC 106	0	127	Value	ValueOutput
+CC 107	0	127	Value	ValueOutput
+CC 108	0	127	Value	ValueOutput
+CC 109	0	127	Value	ValueOutput
+CC 110	0	127	Value	ValueOutput
+CC 111	0	127	Value	ValueOutput
+CC 112	0	127	Value	ValueOutput
+CC 113	0	127	Value	ValueOutput
+CC 114	0	127	Value	ValueOutput
+CC 115	0	127	Value	ValueOutput
+CC 116	0	127	Value	ValueOutput
+CC 117	0	127	Value	ValueOutput
+CC 118	0	127	Value	ValueOutput
+CC 119	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+CV In Enable	0	1	Toggle	ValueOutput
+CC Assignment	0	119	Value	ValueOutput
+CC Assignment 2	0	119	Value	ValueOutput
+CC Assignment 3	0	119	Value	ValueOutput
+CC Assignment 4	0	119	Value	ValueOutput
+CC Assignment 5	0	119	Value	ValueOutput
+CC Assignment 6	0	119	Value	ValueOutput
+CC Assignment 7	0	119	Value	ValueOutput
+CC Assignment 8	0	119	Value	ValueOutput
+Note On	0	1	-	ValueOutput
+Controller Activity	0	1	-	ValueOutput
+CV Scale 1	0	127	Value	ValueOutput
+CV Scale 2	0	127	Value	ValueOutput
+CV Scale 3	0	127	Value	ValueOutput
+CV Scale 4	0	127	Value	ValueOutput
+CV Scale 5	0	127	Value	ValueOutput
+CV Scale 6	0	127	Value	ValueOutput
+CV Scale 7	0	127	Value	ValueOutput
+CV Scale 8	0	127	Value	ValueOutput
+CC Output 1	0	127	-	ValueOutput
+CC Output 2	0	127	-	ValueOutput
+CC Output 3	0	127	-	ValueOutput
+CC Output 4	0	127	-	ValueOutput
+CC Output 5	0	127	-	ValueOutput
+CC Output 6	0	127	-	ValueOutput
+CC Output 7	0	127	-	ValueOutput
+CC Output 8	0	127	-	ValueOutput
+CV Input 1	0	1	-	ValueOutput
+CV Input 2	0	1	-	ValueOutput
+CV Input 3	0	1	-	ValueOutput
+CV Input 4	0	1	-	ValueOutput
+CV Input 5	0	1	-	ValueOutput
+CV Input 6	0	1	-	ValueOutput
+CV Input 7	0	1	-	ValueOutput
+CV Input 8	0	1	-	ValueOutput
+CV Input Pair 1-2	0	1	-	ValueOutput
+CV Input Pair 3-4	0	1	-	ValueOutput
+CV Input Pair 5-6	0	1	-	ValueOutput
+CV Input Pair 7-8	0	1	-	ValueOutput
+MIDI Mute	0	1	Toggle	ValueOutput
+MIDI Panic	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Previous MIDI Program	0	1	Trig	ValueOutput
+Next MIDI Program	0	1	Trig	ValueOutput
+Previous MIDI Channel	0	1	Trig	ValueOutput
+Next MIDI Channel	0	1	Trig	ValueOutput

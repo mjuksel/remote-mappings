@@ -1,0 +1,90 @@
+Scope
+Manufacturer	Model
+Selig Audio	com.seligaudio.ColoringEQ
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Routing Mode	0	4	Value	ValueOutput
+Spectrum Enable	0	1	Toggle	ValueOutput
+Spectrum Fast	0	1	Toggle	ValueOutput
+Spectrum Hold	0	1	Toggle	ValueOutput
+Sequencer Control Note	0	1	Toggle	ValueOutput
+Sequencer Control Gate	0	1	Toggle	ValueOutput
+Sequencer Control Dest	0	9	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Peak Hold Manual Reset	0	1	Toggle	ValueOutput
+Peak Hold Auto Reset	0	1	Toggle	ValueOutput
+Harmonics Control	0	4194304	Value	ValueOutput
+EQ Enable	0	1	Toggle	ValueOutput
+Fine Tune	0	100	Value	ValueOutput
+Saturation Enable	0	1	Toggle	ValueOutput
+F1 Enable	0	1	Toggle	ValueOutput
+F1 Type	0	4	Value	ValueOutput
+F1 Slope	0	4194304	Value	ValueOutput
+F1 Tune	0	120	Value	ValueOutput
+F1 Q	0	4194304	Value	ValueOutput
+F1 Routing	0	2	Value	ValueOutput
+EQ1 Enable	0	1	Toggle	ValueOutput
+EQ1 Type	0	9	Value	ValueOutput
+EQ1 Gain	0	4194304	Value	ValueOutput
+EQ1 Tune	0	120	Value	ValueOutput
+EQ1 Q	0	4194304	Value	ValueOutput
+EQ1 Drive	0	4194304	Value	ValueOutput
+EQ1 Solo	0	1	Toggle	ValueOutput
+EQ1 Level	0	4194304	Value	ValueOutput
+EQ2 Enable	0	1	Toggle	ValueOutput
+EQ2 Type	0	9	Value	ValueOutput
+EQ2 Gain	0	4194304	Value	ValueOutput
+EQ2 Tune	0	120	Value	ValueOutput
+EQ2 Q	0	4194304	Value	ValueOutput
+EQ2 Drive	0	4194304	Value	ValueOutput
+EQ2 Solo	0	1	Toggle	ValueOutput
+EQ2 Level	0	4194304	Value	ValueOutput
+EQ3 Enable	0	1	Toggle	ValueOutput
+EQ3 Type	0	9	Value	ValueOutput
+EQ3 Gain	0	4194304	Value	ValueOutput
+EQ3 Tune	0	120	Value	ValueOutput
+EQ3 Q	0	4194304	Value	ValueOutput
+EQ3 Drive	0	4194304	Value	ValueOutput
+EQ3 Solo	0	1	Toggle	ValueOutput
+EQ3 Level	0	4194304	Value	ValueOutput
+EQ4 Enable	0	1	Toggle	ValueOutput
+EQ4 Type	0	9	Value	ValueOutput
+EQ4 Gain	0	4194304	Value	ValueOutput
+EQ4 Tune	0	120	Value	ValueOutput
+EQ4 Q	0	4194304	Value	ValueOutput
+EQ4 Drive	0	4194304	Value	ValueOutput
+EQ4 Solo	0	1	Toggle	ValueOutput
+EQ4 Level	0	4194304	Value	ValueOutput
+EQ5 Enable	0	1	Toggle	ValueOutput
+EQ5 Type	0	9	Value	ValueOutput
+EQ5 Gain	0	4194304	Value	ValueOutput
+EQ5 Tune	0	120	Value	ValueOutput
+EQ5 Q	0	4194304	Value	ValueOutput
+EQ5 Drive	0	4194304	Value	ValueOutput
+EQ5 Solo	0	1	Toggle	ValueOutput
+EQ5 Level	0	4194304	Value	ValueOutput
+F2 Enable	0	1	Toggle	ValueOutput
+F2 Type	0	4	Value	ValueOutput
+F2 Slope	0	4194304	Value	ValueOutput
+F2 Tune	0	120	Value	ValueOutput
+F2 Q	0	4194304	Value	ValueOutput
+F2 Routing	0	2	Value	ValueOutput
+Gain To Filters	0	1	Toggle	ValueOutput
+Tune To Filters	0	1	Toggle	ValueOutput
+Q To Filters	0	1	Toggle	ValueOutput
+Master Gain	0	4194304	Value	ValueOutput
+Master Tune	0	120	Value	ValueOutput
+Master Q	0	4194304	Value	ValueOutput
+Master Drive	0	4194304	Value	ValueOutput
+Master Solo	0	1	Toggle	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

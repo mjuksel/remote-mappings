@@ -1,0 +1,18 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.Pipeline
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Pipe Dry Signal	0	4194304	Value	ValueOutput
+Pipe Wet Signal	0	4194304	Value	ValueOutput
+Pipe Input Level Correction	0	4194304	Value	ValueOutput
+Pipe Output Level Correction	0	4194304	Value	ValueOutput
+Soft Bypass	0	1	Toggle	ValueOutput
+Pipe Pressure Dry/Wet	0	4194304	Value	ValueOutput
+Pipe Type	0	21	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,36 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Miranda
+
+Remotable	Min	Max	Input type	Output type
+Gain	0	4194304	Value	ValueOutput
+Stripe	0	1	Toggle	ValueOutput
+Ch1Delay	0	19	Value	ValueOutput
+Ch1msDelay	0	4194304	Value	ValueOutput
+Ch1a	0	4194304	Value	ValueOutput
+Ch1b	0	4194304	Value	ValueOutput
+Ch1c	0	4194304	Value	ValueOutput
+Ch1d	0	4194304	Value	ValueOutput
+Ch2Delay	0	19	Value	ValueOutput
+Ch2msDelay	0	4194304	Value	ValueOutput
+Ch2e	0	4194304	Value	ValueOutput
+Ch2f	0	4194304	Value	ValueOutput
+Ch2g	0	4194304	Value	ValueOutput
+Ch2h	0	4194304	Value	ValueOutput
+Ch3Delay	0	19	Value	ValueOutput
+Ch3msDelay	0	4194304	Value	ValueOutput
+Ch3i	0	4194304	Value	ValueOutput
+Ch3j	0	4194304	Value	ValueOutput
+Ch3k	0	4194304	Value	ValueOutput
+Ch3l	0	4194304	Value	ValueOutput
+Ch4Delay	0	19	Value	ValueOutput
+Ch4msDelay	0	4194304	Value	ValueOutput
+Ch4m	0	4194304	Value	ValueOutput
+Ch4n	0	4194304	Value	ValueOutput
+Ch4o	0	4194304	Value	ValueOutput
+Ch4p	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

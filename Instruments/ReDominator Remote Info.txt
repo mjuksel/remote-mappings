@@ -1,0 +1,53 @@
+Scope
+Manufacturer	Model
+AudioRealism	se.audiorealism.Dominator
+
+Remotable	Min	Max	Input type	Output type
+LFO Rate	0	127	Value	ValueOutput
+LFO Delay	0	127	Value	ValueOutput
+DCO Range	0	3	Value	ValueOutput
+DCO LFO Amount	0	127	Value	ValueOutput
+DCO Pulse	0	3	Value	ValueOutput
+DCO Saw	0	5	Value	ValueOutput
+DCO Sub	0	5	Value	ValueOutput
+DCO Sub Level	0	3	Value	ValueOutput
+DCO Noise Level	0	3	Value	ValueOutput
+DCO PWM	0	127	Value	ValueOutput
+DCO PWM Rate	0	127	Value	ValueOutput
+DCO Env Depth	0	127	Value	ValueOutput
+DCO Env Mode	0	3	Value	ValueOutput
+VCF HPF	0	3	Value	ValueOutput
+VCF Frequency	0	127	Value	ValueOutput
+VCF Resonance	0	127	Value	ValueOutput
+VCF LFO Amount	0	127	Value	ValueOutput
+VCF Env Amount	0	127	Value	ValueOutput
+VCF Env Mode	0	3	Value	ValueOutput
+VCF Key Follow	0	127	Value	ValueOutput
+Filter Type	0	1	Toggle	ValueOutput
+VCA Level	0	127	Value	ValueOutput
+VCA Env	0	3	Value	ValueOutput
+ENV T1	0	127	Value	ValueOutput
+ENV L1	0	127	Value	ValueOutput
+ENV T2	0	127	Value	ValueOutput
+ENV L2	0	127	Value	ValueOutput
+ENV T3	0	127	Value	ValueOutput
+ENV L3	0	127	Value	ValueOutput
+ENV T4	0	127	Value	ValueOutput
+ENV Key Follow	0	127	Value	ValueOutput
+Portamento Time	0	127	Value	ValueOutput
+Portamento Mode	0	1	Toggle	ValueOutput
+Bender Range	0	12	Value	ValueOutput
+Polyphony On	0	1	Toggle	ValueOutput
+Chorus Enabled	0	1	Toggle	ValueOutput
+Chorus Rate	0	127	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Note On	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,214 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Steerpike
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Delay Mode	0	8	Value	ValueOutput
+Delay Line Gate	0	1	Toggle	ValueOutput
+Clock Rate	0	4194304	Value	ValueOutput
+BBD Enable	0	1	Toggle	ValueOutput
+NA	0	4194304	Value	ValueOutput
+Slow LFO Rate	0	4194304	Value	ValueOutput
+Fast LFO Rate	0	4194304	Value	ValueOutput
+LFO Phase Offset	0	1	Toggle	ValueOutput
+Modulation Shape	0	4194304	Value	ValueOutput
+LFO 2 Tempo Sync	0	1	Toggle	ValueOutput
+LFO 2 Hz Rate	0	4194304	Value	ValueOutput
+LFO 2 Sync Rate	0	33	Value	ValueOutput
+Modulation 2 Shape	0	4194304	Value	ValueOutput
+LFO 3 Rate	0	4194304	Value	ValueOutput
+Delay Mod Source	0	1	Toggle	ValueOutput
+Filter Mod Source	0	1	Toggle	ValueOutput
+Reverb Mod Source	0	1	Toggle	ValueOutput
+BBD1 Enable	0	1	Toggle	ValueOutput
+BBD1 Reverse Enable	0	1	Toggle	ValueOutput
+BBD1 Delay Time Mode	0	3	Value	ValueOutput
+BBD1 Stages	0	4194304	Value	ValueOutput
+BBD1 Time	0	4194304	Value	ValueOutput
+BBD1 Sync Duration	0	4194304	Value	ValueOutput
+BBD1 Sync Subdivision	0	4194304	Value	ValueOutput
+BBD1 Level	0	4194304	Value	ValueOutput
+BBD1 Pan	0	4194304	Value	ValueOutput
+BBD1 Feedback	0	4194304	Value	ValueOutput
+BBD1 THD	0	4194304	Value	ValueOutput
+BBD1 Tap Level In	0	4194304	Value	ValueOutput
+BBD1 Breakout Level In	0	4194304	Value	ValueOutput
+BBD1 Modulation Depth	0	4194304	Value	ValueOutput
+BBD1 Envelope	0	4194304	Value	ValueOutput
+BBD1 FX Filter Enable	0	1	Toggle	ValueOutput
+BBD1 EQ Enable	0	1	Toggle	ValueOutput
+BBD2 Enable	0	1	Toggle	ValueOutput
+BBD2 Reverse Enable	0	1	Toggle	ValueOutput
+BBD2 Delay Time Mode	0	3	Value	ValueOutput
+BBD2 Stages	0	4194304	Value	ValueOutput
+BBD2 Time	0	4194304	Value	ValueOutput
+BBD2 Sync Duration	0	4194304	Value	ValueOutput
+BBD2 Sync Subdivision	0	4194304	Value	ValueOutput
+BBD2 Level	0	4194304	Value	ValueOutput
+BBD2 Pan	0	4194304	Value	ValueOutput
+BBD2 Feedback	0	4194304	Value	ValueOutput
+BBD2 THD	0	4194304	Value	ValueOutput
+BBD2 Tap Level In	0	4194304	Value	ValueOutput
+BBD2 Breakout Level In	0	4194304	Value	ValueOutput
+BBD2 Modulation Depth	0	4194304	Value	ValueOutput
+BBD2 Envelope	0	4194304	Value	ValueOutput
+BBD2 FX Filter Enable	0	1	Toggle	ValueOutput
+BBD2 EQ Enable	0	1	Toggle	ValueOutput
+BBD3 Enable	0	1	Toggle	ValueOutput
+BBD3 Reverse Enable	0	1	Toggle	ValueOutput
+BBD3 Delay Time Mode	0	3	Value	ValueOutput
+BBD3 Stages	0	4194304	Value	ValueOutput
+BBD3 Time	0	4194304	Value	ValueOutput
+BBD3 Sync Duration	0	4194304	Value	ValueOutput
+BBD3 Sync Subdivision	0	4194304	Value	ValueOutput
+BBD3 Level	0	4194304	Value	ValueOutput
+BBD3 Pan	0	4194304	Value	ValueOutput
+BBD3 Feedback	0	4194304	Value	ValueOutput
+BBD3 THD	0	4194304	Value	ValueOutput
+BBD3 Tap Level In	0	4194304	Value	ValueOutput
+BBD3 Breakout Level In	0	4194304	Value	ValueOutput
+BBD3 Modulation Depth	0	4194304	Value	ValueOutput
+BBD3 Envelope	0	4194304	Value	ValueOutput
+BBD3 FX Filter Enable	0	1	Toggle	ValueOutput
+BBD3 EQ Enable	0	1	Toggle	ValueOutput
+BBD4 Enable	0	1	Toggle	ValueOutput
+BBD4 Reverse Enable	0	1	Toggle	ValueOutput
+BBD4 Delay Time Mode	0	3	Value	ValueOutput
+BBD4 Stages	0	4194304	Value	ValueOutput
+BBD4 Time	0	4194304	Value	ValueOutput
+BBD4 Sync Duration	0	4194304	Value	ValueOutput
+BBD4 Sync Subdivision	0	4194304	Value	ValueOutput
+BBD4 Level	0	4194304	Value	ValueOutput
+BBD4 Pan	0	4194304	Value	ValueOutput
+BBD4 Feedback	0	4194304	Value	ValueOutput
+BBD4 THD	0	4194304	Value	ValueOutput
+BBD4 Tap Level In	0	4194304	Value	ValueOutput
+BBD4 Breakout Level In	0	4194304	Value	ValueOutput
+BBD4 Modulation Depth	0	4194304	Value	ValueOutput
+BBD4 Envelope	0	4194304	Value	ValueOutput
+BBD4 FX Filter Enable	0	1	Toggle	ValueOutput
+BBD4 EQ Enable	0	1	Toggle	ValueOutput
+BBD5 Enable	0	1	Toggle	ValueOutput
+BBD5 Reverse Enable	0	1	Toggle	ValueOutput
+BBD5 Delay Time Mode	0	3	Value	ValueOutput
+BBD5 Stages	0	4194304	Value	ValueOutput
+BBD5 Time	0	4194304	Value	ValueOutput
+BBD5 Sync Duration	0	4194304	Value	ValueOutput
+BBD5 Sync Subdivision	0	4194304	Value	ValueOutput
+BBD5 Level	0	4194304	Value	ValueOutput
+BBD5 Pan	0	4194304	Value	ValueOutput
+BBD5 Feedback	0	4194304	Value	ValueOutput
+BBD5 THD	0	4194304	Value	ValueOutput
+BBD5 Tap Level In	0	4194304	Value	ValueOutput
+BBD5 Breakout Level In	0	4194304	Value	ValueOutput
+BBD5 Modulation Depth	0	4194304	Value	ValueOutput
+BBD5 Envelope	0	4194304	Value	ValueOutput
+BBD5 FX Filter Enable	0	1	Toggle	ValueOutput
+BBD5 EQ Enable	0	1	Toggle	ValueOutput
+BBD6 Enable	0	1	Toggle	ValueOutput
+BBD6 Reverse Enable	0	1	Toggle	ValueOutput
+BBD6 Delay Time Mode	0	3	Value	ValueOutput
+BBD6 Stages	0	4194304	Value	ValueOutput
+BBD6 Time	0	4194304	Value	ValueOutput
+BBD6 Sync Duration	0	4194304	Value	ValueOutput
+BBD6 Sync Subdivision	0	4194304	Value	ValueOutput
+BBD6 Level	0	4194304	Value	ValueOutput
+BBD6 Pan	0	4194304	Value	ValueOutput
+BBD6 Feedback	0	4194304	Value	ValueOutput
+BBD6 THD	0	4194304	Value	ValueOutput
+BBD6 Tap Level In	0	4194304	Value	ValueOutput
+BBD6 Breakout Level In	0	4194304	Value	ValueOutput
+BBD6 Modulation Depth	0	4194304	Value	ValueOutput
+BBD6 Envelope	0	4194304	Value	ValueOutput
+BBD6 FX Filter Enable	0	1	Toggle	ValueOutput
+BBD6 EQ Enable	0	1	Toggle	ValueOutput
+Envelope Page Edit	0	1	Toggle	ValueOutput
+Envelope Loop	0	1	Toggle	ValueOutput
+Envelope Tempo Sync	0	1	Toggle	ValueOutput
+Envelope Delay ms	0	4194304	Value	ValueOutput
+Envelope Attack ms	0	4194304	Value	ValueOutput
+Envelope Hold ms	0	4194304	Value	ValueOutput
+Envelope Decay ms	0	4194304	Value	ValueOutput
+Envelope Release ms	0	4194304	Value	ValueOutput
+Envelope Delay Tempo Sync	0	31	Value	ValueOutput
+Envelope Attack Tempo Sync	0	31	Value	ValueOutput
+Envelope Hold Tempo Sync	0	31	Value	ValueOutput
+Envelope Decay Tempo Sync	0	31	Value	ValueOutput
+Envelope Release Tempo Sync	0	31	Value	ValueOutput
+Envelope Sustain	0	4194304	Value	ValueOutput
+CV Trigger Mode	0	1	Toggle	ValueOutput
+FX Page Select	0	1	Toggle	ValueOutput
+FX Filter Enable	0	1	Toggle	ValueOutput
+FX Filter Type	0	2	Value	ValueOutput
+FX Filter Frequency	0	4194304	Value	ValueOutput
+FX Filter Frequency Mod	0	4194304	Value	ValueOutput
+FX Filter Q	0	4194304	Value	ValueOutput
+FX Filter Q Mod	0	4194304	Value	ValueOutput
+FX Filter Drive	0	4194304	Value	ValueOutput
+FX Filter Flow	0	2	Value	ValueOutput
+FX Filter Envelope	0	4194304	Value	ValueOutput
+Reverb Enable	0	1	Toggle	ValueOutput
+Reverb Predelay	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Mod	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Reverb Level	0	4194304	Value	ValueOutput
+Reverb Flow	0	1	Toggle	ValueOutput
+HPF Frequency	0	4194304	Value	ValueOutput
+LPF Frequency	0	4194304	Value	ValueOutput
+EQ1 Frequency	0	4194304	Value	ValueOutput
+EQ2 Frequency	0	4194304	Value	ValueOutput
+EQ3 Frequency	0	4194304	Value	ValueOutput
+EQ1 Gain	0	4194304	Value	ValueOutput
+EQ2 Gain	0	4194304	Value	ValueOutput
+EQ3 Gain	0	4194304	Value	ValueOutput
+Compressor	0	1	Toggle	ValueOutput
+Compressor Threshold	0	4194304	Value	ValueOutput
+Compressor Ratio	0	4194304	Value	ValueOutput
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor Release	0	4194304	Value	ValueOutput
+Bass Boost	0	1	Toggle	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Steer	0	4194304	Value	ValueOutput
+BBD Mixer Gain	0	4194304	Value	ValueOutput
+Dry Signal Pan	0	4194304	Value	ValueOutput
+Delay Ducking	0	4194304	Value	ValueOutput
+Duck Speed	0	4194304	Value	ValueOutput
+Tap Flow	0	1	Toggle	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Signal Level Notification	0	4194304	-	ValueOutput
+Link Lamp 1+2 Notification	0	4	-	ValueOutput
+Link Lamp 3+4 Notification	0	4	-	ValueOutput
+Link Lamp 5+6 Notification	0	4	-	ValueOutput
+BBD1 Memory Overload Notification	0	1	-	ValueOutput
+BBD2 Memory Overload Notification	0	1	-	ValueOutput
+BBD3 Memory Overload Notification	0	1	-	ValueOutput
+BBD4 Memory Overload Notification	0	1	-	ValueOutput
+BBD5 Memory Overload Notification	0	1	-	ValueOutput
+BBD6 Memory Overload Notification	0	1	-	ValueOutput
+BBD1 Amp Envelope Trigger Notification	0	1	-	ValueOutput
+BBD2 Amp Envelope Trigger Notification	0	1	-	ValueOutput
+BBD3 Amp Envelope Trigger Notification	0	1	-	ValueOutput
+BBD4 Amp Envelope Trigger Notification	0	1	-	ValueOutput
+BBD5 Amp Envelope Trigger Notification	0	1	-	ValueOutput
+BBD6 Amp Envelope Trigger Notification	0	1	-	ValueOutput
+BBD1 Reverse Trigger Notification	0	1	-	ValueOutput
+BBD2 Reverse Trigger Notification	0	1	-	ValueOutput
+BBD3 Reverse Trigger Notification	0	1	-	ValueOutput
+BBD4 Reverse Trigger Notification	0	1	-	ValueOutput
+BBD5 Reverse Trigger Notification	0	1	-	ValueOutput
+BBD6 Reverse Trigger Notification	0	1	-	ValueOutput
+BBD1 Feedback Active Notification	0	1	-	ValueOutput
+BBD2 Feedback Active Notification	0	1	-	ValueOutput
+BBD3 Feedback Active Notification	0	1	-	ValueOutput
+BBD4 Feedback Active Notification	0	1	-	ValueOutput
+BBD5 Feedback Active Notification	0	1	-	ValueOutput
+BBD6 Feedback Active Notification	0	1	-	ValueOutput
+Filter Envelope Trigger Notification	0	1	-	ValueOutput
+LFO 2 Phase Reset Notification	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

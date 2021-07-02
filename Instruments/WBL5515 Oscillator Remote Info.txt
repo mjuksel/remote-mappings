@@ -1,0 +1,33 @@
+Scope
+Manufacturer	Model
+omino	com.omino.wbl5515
+
+Remotable	Min	Max	Input type	Output type
+extLevelA	0	4194304	Value	ValueOutput
+frequencyA1	0	4194304	Value	ValueOutput
+lfoRateA1	0	4194304	Value	ValueOutput
+lfoDepthA1	0	4194304	Value	ValueOutput
+frequencyA2	0	4194304	Value	ValueOutput
+lfoRateA2	0	4194304	Value	ValueOutput
+lfoDepthA2	0	4194304	Value	ValueOutput
+frequencyA3	0	4194304	Value	ValueOutput
+lfoRateA3	0	4194304	Value	ValueOutput
+lfoDepthA3	0	4194304	Value	ValueOutput
+outLevelA	0	4194304	Value	ValueOutput
+extLevelB	0	4194304	Value	ValueOutput
+frequencyB1	0	4194304	Value	ValueOutput
+lfoRateB1	0	4194304	Value	ValueOutput
+lfoDepthB1	0	4194304	Value	ValueOutput
+frequencyB2	0	4194304	Value	ValueOutput
+lfoRateB2	0	4194304	Value	ValueOutput
+lfoDepthB2	0	4194304	Value	ValueOutput
+frequencyB3	0	4194304	Value	ValueOutput
+lfoRateB3	0	4194304	Value	ValueOutput
+lfoDepthB3	0	4194304	Value	ValueOutput
+outLevelB	0	4194304	Value	ValueOutput
+playStop	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

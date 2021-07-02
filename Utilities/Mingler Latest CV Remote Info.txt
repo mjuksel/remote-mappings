@@ -1,0 +1,20 @@
+Scope
+Manufacturer	Model
+HaMu	se.hamu.Mingler
+
+Remotable	Min	Max	Input type	Output type
+Ignore note 1	0	1	Toggle	ValueOutput
+Ignore gate 1	0	1	Toggle	ValueOutput
+Ignore note 2	0	1	Toggle	ValueOutput
+Ignore gate 2	0	1	Toggle	ValueOutput
+Gate 1 to all gates	0	1	Toggle	ValueOutput
+Gate 2 to all gates	0	1	Toggle	ValueOutput
+Retrig gate out by CV 1	0	1	Toggle	ValueOutput
+Retrig gate out by CV 2	0	1	Toggle	ValueOutput
+Hang gate off	0	1	Toggle	ValueOutput
+Gate balance	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

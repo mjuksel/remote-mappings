@@ -1,0 +1,23 @@
+Scope
+Manufacturer	Model
+Selig Audio	com.seligaudio.SeligGain
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Fade Time	0	4194304	Value	ValueOutput
+Mute	0	1	Toggle	ValueOutput
+Mode	0	1	Toggle	ValueOutput
+Gain VCA	0	4194304	Value	ValueOutput
+Gain Trim	0	4194304	Value	ValueOutput
+Polarity Invert	0	1	Toggle	ValueOutput
+Mono	0	1	Toggle	ValueOutput
+Pan Law	0	8	Value	ValueOutput
+Pan Left	0	4194304	Value	ValueOutput
+Pan Right	0	4194304	Value	ValueOutput
+Peak Hold Reset	0	1	Toggle	ValueOutput
+Peak Hold Auto	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

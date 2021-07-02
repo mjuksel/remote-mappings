@@ -1,0 +1,67 @@
+Scope
+Manufacturer	Model
+Quadelectra Audioworx	com.quadelectra.JackBoxL1M
+
+Remotable	Min	Max	Input type	Output type
+BASS: Level	0	4194304	Value	ValueOutput
+BASS: Pan	0	4194304	Value	ValueOutput
+SNARE: Level	0	4194304	Value	ValueOutput
+SNARE: Pan	0	4194304	Value	ValueOutput
+SNARE: Tuning	0	4194304	Value	ValueOutput
+SIDESTICK: Level	0	4194304	Value	ValueOutput
+SIDESTICK: Pan	0	4194304	Value	ValueOutput
+HIHAT: Level	0	4194304	Value	ValueOutput
+HIHAT: Pan	0	4194304	Value	ValueOutput
+HIHAT: Decay	0	4194304	Value	ValueOutput
+HI TOM: Level	0	4194304	Value	ValueOutput
+HI TOM: Pan	0	4194304	Value	ValueOutput
+HI TOM: Tuning	0	4194304	Value	ValueOutput
+MID TOM: Level	0	4194304	Value	ValueOutput
+MID TOM: Pan	0	4194304	Value	ValueOutput
+MID TOM: Tuning	0	4194304	Value	ValueOutput
+LOW TOM: Level	0	4194304	Value	ValueOutput
+LOW TOM: Pan	0	4194304	Value	ValueOutput
+LOW TOM: Tuning	0	4194304	Value	ValueOutput
+RIDE: Level	0	4194304	Value	ValueOutput
+RIDE: Pan	0	4194304	Value	ValueOutput
+CRASH: Level	0	4194304	Value	ValueOutput
+CRASH: Pan	0	4194304	Value	ValueOutput
+CABASA: Level	0	4194304	Value	ValueOutput
+CABASA: Pan	0	4194304	Value	ValueOutput
+TAMBURINE: Level	0	4194304	Value	ValueOutput
+TAMBURINE: Pan	0	4194304	Value	ValueOutput
+HI CONGA: Level	0	4194304	Value	ValueOutput
+HI CONGA: Pan	0	4194304	Value	ValueOutput
+HI CONGA: Tuning	0	4194304	Value	ValueOutput
+LOW CONGA: Level	0	4194304	Value	ValueOutput
+LOW CONGA: Pan	0	4194304	Value	ValueOutput
+LOW CONGA: Tuning	0	4194304	Value	ValueOutput
+COWBELL: Level	0	4194304	Value	ValueOutput
+COWBELL: Pan	0	4194304	Value	ValueOutput
+CLAP: Level	0	4194304	Value	ValueOutput
+CLAP: Pan	0	4194304	Value	ValueOutput
+Drum Pad #01 (BASS)	0	1	Toggle	ValueOutput
+Drum Pad #02 (SNARE)	0	1	Toggle	ValueOutput
+Drum Pad #03 (SIDESTICK)	0	1	Toggle	ValueOutput
+Drum Pad #04 (CLAP)	0	1	Toggle	ValueOutput
+Drum Pad #05 (HI TOM)	0	1	Toggle	ValueOutput
+Drum Pad #06 (MID TOM)	0	1	Toggle	ValueOutput
+Drum Pad #07 (LOW TOM)	0	1	Toggle	ValueOutput
+Drum Pad #08 (CRASH)	0	1	Toggle	ValueOutput
+Drum Pad #09 (RIDE)	0	1	Toggle	ValueOutput
+Drum Pad #10 (HIHAT CLOSED)	0	1	Toggle	ValueOutput
+Drum Pad #11 (HIHAT OPEN)	0	1	Toggle	ValueOutput
+Drum Pad #12 (CABASA)	0	1	Toggle	ValueOutput
+Drum Pad #13 (TAMBURINE)	0	1	Toggle	ValueOutput
+Drum Pad #14 (COWBELL)	0	1	Toggle	ValueOutput
+Drum Pad #15 (HI CONGA)	0	1	Toggle	ValueOutput
+Drum Pad #16 (LOW CONGA)	0	1	Toggle	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Accent Level	0	4194304	Value	ValueOutput
+Accent On	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Record Sample	0	0	Trig	TextOutput

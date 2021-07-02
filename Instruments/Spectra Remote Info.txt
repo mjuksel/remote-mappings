@@ -1,0 +1,168 @@
+Scope
+Manufacturer	Model
+Synthetech Sound	au.com.synthetechsound.Spectra
+
+Remotable	Min	Max	Input type	Output type
+LFO1 WaveForm	0	11	Value	ValueOutput
+LFO1 Rate	0	4194304	Value	ValueOutput
+LFO1 Rate Sync	0	32	Value	ValueOutput
+LFO1 Mode	0	5	Value	ValueOutput
+LFO1 Sync	0	1	Toggle	ValueOutput
+LFO1 Trigger	0	1	Toggle	ValueOutput
+LFO1 Delay	0	4194304	Value	ValueOutput
+LFO1 Delay Sync	0	33	Value	ValueOutput
+LFO1 Fade	0	4194304	Value	ValueOutput
+LFO1 Fade Sync	0	33	Value	ValueOutput
+LFO2 WaveForm	0	11	Value	ValueOutput
+LFO2 Rate	0	4194304	Value	ValueOutput
+LFO2 Rate Sync	0	32	Value	ValueOutput
+LFO2 Mode	0	5	Value	ValueOutput
+LFO2 Sync	0	1	Toggle	ValueOutput
+LFO2 Trigger	0	1	Toggle	ValueOutput
+LFO2 Delay	0	4194304	Value	ValueOutput
+LFO2 Delay Sync	0	33	Value	ValueOutput
+LFO2 Fade	0	4194304	Value	ValueOutput
+LFO2 Fade Sync	0	33	Value	ValueOutput
+Gen1 On/Off	0	1	Toggle	ValueOutput
+Gen1 Key Tracking	0	4194304	Value	ValueOutput
+GEN1 Spectrum	0	61	Value	ValueOutput
+Ring Depth	0	4194304	Value	ValueOutput
+GEN1 Tuning Coarse	0	48	Value	ValueOutput
+GEN1 Tuning Fine	0	4194304	Value	ValueOutput
+GEN1 Level	0	4194304	Value	ValueOutput
+GEN1 Pan	0	4194304	Value	ValueOutput
+GEN1 Navigator	0	7	Value	ValueOutput
+GEN1 Multi Sel	0	33	Value	ValueOutput
+GEN1 Single Sel	0	63	Value	ValueOutput
+GEN1 Morph1 Sel	0	63	Value	ValueOutput
+GEN1 Morph2 Sel	0	61	Value	ValueOutput
+GEN1 HEnvelope Sel	0	2	Value	ValueOutput
+GEN1 XSynth Sel	0	2	Value	ValueOutput
+GEN1 Multi Amt	0	4194304	Value	ValueOutput
+GEN1 Single Amt	0	4194304	Value	ValueOutput
+GEN1 Morph1 Amt	0	4194304	Value	ValueOutput
+GEN1 Morph2 Amt	0	4194304	Value	ValueOutput
+GEN1 HEnv Range	0	14	Value	ValueOutput
+GEN1 XSynth Amt	0	4194304	Value	ValueOutput
+GEN1 Unison	0	4	Value	ValueOutput
+GEN1 Uni Tuning Amt	0	4194304	Value	ValueOutput
+GEN1 Unison Spread	0	4194304	Value	ValueOutput
+Gen2 On/Off	0	1	Toggle	ValueOutput
+Gen2 Key Tracking	0	4194304	Value	ValueOutput
+GEN2 Spectrum	0	61	Value	ValueOutput
+GEN2 Phase	0	4194304	Value	ValueOutput
+GEN2 Tuning Coarse	0	48	Value	ValueOutput
+GEN2 Tuning Fine	0	4194304	Value	ValueOutput
+GEN2 Level	0	4194304	Value	ValueOutput
+GEN2 Pan	0	4194304	Value	ValueOutput
+GEN2 Navigator	0	7	Value	ValueOutput
+GEN2 Multi Sel	0	33	Value	ValueOutput
+GEN2 Single Sel	0	63	Value	ValueOutput
+GEN2 Morph1 Sel	0	63	Value	ValueOutput
+GEN2 Morph2 Sel	0	61	Value	ValueOutput
+GEN2 HEnvelope Sel	0	2	Value	ValueOutput
+GEN2 XSynth Sel	0	2	Value	ValueOutput
+GEN2 Multi Amt	0	4194304	Value	ValueOutput
+GEN2 Single Amt	0	4194304	Value	ValueOutput
+GEN2 Morph1 Amt	0	4194304	Value	ValueOutput
+GEN2 Morph2 Amt	0	4194304	Value	ValueOutput
+GEN2 HEnv Range	0	14	Value	ValueOutput
+GEN2 XSynth Amt	0	4194304	Value	ValueOutput
+GEN2 Unison	0	4	Value	ValueOutput
+GEN2 Uni Tuning Amt	0	4194304	Value	ValueOutput
+GEN2 Unison Spread	0	4194304	Value	ValueOutput
+FIL1 Frequency	0	4194304	Value	ValueOutput
+FIL1 Type	0	27	Value	ValueOutput
+GEN1 to FIL1	0	1	Toggle	ValueOutput
+GEN2 to FIL1	0	1	Toggle	ValueOutput
+FIL1 Morph Amount	0	4194304	Value	ValueOutput
+FIL1 Morph Target	0	29	Value	ValueOutput
+FIL1 Tracking Amount	0	4194304	Value	ValueOutput
+FIL1 Env1 Amount	0	4194304	Value	ValueOutput
+FIL1 Vel to Env1	0	4194304	Value	ValueOutput
+FIL2 Frequency	0	4194304	Value	ValueOutput
+FIL2 Type	0	27	Value	ValueOutput
+GEN1 to FIL2	0	1	Toggle	ValueOutput
+GEN2 to FIL2	0	1	Toggle	ValueOutput
+FIL2 Morph Amount	0	4194304	Value	ValueOutput
+FIL2 Morph Target	0	29	Value	ValueOutput
+FIL2 Tracking Amount	0	4194304	Value	ValueOutput
+FIL2 Env2 Amount	0	4194304	Value	ValueOutput
+FIL2 Vel to Env2	0	4194304	Value	ValueOutput
+Mod Source 1	0	25	Value	ValueOutput
+Mod Map 1	0	5	Value	ValueOutput
+Mod Dest 1	0	64	Value	ValueOutput
+Mod Amount 1	0	4194304	Value	ValueOutput
+Mod Source 2	0	25	Value	ValueOutput
+Mod Map 2	0	5	Value	ValueOutput
+Mod Dest 2	0	64	Value	ValueOutput
+Mod Amount 2	0	4194304	Value	ValueOutput
+Mod Source 3	0	25	Value	ValueOutput
+Mod Map 3	0	5	Value	ValueOutput
+Mod Dest 3	0	64	Value	ValueOutput
+Mod Amount 3	0	4194304	Value	ValueOutput
+MOd Source 4	0	25	Value	ValueOutput
+Mod Map 4	0	5	Value	ValueOutput
+Mod Dest 4	0	64	Value	ValueOutput
+Mod Amount 4	0	4194304	Value	ValueOutput
+Mod Source 5	0	25	Value	ValueOutput
+Mod Map 5	0	5	Value	ValueOutput
+Mod Dest 5	0	64	Value	ValueOutput
+Mod Amount 5	0	4194304	Value	ValueOutput
+Mod Source 6	0	25	Value	ValueOutput
+Mod Map 6	0	5	Value	ValueOutput
+Mod Dest 6	0	64	Value	ValueOutput
+Mod Amount 6	0	4194304	Value	ValueOutput
+Mod Source 7	0	25	Value	ValueOutput
+Mod Map 7	0	5	Value	ValueOutput
+Mod Dest 7	0	64	Value	ValueOutput
+Mod Amount 7	0	4194304	Value	ValueOutput
+Mod Source 8	0	25	Value	ValueOutput
+Mod Map 8	0	5	Value	ValueOutput
+Mod Dest 8	0	64	Value	ValueOutput
+Mod Amount 8	0	4194304	Value	ValueOutput
+Mod Source 9	0	25	Value	ValueOutput
+Mod Map 9	0	5	Value	ValueOutput
+Mod Dest 9	0	64	Value	ValueOutput
+Mod Amount 9	0	4194304	Value	ValueOutput
+Mod Source 10	0	25	Value	ValueOutput
+Mod Map 10	0	5	Value	ValueOutput
+Mod Dest 10	0	64	Value	ValueOutput
+Mod Amount 10	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+PB Range Up	0	24	Value	ValueOutput
+PB Range Down	0	24	Value	ValueOutput
+Keyboard Mode	0	2	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Portamento Amount	0	4194304	Value	ValueOutput
+XY1X	0	4194304	Value	ValueOutput
+XY1Y	0	4194304	Value	ValueOutput
+XY2X	0	4194304	Value	ValueOutput
+XY2Y	0	4194304	Value	ValueOutput
+XY1X Destination	0	64	Value	ValueOutput
+XY1Y Destination	0	64	Value	ValueOutput
+XY2X Destination	0	64	Value	ValueOutput
+XY2Y Destination	0	64	Value	ValueOutput
+Polyphony	0	10	Value	ValueOutput
+Vel to AEnv Amount	0	4194304	Value	ValueOutput
+GEN1 Uni Phase Mode	0	4	Value	ValueOutput
+GEN2 Uni Phase Mode	0	4	Value	ValueOutput
+Noise On/Off	0	1	Toggle	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Noise Pan	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Noise to FIL1	0	1	Toggle	ValueOutput
+Noise to FIL2	0	1	Toggle	ValueOutput
+Amp Level	0	4194304	Value	ValueOutput
+Note On	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Record Sample	0	0	Trig	TextOutput

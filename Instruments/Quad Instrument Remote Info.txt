@@ -1,0 +1,284 @@
+Scope
+Manufacturer	Model
+Rob Papen	com.robpapen.Quad
+
+Remotable	Min	Max	Input type	Output type
+Osc 1 On	0	1	Toggle	ValueOutput
+Osc 1 Type	0	127	Value	ValueOutput
+Osc 1 Free Running	0	1	Toggle	ValueOutput
+Osc 1 Tracking	0	1	Toggle	ValueOutput
+Osc 1 Output	0	1	Toggle	ValueOutput
+Osc 1 Volume	0	4194304	Value	ValueOutput
+Osc 1 Octave	0	4	Value	ValueOutput
+Osc 1 Semi	0	96	Value	ValueOutput
+Osc 1 Fine	0	4194304	Value	ValueOutput
+Osc 1 Sub-Osc Volume	0	4194304	Value	ValueOutput
+Osc 1 Drift	0	4194304	Value	ValueOutput
+Osc 1 Twin	0	4194304	Value	ValueOutput
+PD 1 Type	0	21	Value	ValueOutput
+PD 1 Amount	0	4194304	Value	ValueOutput
+PD 1 X	0	4194304	Value	ValueOutput
+PD 1 Y	0	4194304	Value	ValueOutput
+WS 1 Type	0	21	Value	ValueOutput
+WS 1 Amount	0	4194304	Value	ValueOutput
+WS 1 X	0	4194304	Value	ValueOutput
+WS 1 Y	0	4194304	Value	ValueOutput
+Osc 2 On	0	1	Toggle	ValueOutput
+Osc 2 Type	0	127	Value	ValueOutput
+Osc 2 Free Running	0	1	Toggle	ValueOutput
+Osc 2 Tracking	0	1	Toggle	ValueOutput
+Osc 2 Sync Mode	0	2	Value	ValueOutput
+Osc 2 Volume	0	4194304	Value	ValueOutput
+Osc 2 Octave	0	4	Value	ValueOutput
+Osc 2 Semi	0	96	Value	ValueOutput
+Osc 2 Fine	0	4194304	Value	ValueOutput
+Osc 2 Sub-Osc Volume	0	4194304	Value	ValueOutput
+Osc 2 Drift	0	4194304	Value	ValueOutput
+Osc 2 Mod Amount 1	0	4194304	Value	ValueOutput
+Osc 2 Mod Amount 2	0	4194304	Value	ValueOutput
+Osc 2 Mod Mode	0	16	Value	ValueOutput
+Osc 2 Twin	0	4194304	Value	ValueOutput
+PD 2 Type	0	21	Value	ValueOutput
+PD 2 Amount	0	4194304	Value	ValueOutput
+PD 2 X	0	4194304	Value	ValueOutput
+PD 2 Y	0	4194304	Value	ValueOutput
+WS 2 Type	0	21	Value	ValueOutput
+WS 2 Amount	0	4194304	Value	ValueOutput
+WS 2 X	0	4194304	Value	ValueOutput
+WS 2 Y	0	4194304	Value	ValueOutput
+Filter Path	0	2	Value	ValueOutput
+Filter 1 Type	0	36	Value	ValueOutput
+Filter 1 Frequency	0	4194304	Value	ValueOutput
+Filter 1 Resonance	0	4194304	Value	ValueOutput
+Filter 1 Vowel	0	4194304	Value	ValueOutput
+Filter 1 Volume	0	4194304	Value	ValueOutput
+Filter 1 Pan	0	4194304	Value	ValueOutput
+Mod > Filter 1 Frequency Amount	0	4194304	Value	ValueOutput
+Filter 1 Keytracking	0	4194304	Value	ValueOutput
+Velocity > Filter 1 Frequency Amount	0	4194304	Value	ValueOutput
+Filter 1 Envelope Amount	0	4194304	Value	ValueOutput
+Filter 1 Envelope Attack	0	4194304	Value	ValueOutput
+Filter 1 Envelope Decay	0	4194304	Value	ValueOutput
+Filter 1 Envelope Sustain	0	4194304	Value	ValueOutput
+Filter 1 Envelope Fade	0	4194304	Value	ValueOutput
+Filter 1 Envelope Release	0	4194304	Value	ValueOutput
+Filter 2 Type	0	36	Value	ValueOutput
+Filter 2 Frequency	0	4194304	Value	ValueOutput
+Filter 2 Resonance	0	4194304	Value	ValueOutput
+Filter 2 Vowel	0	4194304	Value	ValueOutput
+Filter 2 Volume	0	4194304	Value	ValueOutput
+Filter 2 Pan	0	4194304	Value	ValueOutput
+Mod > Filter 2 Frequency Amount	0	4194304	Value	ValueOutput
+Filter 2 Keytracking	0	4194304	Value	ValueOutput
+Velocity > Filter 2 Frequency Amount	0	4194304	Value	ValueOutput
+Filter 2 Envelope Amount	0	4194304	Value	ValueOutput
+Filter 2 Envelope Attack	0	4194304	Value	ValueOutput
+Filter 2 Envelope Decay	0	4194304	Value	ValueOutput
+Filter 2 Envelope Sustain	0	4194304	Value	ValueOutput
+Filter 2 Envelope Fade	0	4194304	Value	ValueOutput
+Filter 2 Envelope Release	0	4194304	Value	ValueOutput
+Filter No	0	1	Toggle	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Main Panning	0	4194304	Value	ValueOutput
+Velocity > Volume	0	4194304	Value	ValueOutput
+Velocity Shape	0	4194304	Value	ValueOutput
+Volume Envelope Attack	0	4194304	Value	ValueOutput
+Volume Envelope Decay	0	4194304	Value	ValueOutput
+Volume Envelope Sustain	0	4194304	Value	ValueOutput
+Volume Envelope Fade	0	4194304	Value	ValueOutput
+Volume Envelope Release	0	4194304	Value	ValueOutput
+Pitch Bend Up	0	15	Value	ValueOutput
+Pitch Bend Down	0	15	Value	ValueOutput
+Play Mode	0	7	Value	ValueOutput
+Port Mode	0	4	Value	ValueOutput
+Port Speed	0	4194304	Value	ValueOutput
+Unison Amount	0	4194304	Value	ValueOutput
+Unison Mode	0	7	Value	ValueOutput
+Unison Spread	0	4194304	Value	ValueOutput
+Unison Delay	0	4194304	Value	ValueOutput
+Free Envelope 1 Sync	0	1	Toggle	ValueOutput
+Free Envelope 1 Attack in MS	0	4194304	Value	ValueOutput
+Free Envelope 1 Decay in MS	0	4194304	Value	ValueOutput
+Free Envelope 1 Sustain MS	0	4194304	Value	ValueOutput
+Free Envelope 1 Fade in MS	0	4194304	Value	ValueOutput
+Free Envelope 1 Release in MS	0	4194304	Value	ValueOutput
+Free Envelope 1 Attack in QB	0	29	Value	ValueOutput
+Free Envelope 1 Decay in QB	0	29	Value	ValueOutput
+Free Envelope 1 Sustain QB	0	4194304	Value	ValueOutput
+Free Envelope 1 Fade in QB	0	60	Value	ValueOutput
+Free Envelope 1 Release in QB	0	29	Value	ValueOutput
+Key > Free Envelope 1 Speed	0	4194304	Value	ValueOutput
+Vel > Free Envelope 1	0	4194304	Value	ValueOutput
+Free Envelope 2 Sync	0	1	Toggle	ValueOutput
+Free Envelope 2 Attack in MS	0	4194304	Value	ValueOutput
+Free Envelope 2 Decay in MS	0	4194304	Value	ValueOutput
+Free Envelope 2 Sustain MS	0	4194304	Value	ValueOutput
+Free Envelope 2 Fade in MS	0	4194304	Value	ValueOutput
+Free Envelope 2 Release in MS	0	4194304	Value	ValueOutput
+Free Envelope 2 Attack in QB	0	29	Value	ValueOutput
+Free Envelope 2 Decay in QB	0	29	Value	ValueOutput
+Free Envelope 2 Sustain QB	0	4194304	Value	ValueOutput
+Free Envelope 2 Fade in QB	0	60	Value	ValueOutput
+Free Envelope 2 Release in QB	0	29	Value	ValueOutput
+Key > Free Envelope 2 Speed	0	4194304	Value	ValueOutput
+Vel > Free Envelope 2	0	4194304	Value	ValueOutput
+Free LFO 1 Wave	0	5	Value	ValueOutput
+Free LFO 1 Mode	0	2	Value	ValueOutput
+Free LFO 1 Speed in HZ	0	4194304	Value	ValueOutput
+Free LFO 1 Speed in QB	0	33	Value	ValueOutput
+Free LFO 1 Sync	0	1	Toggle	ValueOutput
+Free LFO 2 Wave	0	5	Value	ValueOutput
+Free LFO 2 Mode	0	2	Value	ValueOutput
+Free LFO 2 Speed in HZ	0	4194304	Value	ValueOutput
+Free LFO 2 Speed in QB	0	33	Value	ValueOutput
+Free LFO 2 Sync	0	1	Toggle	ValueOutput
+Mod 1 Source	0	39	Value	ValueOutput
+Mod 2 Source	0	39	Value	ValueOutput
+Mod 3 Source	0	39	Value	ValueOutput
+Mod 4 Source	0	39	Value	ValueOutput
+Mod 5 Source	0	39	Value	ValueOutput
+Mod 6 Source	0	39	Value	ValueOutput
+Mod 7 Source	0	39	Value	ValueOutput
+Mod 8 Source	0	39	Value	ValueOutput
+Mod 1 Destination	0	128	Value	ValueOutput
+Mod 2 Destination	0	128	Value	ValueOutput
+Mod 3 Destination	0	128	Value	ValueOutput
+Mod 4 Destination	0	128	Value	ValueOutput
+Mod 5 Destination	0	128	Value	ValueOutput
+Mod 6 Destination	0	128	Value	ValueOutput
+Mod 7 Destination	0	128	Value	ValueOutput
+Mod 8 Destination	0	128	Value	ValueOutput
+Mod 1 Amount	0	4194304	Value	ValueOutput
+Mod 2 Amount	0	4194304	Value	ValueOutput
+Mod 3 Amount	0	4194304	Value	ValueOutput
+Mod 4 Amount	0	4194304	Value	ValueOutput
+Mod 5 Amount	0	4194304	Value	ValueOutput
+Mod 6 Amount	0	4194304	Value	ValueOutput
+Mod 7 Amount	0	4194304	Value	ValueOutput
+Mod 8 Amount	0	4194304	Value	ValueOutput
+Arp Steps	0	15	Value	ValueOutput
+Arp Speed	0	8	Value	ValueOutput
+Arp Mode	0	10	Value	ValueOutput
+Arp Octaves	0	3	Value	ValueOutput
+Arp Note Length	0	4194304	Value	ValueOutput
+Arp Swing	0	4194304	Value	ValueOutput
+Arp Vel / Key	0	4194304	Value	ValueOutput
+Arp Sync	0	1	Toggle	ValueOutput
+Arp Latch	0	1	Toggle	ValueOutput
+Arp On Step 01	0	1	Toggle	ValueOutput
+Arp On Step 02	0	1	Toggle	ValueOutput
+Arp On Step 03	0	1	Toggle	ValueOutput
+Arp On Step 04	0	1	Toggle	ValueOutput
+Arp On Step 05	0	1	Toggle	ValueOutput
+Arp On Step 06	0	1	Toggle	ValueOutput
+Arp On Step 07	0	1	Toggle	ValueOutput
+Arp On Step 08	0	1	Toggle	ValueOutput
+Arp On Step 09	0	1	Toggle	ValueOutput
+Arp On Step 10	0	1	Toggle	ValueOutput
+Arp On Step 11	0	1	Toggle	ValueOutput
+Arp On Step 12	0	1	Toggle	ValueOutput
+Arp On Step 13	0	1	Toggle	ValueOutput
+Arp On Step 14	0	1	Toggle	ValueOutput
+Arp On Step 15	0	1	Toggle	ValueOutput
+Arp On Step 16	0	1	Toggle	ValueOutput
+Arp Velocity Step 01	0	4194304	Value	ValueOutput
+Arp Velocity Step 02	0	4194304	Value	ValueOutput
+Arp Velocity Step 03	0	4194304	Value	ValueOutput
+Arp Velocity Step 04	0	4194304	Value	ValueOutput
+Arp Velocity Step 05	0	4194304	Value	ValueOutput
+Arp Velocity Step 06	0	4194304	Value	ValueOutput
+Arp Velocity Step 07	0	4194304	Value	ValueOutput
+Arp Velocity Step 08	0	4194304	Value	ValueOutput
+Arp Velocity Step 09	0	4194304	Value	ValueOutput
+Arp Velocity Step 10	0	4194304	Value	ValueOutput
+Arp Velocity Step 11	0	4194304	Value	ValueOutput
+Arp Velocity Step 12	0	4194304	Value	ValueOutput
+Arp Velocity Step 13	0	4194304	Value	ValueOutput
+Arp Velocity Step 14	0	4194304	Value	ValueOutput
+Arp Velocity Step 15	0	4194304	Value	ValueOutput
+Arp Velocity Step 16	0	4194304	Value	ValueOutput
+Mod FX On / Off	0	1	Toggle	ValueOutput
+Mod FX Type	0	5	Value	ValueOutput
+Mod FX Mix	0	4194304	Value	ValueOutput
+Mod FX None 1	0	4194304	Value	ValueOutput
+Mod FX None 2	0	4194304	Value	ValueOutput
+Mod FX None 3	0	4194304	Value	ValueOutput
+Mod FX None 4	0	4194304	Value	ValueOutput
+Mod FX None 5	0	4194304	Value	ValueOutput
+Mod FX None 6	0	4194304	Value	ValueOutput
+Mod FX None 7	0	4194304	Value	ValueOutput
+Mod FX None 8	0	4194304	Value	ValueOutput
+Chorus Length	0	4194304	Value	ValueOutput
+Chorus Width	0	4194304	Value	ValueOutput
+Chorus Speed	0	4194304	Value	ValueOutput
+Chorus Spread	0	4194304	Value	ValueOutput
+Chorus Lowpass Filter	0	4194304	Value	ValueOutput
+Chorus Widen	0	4194304	Value	ValueOutput
+Chorus Highpass Filter	0	4194304	Value	ValueOutput
+Ensemble Length	0	4194304	Value	ValueOutput
+Ensemble Width	0	4194304	Value	ValueOutput
+Ensemble Speed	0	4194304	Value	ValueOutput
+Ensemble Feedback	0	4194304	Value	ValueOutput
+Ensemble Amount	0	4194304	Value	ValueOutput
+Ensemble Spread	0	4194304	Value	ValueOutput
+Ensemble Lowpass Filter	0	4194304	Value	ValueOutput
+Ensemble Highpass Filter	0	4194304	Value	ValueOutput
+Flanger Length	0	4194304	Value	ValueOutput
+Flanger Width	0	4194304	Value	ValueOutput
+Flanger Speed	0	30	Value	ValueOutput
+Flanger Feedback	0	4194304	Value	ValueOutput
+Flanger Pan Modulation	0	4194304	Value	ValueOutput
+Flanger Lowpass Filter	0	4194304	Value	ValueOutput
+Flanger Highpass Filter	0	4194304	Value	ValueOutput
+Phaser Stages	0	7	Value	ValueOutput
+Phaser Pitch	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Width	0	4194304	Value	ValueOutput
+Phaser Speed	0	30	Value	ValueOutput
+Phaser Spread	0	4194304	Value	ValueOutput
+Phaser Pan Modulation	0	4194304	Value	ValueOutput
+Phaser Q	0	4194304	Value	ValueOutput
+Widener Amount	0	4194304	Value	ValueOutput
+Widener Width	0	4194304	Value	ValueOutput
+Widener Speed	0	4194304	Value	ValueOutput
+Widener Lowpass Filter	0	4194304	Value	ValueOutput
+Widener Highpass Filter	0	4194304	Value	ValueOutput
+Delay FX On / Off	0	1	Toggle	ValueOutput
+Delay FX Type	0	2	Value	ValueOutput
+Delay FX Mix	0	4194304	Value	ValueOutput
+Delay FX None 1	0	4194304	Value	ValueOutput
+Delay FX None 2	0	4194304	Value	ValueOutput
+Delay FX None 3	0	4194304	Value	ValueOutput
+Delay FX None 4	0	4194304	Value	ValueOutput
+Delay FX None 5	0	4194304	Value	ValueOutput
+Delay FX None 6	0	4194304	Value	ValueOutput
+Delay FX None 7	0	4194304	Value	ValueOutput
+Delay FX None 8	0	4194304	Value	ValueOutput
+Stereo Delay Left Length	0	14	Value	ValueOutput
+Stereo Delay Right Length	0	14	Value	ValueOutput
+Stereo Delay Feedback	0	4194304	Value	ValueOutput
+Stereo Delay Crossfeed	0	4194304	Value	ValueOutput
+Stereo Delay Lowpass Filter	0	1	Toggle	ValueOutput
+Stereo Delay Highpass Filter	0	4194304	Value	ValueOutput
+Stereo Delay Mod Amount	0	4194304	Value	ValueOutput
+Stereo Delay Equal Feed	0	4194304	Value	ValueOutput
+Reverb Pre-delay	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb Lowpass Filter	0	4194304	Value	ValueOutput
+Reverb Highpass Filter	0	4194304	Value	ValueOutput
+Reverb Spread	0	4194304	Value	ValueOutput
+Reverb Length	0	4194304	Value	ValueOutput
+Reverb FX Mix	0	4194304	Value	ValueOutput
+Delay Path	0	2	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

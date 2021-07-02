@@ -1,0 +1,392 @@
+Scope
+Manufacturer	Model
+Propellerheads	Thor Polysonic Synthesizer
+
+Remotable	Min	Max	Input type	Output type
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend Range	0	24	Value	ValueOutput
+Polyphony	0	32	Value	ValueOutput
+Release Polyphony	0	32	Value	ValueOutput
+Key Mode	0	2	Value	ValueOutput
+Portamento	0	127	Value	ValueOutput
+Portamento Mode	0	2	Value	ValueOutput
+Note On Indicator	0	1	-	ValueOutput
+Note Trigger MIDI	0	1	Toggle	ValueOutput
+Note Trigger Step Seq	0	1	Toggle	ValueOutput
+Rotary 1	0	127	Value	ValueOutput
+Rotary 2	0	127	Value	ValueOutput
+Button 1	0	1	Toggle	ValueOutput
+Button 1 MIDI Key On	0	1	Toggle	ValueOutput
+Button 2	0	1	Toggle	ValueOutput
+Button 2 MIDI Key On	0	1	Toggle	ValueOutput
+Master Level	0	127	Value	ValueOutput
+Osc 1 Type	0	6	Value	ValueOutput
+Osc 1 Oct	0	9	Value	ValueOutput
+Osc 1 Semi	0	12	Value	ValueOutput
+Osc 1 Tune	-50	50	Value	ValueOutput
+Osc 1 Kbd	0	127	Value	ValueOutput
+Osc 1 Mod	0	127	Value	ValueOutput
+Osc 2 Type	0	6	Value	ValueOutput
+Osc 2 Oct	0	9	Value	ValueOutput
+Osc 2 Semi	0	12	Value	ValueOutput
+Osc 2 Tune	-50	50	Value	ValueOutput
+Osc 2 Kbd	0	127	Value	ValueOutput
+Osc 2 Mod	0	127	Value	ValueOutput
+Osc 3 Type	0	6	Value	ValueOutput
+Osc 3 Oct	0	9	Value	ValueOutput
+Osc 3 Semi	0	12	Value	ValueOutput
+Osc 3 Tune	-50	50	Value	ValueOutput
+Osc 3 Kbd	0	127	Value	ValueOutput
+Osc 3 Mod	0	127	Value	ValueOutput
+Osc 1 AM From Osc 2	0	127	Value	ValueOutput
+Osc 2 Sync To Osc 1	0	1	Toggle	ValueOutput
+Osc 2 Sync BW	0	127	Value	ValueOutput
+Osc 3 Sync To Osc 1	0	1	Toggle	ValueOutput
+Osc 3 Sync BW	0	127	Value	ValueOutput
+Osc 1 And 2 Level	0	127	Value	ValueOutput
+Osc 1 And 2 Balance	0	127	Value	ValueOutput
+Osc 3 Level	0	127	Value	ValueOutput
+Osc 1 To Filter 1 Enable	0	1	Toggle	ValueOutput
+Osc 2 To Filter 1 Enable	0	1	Toggle	ValueOutput
+Osc 3 To Filter 1 Enable	0	1	Toggle	ValueOutput
+Osc 1 To Filter 2 Enable	0	1	Toggle	ValueOutput
+Osc 2 To Filter 2 Enable	0	1	Toggle	ValueOutput
+Osc 3 To Filter 2 Enable	0	1	Toggle	ValueOutput
+Filter 1 Type	0	4	Value	ValueOutput
+Filter 1 Env Amount	0	127	Value	ValueOutput
+Filter 1 Env Invert	0	1	Toggle	ValueOutput
+Filter 1 Velocity	0	127	Value	ValueOutput
+Filter 1 Kbd	0	127	Value	ValueOutput
+Filter 1 Drive	0	127	Value	ValueOutput
+Filter 1 Self Osc	0	1	Toggle	ValueOutput
+Filter 1 Freq	0	127	Value	ValueOutput
+Filter 1 Res	0	127	Value	ValueOutput
+Filter 2 Type	0	4	Value	ValueOutput
+Filter 2 Env Amount	0	127	Value	ValueOutput
+Filter 2 Env Invert	0	1	Toggle	ValueOutput
+Filter 2 Velocity	0	127	Value	ValueOutput
+Filter 2 Kbd	0	127	Value	ValueOutput
+Filter 2 Drive	0	127	Value	ValueOutput
+Filter 2 Self Osc	0	1	Toggle	ValueOutput
+Filter 2 Freq	0	127	Value	ValueOutput
+Filter 2 Res	0	127	Value	ValueOutput
+Filter 3 Type	0	4	Value	ValueOutput
+Filter 3 Global Env Amount	0	127	Value	ValueOutput
+Filter 3 Global Env Invert	0	1	Toggle	ValueOutput
+Filter 3 Velocity	0	127	Value	ValueOutput
+Filter 3 Kbd	0	127	Value	ValueOutput
+Filter 3 Drive	0	127	Value	ValueOutput
+Filter 3 Self Osc	0	1	Toggle	ValueOutput
+Filter 3 Freq	0	127	Value	ValueOutput
+Filter 3 Res	0	127	Value	ValueOutput
+Shaper On	0	1	Toggle	ValueOutput
+Shaper Type	0	8	Value	ValueOutput
+Shaper Drive	0	127	Value	ValueOutput
+Shaper Output Dest	0	1	Toggle	ValueOutput
+Filter2ToAmplifier Enable	0	1	Toggle	ValueOutput
+LFO 1 Key Sync	0	1	Toggle	ValueOutput
+LFO 1 Tempo Sync	0	1	Toggle	ValueOutput
+LFO 1 Waveform	0	17	Value	ValueOutput
+LFO 1 Rate	0	127	Value	ValueOutput
+LFO 1 Delay	0	127	Value	ValueOutput
+LFO 1 KbdFollow	0	127	Value	ValueOutput
+Mod Env Gate Trig On	0	1	Toggle	ValueOutput
+Mod Env Delay	0	127	Value	ValueOutput
+Mod Env Attack	0	127	Value	ValueOutput
+Mod Env Decay	0	127	Value	ValueOutput
+Mod Env Release	0	127	Value	ValueOutput
+Mod Env Tempo Sync	0	1	Toggle	ValueOutput
+Mod Env Loop	0	1	Toggle	ValueOutput
+Filter Env Gate Trig On	0	1	Toggle	ValueOutput
+Filter Env Attack	0	127	Value	ValueOutput
+Filter Env Decay	0	127	Value	ValueOutput
+Filter Env Sustain	0	127	Value	ValueOutput
+Filter Env Release	0	127	Value	ValueOutput
+Amp Env Gate Trig On	0	1	Toggle	ValueOutput
+Amp Env Attack	0	127	Value	ValueOutput
+Amp Env Decay	0	127	Value	ValueOutput
+Amp Env Sustain	0	127	Value	ValueOutput
+Amp Env Release	0	127	Value	ValueOutput
+Amplifier Gain	0	127	Value	ValueOutput
+Amplifier Velocity	0	127	Value	ValueOutput
+Amplifier Pan	-64	63	Value	ValueOutput
+Global Env Gate Trig On	0	1	Toggle	ValueOutput
+Global Env Delay	0	127	Value	ValueOutput
+Global Env Attack	0	127	Value	ValueOutput
+Global Env Hold	0	127	Value	ValueOutput
+Global Env Decay	0	127	Value	ValueOutput
+Global Env Sustain	0	127	Value	ValueOutput
+Global Env Release	0	127	Value	ValueOutput
+Global Env Tempo Sync	0	1	Toggle	ValueOutput
+Global Env Loop	0	1	Toggle	ValueOutput
+LFO 2 Key Sync	0	1	Toggle	ValueOutput
+LFO 2 Tempo Sync	0	1	Toggle	ValueOutput
+LFO 2 Waveform	0	17	Value	ValueOutput
+LFO 2 Rate	0	127	Value	ValueOutput
+LFO 2 Delay	0	127	Value	ValueOutput
+Chorus On	0	1	Toggle	ValueOutput
+Chorus Rate	0	127	Value	ValueOutput
+Chorus Amt	0	127	Value	ValueOutput
+Chorus Delay	0	127	Value	ValueOutput
+Chorus Feedback	0	127	Value	ValueOutput
+Chorus Dry Wet	0	127	Value	ValueOutput
+Delay On	0	1	Toggle	ValueOutput
+Delay Rate	0	127	Value	ValueOutput
+Delay Amt	0	127	Value	ValueOutput
+Delay Time	0	127	Value	ValueOutput
+Delay Feedback	0	127	Value	ValueOutput
+Delay Sync	0	1	Toggle	ValueOutput
+Delay Dry Wet	0	127	Value	ValueOutput
+Step Sequencer Run Mode	0	3	Value	ValueOutput
+Step Sequencer Synced	0	1	Toggle	ValueOutput
+Step Sequencer Direction	0	4	Value	ValueOutput
+Step Sequencer Step Count	1	16	Value	ValueOutput
+Step Sequencer Step Index	0	15	-	ValueOutput
+Mute	0	1	-	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod 1 Dest Amount	-100	100	Value	ValueOutput
+Mod 1 Scale Amount	-100	100	Value	ValueOutput
+Mod 2 Dest Amount	-100	100	Value	ValueOutput
+Mod 2 Scale Amount	-100	100	Value	ValueOutput
+Mod 3 Dest Amount	-100	100	Value	ValueOutput
+Mod 3 Scale Amount	-100	100	Value	ValueOutput
+Mod 4 Dest Amount	-100	100	Value	ValueOutput
+Mod 4 Scale Amount	-100	100	Value	ValueOutput
+Mod 5 Dest Amount	-100	100	Value	ValueOutput
+Mod 5 Scale Amount	-100	100	Value	ValueOutput
+Mod 6 Dest Amount	-100	100	Value	ValueOutput
+Mod 6 Scale Amount	-100	100	Value	ValueOutput
+Mod 7 Dest Amount	-100	100	Value	ValueOutput
+Mod 7 Scale Amount	-100	100	Value	ValueOutput
+Mod 8 Dest Amount	-100	100	Value	ValueOutput
+Mod 8 Dest 2 Amount	-100	100	Value	ValueOutput
+Mod 8 Scale Amount	-100	100	Value	ValueOutput
+Mod 9 Dest Amount	-100	100	Value	ValueOutput
+Mod 9 Dest 2 Amount	-100	100	Value	ValueOutput
+Mod 9 Scale Amount	-100	100	Value	ValueOutput
+Mod 10 Dest Amount	-100	100	Value	ValueOutput
+Mod 10 Dest 2 Amount	-100	100	Value	ValueOutput
+Mod 10 Scale Amount	-100	100	Value	ValueOutput
+Mod 11 Dest Amount	-100	100	Value	ValueOutput
+Mod 11 Dest 2 Amount	-100	100	Value	ValueOutput
+Mod 11 Scale Amount	-100	100	Value	ValueOutput
+Mod 12 Dest Amount	-100	100	Value	ValueOutput
+Mod 12 Scale Amount	-100	100	Value	ValueOutput
+Mod 12 Scale 2 Amount	-100	100	Value	ValueOutput
+Mod 13 Dest Amount	-100	100	Value	ValueOutput
+Mod 13 Scale Amount	-100	100	Value	ValueOutput
+Mod 13 Scale 2 Amount	-100	100	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Button 1 MIDI Key	0	128	Value	ValueOutput
+Button 2 MIDI Key	0	128	Value	ValueOutput
+Osc 1 Param B	0	16383	Value	ValueOutput
+Osc 1 Param C	0	16383	Value	ValueOutput
+Osc 2 Param B	0	16383	Value	ValueOutput
+Osc 2 Param C	0	16383	Value	ValueOutput
+Osc 3 Param B	0	16383	Value	ValueOutput
+Osc 3 Param C	0	16383	Value	ValueOutput
+Filter 1 Param X	0	16383	Value	ValueOutput
+Filter 1 Param Y	0	16383	Value	ValueOutput
+Filter 2 Param X	0	16383	Value	ValueOutput
+Filter 2 Param Y	0	16383	Value	ValueOutput
+Filter 3 Param X	0	16383	Value	ValueOutput
+Filter 3 Param Y	0	16383	Value	ValueOutput
+Step Sequencer Run	0	1	Toggle	ValueOutput
+Step Sequencer Rate	0	16383	Value	ValueOutput
+Step Sequencer Edit Mode	0	5	Value	ValueOutput
+Pattern Step Value	0	16383	Value	ValueOutput
+Step Sequencer Octave Range	0	2	Value	ValueOutput
+Pattern Reset All	0	0	Trig	TextOutput
+Pattern Step LED 1	0	1	-	ValueOutput
+Pattern Step LED 2	0	1	-	ValueOutput
+Pattern Step LED 3	0	1	-	ValueOutput
+Pattern Step LED 4	0	1	-	ValueOutput
+Pattern Step LED 5	0	1	-	ValueOutput
+Pattern Step LED 6	0	1	-	ValueOutput
+Pattern Step LED 7	0	1	-	ValueOutput
+Pattern Step LED 8	0	1	-	ValueOutput
+Pattern Step LED 9	0	1	-	ValueOutput
+Pattern Step LED 10	0	1	-	ValueOutput
+Pattern Step LED 11	0	1	-	ValueOutput
+Pattern Step LED 12	0	1	-	ValueOutput
+Pattern Step LED 13	0	1	-	ValueOutput
+Pattern Step LED 14	0	1	-	ValueOutput
+Pattern Step LED 15	0	1	-	ValueOutput
+Pattern Step LED 16	0	1	-	ValueOutput
+Pattern Step Knob 1	0	16383	Value	ValueOutput
+Pattern Step Knob 2	0	16383	Value	ValueOutput
+Pattern Step Knob 3	0	16383	Value	ValueOutput
+Pattern Step Knob 4	0	16383	Value	ValueOutput
+Pattern Step Knob 5	0	16383	Value	ValueOutput
+Pattern Step Knob 6	0	16383	Value	ValueOutput
+Pattern Step Knob 7	0	16383	Value	ValueOutput
+Pattern Step Knob 8	0	16383	Value	ValueOutput
+Pattern Step Knob 9	0	16383	Value	ValueOutput
+Pattern Step Knob 10	0	16383	Value	ValueOutput
+Pattern Step Knob 11	0	16383	Value	ValueOutput
+Pattern Step Knob 12	0	16383	Value	ValueOutput
+Pattern Step Knob 13	0	16383	Value	ValueOutput
+Pattern Step Knob 14	0	16383	Value	ValueOutput
+Pattern Step Knob 15	0	16383	Value	ValueOutput
+Pattern Step Knob 16	0	16383	Value	ValueOutput
+Pattern Step Gate 1	0	1	Toggle	ValueOutput
+Pattern Step Gate 2	0	1	Toggle	ValueOutput
+Pattern Step Gate 3	0	1	Toggle	ValueOutput
+Pattern Step Gate 4	0	1	Toggle	ValueOutput
+Pattern Step Gate 5	0	1	Toggle	ValueOutput
+Pattern Step Gate 6	0	1	Toggle	ValueOutput
+Pattern Step Gate 7	0	1	Toggle	ValueOutput
+Pattern Step Gate 8	0	1	Toggle	ValueOutput
+Pattern Step Gate 9	0	1	Toggle	ValueOutput
+Pattern Step Gate 10	0	1	Toggle	ValueOutput
+Pattern Step Gate 11	0	1	Toggle	ValueOutput
+Pattern Step Gate 12	0	1	Toggle	ValueOutput
+Pattern Step Gate 13	0	1	Toggle	ValueOutput
+Pattern Step Gate 14	0	1	Toggle	ValueOutput
+Pattern Step Gate 15	0	1	Toggle	ValueOutput
+Pattern Step Gate 16	0	1	Toggle	ValueOutput
+Pattern Step Note 1	0	16383	Value	ValueOutput
+Pattern Step Note 2	0	16383	Value	ValueOutput
+Pattern Step Note 3	0	16383	Value	ValueOutput
+Pattern Step Note 4	0	16383	Value	ValueOutput
+Pattern Step Note 5	0	16383	Value	ValueOutput
+Pattern Step Note 6	0	16383	Value	ValueOutput
+Pattern Step Note 7	0	16383	Value	ValueOutput
+Pattern Step Note 8	0	16383	Value	ValueOutput
+Pattern Step Note 9	0	16383	Value	ValueOutput
+Pattern Step Note 10	0	16383	Value	ValueOutput
+Pattern Step Note 11	0	16383	Value	ValueOutput
+Pattern Step Note 12	0	16383	Value	ValueOutput
+Pattern Step Note 13	0	16383	Value	ValueOutput
+Pattern Step Note 14	0	16383	Value	ValueOutput
+Pattern Step Note 15	0	16383	Value	ValueOutput
+Pattern Step Note 16	0	16383	Value	ValueOutput
+Pattern Step Vel 1	0	127	Value	ValueOutput
+Pattern Step Vel 2	0	127	Value	ValueOutput
+Pattern Step Vel 3	0	127	Value	ValueOutput
+Pattern Step Vel 4	0	127	Value	ValueOutput
+Pattern Step Vel 5	0	127	Value	ValueOutput
+Pattern Step Vel 6	0	127	Value	ValueOutput
+Pattern Step Vel 7	0	127	Value	ValueOutput
+Pattern Step Vel 8	0	127	Value	ValueOutput
+Pattern Step Vel 9	0	127	Value	ValueOutput
+Pattern Step Vel 10	0	127	Value	ValueOutput
+Pattern Step Vel 11	0	127	Value	ValueOutput
+Pattern Step Vel 12	0	127	Value	ValueOutput
+Pattern Step Vel 13	0	127	Value	ValueOutput
+Pattern Step Vel 14	0	127	Value	ValueOutput
+Pattern Step Vel 15	0	127	Value	ValueOutput
+Pattern Step Vel 16	0	127	Value	ValueOutput
+Pattern Step Gate Length 1	0	100	Value	ValueOutput
+Pattern Step Gate Length 2	0	100	Value	ValueOutput
+Pattern Step Gate Length 3	0	100	Value	ValueOutput
+Pattern Step Gate Length 4	0	100	Value	ValueOutput
+Pattern Step Gate Length 5	0	100	Value	ValueOutput
+Pattern Step Gate Length 6	0	100	Value	ValueOutput
+Pattern Step Gate Length 7	0	100	Value	ValueOutput
+Pattern Step Gate Length 8	0	100	Value	ValueOutput
+Pattern Step Gate Length 9	0	100	Value	ValueOutput
+Pattern Step Gate Length 10	0	100	Value	ValueOutput
+Pattern Step Gate Length 11	0	100	Value	ValueOutput
+Pattern Step Gate Length 12	0	100	Value	ValueOutput
+Pattern Step Gate Length 13	0	100	Value	ValueOutput
+Pattern Step Gate Length 14	0	100	Value	ValueOutput
+Pattern Step Gate Length 15	0	100	Value	ValueOutput
+Pattern Step Gate Length 16	0	100	Value	ValueOutput
+Pattern Step Duration 1	0	16	Value	ValueOutput
+Pattern Step Duration 2	0	16	Value	ValueOutput
+Pattern Step Duration 3	0	16	Value	ValueOutput
+Pattern Step Duration 4	0	16	Value	ValueOutput
+Pattern Step Duration 5	0	16	Value	ValueOutput
+Pattern Step Duration 6	0	16	Value	ValueOutput
+Pattern Step Duration 7	0	16	Value	ValueOutput
+Pattern Step Duration 8	0	16	Value	ValueOutput
+Pattern Step Duration 9	0	16	Value	ValueOutput
+Pattern Step Duration 10	0	16	Value	ValueOutput
+Pattern Step Duration 11	0	16	Value	ValueOutput
+Pattern Step Duration 12	0	16	Value	ValueOutput
+Pattern Step Duration 13	0	16	Value	ValueOutput
+Pattern Step Duration 14	0	16	Value	ValueOutput
+Pattern Step Duration 15	0	16	Value	ValueOutput
+Pattern Step Duration 16	0	16	Value	ValueOutput
+Pattern Step Curve 1 1	0	127	Value	ValueOutput
+Pattern Step Curve 1 2	0	127	Value	ValueOutput
+Pattern Step Curve 1 3	0	127	Value	ValueOutput
+Pattern Step Curve 1 4	0	127	Value	ValueOutput
+Pattern Step Curve 1 5	0	127	Value	ValueOutput
+Pattern Step Curve 1 6	0	127	Value	ValueOutput
+Pattern Step Curve 1 7	0	127	Value	ValueOutput
+Pattern Step Curve 1 8	0	127	Value	ValueOutput
+Pattern Step Curve 1 9	0	127	Value	ValueOutput
+Pattern Step Curve 1 10	0	127	Value	ValueOutput
+Pattern Step Curve 1 11	0	127	Value	ValueOutput
+Pattern Step Curve 1 12	0	127	Value	ValueOutput
+Pattern Step Curve 1 13	0	127	Value	ValueOutput
+Pattern Step Curve 1 14	0	127	Value	ValueOutput
+Pattern Step Curve 1 15	0	127	Value	ValueOutput
+Pattern Step Curve 1 16	0	127	Value	ValueOutput
+Pattern Step Curve 2 1	0	127	Value	ValueOutput
+Pattern Step Curve 2 2	0	127	Value	ValueOutput
+Pattern Step Curve 2 3	0	127	Value	ValueOutput
+Pattern Step Curve 2 4	0	127	Value	ValueOutput
+Pattern Step Curve 2 5	0	127	Value	ValueOutput
+Pattern Step Curve 2 6	0	127	Value	ValueOutput
+Pattern Step Curve 2 7	0	127	Value	ValueOutput
+Pattern Step Curve 2 8	0	127	Value	ValueOutput
+Pattern Step Curve 2 9	0	127	Value	ValueOutput
+Pattern Step Curve 2 10	0	127	Value	ValueOutput
+Pattern Step Curve 2 11	0	127	Value	ValueOutput
+Pattern Step Curve 2 12	0	127	Value	ValueOutput
+Pattern Step Curve 2 13	0	127	Value	ValueOutput
+Pattern Step Curve 2 14	0	127	Value	ValueOutput
+Pattern Step Curve 2 15	0	127	Value	ValueOutput
+Pattern Step Curve 2 16	0	127	Value	ValueOutput
+Mod 1 Source	0	0	-	TextOutput
+Mod 2 Source	0	0	-	TextOutput
+Mod 3 Source	0	0	-	TextOutput
+Mod 4 Source	0	0	-	TextOutput
+Mod 5 Source	0	0	-	TextOutput
+Mod 6 Source	0	0	-	TextOutput
+Mod 7 Source	0	0	-	TextOutput
+Mod 8 Source	0	0	-	TextOutput
+Mod 9 Source	0	0	-	TextOutput
+Mod 10 Source	0	0	-	TextOutput
+Mod 11 Source	0	0	-	TextOutput
+Mod 12 Source	0	0	-	TextOutput
+Mod 13 Source	0	0	-	TextOutput
+Mod 1 Dest	0	0	-	TextOutput
+Mod 2 Dest	0	0	-	TextOutput
+Mod 3 Dest	0	0	-	TextOutput
+Mod 4 Dest	0	0	-	TextOutput
+Mod 5 Dest	0	0	-	TextOutput
+Mod 6 Dest	0	0	-	TextOutput
+Mod 7 Dest	0	0	-	TextOutput
+Mod 8 Dest	0	0	-	TextOutput
+Mod 9 Dest	0	0	-	TextOutput
+Mod 10 Dest	0	0	-	TextOutput
+Mod 11 Dest	0	0	-	TextOutput
+Mod 12 Dest	0	0	-	TextOutput
+Mod 13 Dest	0	0	-	TextOutput
+Mod 8 Dest 2	0	0	-	TextOutput
+Mod 9 Dest 2	0	0	-	TextOutput
+Mod 10 Dest 2	0	0	-	TextOutput
+Mod 11 Dest 2	0	0	-	TextOutput
+Mod 1 Scale	0	0	-	TextOutput
+Mod 2 Scale	0	0	-	TextOutput
+Mod 3 Scale	0	0	-	TextOutput
+Mod 4 Scale	0	0	-	TextOutput
+Mod 5 Scale	0	0	-	TextOutput
+Mod 6 Scale	0	0	-	TextOutput
+Mod 7 Scale	0	0	-	TextOutput
+Mod 8 Scale	0	0	-	TextOutput
+Mod 9 Scale	0	0	-	TextOutput
+Mod 10 Scale	0	0	-	TextOutput
+Mod 11 Scale	0	0	-	TextOutput
+Mod 12 Scale	0	0	-	TextOutput
+Mod 13 Scale	0	0	-	TextOutput
+Mod 12 Scale 2	0	0	-	TextOutput
+Mod 13 Scale 2	0	0	-	TextOutput

@@ -1,0 +1,58 @@
+Scope
+Manufacturer	Model
+HaMu	se.hamu.MxSplirger
+
+Remotable	Min	Max	Input type	Output type
+Gain 1	0	4194304	Value	ValueOutput
+Gain 2	0	4194304	Value	ValueOutput
+Gain 3	0	4194304	Value	ValueOutput
+Gain 4	0	4194304	Value	ValueOutput
+Gain 5	0	4194304	Value	ValueOutput
+Gain 6	0	4194304	Value	ValueOutput
+Gain 7	0	4194304	Value	ValueOutput
+Gain 8	0	4194304	Value	ValueOutput
+Gain 9	0	4194304	Value	ValueOutput
+Gain 10	0	4194304	Value	ValueOutput
+Gain 11	0	4194304	Value	ValueOutput
+Gain 12	0	4194304	Value	ValueOutput
+Gain 13	0	4194304	Value	ValueOutput
+Gain 14	0	4194304	Value	ValueOutput
+Gain 15	0	4194304	Value	ValueOutput
+Gain 16	0	4194304	Value	ValueOutput
+Gain 17	0	4194304	Value	ValueOutput
+Gain 18	0	4194304	Value	ValueOutput
+Gain 19	0	4194304	Value	ValueOutput
+Gain 20	0	4194304	Value	ValueOutput
+Gain 21	0	4194304	Value	ValueOutput
+Gain 22	0	4194304	Value	ValueOutput
+Gain 23	0	4194304	Value	ValueOutput
+Gain 24	0	4194304	Value	ValueOutput
+Level 1	0	4194304	Value	ValueOutput
+Level 2	0	4194304	Value	ValueOutput
+Level 3	0	4194304	Value	ValueOutput
+Level 4	0	4194304	Value	ValueOutput
+Level 5	0	4194304	Value	ValueOutput
+Level 6	0	4194304	Value	ValueOutput
+Level 7	0	4194304	Value	ValueOutput
+Level 8	0	4194304	Value	ValueOutput
+Level 9	0	4194304	Value	ValueOutput
+Level 10	0	4194304	Value	ValueOutput
+Level 11	0	4194304	Value	ValueOutput
+Level 12	0	4194304	Value	ValueOutput
+Level 13	0	4194304	Value	ValueOutput
+Level 14	0	4194304	Value	ValueOutput
+Level 15	0	4194304	Value	ValueOutput
+Level 16	0	4194304	Value	ValueOutput
+Level 17	0	4194304	Value	ValueOutput
+Level 18	0	4194304	Value	ValueOutput
+Level 19	0	4194304	Value	ValueOutput
+Level 20	0	4194304	Value	ValueOutput
+Level 21	0	4194304	Value	ValueOutput
+Level 22	0	4194304	Value	ValueOutput
+Level 23	0	4194304	Value	ValueOutput
+Level 24	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,64 @@
+Scope
+Manufacturer	Model
+Alien Seed Tech	com.alienseed.ARCUS
+
+Remotable	Min	Max	Input type	Output type
+Curve Type	0	4	Value	ValueOutput
+S-Curve	0	1	Toggle	ValueOutput
+S-Curve Amount	0	4194304	Value	ValueOutput
+Relative Midpoint	0	1	Toggle	ValueOutput
+Smooth Batches	0	256	Value	ValueOutput
+Smooth Batches Fix Rate	0	6	Value	ValueOutput
+Smooth Batches Order	0	1	Toggle	ValueOutput
+Level Type	0	2	Value	ValueOutput
+Knob Behavior	0	7	Value	ValueOutput
+Separate Inputs	0	1	Toggle	ValueOutput
+Knob Behavior Order	0	1	Toggle	ValueOutput
+Note Mode	0	2	Value	ValueOutput
+User Knob 1	0	4194304	Value	ValueOutput
+Source 1	0	15	Value	ValueOutput
+Mode 1	0	5	Value	ValueOutput
+Level 1	0	4194304	Value	ValueOutput
+High 1	0	4194304	Value	ValueOutput
+Midpoint 1	0	4194304	Value	ValueOutput
+Low 1	0	4194304	Value	ValueOutput
+Use S-Curve 1	0	1	Toggle	ValueOutput
+Mid Curves with S-Curve 1	0	1	Toggle	ValueOutput
+User Knob 2	0	4194304	Value	ValueOutput
+Source 2	0	15	Value	ValueOutput
+Mode 2	0	5	Value	ValueOutput
+Level 2	0	4194304	Value	ValueOutput
+High 2	0	4194304	Value	ValueOutput
+Midpoint 2	0	4194304	Value	ValueOutput
+Low 2	0	4194304	Value	ValueOutput
+Use S-Curve 2	0	1	Toggle	ValueOutput
+Mid Curves with S-Curve 2	0	1	Toggle	ValueOutput
+User Knob 3	0	4194304	Value	ValueOutput
+Source 3	0	15	Value	ValueOutput
+Mode 3	0	5	Value	ValueOutput
+Level 3	0	4194304	Value	ValueOutput
+High 3	0	4194304	Value	ValueOutput
+Midpoint 3	0	4194304	Value	ValueOutput
+Low 3	0	4194304	Value	ValueOutput
+Use S-Curve 3	0	1	Toggle	ValueOutput
+Mid Curves with S-Curve 3	0	1	Toggle	ValueOutput
+User Knob 4	0	4194304	Value	ValueOutput
+Source 4	0	15	Value	ValueOutput
+Mode 4	0	5	Value	ValueOutput
+Level 4	0	4194304	Value	ValueOutput
+High 4	0	4194304	Value	ValueOutput
+Midpoint 4	0	4194304	Value	ValueOutput
+Low 4	0	4194304	Value	ValueOutput
+Use S-Curve 4	0	1	Toggle	ValueOutput
+Mid Curves with S-Curve 4	0	1	Toggle	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

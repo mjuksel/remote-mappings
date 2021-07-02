@@ -1,0 +1,121 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.DMFC
+
+Remotable	Min	Max	Input type	Output type
+Compressor_Ratio	0	4194304	Value	ValueOutput
+Compressor_Threshold	0	4194304	Value	ValueOutput
+Reverb_Decay	0	4194304	Value	ValueOutput
+Reverb_HiCut	0	4194304	Value	ValueOutput
+Reverb_LoCut	0	4194304	Value	ValueOutput
+Delay_Time	0	12	Value	ValueOutput
+Delay_Feedback	0	4194304	Value	ValueOutput
+Master_Filter	0	4194304	Value	ValueOutput
+Master_Pitch	0	4194304	Value	ValueOutput
+Master_Delay	0	4194304	Value	ValueOutput
+Master_Reverb	0	4194304	Value	ValueOutput
+Master_Decay	0	4194304	Value	ValueOutput
+Master_Distortion	0	4194304	Value	ValueOutput
+Master_Volume	0	4194304	Value	ValueOutput
+Drum_1_Volume	0	4194304	Value	ValueOutput
+Drum_1_Mute	0	1	Toggle	ValueOutput
+Drum_1_Solo	0	1	Toggle	ValueOutput
+Drum_1_End	0	4194304	Value	ValueOutput
+Drum_1_Release	0	4194304	Value	ValueOutput
+Drum_1_Pitch	0	4194304	Value	ValueOutput
+Drum_1_Delay_Amount	0	4194304	Value	ValueOutput
+Drum_1_Reverb_Amount	0	4194304	Value	ValueOutput
+Drum_1_Pan	0	4194304	Value	ValueOutput
+Drum_1_Hi_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_1_Lo_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_1_Dist_Drive	0	4194304	Value	ValueOutput
+Drum_2_Volume	0	4194304	Value	ValueOutput
+Drum_2_Mute	0	1	Toggle	ValueOutput
+Drum_2_Solo	0	1	Toggle	ValueOutput
+Drum_2_End	0	4194304	Value	ValueOutput
+Drum_2_Release	0	4194304	Value	ValueOutput
+Drum_2_Pitch	0	4194304	Value	ValueOutput
+Drum_2_Delay_Amount	0	4194304	Value	ValueOutput
+Drum_2_Reverb_Amount	0	4194304	Value	ValueOutput
+Drum_2_Pan	0	4194304	Value	ValueOutput
+Drum_2_Hi_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_2_Lo_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_2_Dist_Drive	0	4194304	Value	ValueOutput
+Drum_3_Volume	0	4194304	Value	ValueOutput
+Drum_3_Mute	0	1	Toggle	ValueOutput
+Drum_3_Solo	0	1	Toggle	ValueOutput
+Drum_3_End	0	4194304	Value	ValueOutput
+Drum_3_Release	0	4194304	Value	ValueOutput
+Drum_3_Pitch	0	4194304	Value	ValueOutput
+Drum_3_Delay_Amount	0	4194304	Value	ValueOutput
+Drum_3_Reverb_Amount	0	4194304	Value	ValueOutput
+Drum_3_Pan	0	4194304	Value	ValueOutput
+Drum_3_Hi_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_3_Lo_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_3_Dist_Drive	0	4194304	Value	ValueOutput
+Drum_4_Volume	0	4194304	Value	ValueOutput
+Drum_4_Mute	0	1	Toggle	ValueOutput
+Drum_4_Solo	0	1	Toggle	ValueOutput
+Drum_4_End	0	4194304	Value	ValueOutput
+Drum_4_Release	0	4194304	Value	ValueOutput
+Drum_4_Pitch	0	4194304	Value	ValueOutput
+Drum_4_Delay_Amount	0	4194304	Value	ValueOutput
+Drum_4_Reverb_Amount	0	4194304	Value	ValueOutput
+Drum_4_Pan	0	4194304	Value	ValueOutput
+Drum_4_Hi_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_4_Lo_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_4_Dist_Drive	0	4194304	Value	ValueOutput
+Drum_5_Volume	0	4194304	Value	ValueOutput
+Drum_5_Mute	0	1	Toggle	ValueOutput
+Drum_5_Solo	0	1	Toggle	ValueOutput
+Drum_5_End	0	4194304	Value	ValueOutput
+Drum_5_Release	0	4194304	Value	ValueOutput
+Drum_5_Pitch	0	4194304	Value	ValueOutput
+Drum_5_Delay_Amount	0	4194304	Value	ValueOutput
+Drum_5_Reverb_Amount	0	4194304	Value	ValueOutput
+Drum_5_Pan	0	4194304	Value	ValueOutput
+Drum_5_Hi_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_5_Lo_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_5_Dist_Drive	0	4194304	Value	ValueOutput
+Drum_6_Volume	0	4194304	Value	ValueOutput
+Drum_6_Mute	0	1	Toggle	ValueOutput
+Drum_6_Solo	0	1	Toggle	ValueOutput
+Drum_6_End	0	4194304	Value	ValueOutput
+Drum_6_Release	0	4194304	Value	ValueOutput
+Drum_6_Pitch	0	4194304	Value	ValueOutput
+Drum_6_Delay_Amount	0	4194304	Value	ValueOutput
+Drum_6_Reverb_Amount	0	4194304	Value	ValueOutput
+Drum_6_Pan	0	4194304	Value	ValueOutput
+Drum_6_Hi_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_6_Lo_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_6_Dist_Drive	0	4194304	Value	ValueOutput
+Drum_7_Volume	0	4194304	Value	ValueOutput
+Drum_7_Mute	0	1	Toggle	ValueOutput
+Drum_7_Solo	0	1	Toggle	ValueOutput
+Drum_7_End	0	4194304	Value	ValueOutput
+Drum_7_Release	0	4194304	Value	ValueOutput
+Drum_7_Pitch	0	4194304	Value	ValueOutput
+Drum_7_Delay_Amount	0	4194304	Value	ValueOutput
+Drum_7_Reverb_Amount	0	4194304	Value	ValueOutput
+Drum_7_Pan	0	4194304	Value	ValueOutput
+Drum_7_Hi_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_7_Lo_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_7_Dist_Drive	0	4194304	Value	ValueOutput
+Drum_8_Volume	0	4194304	Value	ValueOutput
+Drum_8_Mute	0	1	Toggle	ValueOutput
+Drum_8_Solo	0	1	Toggle	ValueOutput
+Drum_8_End	0	4194304	Value	ValueOutput
+Drum_8_Release	0	4194304	Value	ValueOutput
+Drum_8_Pitch	0	4194304	Value	ValueOutput
+Drum_8_Delay_Amount	0	4194304	Value	ValueOutput
+Drum_8_Reverb_Amount	0	4194304	Value	ValueOutput
+Drum_8_Pan	0	4194304	Value	ValueOutput
+Drum_8_Hi_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_8_Lo_Cut_Freq	0	4194304	Value	ValueOutput
+Drum_8_Dist_Drive	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,58 @@
+Scope
+Manufacturer	Model
+The Chronologists	com.thechronologists.Constants
+
+Remotable	Min	Max	Input type	Output type
+Constant 1 T Housandscontrol	0	9	Value	ValueOutput
+Constant 1 H Undredscontrol	0	9	Value	ValueOutput
+Constant 1 Te Nscontrol	0	9	Value	ValueOutput
+Constant 1 O Nescontrol	0	9	Value	ValueOutput
+Constant 1 Ten Thscontrol	0	9	Value	ValueOutput
+Constant 1 Hundred Thscontrol	0	9	Value	ValueOutput
+Constant 1 Thousand Thscontrol	0	9	Value	ValueOutput
+Constant 1 Signcontrol	0	1	Toggle	ValueOutput
+Constant 2 T Housandscontrol	0	9	Value	ValueOutput
+Constant 2 H Undredscontrol	0	9	Value	ValueOutput
+Constant 2 Te Nscontrol	0	9	Value	ValueOutput
+Constant 2 O Nescontrol	0	9	Value	ValueOutput
+Constant 2 Ten Thscontrol	0	9	Value	ValueOutput
+Constant 2 Hundred Thscontrol	0	9	Value	ValueOutput
+Constant 2 Thousand Thscontrol	0	9	Value	ValueOutput
+Constant 2 Signcontrol	0	1	Toggle	ValueOutput
+Constant 3 T Housandscontrol	0	9	Value	ValueOutput
+Constant 3 H Undredscontrol	0	9	Value	ValueOutput
+Constant 3 Te Nscontrol	0	9	Value	ValueOutput
+Constant 3 O Nescontrol	0	9	Value	ValueOutput
+Constant 3 Ten Thscontrol	0	9	Value	ValueOutput
+Constant 3 Hundred Thscontrol	0	9	Value	ValueOutput
+Constant 3 Thousand Thscontrol	0	9	Value	ValueOutput
+Constant 3 Signcontrol	0	1	Toggle	ValueOutput
+Constant 4 T Housandscontrol	0	9	Value	ValueOutput
+Constant 4 H Undredscontrol	0	9	Value	ValueOutput
+Constant 4 Te Nscontrol	0	9	Value	ValueOutput
+Constant 4 O Nescontrol	0	9	Value	ValueOutput
+Constant 4 Ten Thscontrol	0	9	Value	ValueOutput
+Constant 4 Hundred Thscontrol	0	9	Value	ValueOutput
+Constant 4 Thousand Thscontrol	0	9	Value	ValueOutput
+Constant 4 Signcontrol	0	1	Toggle	ValueOutput
+Constant 5 T Housandscontrol	0	9	Value	ValueOutput
+Constant 5 H Undredscontrol	0	9	Value	ValueOutput
+Constant 5 Te Nscontrol	0	9	Value	ValueOutput
+Constant 5 O Nescontrol	0	9	Value	ValueOutput
+Constant 5 Ten Thscontrol	0	9	Value	ValueOutput
+Constant 5 Hundred Thscontrol	0	9	Value	ValueOutput
+Constant 5 Thousand Thscontrol	0	9	Value	ValueOutput
+Constant 5 Signcontrol	0	1	Toggle	ValueOutput
+Constant 6 T Housandscontrol	0	9	Value	ValueOutput
+Constant 6 H Undredscontrol	0	9	Value	ValueOutput
+Constant 6 Te Nscontrol	0	9	Value	ValueOutput
+Constant 6 O Nescontrol	0	9	Value	ValueOutput
+Constant 6 Ten Thscontrol	0	9	Value	ValueOutput
+Constant 6 Hundred Thscontrol	0	9	Value	ValueOutput
+Constant 6 Thousand Thscontrol	0	9	Value	ValueOutput
+Constant 6 Signcontrol	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

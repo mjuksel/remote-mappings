@@ -1,0 +1,18 @@
+Scope
+Manufacturer	Model
+Selig Audio	com.seligaudio.TheCurve
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Reset Peak	0	1	Toggle	ValueOutput
+Target	0	48	Value	ValueOutput
+Recovery	0	4194304	Value	ValueOutput
+Curve	0	4194304	Value	ValueOutput
+Blend	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Look Ahead	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

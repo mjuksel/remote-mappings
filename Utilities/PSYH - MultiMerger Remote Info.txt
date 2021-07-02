@@ -1,0 +1,64 @@
+Scope
+Manufacturer	Model
+Haaswerk	nl.haaswerk.PSYHMultiMerger
+
+Remotable	Min	Max	Input type	Output type
+Input 1A On/Off	0	1	Toggle	ValueOutput
+Input 1B On/Off	0	1	Toggle	ValueOutput
+Input 1C On/Off	0	1	Toggle	ValueOutput
+Input 2A On/Off	0	1	Toggle	ValueOutput
+Input 2B On/Off	0	1	Toggle	ValueOutput
+Input 2C On/Off	0	1	Toggle	ValueOutput
+Input 3A On/Off	0	1	Toggle	ValueOutput
+Input 3B On/Off	0	1	Toggle	ValueOutput
+Input 3C On/Off	0	1	Toggle	ValueOutput
+Input 4A On/Off	0	1	Toggle	ValueOutput
+Input 4B On/Off	0	1	Toggle	ValueOutput
+Input 4C On/Off	0	1	Toggle	ValueOutput
+Input 5A On/Off	0	1	Toggle	ValueOutput
+Input 5B On/Off	0	1	Toggle	ValueOutput
+Input 5C On/Off	0	1	Toggle	ValueOutput
+Input 6A On/Off	0	1	Toggle	ValueOutput
+Input 6B On/Off	0	1	Toggle	ValueOutput
+Input 6C On/Off	0	1	Toggle	ValueOutput
+Input 7A On/Off	0	1	Toggle	ValueOutput
+Input 7B On/Off	0	1	Toggle	ValueOutput
+Input 7C On/Off	0	1	Toggle	ValueOutput
+Input 8A On/Off	0	1	Toggle	ValueOutput
+Input 8B On/Off	0	1	Toggle	ValueOutput
+Input 8C On/Off	0	1	Toggle	ValueOutput
+Input 9A On/Off	0	1	Toggle	ValueOutput
+Input 9B On/Off	0	1	Toggle	ValueOutput
+Input 9C On/Off	0	1	Toggle	ValueOutput
+Input 10A On/Off	0	1	Toggle	ValueOutput
+Input 10B On/Off	0	1	Toggle	ValueOutput
+Input 10C On/Off	0	1	Toggle	ValueOutput
+Input 11A On/Off	0	1	Toggle	ValueOutput
+Input 11B On/Off	0	1	Toggle	ValueOutput
+Input 11C On/Off	0	1	Toggle	ValueOutput
+Input 12A On/Off	0	1	Toggle	ValueOutput
+Input 12B On/Off	0	1	Toggle	ValueOutput
+Input 12C On/Off	0	1	Toggle	ValueOutput
+Input 13A On/Off	0	1	Toggle	ValueOutput
+Input 13B On/Off	0	1	Toggle	ValueOutput
+Input 13C On/Off	0	1	Toggle	ValueOutput
+Input 14A On/Off	0	1	Toggle	ValueOutput
+Input 14B On/Off	0	1	Toggle	ValueOutput
+Input 14C On/Off	0	1	Toggle	ValueOutput
+Input 15A On/Off	0	1	Toggle	ValueOutput
+Input 15B On/Off	0	1	Toggle	ValueOutput
+Input 15C On/Off	0	1	Toggle	ValueOutput
+Input 16A On/Off	0	1	Toggle	ValueOutput
+Input 16B On/Off	0	1	Toggle	ValueOutput
+Input 16C On/Off	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

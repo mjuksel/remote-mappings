@@ -1,0 +1,45 @@
+Scope
+Manufacturer	Model
+Enlightenspeed Ltd	uk.enlightenspeed.Inspiral
+
+Remotable	Min	Max	Input type	Output type
+Strum Rate	0	11	Value	ValueOutput
+Strum Complexity	0	7	Value	ValueOutput
+Strum Type	0	2	Value	ValueOutput
+Strum Chord Size	0	6	Value	ValueOutput
+Strum Duration	0	99	Value	ValueOutput
+Strum Length	0	98	Value	ValueOutput
+Note Repeat Rate	0	8	Value	ValueOutput
+Ratchet Rate	0	4	Value	ValueOutput
+Note Repeat/Ratchet Complexity	0	7	Value	ValueOutput
+Note Repeat/Ratchet Chord Size	0	7	Value	ValueOutput
+Note Repeat Length	0	98	Value	ValueOutput
+Ratchet Length	0	98	Value	ValueOutput
+Arp Rate	0	11	Value	ValueOutput
+Arp Complexity	0	7	Value	ValueOutput
+Arp Type	0	3	Value	ValueOutput
+Arp Chord Size	0	6	Value	ValueOutput
+Arp Length	0	98	Value	ValueOutput
+Single Probability	0	10	Value	ValueOutput
+Double Probability	0	10	Value	ValueOutput
+Chord Probability	0	10	Value	ValueOutput
+Strum Probability	0	10	Value	ValueOutput
+Note Repeat Probability	0	10	Value	ValueOutput
+Ratchet Probability	0	10	Value	ValueOutput
+Arp Probability	0	10	Value	ValueOutput
+Strum Latch	0	1	Toggle	ValueOutput
+Note Repeat Latch	0	1	Toggle	ValueOutput
+Ratchet Latch	0	1	Toggle	ValueOutput
+Arp Latch	0	1	Toggle	ValueOutput
+Maximum Latches	0	3	Value	ValueOutput
+On/Off	0	1	Toggle	ValueOutput
+Velocity Modulation	0	4194304	Value	ValueOutput
+Velocity Type	0	1	Toggle	ValueOutput
+Global Mode	0	7	Value	ValueOutput
+Scale	0	3	Value	ValueOutput
+Chord Complexity	0	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

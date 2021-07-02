@@ -1,0 +1,14 @@
+Scope
+Manufacturer	Model
+Robotic Bean	com.roboticbean.Select
+
+Remotable	Min	Max	Input type	Output type
+Active Channel	0	7	-	ValueOutput
+Slave Mode	0	1	-	ValueOutput
+Channel	0	7	Value	ValueOutput
+Snap	0	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

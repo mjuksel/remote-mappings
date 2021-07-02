@@ -1,0 +1,21 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.UTL
+
+Remotable	Min	Max	Input type	Output type
+Note Filter Low	0	127	Value	ValueOutput
+Note Filter High	0	127	Value	ValueOutput
+Note Set Enabled	0	1	Toggle	ValueOutput
+Note Set	0	127	Value	ValueOutput
+Note Offset	0	254	Value	ValueOutput
+Velocity Filter Low	0	127	Value	ValueOutput
+Velocity Filter High	0	127	Value	ValueOutput
+Velocity Set Enabled	0	1	Toggle	ValueOutput
+Velocity Set	0	127	Value	ValueOutput
+Velocity Offset	0	254	Value	ValueOutput
+On	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

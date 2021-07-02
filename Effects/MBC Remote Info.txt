@@ -1,0 +1,53 @@
+Scope
+Manufacturer	Model
+Red Rock Sound	ru.redrocksound.MBC
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Band 1 Attack	0	4194304	Value	ValueOutput
+Band 1 Release	0	4194304	Value	ValueOutput
+Band 1 Knee	0	4194304	Value	ValueOutput
+Band 1 Threshold	0	4194304	Value	ValueOutput
+Band 1 Ratio	0	4194304	Value	ValueOutput
+Band 1 Makeup	0	4194304	Value	ValueOutput
+Band 1 Detection	0	1	Toggle	ValueOutput
+Band 1 Bypass	0	1	Toggle	ValueOutput
+Band 1 Solo	0	1	Toggle	ValueOutput
+Band 2 Attack	0	4194304	Value	ValueOutput
+Band 2 Release	0	4194304	Value	ValueOutput
+Band 2 Knee	0	4194304	Value	ValueOutput
+Band 2 Threshold	0	4194304	Value	ValueOutput
+Band 2 Ratio	0	4194304	Value	ValueOutput
+Band 2 Makeup	0	4194304	Value	ValueOutput
+Band 2 Detection	0	1	Toggle	ValueOutput
+Band 2 Bypass	0	1	Toggle	ValueOutput
+Band 2 Solo	0	1	Toggle	ValueOutput
+Band 3 Attack	0	4194304	Value	ValueOutput
+Band 3 Release	0	4194304	Value	ValueOutput
+Band 3 Knee	0	4194304	Value	ValueOutput
+Band 3 Threshold	0	4194304	Value	ValueOutput
+Band 3 Ratio	0	4194304	Value	ValueOutput
+Band 3 Makeup	0	4194304	Value	ValueOutput
+Band 3 Detection	0	1	Toggle	ValueOutput
+Band 3 Bypass	0	1	Toggle	ValueOutput
+Band 3 Solo	0	1	Toggle	ValueOutput
+Band 4 Attack	0	4194304	Value	ValueOutput
+Band 4 Release	0	4194304	Value	ValueOutput
+Band 4 Knee	0	4194304	Value	ValueOutput
+Band 4 Threshold	0	4194304	Value	ValueOutput
+Band 4 Ratio	0	4194304	Value	ValueOutput
+Band 4 Makeup	0	4194304	Value	ValueOutput
+Band 4 Detection	0	1	Toggle	ValueOutput
+Band 4 Bypass	0	1	Toggle	ValueOutput
+Band 4 Solo	0	1	Toggle	ValueOutput
+Frequency 1/2	0	4194304	Value	ValueOutput
+Frequency 2/3	0	4194304	Value	ValueOutput
+Frequency 3/4	0	4194304	Value	ValueOutput
+Filter Mode	0	1	Toggle	ValueOutput
+Input Knob	0	4194304	Value	ValueOutput
+Output Knob	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

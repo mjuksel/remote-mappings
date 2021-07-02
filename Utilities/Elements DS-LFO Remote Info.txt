@@ -1,0 +1,28 @@
+Scope
+Manufacturer	Model
+AirRaid Audio	ch.airraid.EStereoLFO
+
+Remotable	Min	Max	Input type	Output type
+LFO 1 Waveform	0	6	Value	ValueOutput
+LFO 1 Frequency	0	4194304	Value	ValueOutput
+LFO 1 Frequency (Synced)	0	19	Value	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 1 Spin	0	4194304	Value	ValueOutput
+LFO 1 Offset	0	4194304	Value	ValueOutput
+LFO 1 Sync	0	1	Toggle	ValueOutput
+LFO 1 Phase / Spin	0	1	Toggle	ValueOutput
+LFO 2 Waveform	0	6	Value	ValueOutput
+LFO 2 Frequency	0	4194304	Value	ValueOutput
+LFO 2 Frequency (Synced)	0	19	Value	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+LFO 2 Spin	0	4194304	Value	ValueOutput
+LFO 2 Offset	0	4194304	Value	ValueOutput
+LFO 2 Sync	0	1	Toggle	ValueOutput
+LFO 2 Phase / Spin	0	1	Toggle	ValueOutput
+LFO 1/2 Mix	0	4194304	Value	ValueOutput
+LFO Amp	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,178 @@
+Scope
+Manufacturer	Model
+LoveOne	se.loveone.Vibro
+
+Remotable	Min	Max	Input type	Output type
+Osc 1 Enabled	0	1	Toggle	ValueOutput
+Osc 1 Wave Position	0	4194304	Value	ValueOutput
+Osc 1 Pan	0	4194304	Value	ValueOutput
+Osc 1 Volume	0	4194304	Value	ValueOutput
+Osc 1 Tune Octaves	0	6	Value	ValueOutput
+Osc 1 Tune Semitones	0	24	Value	ValueOutput
+Osc 1 Tune Cents	0	200	Value	ValueOutput
+Osc 1 Env Mode	0	1	Toggle	ValueOutput
+Osc 1 Free Env Attack	0	100	Value	ValueOutput
+Osc 1 Free Env Decay	0	100	Value	ValueOutput
+Osc 1 Free Env Sustain	0	100	Value	ValueOutput
+Osc 1 Free Env Release	0	100	Value	ValueOutput
+Osc 1 Env Velocity	0	100	Value	ValueOutput
+Osc 1 Drive	0	4194304	Value	ValueOutput
+Osc 2 Enabled	0	1	Toggle	ValueOutput
+Osc 2 Wave Position	0	4194304	Value	ValueOutput
+Osc 2 Pan	0	4194304	Value	ValueOutput
+Osc 2 Volume	0	4194304	Value	ValueOutput
+Osc 2 Tune Octaves	0	6	Value	ValueOutput
+Osc 2 Tune Semitones	0	24	Value	ValueOutput
+Osc 2 Tune Cents	0	200	Value	ValueOutput
+Osc 2 Env Mode	0	1	Toggle	ValueOutput
+Osc 2 Free Env Attack	0	100	Value	ValueOutput
+Osc 2 Free Env Decay	0	100	Value	ValueOutput
+Osc 2 Free Env Sustain	0	100	Value	ValueOutput
+Osc 2 Free Env Release	0	100	Value	ValueOutput
+Osc 2 Env Velocity	0	100	Value	ValueOutput
+Osc 2 Drive	0	4194304	Value	ValueOutput
+Osc 3 Enabled	0	1	Toggle	ValueOutput
+Osc 3 Wave Position	0	4194304	Value	ValueOutput
+Osc 3 Pan	0	4194304	Value	ValueOutput
+Osc 3 Volume	0	4194304	Value	ValueOutput
+Osc 3 Tune Octaves	0	6	Value	ValueOutput
+Osc 3 Tune Semitones	0	24	Value	ValueOutput
+Osc 3 Tune Cents	0	200	Value	ValueOutput
+Osc 3 Env Mode	0	1	Toggle	ValueOutput
+Osc 3 Free Env Attack	0	100	Value	ValueOutput
+Osc 3 Free Env Decay	0	100	Value	ValueOutput
+Osc 3 Free Env Sustain	0	100	Value	ValueOutput
+Osc 3 Free Env Release	0	100	Value	ValueOutput
+Osc 3 Env Velocity	0	100	Value	ValueOutput
+Osc 3 Drive	0	4194304	Value	ValueOutput
+Osc 4 Enabled	0	1	Toggle	ValueOutput
+Osc 4 Wave Position	0	4194304	Value	ValueOutput
+Osc 4 Pan	0	4194304	Value	ValueOutput
+Osc 4 Volume	0	4194304	Value	ValueOutput
+Osc 4 Tune Octaves	0	6	Value	ValueOutput
+Osc 4 Tune Semitones	0	24	Value	ValueOutput
+Osc 4 Tune Cents	0	200	Value	ValueOutput
+Osc 4 Env Mode	0	1	Toggle	ValueOutput
+Osc 4 Free Env Attack	0	100	Value	ValueOutput
+Osc 4 Free Env Decay	0	100	Value	ValueOutput
+Osc 4 Free Env Sustain	0	100	Value	ValueOutput
+Osc 4 Free Env Release	0	100	Value	ValueOutput
+Osc 4 Env Velocity	0	100	Value	ValueOutput
+Osc 4 Drive	0	4194304	Value	ValueOutput
+Osc Global Env Attack	0	100	Value	ValueOutput
+Osc Global Env Decay	0	100	Value	ValueOutput
+Osc Global Env Sustain	0	100	Value	ValueOutput
+Osc Global Env Release	0	100	Value	ValueOutput
+Voice LFO 1 Rate (Free)	0	4194304	Value	ValueOutput
+Voice LFO 1 Rate (Sync)	0	9	Value	ValueOutput
+Voice LFO 1 Amount	0	4194304	Value	ValueOutput
+Voice LFO 1 Phase	0	100	Value	ValueOutput
+Voice LFO 2 Rate (Free)	0	4194304	Value	ValueOutput
+Voice LFO 2 Rate (Sync)	0	9	Value	ValueOutput
+Voice LFO 2 Amount	0	4194304	Value	ValueOutput
+Voice LFO 2 Phase	0	100	Value	ValueOutput
+Voice LFO 3 Rate (Free)	0	4194304	Value	ValueOutput
+Voice LFO 3 Rate (Sync)	0	9	Value	ValueOutput
+Voice LFO 3 Amount	0	4194304	Value	ValueOutput
+Voice LFO 3 Phase	0	100	Value	ValueOutput
+Voice LFO 4 Rate (Free)	0	4194304	Value	ValueOutput
+Voice LFO 4 Rate (Sync)	0	9	Value	ValueOutput
+Voice LFO 4 Amount	0	4194304	Value	ValueOutput
+Voice LFO 4 Phase	0	100	Value	ValueOutput
+Free LFO 1 Rate (Free)	0	4194304	Value	ValueOutput
+Free LFO 1 Rate (Sync)	0	9	Value	ValueOutput
+Free LFO 1 Amount	0	4194304	Value	ValueOutput
+Free LFO 1 Phase	0	100	Value	ValueOutput
+Free LFO 2 Rate (Free)	0	4194304	Value	ValueOutput
+Free LFO 2 Rate (Sync)	0	9	Value	ValueOutput
+Free LFO 2 Amount	0	4194304	Value	ValueOutput
+Free LFO 2 Phase	0	100	Value	ValueOutput
+Free LFO 3 Rate (Free)	0	4194304	Value	ValueOutput
+Free LFO 3 Rate (Sync)	0	9	Value	ValueOutput
+Free LFO 3 Amount	0	4194304	Value	ValueOutput
+Free LFO 3 Phase	0	100	Value	ValueOutput
+Free LFO 4 Rate (Free)	0	4194304	Value	ValueOutput
+Free LFO 4 Rate (Sync)	0	9	Value	ValueOutput
+Free LFO 4 Amount	0	4194304	Value	ValueOutput
+Free LFO 4 Phase	0	100	Value	ValueOutput
+Filter 1 Enabled	0	1	Toggle	ValueOutput
+Filter 1 Cutoff	0	4194304	Value	ValueOutput
+Filter 1 Resonance	0	4194304	Value	ValueOutput
+Filter 1 Envelope Amount	0	100	Value	ValueOutput
+Filter 1 Envelope Attack	0	100	Value	ValueOutput
+Filter 1 Envelope Decay	0	100	Value	ValueOutput
+Filter 1 Envelope Sustain	0	100	Value	ValueOutput
+Filter 1 Envelope Release	0	100	Value	ValueOutput
+Filter 2 Enabled	0	1	Toggle	ValueOutput
+Filter 2 Cutoff	0	4194304	Value	ValueOutput
+Filter 2 Resonance	0	4194304	Value	ValueOutput
+Filter 2 Envelope Amount	0	100	Value	ValueOutput
+Filter 2 Envelope Attack	0	100	Value	ValueOutput
+Filter 2 Envelope Decay	0	100	Value	ValueOutput
+Filter 2 Envelope Sustain	0	100	Value	ValueOutput
+Filter 2 Envelope Release	0	100	Value	ValueOutput
+Filter Link Cutoff/Resonance	0	1	Toggle	ValueOutput
+Filter Series/Parallel	0	1	Toggle	ValueOutput
+Delay Enabled	0	1	Toggle	ValueOutput
+Delay Stereo/Mono	0	1	Toggle	ValueOutput
+Delay Time Mode	0	2	Value	ValueOutput
+Delay Time (Free)	0	100	Value	ValueOutput
+Delay Time (Sync)	0	15	Value	ValueOutput
+Delay Feedback	0	100	Value	ValueOutput
+Delay Mix	0	100	Value	ValueOutput
+Chorus Enabled	0	1	Toggle	ValueOutput
+Chorus Feedback	0	100	Value	ValueOutput
+Chorus Depth	0	100	Value	ValueOutput
+Chorus Delay	0	100	Value	ValueOutput
+Chorus Rate	0	100	Value	ValueOutput
+Chorus Mix	0	100	Value	ValueOutput
+Reverb Enabled	0	1	Toggle	ValueOutput
+Reverb Room Size	0	100	Value	ValueOutput
+Reverb Damping	0	100	Value	ValueOutput
+Reverb Stereo Width	0	100	Value	ValueOutput
+Reverb Mix	0	100	Value	ValueOutput
+Modulation Slot 1 Amount	0	200	Value	ValueOutput
+Modulation Slot 1 Active	0	1	Toggle	ValueOutput
+Modulation Slot 2 Amount	0	200	Value	ValueOutput
+Modulation Slot 2 Active	0	1	Toggle	ValueOutput
+Modulation Slot 3 Amount	0	200	Value	ValueOutput
+Modulation Slot 3 Active	0	1	Toggle	ValueOutput
+Modulation Slot 4 Amount	0	200	Value	ValueOutput
+Modulation Slot 4 Active	0	1	Toggle	ValueOutput
+Modulation Slot 5 Amount	0	200	Value	ValueOutput
+Modulation Slot 5 Active	0	1	Toggle	ValueOutput
+Modulation Slot 6 Amount	0	200	Value	ValueOutput
+Modulation Slot 6 Active	0	1	Toggle	ValueOutput
+Modulation Slot 7 Amount	0	200	Value	ValueOutput
+Modulation Slot 7 Active	0	1	Toggle	ValueOutput
+Modulation Slot 8 Amount	0	200	Value	ValueOutput
+Modulation Slot 8 Active	0	1	Toggle	ValueOutput
+Modulation Slot 9 Amount	0	200	Value	ValueOutput
+Modulation Slot 9 Active	0	1	Toggle	ValueOutput
+Modulation Slot 10 Amount	0	200	Value	ValueOutput
+Modulation Slot 10 Active	0	1	Toggle	ValueOutput
+Modulation Slot 11 Amount	0	200	Value	ValueOutput
+Modulation Slot 11 Active	0	1	Toggle	ValueOutput
+Modulation Slot 12 Amount	0	200	Value	ValueOutput
+Modulation Slot 12 Active	0	1	Toggle	ValueOutput
+Modulation Slot 13 Amount	0	200	Value	ValueOutput
+Modulation Slot 13 Active	0	1	Toggle	ValueOutput
+Modulation Slot 14 Amount	0	200	Value	ValueOutput
+Modulation Slot 14 Active	0	1	Toggle	ValueOutput
+Modulation Slot 15 Amount	0	200	Value	ValueOutput
+Modulation Slot 15 Active	0	1	Toggle	ValueOutput
+Modulation Slot 16 Amount	0	200	Value	ValueOutput
+Modulation Slot 16 Active	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Voice Mode	0	1	Toggle	ValueOutput
+Retrigger	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

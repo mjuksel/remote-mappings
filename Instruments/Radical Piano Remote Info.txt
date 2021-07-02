@@ -1,0 +1,40 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.radicalpiano
+
+Remotable	Min	Max	Input type	Output type
+Env Attack	0	4194304	Value	ValueOutput
+Env Decay Curve	0	4194304	Value	ValueOutput
+Env Release	0	4194304	Value	ValueOutput
+EQ On/Off	0	1	Toggle	ValueOutput
+EQ Lo Gain	0	4194304	Value	ValueOutput
+EQ Mid Gain	0	4194304	Value	ValueOutput
+EQ Hi Gain	0	4194304	Value	ValueOutput
+Character	0	24	Value	ValueOutput
+Microphone 1 Type	0	11	Value	ValueOutput
+Microphone 2 Type	0	11	Value	ValueOutput
+Microphone and Instrument Blend	0	4194304	Value	ValueOutput
+Ambience Level	0	4194304	Value	ValueOutput
+Ambience Type	0	3	Value	ValueOutput
+Stereo Width	0	4194304	Value	ValueOutput
+Compression Amount	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Tune Drift	0	4194304	Value	ValueOutput
+Key Down Level	0	4194304	Value	ValueOutput
+Key Up Level	0	4194304	Value	ValueOutput
+Pedal Level	0	4194304	Value	ValueOutput
+Symp Res Release Time	0	4194304	Value	ValueOutput
+Symp Res Level	0	4194304	Value	ValueOutput
+Vel Response Low	0	4194304	Value	ValueOutput
+Vel Response High	0	4194304	Value	ValueOutput
+Vel Response Curve	0	4194304	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Note On	0	4194304	-	ValueOutput
+Audio In	0	4194304	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

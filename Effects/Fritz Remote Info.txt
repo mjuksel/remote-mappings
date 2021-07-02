@@ -1,0 +1,192 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.Fritz
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Emit Rate Free	0	4194304	Value	ValueOutput
+Emit Rate Sync	0	30	Value	ValueOutput
+Emit Tempo Sync	0	1	Toggle	ValueOutput
+Emit Length Scale	0	4194304	Value	ValueOutput
+Emit Length Free	0	4194304	Value	ValueOutput
+Emit Rate Length Link	0	1	Toggle	ValueOutput
+Emit Gate	0	1	Toggle	ValueOutput
+Emit Jitter	0	4194304	Value	ValueOutput
+Delay Tempo Sync	0	1	Toggle	ValueOutput
+Delay Time Free	0	4194304	Value	ValueOutput
+Delay Time Sync	0	20	Value	ValueOutput
+Delay Scale	0	4194304	Value	ValueOutput
+Delay Spray	0	4194304	Value	ValueOutput
+Pitch Semitone	0	48	Value	ValueOutput
+Pitch Reverse	0	4194304	Value	ValueOutput
+Pitch Probability M 12	0	4194304	Value	ValueOutput
+Pitch Probability M 11	0	4194304	Value	ValueOutput
+Pitch Probability M 10	0	4194304	Value	ValueOutput
+Pitch Probability M 9	0	4194304	Value	ValueOutput
+Pitch Probability M 8	0	4194304	Value	ValueOutput
+Pitch Probability M 7	0	4194304	Value	ValueOutput
+Pitch Probability M 6	0	4194304	Value	ValueOutput
+Pitch Probability M 5	0	4194304	Value	ValueOutput
+Pitch Probability M 4	0	4194304	Value	ValueOutput
+Pitch Probability M 3	0	4194304	Value	ValueOutput
+Pitch Probability M 2	0	4194304	Value	ValueOutput
+Pitch Probability M 1	0	4194304	Value	ValueOutput
+Pitch Probability 0	0	4194304	Value	ValueOutput
+Pitch Probability P 1	0	4194304	Value	ValueOutput
+Pitch Probability P 2	0	4194304	Value	ValueOutput
+Pitch Probability P 3	0	4194304	Value	ValueOutput
+Pitch Probability P 4	0	4194304	Value	ValueOutput
+Pitch Probability P 5	0	4194304	Value	ValueOutput
+Pitch Probability P 6	0	4194304	Value	ValueOutput
+Pitch Probability P 7	0	4194304	Value	ValueOutput
+Pitch Probability P 8	0	4194304	Value	ValueOutput
+Pitch Probability P 9	0	4194304	Value	ValueOutput
+Pitch Probability P 10	0	4194304	Value	ValueOutput
+Pitch Probability P 11	0	4194304	Value	ValueOutput
+Pitch Probability P 12	0	4194304	Value	ValueOutput
+Grain Shape	0	4194304	Value	ValueOutput
+Grain Skew	0	4194304	Value	ValueOutput
+Grain Level	0	4194304	Value	ValueOutput
+Grain Pan	0	4194304	Value	ValueOutput
+Mod Frequency	0	4194304	Value	ValueOutput
+Mod Fm Amount	0	4194304	Value	ValueOutput
+Mod Am Amount	0	4194304	Value	ValueOutput
+Noise Phase Stereo	0	4194304	Value	ValueOutput
+Noise To Emit Rate	0	4194304	Value	ValueOutput
+Noise To Emit Length	0	4194304	Value	ValueOutput
+Noise To Emit Gate	0	4194304	Value	ValueOutput
+Noise To Emit Jitter	0	4194304	Value	ValueOutput
+Noise To Input Freeze	0	4194304	Value	ValueOutput
+Noise To Delay Scale	0	4194304	Value	ValueOutput
+Noise To Delay Spray	0	4194304	Value	ValueOutput
+Noise To Pitch Semitone	0	4194304	Value	ValueOutput
+Noise To Pitch Reverse	0	4194304	Value	ValueOutput
+Noise To Grain Shape	0	4194304	Value	ValueOutput
+Noise To Grain Skew	0	4194304	Value	ValueOutput
+Noise To Grain Spread	0	4194304	Value	ValueOutput
+Noise To Grain Level	0	4194304	Value	ValueOutput
+Noise To Mod Frequency	0	4194304	Value	ValueOutput
+Noise To Mod Am Amount	0	4194304	Value	ValueOutput
+Noise To Mod Fm Amount	0	4194304	Value	ValueOutput
+Noise To Diffuse	0	4194304	Value	ValueOutput
+Noise To Feedback	0	4194304	Value	ValueOutput
+Noise To Spread	0	4194304	Value	ValueOutput
+Noise To Dry Wet	0	4194304	Value	ValueOutput
+Noise To Stereo Width	0	4194304	Value	ValueOutput
+Noise To Master Level	0	4194304	Value	ValueOutput
+Lfo 1 Reset	0	1	Toggle	ValueOutput
+Lfo 1 Phase	0	4194304	Value	ValueOutput
+Lfo 1 Phase Stereo	0	4194304	Value	ValueOutput
+Lfo 1 Rate Free	0	4194304	Value	ValueOutput
+Lfo 1 Rate Sync	0	30	Value	ValueOutput
+Lfo 1 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 1 Waveform	0	198	Value	ValueOutput
+Lfo 1 Lag	0	4194304	Value	ValueOutput
+Lfo 1 To Emit Rate	0	4194304	Value	ValueOutput
+Lfo 1 To Emit Length	0	4194304	Value	ValueOutput
+Lfo 1 To Emit Gate	0	4194304	Value	ValueOutput
+Lfo 1 To Emit Jitter	0	4194304	Value	ValueOutput
+Lfo 1 To Input Freeze	0	4194304	Value	ValueOutput
+Lfo 1 To Delay Scale	0	4194304	Value	ValueOutput
+Lfo 1 To Delay Spray	0	4194304	Value	ValueOutput
+Lfo 1 To Pitch Semitone	0	4194304	Value	ValueOutput
+Lfo 1 To Pitch Reverse	0	4194304	Value	ValueOutput
+Lfo 1 To Grain Shape	0	4194304	Value	ValueOutput
+Lfo 1 To Grain Skew	0	4194304	Value	ValueOutput
+Lfo 1 To Grain Spread	0	4194304	Value	ValueOutput
+Lfo 1 To Grain Level	0	4194304	Value	ValueOutput
+Lfo 1 To Mod Frequency	0	4194304	Value	ValueOutput
+Lfo 1 To Mod Am Amount	0	4194304	Value	ValueOutput
+Lfo 1 To Mod Fm Amount	0	4194304	Value	ValueOutput
+Lfo 1 To Diffuse	0	4194304	Value	ValueOutput
+Lfo 1 To Feedback	0	4194304	Value	ValueOutput
+Lfo 1 To Spread	0	4194304	Value	ValueOutput
+Lfo 1 To Dry Wet	0	4194304	Value	ValueOutput
+Lfo 1 To Stereo Width	0	4194304	Value	ValueOutput
+Lfo 1 To Master Level	0	4194304	Value	ValueOutput
+Lfo 2 Reset	0	1	Toggle	ValueOutput
+Lfo 2 Phase	0	4194304	Value	ValueOutput
+Lfo 2 Phase Stereo	0	4194304	Value	ValueOutput
+Lfo 2 Rate Free	0	4194304	Value	ValueOutput
+Lfo 2 Rate Sync	0	30	Value	ValueOutput
+Lfo 2 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 2 Waveform	0	198	Value	ValueOutput
+Lfo 2 Lag	0	4194304	Value	ValueOutput
+Lfo 2 To Emit Rate	0	4194304	Value	ValueOutput
+Lfo 2 To Emit Length	0	4194304	Value	ValueOutput
+Lfo 2 To Emit Gate	0	4194304	Value	ValueOutput
+Lfo 2 To Emit Jitter	0	4194304	Value	ValueOutput
+Lfo 2 To Input Freeze	0	4194304	Value	ValueOutput
+Lfo 2 To Delay Scale	0	4194304	Value	ValueOutput
+Lfo 2 To Delay Spray	0	4194304	Value	ValueOutput
+Lfo 2 To Pitch Semitone	0	4194304	Value	ValueOutput
+Lfo 2 To Pitch Reverse	0	4194304	Value	ValueOutput
+Lfo 2 To Grain Shape	0	4194304	Value	ValueOutput
+Lfo 2 To Grain Skew	0	4194304	Value	ValueOutput
+Lfo 2 To Grain Spread	0	4194304	Value	ValueOutput
+Lfo 2 To Grain Level	0	4194304	Value	ValueOutput
+Lfo 2 To Mod Frequency	0	4194304	Value	ValueOutput
+Lfo 2 To Mod Am Amount	0	4194304	Value	ValueOutput
+Lfo 2 To Mod Fm Amount	0	4194304	Value	ValueOutput
+Lfo 2 To Diffuse	0	4194304	Value	ValueOutput
+Lfo 2 To Feedback	0	4194304	Value	ValueOutput
+Lfo 2 To Spread	0	4194304	Value	ValueOutput
+Lfo 2 To Dry Wet	0	4194304	Value	ValueOutput
+Lfo 2 To Stereo Width	0	4194304	Value	ValueOutput
+Lfo 2 To Master Level	0	4194304	Value	ValueOutput
+Cv 1 To Emit Rate	0	4194304	Value	ValueOutput
+Cv 1 To Emit Length	0	4194304	Value	ValueOutput
+Cv 1 To Emit Gate	0	4194304	Value	ValueOutput
+Cv 1 To Emit Jitter	0	4194304	Value	ValueOutput
+Cv 1 To Input Freeze	0	4194304	Value	ValueOutput
+Cv 1 To Delay Scale	0	4194304	Value	ValueOutput
+Cv 1 To Delay Spray	0	4194304	Value	ValueOutput
+Cv 1 To Pitch Semitone	0	4194304	Value	ValueOutput
+Cv 1 To Pitch Reverse	0	4194304	Value	ValueOutput
+Cv 1 To Grain Shape	0	4194304	Value	ValueOutput
+Cv 1 To Grain Skew	0	4194304	Value	ValueOutput
+Cv 1 To Grain Spread	0	4194304	Value	ValueOutput
+Cv 1 To Grain Level	0	4194304	Value	ValueOutput
+Cv 1 To Mod Frequency	0	4194304	Value	ValueOutput
+Cv 1 To Mod Am Amount	0	4194304	Value	ValueOutput
+Cv 1 To Mod Fm Amount	0	4194304	Value	ValueOutput
+Cv 1 To Diffuse	0	4194304	Value	ValueOutput
+Cv 1 To Feedback	0	4194304	Value	ValueOutput
+Cv 1 To Spread	0	4194304	Value	ValueOutput
+Cv 1 To Dry Wet	0	4194304	Value	ValueOutput
+Cv 1 To Stereo Width	0	4194304	Value	ValueOutput
+Cv 1 To Master Level	0	4194304	Value	ValueOutput
+Cv 2 To Emit Rate	0	4194304	Value	ValueOutput
+Cv 2 To Emit Length	0	4194304	Value	ValueOutput
+Cv 2 To Emit Gate	0	4194304	Value	ValueOutput
+Cv 2 To Emit Jitter	0	4194304	Value	ValueOutput
+Cv 2 To Input Freeze	0	4194304	Value	ValueOutput
+Cv 2 To Delay Scale	0	4194304	Value	ValueOutput
+Cv 2 To Delay Spray	0	4194304	Value	ValueOutput
+Cv 2 To Pitch Semitone	0	4194304	Value	ValueOutput
+Cv 2 To Pitch Reverse	0	4194304	Value	ValueOutput
+Cv 2 To Grain Shape	0	4194304	Value	ValueOutput
+Cv 2 To Grain Skew	0	4194304	Value	ValueOutput
+Cv 2 To Grain Spread	0	4194304	Value	ValueOutput
+Cv 2 To Grain Level	0	4194304	Value	ValueOutput
+Cv 2 To Mod Frequency	0	4194304	Value	ValueOutput
+Cv 2 To Mod Am Amount	0	4194304	Value	ValueOutput
+Cv 2 To Mod Fm Amount	0	4194304	Value	ValueOutput
+Cv 2 To Diffuse	0	4194304	Value	ValueOutput
+Cv 2 To Feedback	0	4194304	Value	ValueOutput
+Cv 2 To Spread	0	4194304	Value	ValueOutput
+Cv 2 To Dry Wet	0	4194304	Value	ValueOutput
+Cv 2 To Stereo Width	0	4194304	Value	ValueOutput
+Cv 2 To Master Level	0	4194304	Value	ValueOutput
+Input Freeze	0	1	Toggle	ValueOutput
+Diffuse	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Dry Wet	0	4194304	Value	ValueOutput
+Stereo Spread	0	4194304	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Rt Num Grains	0	1999	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

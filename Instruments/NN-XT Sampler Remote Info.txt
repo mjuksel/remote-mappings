@@ -1,0 +1,25 @@
+Scope
+Manufacturer	Model
+Propellerheads	NN-XT Advanced Sampler
+
+Remotable	Min	Max	Input type	Output type
+Mod Wheel	0	127	Value	ValueOutput
+External Controller	0	127	Value	ValueOutput
+Note On Indicator	0	1	-	ValueOutput
+External Controller Source	0	2	Value	ValueOutput
+High Quality Interpolation	0	1	Toggle	ValueOutput
+Filter Freq	-64	63	Value	ValueOutput
+Filter Res	-64	63	Value	ValueOutput
+Amp Env Attack	-64	63	Value	ValueOutput
+Amp Env Decay	-64	63	Value	ValueOutput
+Amp Env Release	-64	63	Value	ValueOutput
+Mod Env Decay	-64	63	Value	ValueOutput
+Master Volume	0	127	Value	ValueOutput
+Sample Loading Progress	-1	127	-	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Sample	0	1	Trig	ValueOutput

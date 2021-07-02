@@ -1,0 +1,95 @@
+Scope
+Manufacturer	Model
+Propellerheads	SubTractor Analog Synthesizer
+
+Remotable	Min	Max	Input type	Output type
+Amp Env Attack	0	127	Value	ValueOutput
+Amp Env Decay	0	127	Value	ValueOutput
+Amp Env Sustain	0	127	Value	ValueOutput
+Amp Env Release	0	127	Value	ValueOutput
+Master Level	0	127	Value	ValueOutput
+Mod Env Attack	0	127	Value	ValueOutput
+Mod Env Decay	0	127	Value	ValueOutput
+Mod Env Sustain	0	127	Value	ValueOutput
+Mod Env Release	0	127	Value	ValueOutput
+Mod Env Gain	0	127	Value	ValueOutput
+Mod Env Dest	0	5	Value	ValueOutput
+Mod Env Invert	0	1	Toggle	ValueOutput
+Filter Env Attack	0	127	Value	ValueOutput
+Filter Env Decay	0	127	Value	ValueOutput
+Filter Env Sustain	0	127	Value	ValueOutput
+Filter Env Release	0	127	Value	ValueOutput
+Filter Env Amount	0	127	Value	ValueOutput
+Filter Env Invert	0	1	Toggle	ValueOutput
+Filter Freq	0	127	Value	ValueOutput
+Filter Res	0	127	Value	ValueOutput
+Filter Kbd Track	0	127	Value	ValueOutput
+Filter Type	0	4	Value	ValueOutput
+Filter Link Freq On/Off	0	1	Toggle	ValueOutput
+Filter2 On/Off	0	1	Toggle	ValueOutput
+Filter2 Freq	0	127	Value	ValueOutput
+Filter2 Res	0	127	Value	ValueOutput
+Osc1 Wave	0	31	Value	ValueOutput
+Osc1 Octave	0	9	Value	ValueOutput
+Osc1 Semitone	0	12	Value	ValueOutput
+Osc1 Fine Tune	-50	50	Value	ValueOutput
+Osc1 Phase Mode	0	2	Value	ValueOutput
+Osc1 Phase Diff	0	127	Value	ValueOutput
+Osc1 Kbd Track	0	1	Toggle	ValueOutput
+Osc2 On/Off	0	1	Toggle	ValueOutput
+Osc2 Wave	0	31	Value	ValueOutput
+Osc2 Octave	0	9	Value	ValueOutput
+Osc2 Semitone	0	12	Value	ValueOutput
+Osc2 Fine Tune	-50	50	Value	ValueOutput
+Osc2 Phase Mode	0	2	Value	ValueOutput
+Osc2 Phase Diff	0	127	Value	ValueOutput
+Osc2 Kbd Track	0	1	Toggle	ValueOutput
+Osc Mix	0	127	Value	ValueOutput
+FM Amount	0	127	Value	ValueOutput
+Ring Mod	0	1	Toggle	ValueOutput
+LFO1 Rate	0	127	Value	ValueOutput
+LFO1 Amount	0	127	Value	ValueOutput
+LFO1 Wave	0	5	Value	ValueOutput
+LFO1 Dest	0	5	Value	ValueOutput
+LFO2 Rate	0	127	Value	ValueOutput
+LFO2 Amount	0	127	Value	ValueOutput
+LFO2 Delay	0	127	Value	ValueOutput
+LFO2 Dest	0	3	Value	ValueOutput
+LFO2 Kbd Track	0	127	Value	ValueOutput
+Portamento	0	127	Value	ValueOutput
+Polyphony	1	99	Value	ValueOutput
+Key Mode	0	1	Toggle	ValueOutput
+Low Bandwidth On/Off	0	1	Toggle	ValueOutput
+Filter Freq Mod Wheel Amount	-64	63	Value	ValueOutput
+Filter Res Mod Wheel Amount	-64	63	Value	ValueOutput
+FM Mod Wheel Amount	-64	63	Value	ValueOutput
+Phase Diff Mod Wheel Amount	-64	63	Value	ValueOutput
+LFO1 Mod Wheel Amount	-64	63	Value	ValueOutput
+Pitch Bend Range	0	24	Value	ValueOutput
+Filter Freq Ext Mod	-64	63	Value	ValueOutput
+LFO1 Ext Mod	-64	63	Value	ValueOutput
+Amp Ext Mod	-64	63	Value	ValueOutput
+FM Ext Mod	-64	63	Value	ValueOutput
+Ext Mod Select	0	2	Value	ValueOutput
+Noise On/Off	0	1	Toggle	ValueOutput
+Noise Level	0	127	Value	ValueOutput
+Noise Decay	0	127	Value	ValueOutput
+Noise Color	0	127	Value	ValueOutput
+Amp Vel Amount	-64	63	Value	ValueOutput
+FM Vel Amount	-64	63	Value	ValueOutput
+Mod Env Vel Amount	-64	63	Value	ValueOutput
+Phase Vel Amount	-64	63	Value	ValueOutput
+Filter2 Freq Vel Amount	-64	63	Value	ValueOutput
+Filter Env Vel Amount	-64	63	Value	ValueOutput
+Filter Decay Vel Amount	-64	63	Value	ValueOutput
+Mix Vel Amount	-64	63	Value	ValueOutput
+Amp Attack Vel Amount	-64	63	Value	ValueOutput
+LFO Sync Enable	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Note On Indicator	0	1	-	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

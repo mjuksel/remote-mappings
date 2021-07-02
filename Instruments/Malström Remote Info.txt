@@ -1,0 +1,100 @@
+Scope
+Manufacturer	Model
+Propellerheads	Malstrom Graintable Synthesizer
+
+Remotable	Min	Max	Input type	Output type
+Modulator A On/Off	0	1	Toggle	ValueOutput
+Modulator A Curve	0	31	Value	ValueOutput
+Modulator A Rate	0	127	Value	ValueOutput
+Modulator A One Shot	0	1	Toggle	ValueOutput
+Modulator A Sync	0	1	Toggle	ValueOutput
+Modulator A Target	0	2	Value	ValueOutput
+Modulator A To Pitch	-64	63	Value	ValueOutput
+Modulator A To Index	-64	63	Value	ValueOutput
+Modulator A To Shift	-64	63	Value	ValueOutput
+Modulator B On/Off	0	1	Toggle	ValueOutput
+Modulator B Curve	0	31	Value	ValueOutput
+Modulator B Rate	0	127	Value	ValueOutput
+Modulator B One Shot	0	1	Toggle	ValueOutput
+Modulator B Sync	0	1	Toggle	ValueOutput
+Modulator B Target	0	2	Value	ValueOutput
+Modulator B To Level	-64	63	Value	ValueOutput
+Modulator B To Filter	-64	63	Value	ValueOutput
+Modulator B To Modulator A	-64	63	Value	ValueOutput
+Modulator B To Motion	-64	63	Value	ValueOutput
+Oscillator B On/Off	0	1	Toggle	ValueOutput
+Oscillator B Index	0	127	Value	ValueOutput
+Oscillator B Motion	-64	63	Value	ValueOutput
+Oscillator B Octave	0	8	Value	ValueOutput
+Oscillator B Semi	0	12	Value	ValueOutput
+Oscillator B Cent	-50	50	Value	ValueOutput
+Oscillator B Shift	-64	63	Value	ValueOutput
+Oscillator B Attack	0	127	Value	ValueOutput
+Oscillator B Decay	0	127	Value	ValueOutput
+Oscillator B Sustain	0	127	Value	ValueOutput
+Oscillator B Release	0	127	Value	ValueOutput
+Oscillator B Gain	0	127	Value	ValueOutput
+Oscillator A On/Off	0	1	Toggle	ValueOutput
+Oscillator A Index	0	127	Value	ValueOutput
+Oscillator A Motion	-64	63	Value	ValueOutput
+Oscillator A Octave	0	8	Value	ValueOutput
+Oscillator A Semi	0	12	Value	ValueOutput
+Oscillator A Cent	-50	50	Value	ValueOutput
+Oscillator A Shift	-64	63	Value	ValueOutput
+Oscillator A Attack	0	127	Value	ValueOutput
+Oscillator A Decay	0	127	Value	ValueOutput
+Oscillator A Sustain	0	127	Value	ValueOutput
+Oscillator A Release	0	127	Value	ValueOutput
+Oscillator A Gain	0	127	Value	ValueOutput
+Filter B On/Off	0	1	Toggle	ValueOutput
+Filter B Mode	0	4	Value	ValueOutput
+Filter B Freq	0	127	Value	ValueOutput
+Filter B Resonance	0	127	Value	ValueOutput
+Filter Env Attack	0	127	Value	ValueOutput
+Filter Env Decay	0	127	Value	ValueOutput
+Filter Env Sustain	0	127	Value	ValueOutput
+Filter Env Release	0	127	Value	ValueOutput
+Filter B Kbd Track	0	1	Toggle	ValueOutput
+Filter Env Amount	0	127	Value	ValueOutput
+Filter Env Invert	0	1	Toggle	ValueOutput
+Filter B Env	0	1	Toggle	ValueOutput
+Filter A On/Off	0	1	Toggle	ValueOutput
+Filter A Mode	0	4	Value	ValueOutput
+Filter A Freq	0	127	Value	ValueOutput
+Filter A Resonance	0	127	Value	ValueOutput
+Filter A Env	0	1	Toggle	ValueOutput
+Filter A Kbd Track	0	1	Toggle	ValueOutput
+Shaper On/Off	0	1	Toggle	ValueOutput
+Shaper Mode	0	4	Value	ValueOutput
+Shaper Amount	0	127	Value	ValueOutput
+Velocity Target	0	2	Value	ValueOutput
+Velocity To Level B	-64	63	Value	ValueOutput
+Velocity To Level A	-64	63	Value	ValueOutput
+Velocity To Filter Env	-64	63	Value	ValueOutput
+Velocity To Attack	-64	63	Value	ValueOutput
+Velocity To Shift	-64	63	Value	ValueOutput
+Velocity To Modulator	-64	63	Value	ValueOutput
+Mod Wheel Target	0	2	Value	ValueOutput
+Mod Wheel To Index	-64	63	Value	ValueOutput
+Mod Wheel To Shift	-64	63	Value	ValueOutput
+Mod Wheel To Filter	-64	63	Value	ValueOutput
+Mod Wheel To Modulator	-64	63	Value	ValueOutput
+Route Oscillator B To Filter B	0	1	Toggle	ValueOutput
+Route Oscillator A To Filter B	0	1	Toggle	ValueOutput
+Route Oscillator A To Shaper	0	1	Toggle	ValueOutput
+Route Filter B To Shaper	0	1	Toggle	ValueOutput
+Polyphony	1	16	Value	ValueOutput
+Portamento	0	127	Value	ValueOutput
+Legato On/Off	0	1	Toggle	ValueOutput
+Pitch Bend Range	0	24	Value	ValueOutput
+Master Level	0	127	Value	ValueOutput
+Spread Amount	0	127	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Note On Indicator	0	1	-	ValueOutput
+Peak Meter	0	20	-	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+HaMu	se.hamu.MidiTapper
+
+Remotable	Min	Max	Input type	Output type
+Envelope Attack Time	0	24	Value	ValueOutput
+Envelope Decay Time	0	24	Value	ValueOutput
+Envelope Sustain Level	0	4194304	Value	ValueOutput
+Envelope Hold Time	0	24	Value	ValueOutput
+Envelope Release Time	0	24	Value	ValueOutput
+Off Level Group 1	0	4194304	Value	ValueOutput
+Off Level Group 2	0	4194304	Value	ValueOutput
+Off Level Group 3	0	4194304	Value	ValueOutput
+On Level Group 1	0	4194304	Value	ValueOutput
+On Level Group 2	0	4194304	Value	ValueOutput
+On Level Group 3	0	4194304	Value	ValueOutput
+Learn Tap Key	0	1	Toggle	ValueOutput
+Tap Key Octave	0	10	Value	ValueOutput
+Tap Key Note	0	11	Value	ValueOutput
+Tap Timeout	0	24	Value	ValueOutput
+Direct Tap	0	1	Toggle	ValueOutput
+Let Tap Key Pass Thru	0	1	Toggle	ValueOutput
+Reset Thru Gate	0	1	Toggle	ValueOutput
+Static Attack Time	0	24	Value	ValueOutput
+Static Release Time	0	24	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

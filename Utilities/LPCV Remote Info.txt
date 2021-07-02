@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+17frames	com.17frames.com.LPCVFREE
+
+Remotable	Min	Max	Input type	Output type
+StartPosVal	0	99	Value	ValueOutput
+EndPosVal	0	99	Value	ValueOutput
+ResetCounter	0	1	Toggle	ValueOutput
+WaveType	0	2	Value	ValueOutput
+NumberOfBars	0	99	Value	ValueOutput
+OutConnected	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

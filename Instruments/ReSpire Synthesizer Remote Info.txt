@@ -1,0 +1,734 @@
+Scope
+Manufacturer	Model
+Reveal Sound	com.revealSound.ReSpire
+
+Remotable	Min	Max	Input type	Output type
+Mix Osc 1	0	4194304	Value	ValueOutput
+Osc 1 Mute	0	1	Toggle	ValueOutput
+Osc 1 Type	0	6	Value	ValueOutput
+Osc 1 Note	0	4194304	Value	ValueOutput
+Osc 1 Fine	0	4194304	Value	ValueOutput
+Osc 1 ctrlA	0	4194304	Value	ValueOutput
+Osc 1 ctrlB	0	4194304	Value	ValueOutput
+Osc 1 Wtmix	0	4194304	Value	ValueOutput
+Osc 1 Wave	0	48	Value	ValueOutput
+Osc 1 Phase	0	4194304	Value	ValueOutput
+Osc 1 Udet	0	4194304	Value	ValueOutput
+Osc 1 Uden	0	4194304	Value	ValueOutput
+Osc 1 Ucnt	0	8	Value	ValueOutput
+Osc 1 Uoct	0	17	Value	ValueOutput
+Osc 1 Uwid	0	4194304	Value	ValueOutput
+Osc 1 Pan	0	4194304	Value	ValueOutput
+Osc 1 Mixto	0	4194304	Value	ValueOutput
+Mix Osc 2	0	4194304	Value	ValueOutput
+Osc 2 Mute	0	1	Toggle	ValueOutput
+Osc 2 Type	0	6	Value	ValueOutput
+Osc 2 Note	0	4194304	Value	ValueOutput
+Osc 2 Fine	0	4194304	Value	ValueOutput
+Osc 2 ctrlA	0	4194304	Value	ValueOutput
+Osc 2 ctrlB	0	4194304	Value	ValueOutput
+Osc 2 Wtmix	0	4194304	Value	ValueOutput
+Osc 2 Wave	0	48	Value	ValueOutput
+Osc 2 Phase	0	4194304	Value	ValueOutput
+Osc 2 Udet	0	4194304	Value	ValueOutput
+Osc 2 Uden	0	4194304	Value	ValueOutput
+Osc 2 Ucnt	0	8	Value	ValueOutput
+Osc 2 Uoct	0	17	Value	ValueOutput
+Osc 2 Uwid	0	4194304	Value	ValueOutput
+Osc 2 Pan	0	4194304	Value	ValueOutput
+Osc 2 Mixto	0	4194304	Value	ValueOutput
+Mix Osc 3	0	4194304	Value	ValueOutput
+Osc 3 Mute	0	1	Toggle	ValueOutput
+Osc 3 Type	0	6	Value	ValueOutput
+Osc 3 Note	0	4194304	Value	ValueOutput
+Osc 3 Fine	0	4194304	Value	ValueOutput
+Osc 3 ctrlA	0	4194304	Value	ValueOutput
+Osc 3 ctrlB	0	4194304	Value	ValueOutput
+Osc 3 Wtmix	0	4194304	Value	ValueOutput
+Osc 3 Wave	0	48	Value	ValueOutput
+Osc 3 Phase	0	4194304	Value	ValueOutput
+Osc 3 Udet	0	4194304	Value	ValueOutput
+Osc 3 Uden	0	4194304	Value	ValueOutput
+Osc 3 Ucnt	0	8	Value	ValueOutput
+Osc 3 Uoct	0	17	Value	ValueOutput
+Osc 3 Uwid	0	4194304	Value	ValueOutput
+Osc 3 Pan	0	4194304	Value	ValueOutput
+Osc 3 Mixto	0	4194304	Value	ValueOutput
+Mix Osc 4	0	4194304	Value	ValueOutput
+Osc 4 Mute	0	1	Toggle	ValueOutput
+Osc 4 Type	0	6	Value	ValueOutput
+Osc 4 Note	0	4194304	Value	ValueOutput
+Osc 4 Fine	0	4194304	Value	ValueOutput
+Osc 4 ctrlA	0	4194304	Value	ValueOutput
+Osc 4 ctrlB	0	4194304	Value	ValueOutput
+Osc 4 Wtmix	0	4194304	Value	ValueOutput
+Osc 4 Wave	0	48	Value	ValueOutput
+Osc 4 Phase	0	4194304	Value	ValueOutput
+Osc 4 Udet	0	4194304	Value	ValueOutput
+Osc 4 Uden	0	4194304	Value	ValueOutput
+Osc 4 Ucnt	0	8	Value	ValueOutput
+Osc 4 Uoct	0	17	Value	ValueOutput
+Osc 4 Uwid	0	4194304	Value	ValueOutput
+Osc 4 Pan	0	4194304	Value	ValueOutput
+Osc 4 Mixto	0	4194304	Value	ValueOutput
+Env1 Att	0	4194304	Value	ValueOutput
+Env1 Dec	0	4194304	Value	ValueOutput
+Env1 Sus	0	4194304	Value	ValueOutput
+Env1 Sll	0	4194304	Value	ValueOutput
+Env1 Slt	0	4194304	Value	ValueOutput
+Env1 Rel	0	4194304	Value	ValueOutput
+Env2 Att	0	4194304	Value	ValueOutput
+Env2 Dec	0	4194304	Value	ValueOutput
+Env2 Sus	0	4194304	Value	ValueOutput
+Env2 Sll	0	4194304	Value	ValueOutput
+Env2 Slt	0	4194304	Value	ValueOutput
+Env2 Rel	0	4194304	Value	ValueOutput
+Env3 Att	0	4194304	Value	ValueOutput
+Env3 Dec	0	4194304	Value	ValueOutput
+Env3 Sus	0	4194304	Value	ValueOutput
+Env3 Sll	0	4194304	Value	ValueOutput
+Env3 Slt	0	4194304	Value	ValueOutput
+Env3 Rel	0	4194304	Value	ValueOutput
+Env4 Att	0	4194304	Value	ValueOutput
+Env4 Dec	0	4194304	Value	ValueOutput
+Env4 Sus	0	4194304	Value	ValueOutput
+Env4 Sll	0	4194304	Value	ValueOutput
+Env4 Slt	0	4194304	Value	ValueOutput
+Env4 Rel	0	4194304	Value	ValueOutput
+Lfo1 Rate	0	4194304	Value	ValueOutput
+Lfo1 Time	0	20	Value	ValueOutput
+Lfo1 Sync	0	1	Toggle	ValueOutput
+Lfo1 Sym	0	4194304	Value	ValueOutput
+Lfo1 Morph	0	4194304	Value	ValueOutput
+Lfo1 Phase	0	4194304	Value	ValueOutput
+Lfo1 Amp	0	4194304	Value	ValueOutput
+Lfo1 Form	0	51	Value	ValueOutput
+Lfo2 Rate	0	4194304	Value	ValueOutput
+Lfo2 Time	0	20	Value	ValueOutput
+Lfo2 Sync	0	1	Toggle	ValueOutput
+Lfo2 Sym	0	4194304	Value	ValueOutput
+Lfo2 Morph	0	4194304	Value	ValueOutput
+Lfo2 Phase	0	4194304	Value	ValueOutput
+Lfo2 Amp	0	4194304	Value	ValueOutput
+Lfo2 Form	0	51	Value	ValueOutput
+Lfo3 Rate	0	4194304	Value	ValueOutput
+Lfo3 Time	0	20	Value	ValueOutput
+Lfo3 Sync	0	1	Toggle	ValueOutput
+Lfo3 Sym	0	4194304	Value	ValueOutput
+Lfo3 Morph	0	4194304	Value	ValueOutput
+Lfo3 Phase	0	4194304	Value	ValueOutput
+Lfo3 Amp	0	4194304	Value	ValueOutput
+Lfo3 Form	0	51	Value	ValueOutput
+Lfo4 Rate	0	4194304	Value	ValueOutput
+Lfo4 Time	0	20	Value	ValueOutput
+Lfo4 Sync	0	1	Toggle	ValueOutput
+Lfo4 Sym	0	4194304	Value	ValueOutput
+Lfo4 Morph	0	4194304	Value	ValueOutput
+Lfo4 Phase	0	4194304	Value	ValueOutput
+Lfo4 Amp	0	4194304	Value	ValueOutput
+Lfo4 Form	0	51	Value	ValueOutput
+Flt 1 Type Mode	0	24	Value	ValueOutput
+Flt 1 Cut	0	4194304	Value	ValueOutput
+Flt 1 Res	0	4194304	Value	ValueOutput
+Flt 2 Type Mode	0	24	Value	ValueOutput
+Flt 2 Cut	0	4194304	Value	ValueOutput
+Flt 2 Res	0	4194304	Value	ValueOutput
+Flt Routing	0	1	Toggle	ValueOutput
+Flt Link	0	1	Toggle	ValueOutput
+Flt Balance	0	4194304	Value	ValueOutput
+Flt Keytrack	0	4194304	Value	ValueOutput
+Shp Mode	0	10	Value	ValueOutput
+Shp Wet	0	4194304	Value	ValueOutput
+Shp Mute	0	1	Toggle	ValueOutput
+Shp Drive	0	4194304	Value	ValueOutput
+Shp Bit	0	4194304	Value	ValueOutput
+Shp Sr	0	4194304	Value	ValueOutput
+Shp LoCut	0	4194304	Value	ValueOutput
+Shp HiCut	0	4194304	Value	ValueOutput
+Phs Stages	0	8	Value	ValueOutput
+Phs Wet	0	4194304	Value	ValueOutput
+Phs Mute	0	1	Toggle	ValueOutput
+Phs Freq	0	4194304	Value	ValueOutput
+Phs Back	0	4194304	Value	ValueOutput
+Phs Spread	0	4194304	Value	ValueOutput
+Phs Rate	0	4194304	Value	ValueOutput
+Phs Depth	0	4194304	Value	ValueOutput
+Chr Mode	0	6	Value	ValueOutput
+Chr Wet	0	4194304	Value	ValueOutput
+Chr Mute	0	1	Toggle	ValueOutput
+Chr Del	0	4194304	Value	ValueOutput
+Chr Fback	0	4194304	Value	ValueOutput
+Chr Rate	0	4194304	Value	ValueOutput
+Chr Depth	0	4194304	Value	ValueOutput
+Chr Wide	0	4194304	Value	ValueOutput
+Chr Locut	0	4194304	Value	ValueOutput
+Chr Hicut	0	4194304	Value	ValueOutput
+Delay Wet	0	4194304	Value	ValueOutput
+Del Mute	0	1	Toggle	ValueOutput
+Delay PingPong	0	1	Toggle	ValueOutput
+Delay Sync	0	1	Toggle	ValueOutput
+Delay TimeL	0	4194304	Value	ValueOutput
+Delay TimeR	0	4194304	Value	ValueOutput
+Delay StimeL	0	20	Value	ValueOutput
+Delay StimeR	0	20	Value	ValueOutput
+Delay Fback	0	4194304	Value	ValueOutput
+Delay Modulate	0	4194304	Value	ValueOutput
+Delay Rate	0	4194304	Value	ValueOutput
+Delay Color	0	4194304	Value	ValueOutput
+Delay Wide	0	4194304	Value	ValueOutput
+Rever Mode	0	1	Toggle	ValueOutput
+Rever Wet	0	4194304	Value	ValueOutput
+Rev Mute	0	1	Toggle	ValueOutput
+Rever PreTime	0	4194304	Value	ValueOutput
+Rever PreTimeS	0	20	Value	ValueOutput
+Rever Sync	0	1	Toggle	ValueOutput
+Rever Decay	0	4194304	Value	ValueOutput
+Rever Damp	0	4194304	Value	ValueOutput
+Rever Color	0	4194304	Value	ValueOutput
+Rever Wide	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Pitch Shift	0	128	Value	ValueOutput
+Pitch Fine	0	198	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Macro1	0	4194304	Value	ValueOutput
+Macro2	0	4194304	Value	ValueOutput
+Macro3	0	4194304	Value	ValueOutput
+Macro4	0	4194304	Value	ValueOutput
+Poly	0	15	Value	ValueOutput
+Blend Up	0	36	Value	ValueOutput
+Blend Down	0	36	Value	ValueOutput
+Glide Log	0	1	Toggle	ValueOutput
+Drift	0	1	Toggle	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Out Volume	0	4194304	Value	ValueOutput
+Eq Band	0	2	Value	ValueOutput
+Eq Power	0	1	Toggle	ValueOutput
+Eq Low Freq	0	4194304	Value	ValueOutput
+Eq Low Q	0	4194304	Value	ValueOutput
+Eq Low Lev	0	4194304	Value	ValueOutput
+Eq Mid Freq	0	4194304	Value	ValueOutput
+Eq Mid Q	0	4194304	Value	ValueOutput
+Eq Mid Lev	0	4194304	Value	ValueOutput
+Eq Hi Freq	0	4194304	Value	ValueOutput
+Eq Hi Q	0	4194304	Value	ValueOutput
+Eq Hi Lev	0	4194304	Value	ValueOutput
+Osc 1 Oct	0	8	Value	ValueOutput
+Osc 1 Ana	0	1	Toggle	ValueOutput
+Osc 1 Inv	0	1	Toggle	ValueOutput
+Osc 1 Key	0	1	Toggle	ValueOutput
+Osc 2 Oct	0	8	Value	ValueOutput
+Osc 2 Ana	0	1	Toggle	ValueOutput
+Osc 2 Inv	0	1	Toggle	ValueOutput
+Osc 2 Key	0	1	Toggle	ValueOutput
+Osc 3 Oct	0	8	Value	ValueOutput
+Osc 3 Ana	0	1	Toggle	ValueOutput
+Osc 3 Inv	0	1	Toggle	ValueOutput
+Osc 3 Key	0	1	Toggle	ValueOutput
+Osc 4 Oct	0	8	Value	ValueOutput
+Osc 4 Ana	0	1	Toggle	ValueOutput
+Osc 4 Inv	0	1	Toggle	ValueOutput
+Osc 4 Key	0	1	Toggle	ValueOutput
+Env1 Att Crv	0	2	Value	ValueOutput
+Env1 Dec Crv	0	2	Value	ValueOutput
+Env1 Slp Crv	0	2	Value	ValueOutput
+Env1 Rel Crv	0	2	Value	ValueOutput
+Env1 Target1	0	229	Value	ValueOutput
+Env1 Amt1	0	4194304	Value	ValueOutput
+Env1 Vel1	0	4194304	Value	ValueOutput
+Env1 Target2	0	229	Value	ValueOutput
+Env1 Amt2	0	4194304	Value	ValueOutput
+Env1 Vel2	0	4194304	Value	ValueOutput
+Env2 Att Crv	0	2	Value	ValueOutput
+Env2 Dec Crv	0	2	Value	ValueOutput
+Env2 Slp Crv	0	2	Value	ValueOutput
+Env2 Rel Crv	0	2	Value	ValueOutput
+Env2 Target1	0	229	Value	ValueOutput
+Env2 Amt1	0	4194304	Value	ValueOutput
+Env2 Vel1	0	4194304	Value	ValueOutput
+Env2 Target2	0	229	Value	ValueOutput
+Env2 Amt2	0	4194304	Value	ValueOutput
+Env2 Vel2	0	4194304	Value	ValueOutput
+Env3 Att Crv	0	2	Value	ValueOutput
+Env3 Dec Crv	0	2	Value	ValueOutput
+Env3 Slp Crv	0	2	Value	ValueOutput
+Env3 Rel Crv	0	2	Value	ValueOutput
+Env3 Target1	0	229	Value	ValueOutput
+Env3 Amt1	0	4194304	Value	ValueOutput
+Env3 Vel1	0	4194304	Value	ValueOutput
+Env3 Target2	0	229	Value	ValueOutput
+Env3 Amt2	0	4194304	Value	ValueOutput
+Env3 Vel2	0	4194304	Value	ValueOutput
+Env4 Att Crv	0	2	Value	ValueOutput
+Env4 Dec Crv	0	2	Value	ValueOutput
+Env4 Slp Crv	0	2	Value	ValueOutput
+Env4 Rel Crv	0	2	Value	ValueOutput
+Env4 Target1	0	229	Value	ValueOutput
+Env4 Amt1	0	4194304	Value	ValueOutput
+Env4 Vel1	0	4194304	Value	ValueOutput
+Env4 Target2	0	229	Value	ValueOutput
+Env4 Amt2	0	4194304	Value	ValueOutput
+Env4 Vel2	0	4194304	Value	ValueOutput
+Lfo1 Mono	0	1	Toggle	ValueOutput
+Lfo1 FadeIn	0	4194304	Value	ValueOutput
+Lfo1 Target1	0	229	Value	ValueOutput
+Lfo1 Amt1	0	4194304	Value	ValueOutput
+Lfo1 Vel1	0	4194304	Value	ValueOutput
+Lfo1 Target2	0	229	Value	ValueOutput
+Lfo1 Amt2	0	4194304	Value	ValueOutput
+Lfo1 Vel2	0	4194304	Value	ValueOutput
+Lfo2 Mono	0	1	Toggle	ValueOutput
+Lfo2 FadeIn	0	4194304	Value	ValueOutput
+Lfo2 Target1	0	229	Value	ValueOutput
+Lfo2 Amt1	0	4194304	Value	ValueOutput
+Lfo2 Vel1	0	4194304	Value	ValueOutput
+Lfo2 Target2	0	229	Value	ValueOutput
+Lfo2 Amt2	0	4194304	Value	ValueOutput
+Lfo2 Vel2	0	4194304	Value	ValueOutput
+Lfo3 Mono	0	1	Toggle	ValueOutput
+Lfo3 FadeIn	0	4194304	Value	ValueOutput
+Lfo3 Target1	0	229	Value	ValueOutput
+Lfo3 Amt1	0	4194304	Value	ValueOutput
+Lfo3 Vel1	0	4194304	Value	ValueOutput
+Lfo3 Target2	0	229	Value	ValueOutput
+Lfo3 Amt2	0	4194304	Value	ValueOutput
+Lfo3 Vel2	0	4194304	Value	ValueOutput
+Lfo4 Mono	0	1	Toggle	ValueOutput
+Lfo4 FadeIn	0	4194304	Value	ValueOutput
+Lfo4 Target1	0	229	Value	ValueOutput
+Lfo4 Amt1	0	4194304	Value	ValueOutput
+Lfo4 Vel1	0	4194304	Value	ValueOutput
+Lfo4 Target2	0	229	Value	ValueOutput
+Lfo4 Amt2	0	4194304	Value	ValueOutput
+Lfo4 Vel2	0	4194304	Value	ValueOutput
+Shp Band	0	1	Toggle	ValueOutput
+Shp Hq	0	1	Toggle	ValueOutput
+Phs Pre	0	1	Toggle	ValueOutput
+Matrix Slot1 Src1	0	32	Value	ValueOutput
+Matrix Slot1 Src2	0	32	Value	ValueOutput
+Slot1 Amt1	0	4194304	Value	ValueOutput
+Slot1 Target1	0	229	Value	ValueOutput
+Slot1 Amt2	0	4194304	Value	ValueOutput
+Slot1 Target2	0	229	Value	ValueOutput
+Slot1 Amt3	0	4194304	Value	ValueOutput
+Slot1 Target3	0	229	Value	ValueOutput
+Slot1 Amt4	0	4194304	Value	ValueOutput
+Slot1 Target4	0	229	Value	ValueOutput
+Matrix Slot2 Src1	0	32	Value	ValueOutput
+Matrix Slot2 Src2	0	32	Value	ValueOutput
+Slot2 Amt1	0	4194304	Value	ValueOutput
+Slot2 Target1	0	229	Value	ValueOutput
+Slot2 Amt2	0	4194304	Value	ValueOutput
+Slot2 Target2	0	229	Value	ValueOutput
+Slot2 Amt3	0	4194304	Value	ValueOutput
+Slot2 Target3	0	229	Value	ValueOutput
+Slot2 Amt4	0	4194304	Value	ValueOutput
+Slot2 Target4	0	229	Value	ValueOutput
+Matrix Slot3 Src1	0	32	Value	ValueOutput
+Matrix Slot3 Src2	0	32	Value	ValueOutput
+Slot3 Amt1	0	4194304	Value	ValueOutput
+Slot3 Target1	0	229	Value	ValueOutput
+Slot3 Amt2	0	4194304	Value	ValueOutput
+Slot3 Target2	0	229	Value	ValueOutput
+Slot3 Amt3	0	4194304	Value	ValueOutput
+Slot3 Target3	0	229	Value	ValueOutput
+Slot3 Amt4	0	4194304	Value	ValueOutput
+Slot3 Target4	0	229	Value	ValueOutput
+Matrix Slot4 Src1	0	32	Value	ValueOutput
+Matrix Slot4 Src2	0	32	Value	ValueOutput
+Slot4 Amt1	0	4194304	Value	ValueOutput
+Slot4 Target1	0	229	Value	ValueOutput
+Slot4 Amt2	0	4194304	Value	ValueOutput
+Slot4 Target2	0	229	Value	ValueOutput
+Slot4 Amt3	0	4194304	Value	ValueOutput
+Slot4 Target3	0	229	Value	ValueOutput
+Slot4 Amt4	0	4194304	Value	ValueOutput
+Slot4 Target4	0	229	Value	ValueOutput
+Matrix Slot5 Src1	0	32	Value	ValueOutput
+Matrix Slot5 Src2	0	32	Value	ValueOutput
+Slot5 Amt1	0	4194304	Value	ValueOutput
+Slot5 Target1	0	229	Value	ValueOutput
+Slot5 Amt2	0	4194304	Value	ValueOutput
+Slot5 Target2	0	229	Value	ValueOutput
+Slot5 Amt3	0	4194304	Value	ValueOutput
+Slot5 Target3	0	229	Value	ValueOutput
+Slot5 Amt4	0	4194304	Value	ValueOutput
+Slot5 Target4	0	229	Value	ValueOutput
+Matrix Slot6 Src1	0	32	Value	ValueOutput
+Matrix Slot6 Src2	0	32	Value	ValueOutput
+Slot6 Amt1	0	4194304	Value	ValueOutput
+Slot6 Target1	0	229	Value	ValueOutput
+Slot6 Amt2	0	4194304	Value	ValueOutput
+Slot6 Target2	0	229	Value	ValueOutput
+Slot6 Amt3	0	4194304	Value	ValueOutput
+Slot6 Target3	0	229	Value	ValueOutput
+Slot6 Amt4	0	4194304	Value	ValueOutput
+Slot6 Target4	0	229	Value	ValueOutput
+Matrix Slot7 Src1	0	32	Value	ValueOutput
+Matrix Slot7 Src2	0	32	Value	ValueOutput
+Slot7 Amt1	0	4194304	Value	ValueOutput
+Slot7 Target1	0	229	Value	ValueOutput
+Slot7 Amt2	0	4194304	Value	ValueOutput
+Slot7 Target2	0	229	Value	ValueOutput
+Slot7 Amt3	0	4194304	Value	ValueOutput
+Slot7 Target3	0	229	Value	ValueOutput
+Slot7 Amt4	0	4194304	Value	ValueOutput
+Slot7 Target4	0	229	Value	ValueOutput
+Matrix Slot8 Src1	0	32	Value	ValueOutput
+Matrix Slot8 Src2	0	32	Value	ValueOutput
+Slot8 Amt1	0	4194304	Value	ValueOutput
+Slot8 Target1	0	229	Value	ValueOutput
+Slot8 Amt2	0	4194304	Value	ValueOutput
+Slot8 Target2	0	229	Value	ValueOutput
+Slot8 Amt3	0	4194304	Value	ValueOutput
+Slot8 Target3	0	229	Value	ValueOutput
+Slot8 Amt4	0	4194304	Value	ValueOutput
+Slot8 Target4	0	229	Value	ValueOutput
+Matrix Slot9 Src1	0	32	Value	ValueOutput
+Matrix Slot9 Src2	0	32	Value	ValueOutput
+Slot9 Amt1	0	4194304	Value	ValueOutput
+Slot9 Target1	0	229	Value	ValueOutput
+Slot9 Amt2	0	4194304	Value	ValueOutput
+Slot9 Target2	0	229	Value	ValueOutput
+Slot9 Amt3	0	4194304	Value	ValueOutput
+Slot9 Target3	0	229	Value	ValueOutput
+Slot9 Amt4	0	4194304	Value	ValueOutput
+Slot9 Target4	0	229	Value	ValueOutput
+Matrix Slot10 Src1	0	32	Value	ValueOutput
+Matrix Slot10 Src2	0	32	Value	ValueOutput
+Slot10 Amt1	0	4194304	Value	ValueOutput
+Slot10 Target1	0	229	Value	ValueOutput
+Slot10 Amt2	0	4194304	Value	ValueOutput
+Slot10 Target2	0	229	Value	ValueOutput
+Slot10 Amt3	0	4194304	Value	ValueOutput
+Slot10 Target3	0	229	Value	ValueOutput
+Slot10 Amt4	0	4194304	Value	ValueOutput
+Slot10 Target4	0	229	Value	ValueOutput
+Matrix Slot11 Src1	0	32	Value	ValueOutput
+Matrix Slot11 Src2	0	32	Value	ValueOutput
+Slot11 Amt1	0	4194304	Value	ValueOutput
+Slot11 Target1	0	229	Value	ValueOutput
+Slot11 Amt2	0	4194304	Value	ValueOutput
+Slot11 Target2	0	229	Value	ValueOutput
+Slot11 Amt3	0	4194304	Value	ValueOutput
+Slot11 Target3	0	229	Value	ValueOutput
+Slot11 Amt4	0	4194304	Value	ValueOutput
+Slot11 Target4	0	229	Value	ValueOutput
+Matrix Slot12 Src1	0	32	Value	ValueOutput
+Matrix Slot12 Src2	0	32	Value	ValueOutput
+Slot12 Amt1	0	4194304	Value	ValueOutput
+Slot12 Target1	0	229	Value	ValueOutput
+Slot12 Amt2	0	4194304	Value	ValueOutput
+Slot12 Target2	0	229	Value	ValueOutput
+Slot12 Amt3	0	4194304	Value	ValueOutput
+Slot12 Target3	0	229	Value	ValueOutput
+Slot12 Amt4	0	4194304	Value	ValueOutput
+Slot12 Target4	0	229	Value	ValueOutput
+Matrix Slot13 Src1	0	32	Value	ValueOutput
+Matrix Slot13 Src2	0	32	Value	ValueOutput
+Slot13 Amt1	0	4194304	Value	ValueOutput
+Slot13 Target1	0	229	Value	ValueOutput
+Slot13 Amt2	0	4194304	Value	ValueOutput
+Slot13 Target2	0	229	Value	ValueOutput
+Slot13 Amt3	0	4194304	Value	ValueOutput
+Slot13 Target3	0	229	Value	ValueOutput
+Slot13 Amt4	0	4194304	Value	ValueOutput
+Slot13 Target4	0	229	Value	ValueOutput
+Matrix Slot14 Src1	0	32	Value	ValueOutput
+Matrix Slot14 Src2	0	32	Value	ValueOutput
+Slot14 Amt1	0	4194304	Value	ValueOutput
+Slot14 Target1	0	229	Value	ValueOutput
+Slot14 Amt2	0	4194304	Value	ValueOutput
+Slot14 Target2	0	229	Value	ValueOutput
+Slot14 Amt3	0	4194304	Value	ValueOutput
+Slot14 Target3	0	229	Value	ValueOutput
+Slot14 Amt4	0	4194304	Value	ValueOutput
+Slot14 Target4	0	229	Value	ValueOutput
+Matrix Slot15 Src1	0	32	Value	ValueOutput
+Matrix Slot15 Src2	0	32	Value	ValueOutput
+Slot15 Amt1	0	4194304	Value	ValueOutput
+Slot15 Target1	0	229	Value	ValueOutput
+Slot15 Amt2	0	4194304	Value	ValueOutput
+Slot15 Target2	0	229	Value	ValueOutput
+Slot15 Amt3	0	4194304	Value	ValueOutput
+Slot15 Target3	0	229	Value	ValueOutput
+Slot15 Amt4	0	4194304	Value	ValueOutput
+Slot15 Target4	0	229	Value	ValueOutput
+Stp1 Rate	0	4194304	Value	ValueOutput
+Stp1 Time	0	20	Value	ValueOutput
+Stp1 Mode	0	2	Value	ValueOutput
+Stp1 Start	0	15	Value	ValueOutput
+Stp1 Stop	0	15	Value	ValueOutput
+Stp1 Mono	0	1	Toggle	ValueOutput
+Stp1 Retrig	0	1	Toggle	ValueOutput
+Stp1 Loop	0	1	Toggle	ValueOutput
+Stp1 Start1	0	4194304	Value	ValueOutput
+Stp1 End1	0	4194304	Value	ValueOutput
+Stp1 CrvX1	0	4194304	Value	ValueOutput
+Stp1 CrvY1	0	4194304	Value	ValueOutput
+Stp1 Repeat1	0	4194304	Value	ValueOutput
+Stp1 Hold1	0	1	Toggle	ValueOutput
+Stp1 Start2	0	4194304	Value	ValueOutput
+Stp1 End2	0	4194304	Value	ValueOutput
+Stp1 CrvX2	0	4194304	Value	ValueOutput
+Stp1 CrvY2	0	4194304	Value	ValueOutput
+Stp1 Repeat2	0	4194304	Value	ValueOutput
+Stp1 Hold2	0	1	Toggle	ValueOutput
+Stp1 Start3	0	4194304	Value	ValueOutput
+Stp1 End3	0	4194304	Value	ValueOutput
+Stp1 CrvX3	0	4194304	Value	ValueOutput
+Stp1 CrvY3	0	4194304	Value	ValueOutput
+Stp1 Repeat3	0	4194304	Value	ValueOutput
+Stp1 Hold3	0	1	Toggle	ValueOutput
+Stp1 Start4	0	4194304	Value	ValueOutput
+Stp1 End4	0	4194304	Value	ValueOutput
+Stp1 CrvX4	0	4194304	Value	ValueOutput
+Stp1 CrvY4	0	4194304	Value	ValueOutput
+Stp1 Repeat4	0	4194304	Value	ValueOutput
+Stp1 Hold4	0	1	Toggle	ValueOutput
+Stp1 Start5	0	4194304	Value	ValueOutput
+Stp1 End5	0	4194304	Value	ValueOutput
+Stp1 CrvX5	0	4194304	Value	ValueOutput
+Stp1 CrvY5	0	4194304	Value	ValueOutput
+Stp1 Repeat5	0	4194304	Value	ValueOutput
+Stp1 Hold5	0	1	Toggle	ValueOutput
+Stp1 Start6	0	4194304	Value	ValueOutput
+Stp1 End6	0	4194304	Value	ValueOutput
+Stp1 CrvX6	0	4194304	Value	ValueOutput
+Stp1 CrvY6	0	4194304	Value	ValueOutput
+Stp1 Repeat6	0	4194304	Value	ValueOutput
+Stp1 Hold6	0	1	Toggle	ValueOutput
+Stp1 Start7	0	4194304	Value	ValueOutput
+Stp1 End7	0	4194304	Value	ValueOutput
+Stp1 CrvX7	0	4194304	Value	ValueOutput
+Stp1 CrvY7	0	4194304	Value	ValueOutput
+Stp1 Repeat7	0	4194304	Value	ValueOutput
+Stp1 Hold7	0	1	Toggle	ValueOutput
+Stp1 Start8	0	4194304	Value	ValueOutput
+Stp1 End8	0	4194304	Value	ValueOutput
+Stp1 CrvX8	0	4194304	Value	ValueOutput
+Stp1 CrvY8	0	4194304	Value	ValueOutput
+Stp1 Repeat8	0	4194304	Value	ValueOutput
+Stp1 Hold8	0	1	Toggle	ValueOutput
+Stp1 Start9	0	4194304	Value	ValueOutput
+Stp1 End9	0	4194304	Value	ValueOutput
+Stp1 CrvX9	0	4194304	Value	ValueOutput
+Stp1 CrvY9	0	4194304	Value	ValueOutput
+Stp1 Repeat9	0	4194304	Value	ValueOutput
+Stp1 Hold9	0	1	Toggle	ValueOutput
+Stp1 Start10	0	4194304	Value	ValueOutput
+Stp1 End10	0	4194304	Value	ValueOutput
+Stp1 CrvX10	0	4194304	Value	ValueOutput
+Stp1 CrvY10	0	4194304	Value	ValueOutput
+Stp1 Repeat10	0	4194304	Value	ValueOutput
+Stp1 Hold10	0	1	Toggle	ValueOutput
+Stp1 Start11	0	4194304	Value	ValueOutput
+Stp1 End11	0	4194304	Value	ValueOutput
+Stp1 CrvX11	0	4194304	Value	ValueOutput
+Stp1 CrvY11	0	4194304	Value	ValueOutput
+Stp1 Repeat11	0	4194304	Value	ValueOutput
+Stp1 Hold11	0	1	Toggle	ValueOutput
+Stp1 Start12	0	4194304	Value	ValueOutput
+Stp1 End12	0	4194304	Value	ValueOutput
+Stp1 CrvX12	0	4194304	Value	ValueOutput
+Stp1 CrvY12	0	4194304	Value	ValueOutput
+Stp1 Repeat12	0	4194304	Value	ValueOutput
+Stp1 Hold12	0	1	Toggle	ValueOutput
+Stp1 Start13	0	4194304	Value	ValueOutput
+Stp1 End13	0	4194304	Value	ValueOutput
+Stp1 CrvX13	0	4194304	Value	ValueOutput
+Stp1 CrvY13	0	4194304	Value	ValueOutput
+Stp1 Repeat13	0	4194304	Value	ValueOutput
+Stp1 Hold13	0	1	Toggle	ValueOutput
+Stp1 Start14	0	4194304	Value	ValueOutput
+Stp1 End14	0	4194304	Value	ValueOutput
+Stp1 CrvX14	0	4194304	Value	ValueOutput
+Stp1 CrvY14	0	4194304	Value	ValueOutput
+Stp1 Repeat14	0	4194304	Value	ValueOutput
+Stp1 Hold14	0	1	Toggle	ValueOutput
+Stp1 Start15	0	4194304	Value	ValueOutput
+Stp1 End15	0	4194304	Value	ValueOutput
+Stp1 CrvX15	0	4194304	Value	ValueOutput
+Stp1 CrvY15	0	4194304	Value	ValueOutput
+Stp1 Repeat15	0	4194304	Value	ValueOutput
+Stp1 Hold15	0	1	Toggle	ValueOutput
+Stp1 Start16	0	4194304	Value	ValueOutput
+Stp1 End16	0	4194304	Value	ValueOutput
+Stp1 CrvX16	0	4194304	Value	ValueOutput
+Stp1 CrvY16	0	4194304	Value	ValueOutput
+Stp1 Repeat16	0	4194304	Value	ValueOutput
+Stp1 Hold16	0	1	Toggle	ValueOutput
+Stp2 Rate	0	4194304	Value	ValueOutput
+Stp2 Time	0	20	Value	ValueOutput
+Stp2 Mode	0	2	Value	ValueOutput
+Stp2 Start	0	15	Value	ValueOutput
+Stp2 Stop	0	15	Value	ValueOutput
+Stp2 Mono	0	1	Toggle	ValueOutput
+Stp2 Retrig	0	1	Toggle	ValueOutput
+Stp2 Loop	0	1	Toggle	ValueOutput
+Stp2 Start1	0	4194304	Value	ValueOutput
+Stp2 End1	0	4194304	Value	ValueOutput
+Stp2 CrvX1	0	4194304	Value	ValueOutput
+Stp2 CrvY1	0	4194304	Value	ValueOutput
+Stp2 Repeat1	0	4194304	Value	ValueOutput
+Stp2 Hold1	0	1	Toggle	ValueOutput
+Stp2 Start2	0	4194304	Value	ValueOutput
+Stp2 End2	0	4194304	Value	ValueOutput
+Stp2 CrvX2	0	4194304	Value	ValueOutput
+Stp2 CrvY2	0	4194304	Value	ValueOutput
+Stp2 Repeat2	0	4194304	Value	ValueOutput
+Stp2 Hold2	0	1	Toggle	ValueOutput
+Stp2 Start3	0	4194304	Value	ValueOutput
+Stp2 End3	0	4194304	Value	ValueOutput
+Stp2 CrvX3	0	4194304	Value	ValueOutput
+Stp2 CrvY3	0	4194304	Value	ValueOutput
+Stp2 Repeat3	0	4194304	Value	ValueOutput
+Stp2 Hold3	0	1	Toggle	ValueOutput
+Stp2 Start4	0	4194304	Value	ValueOutput
+Stp2 End4	0	4194304	Value	ValueOutput
+Stp2 CrvX4	0	4194304	Value	ValueOutput
+Stp2 CrvY4	0	4194304	Value	ValueOutput
+Stp2 Repeat4	0	4194304	Value	ValueOutput
+Stp2 Hold4	0	1	Toggle	ValueOutput
+Stp2 Start5	0	4194304	Value	ValueOutput
+Stp2 End5	0	4194304	Value	ValueOutput
+Stp2 CrvX5	0	4194304	Value	ValueOutput
+Stp2 CrvY5	0	4194304	Value	ValueOutput
+Stp2 Repeat5	0	4194304	Value	ValueOutput
+Stp2 Hold5	0	1	Toggle	ValueOutput
+Stp2 Start6	0	4194304	Value	ValueOutput
+Stp2 End6	0	4194304	Value	ValueOutput
+Stp2 CrvX6	0	4194304	Value	ValueOutput
+Stp2 CrvY6	0	4194304	Value	ValueOutput
+Stp2 Repeat6	0	4194304	Value	ValueOutput
+Stp2 Hold6	0	1	Toggle	ValueOutput
+Stp2 Start7	0	4194304	Value	ValueOutput
+Stp2 End7	0	4194304	Value	ValueOutput
+Stp2 CrvX7	0	4194304	Value	ValueOutput
+Stp2 CrvY7	0	4194304	Value	ValueOutput
+Stp2 Repeat7	0	4194304	Value	ValueOutput
+Stp2 Hold7	0	1	Toggle	ValueOutput
+Stp2 Start8	0	4194304	Value	ValueOutput
+Stp2 End8	0	4194304	Value	ValueOutput
+Stp2 CrvX8	0	4194304	Value	ValueOutput
+Stp2 CrvY8	0	4194304	Value	ValueOutput
+Stp2 Repeat8	0	4194304	Value	ValueOutput
+Stp2 Hold8	0	1	Toggle	ValueOutput
+Stp2 Start9	0	4194304	Value	ValueOutput
+Stp2 End9	0	4194304	Value	ValueOutput
+Stp2 CrvX9	0	4194304	Value	ValueOutput
+Stp2 CrvY9	0	4194304	Value	ValueOutput
+Stp2 Repeat9	0	4194304	Value	ValueOutput
+Stp2 Hold9	0	1	Toggle	ValueOutput
+Stp2 Start10	0	4194304	Value	ValueOutput
+Stp2 End10	0	4194304	Value	ValueOutput
+Stp2 CrvX10	0	4194304	Value	ValueOutput
+Stp2 CrvY10	0	4194304	Value	ValueOutput
+Stp2 Repeat10	0	4194304	Value	ValueOutput
+Stp2 Hold10	0	1	Toggle	ValueOutput
+Stp2 Start11	0	4194304	Value	ValueOutput
+Stp2 End11	0	4194304	Value	ValueOutput
+Stp2 CrvX11	0	4194304	Value	ValueOutput
+Stp2 CrvY11	0	4194304	Value	ValueOutput
+Stp2 Repeat11	0	4194304	Value	ValueOutput
+Stp2 Hold11	0	1	Toggle	ValueOutput
+Stp2 Start12	0	4194304	Value	ValueOutput
+Stp2 End12	0	4194304	Value	ValueOutput
+Stp2 CrvX12	0	4194304	Value	ValueOutput
+Stp2 CrvY12	0	4194304	Value	ValueOutput
+Stp2 Repeat12	0	4194304	Value	ValueOutput
+Stp2 Hold12	0	1	Toggle	ValueOutput
+Stp2 Start13	0	4194304	Value	ValueOutput
+Stp2 End13	0	4194304	Value	ValueOutput
+Stp2 CrvX13	0	4194304	Value	ValueOutput
+Stp2 CrvY13	0	4194304	Value	ValueOutput
+Stp2 Repeat13	0	4194304	Value	ValueOutput
+Stp2 Hold13	0	1	Toggle	ValueOutput
+Stp2 Start14	0	4194304	Value	ValueOutput
+Stp2 End14	0	4194304	Value	ValueOutput
+Stp2 CrvX14	0	4194304	Value	ValueOutput
+Stp2 CrvY14	0	4194304	Value	ValueOutput
+Stp2 Repeat14	0	4194304	Value	ValueOutput
+Stp2 Hold14	0	1	Toggle	ValueOutput
+Stp2 Start15	0	4194304	Value	ValueOutput
+Stp2 End15	0	4194304	Value	ValueOutput
+Stp2 CrvX15	0	4194304	Value	ValueOutput
+Stp2 CrvY15	0	4194304	Value	ValueOutput
+Stp2 Repeat15	0	4194304	Value	ValueOutput
+Stp2 Hold15	0	1	Toggle	ValueOutput
+Stp2 Start16	0	4194304	Value	ValueOutput
+Stp2 End16	0	4194304	Value	ValueOutput
+Stp2 CrvX16	0	4194304	Value	ValueOutput
+Stp2 CrvY16	0	4194304	Value	ValueOutput
+Stp2 Repeat16	0	4194304	Value	ValueOutput
+Stp2 Hold16	0	1	Toggle	ValueOutput
+Arp On	0	1	Toggle	ValueOutput
+Arp Length	0	4194304	Value	ValueOutput
+Arp Swing	0	4194304	Value	ValueOutput
+Arp Speed	0	20	Value	ValueOutput
+Arp Mode	0	9	Value	ValueOutput
+Arp Octave	0	9	Value	ValueOutput
+Arp Velocity	0	4	Value	ValueOutput
+Arp Wrap	0	16	Value	ValueOutput
+Arp Hold1	0	1	Toggle	ValueOutput
+Arp Velocity1	0	4194304	Value	ValueOutput
+Arp Note1	0	48	Value	ValueOutput
+Arp Hold2	0	1	Toggle	ValueOutput
+Arp Velocity2	0	4194304	Value	ValueOutput
+Arp Note2	0	48	Value	ValueOutput
+Arp Hold3	0	1	Toggle	ValueOutput
+Arp Velocity3	0	4194304	Value	ValueOutput
+Arp Note3	0	48	Value	ValueOutput
+Arp Hold4	0	1	Toggle	ValueOutput
+Arp Velocity4	0	4194304	Value	ValueOutput
+Arp Note4	0	48	Value	ValueOutput
+Arp Hold5	0	1	Toggle	ValueOutput
+Arp Velocity5	0	4194304	Value	ValueOutput
+Arp Note5	0	48	Value	ValueOutput
+Arp Hold6	0	1	Toggle	ValueOutput
+Arp Velocity6	0	4194304	Value	ValueOutput
+Arp Note6	0	48	Value	ValueOutput
+Arp Hold7	0	1	Toggle	ValueOutput
+Arp Velocity7	0	4194304	Value	ValueOutput
+Arp Note7	0	48	Value	ValueOutput
+Arp Hold8	0	1	Toggle	ValueOutput
+Arp Velocity8	0	4194304	Value	ValueOutput
+Arp Note8	0	48	Value	ValueOutput
+Arp Hold9	0	1	Toggle	ValueOutput
+Arp Velocity9	0	4194304	Value	ValueOutput
+Arp Note9	0	48	Value	ValueOutput
+Arp Hold10	0	1	Toggle	ValueOutput
+Arp Velocity10	0	4194304	Value	ValueOutput
+Arp Note10	0	48	Value	ValueOutput
+Arp Hold11	0	1	Toggle	ValueOutput
+Arp Velocity11	0	4194304	Value	ValueOutput
+Arp Note11	0	48	Value	ValueOutput
+Arp Hold12	0	1	Toggle	ValueOutput
+Arp Velocity12	0	4194304	Value	ValueOutput
+Arp Note12	0	48	Value	ValueOutput
+Arp Hold13	0	1	Toggle	ValueOutput
+Arp Velocity13	0	4194304	Value	ValueOutput
+Arp Note13	0	48	Value	ValueOutput
+Arp Hold14	0	1	Toggle	ValueOutput
+Arp Velocity14	0	4194304	Value	ValueOutput
+Arp Note14	0	48	Value	ValueOutput
+Arp Hold15	0	1	Toggle	ValueOutput
+Arp Velocity15	0	4194304	Value	ValueOutput
+Arp Note15	0	48	Value	ValueOutput
+Arp Hold16	0	1	Toggle	ValueOutput
+Arp Velocity16	0	4194304	Value	ValueOutput
+Arp Note16	0	48	Value	ValueOutput
+Warm	0	1	Toggle	ValueOutput
+Boost	0	1	Toggle	ValueOutput
+Soft	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Note On	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

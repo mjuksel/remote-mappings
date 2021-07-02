@@ -1,0 +1,23 @@
+Scope
+Manufacturer	Model
+ThatMusicCompany	com.thatmusiccompany.MrOverDrive
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Dry / Wet	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Wide Amount	0	4194304	Value	ValueOutput
+Force Mono Input	0	1	Toggle	ValueOutput
+Filter Type	0	2	Value	ValueOutput
+True Filter	0	1	Toggle	ValueOutput
+Filter Frequency	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Overdrive Amount	0	4194304	Value	ValueOutput
+Overdrive Harshness	0	4194304	Value	ValueOutput
+Double OD Mode	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

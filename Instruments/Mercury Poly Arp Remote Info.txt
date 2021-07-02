@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+Quadelectra Audioworx	com.quadelectra.Mercury
+
+Remotable	Min	Max	Input type	Output type
+Voice Count	0	3	Value	ValueOutput
+Voice Precedence	0	3	Value	ValueOutput
+Conform Enable	0	1	Toggle	ValueOutput
+Key	0	11	Value	ValueOutput
+Scale	0	8	Value	ValueOutput
+Start Offset	0	31	Value	ValueOutput
+Step Count	0	31	Value	ValueOutput
+Octave	0	6	Value	ValueOutput
+Semitones	0	22	Value	ValueOutput
+Octave Bidirectional Mode	0	1	Toggle	ValueOutput
+Octave Range	0	3	Value	ValueOutput
+Direction Mode	0	3	Value	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+Rate (Synced)	0	21	Value	ValueOutput
+Rate Sync	0	1	Toggle	ValueOutput
+Gate Length	0	4194304	Value	ValueOutput
+Shuffle	0	80	Value	ValueOutput
+Velocity Amount	0	4194304	Value	ValueOutput
+Velocity Mode	0	3	Value	ValueOutput
+Param #1: BP Switch	0	1	Toggle	ValueOutput
+Param #2: BP Switch	0	1	Toggle	ValueOutput
+Param #3: BP Switch	0	1	Toggle	ValueOutput
+Param #4: BP Switch	0	1	Toggle	ValueOutput
+Param #1: CV Amount	0	4194304	Value	ValueOutput
+Param #2: CV Amount	0	4194304	Value	ValueOutput
+Param #3: CV Amount	0	4194304	Value	ValueOutput
+Param #4: CV Amount	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Latch Mode Enable	0	1	Toggle	ValueOutput
+Auto-Chord Enable	0	1	Toggle	ValueOutput
+Chord Matrix Enable	0	1	Toggle	ValueOutput
+Parameter Select	0	5	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

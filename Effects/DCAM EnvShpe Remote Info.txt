@@ -1,0 +1,22 @@
+Scope
+Manufacturer	Model
+FXpansion Audio UK Ltd.	com.fxpansion.DCAMEnvShaper
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Key Input	0	2	Value	ValueOutput
+HP Freq	0	4194304	Value	ValueOutput
+Listen	0	1	Toggle	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Bias	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Saturation	0	1	Toggle	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Note On	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

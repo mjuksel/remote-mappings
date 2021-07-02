@@ -1,0 +1,23 @@
+Scope
+Manufacturer	Model
+Enlightenspeed Ltd	uk.enlightenspeed.NoteLatch
+
+Remotable	Min	Max	Input type	Output type
+On/Off	0	1	Toggle	ValueOutput
+Note Latch 1	0	1	Toggle	ValueOutput
+Note Latch 2	0	1	Toggle	ValueOutput
+Note Latch 3	0	1	Toggle	ValueOutput
+Note Latch 4	0	1	Toggle	ValueOutput
+Note Number 1	0	127	Value	ValueOutput
+Note Number 2	0	127	Value	ValueOutput
+Note Number 3	0	127	Value	ValueOutput
+Note Number 4	0	127	Value	ValueOutput
+Velocity 1	0	4194304	Value	ValueOutput
+Velocity 2	0	4194304	Value	ValueOutput
+Velocity 3	0	4194304	Value	ValueOutput
+Velocity 4	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

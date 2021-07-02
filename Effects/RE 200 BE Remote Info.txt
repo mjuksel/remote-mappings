@@ -1,0 +1,22 @@
+Scope
+Manufacturer	Model
+Red Rock Sound	ru.redrocksound.RE200
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Mix Gain	0	4194304	Value	ValueOutput
+Add Bass	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Scope	0	4194304	Value	ValueOutput
+HP Filter	0	4194304	Value	ValueOutput
+Color	0	4194304	Value	ValueOutput
+Switch HP Filter	0	1	Toggle	ValueOutput
+Listen	0	1	Toggle	ValueOutput
+Active	0	1	Toggle	ValueOutput
+Phase	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

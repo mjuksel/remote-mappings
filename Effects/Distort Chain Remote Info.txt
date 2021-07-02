@@ -1,0 +1,90 @@
+Scope
+Manufacturer	Model
+ThatMusicCompany	com.thatmusiccompany.DistortChain
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Dry / Wet	0	4194304	Value	ValueOutput
+FX 1: Effect Selector	0	9	Value	ValueOutput
+FX 1: Parameter 1	0	4194304	Value	ValueOutput
+FX 1: Parameter 2	0	4194304	Value	ValueOutput
+FX 1: Dry / Wet	0	4194304	Value	ValueOutput
+FX 1: Pan	0	4194304	Value	ValueOutput
+FX 1: On Off	0	1	Toggle	ValueOutput
+FX 2: Effect Selector	0	9	Value	ValueOutput
+FX 2: Parameter 1	0	4194304	Value	ValueOutput
+FX 2: Parameter 2	0	4194304	Value	ValueOutput
+FX 2: Dry / Wet	0	4194304	Value	ValueOutput
+FX 2: Pan	0	4194304	Value	ValueOutput
+FX 2: On Off	0	1	Toggle	ValueOutput
+FX 3: Effect Selector	0	9	Value	ValueOutput
+FX 3: Parameter 1	0	4194304	Value	ValueOutput
+FX 3: Parameter 2	0	4194304	Value	ValueOutput
+FX 3: Dry / Wet	0	4194304	Value	ValueOutput
+FX 3: Pan	0	4194304	Value	ValueOutput
+FX 3: On Off	0	1	Toggle	ValueOutput
+LFO 1 Wave Type	0	13	Value	ValueOutput
+LFO 1 Wave Amount	0	4194304	Value	ValueOutput
+LFO 1 Rate Synced	0	23	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 2 Wave Type	0	13	Value	ValueOutput
+LFO 2 Wave Amount	0	4194304	Value	ValueOutput
+LFO 2 Rate Synced	0	23	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+Follow Attack	0	4194304	Value	ValueOutput
+Follow Release	0	4194304	Value	ValueOutput
+Follow Volume	0	4194304	Value	ValueOutput
+Blank 1	0	4194304	Value	ValueOutput
+LFO 1 to FX 1: Parameter 1	0	4194304	Value	ValueOutput
+LFO 2 to FX 1: Parameter 1	0	4194304	Value	ValueOutput
+Follow to FX 1: Parameter 1	0	4194304	Value	ValueOutput
+LFO 1 to FX 1: Parameter 2	0	4194304	Value	ValueOutput
+LFO 2 to FX 1: Parameter 2	0	4194304	Value	ValueOutput
+Follow to FX 1: Parameter 2	0	4194304	Value	ValueOutput
+LFO 1 to FX 1: Pan	0	4194304	Value	ValueOutput
+LFO 2 to FX 1: Pan	0	4194304	Value	ValueOutput
+Follow to FX 1: Pan	0	4194304	Value	ValueOutput
+LFO 1 to FX 1: Dry / Wet	0	4194304	Value	ValueOutput
+LFO 2 to FX 1: Dry / Wet	0	4194304	Value	ValueOutput
+Follow to FX 1: Dry / Wet	0	4194304	Value	ValueOutput
+LFO 1 to FX 2: Parameter 1	0	4194304	Value	ValueOutput
+LFO 2 to FX 2: Parameter 1	0	4194304	Value	ValueOutput
+Follow to FX 2: Parameter 1	0	4194304	Value	ValueOutput
+LFO 1 to FX 2: Parameter 2	0	4194304	Value	ValueOutput
+LFO 2 to FX 2: Parameter 2	0	4194304	Value	ValueOutput
+Follow to FX 2: Parameter 2	0	4194304	Value	ValueOutput
+LFO 1 to FX 2: Pan	0	4194304	Value	ValueOutput
+LFO 2 to FX 2: Pan	0	4194304	Value	ValueOutput
+Follow to FX 2: Pan	0	4194304	Value	ValueOutput
+LFO 1 to FX 2: Dry / Wet	0	4194304	Value	ValueOutput
+LFO 2 to FX 2: Dry / Wet	0	4194304	Value	ValueOutput
+Follow to FX 2: Dry / Wet	0	4194304	Value	ValueOutput
+LFO 1 to FX 3: Parameter 1	0	4194304	Value	ValueOutput
+LFO 2 to FX 3: Parameter 1	0	4194304	Value	ValueOutput
+Follow to FX 3: Parameter 1	0	4194304	Value	ValueOutput
+LFO 1 to FX 3: Parameter 2	0	4194304	Value	ValueOutput
+LFO 2 to FX 3: Parameter 2	0	4194304	Value	ValueOutput
+Follow to FX 3: Parameter 2	0	4194304	Value	ValueOutput
+LFO 1 to FX 3: Pan	0	4194304	Value	ValueOutput
+LFO 2 to FX 3: Pan	0	4194304	Value	ValueOutput
+Follow to FX 3: Pan	0	4194304	Value	ValueOutput
+LFO 1 to FX 3: Dry / Wet	0	4194304	Value	ValueOutput
+LFO 2 to FX 3: Dry / Wet	0	4194304	Value	ValueOutput
+Follow to FX 3: Dry / Wet	0	4194304	Value	ValueOutput
+LFO 1 to Master: Dry / Wet	0	4194304	Value	ValueOutput
+LFO 2 to Master: Dry / Wet	0	4194304	Value	ValueOutput
+Follow to Master: Dry / Wet	0	4194304	Value	ValueOutput
+LFO 1 to Master: Volume	0	4194304	Value	ValueOutput
+LFO 2 to Master: Volume	0	4194304	Value	ValueOutput
+Follow to Master: Volume	0	4194304	Value	ValueOutput
+Blank 2	0	4194304	Value	ValueOutput
+Blank 3	0	4194304	Value	ValueOutput
+Blank 4	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

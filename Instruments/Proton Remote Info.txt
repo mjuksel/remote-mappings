@@ -1,0 +1,305 @@
+Scope
+Manufacturer	Model
+LoveOne	se.loveone.Protron
+
+Remotable	Min	Max	Input type	Output type
+Emitter Position	0	4194304	Value	ValueOutput
+Emitter Size	0	4194304	Value	ValueOutput
+Emitter Fluctuation	0	4194304	Value	ValueOutput
+Emitter Precision	0	4194304	Value	ValueOutput
+Particle Lifetime	0	4194304	Value	ValueOutput
+Particle Type	0	4	Value	ValueOutput
+Emitter Stereo Width	0	4194304	Value	ValueOutput
+Emitter Rate (Free)	0	4194304	Value	ValueOutput
+Emitter Rate (Sync)	0	14	Value	ValueOutput
+Emitter Tempo Sync	0	1	Toggle	ValueOutput
+Emitter Key Sync	0	1	Toggle	ValueOutput
+Emitter Reverse %	0	4194304	Value	ValueOutput
+Tuning Octaves	0	6	Value	ValueOutput
+Tuning Semitones	0	24	Value	ValueOutput
+Tuning Cents	0	200	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Root Note	0	256	Value	ValueOutput
+Pitch Quantize	0	2	Value	ValueOutput
+Filter 1 On	0	1	Toggle	ValueOutput
+Filter 1 Type	0	4	Value	ValueOutput
+Filter 1 Cutoff	0	4194304	Value	ValueOutput
+Filter 1 Resonance	0	4194304	Value	ValueOutput
+Filter 2 On	0	1	Toggle	ValueOutput
+Filter 2 Type	0	4	Value	ValueOutput
+Filter 2 Cutoff	0	4194304	Value	ValueOutput
+Filter 2 Resonance	0	4194304	Value	ValueOutput
+Filter Route	0	1	Toggle	ValueOutput
+Phaser On	0	1	Toggle	ValueOutput
+Phaser Rate (Free)	0	4194304	Value	ValueOutput
+Phaser Rate (Sync)	0	27	Value	ValueOutput
+Phaser Tuning	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Resonance	0	4194304	Value	ValueOutput
+Phaser Stereo Width	0	4194304	Value	ValueOutput
+Phaser Tempo Sync	0	1	Toggle	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Delay On	0	1	Toggle	ValueOutput
+Delay Length (Free)	0	4194304	Value	ValueOutput
+Delay Length (Sync)	0	16	Value	ValueOutput
+Delay Right Channel Time Offset (Free)	0	4194304	Value	ValueOutput
+Delay Right Channel Time Offset (Sync)	0	16	Value	ValueOutput
+Delay Ping Pong	0	1	Toggle	ValueOutput
+Delay Tempo Sync	0	1	Toggle	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Filter On	0	1	Toggle	ValueOutput
+Delay Filter Cutoff	0	4194304	Value	ValueOutput
+Delay Filter Resonance	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Amp Envelope Attack	0	4194304	Value	ValueOutput
+Amp Envelope Decay	0	4194304	Value	ValueOutput
+Amp Envelope Sustain	0	4194304	Value	ValueOutput
+Amp Envelope Release	0	4194304	Value	ValueOutput
+Amplifier Velocity	0	4194304	Value	ValueOutput
+Velocity Depth	0	4194304	Value	ValueOutput
+Velocity Destination	0	62	Value	ValueOutput
+LFO 1 Rate (Free)	0	4194304	Value	ValueOutput
+LFO 1 Rate (Sync)	0	27	Value	ValueOutput
+LFO 1 Wave Shape	0	4194304	Value	ValueOutput
+LFO 1 Randomization	0	4194304	Value	ValueOutput
+LFO 1 Depth 1	0	4194304	Value	ValueOutput
+LFO 1 Destination 1	0	62	Value	ValueOutput
+LFO 1 Depth 2	0	4194304	Value	ValueOutput
+LFO 1 Destination 2	0	62	Value	ValueOutput
+LFO 1 Tempo Sync	0	1	Toggle	ValueOutput
+LFO 1 Key Sync	0	1	Toggle	ValueOutput
+LFO 1 Phase Offset	0	4194304	Value	ValueOutput
+LFO 2 Rate (Free)	0	4194304	Value	ValueOutput
+LFO 2 Rate (Sync)	0	27	Value	ValueOutput
+LFO 2 Wave Shape	0	4194304	Value	ValueOutput
+LFO 2 Randomization	0	4194304	Value	ValueOutput
+LFO 2 Depth 1	0	4194304	Value	ValueOutput
+LFO 2 Destination 1	0	62	Value	ValueOutput
+LFO 2 Depth 2	0	4194304	Value	ValueOutput
+LFO 2 Destination 2	0	62	Value	ValueOutput
+LFO 2 Tempo Sync	0	1	Toggle	ValueOutput
+LFO 2 Key Sync	0	1	Toggle	ValueOutput
+LFO 2 Phase Offset	0	4194304	Value	ValueOutput
+Mod Envelope Length Free	0	4194304	Value	ValueOutput
+Mod Envelope Length Sync	0	27	Value	ValueOutput
+Mod Envelope Sync	0	1	Toggle	ValueOutput
+Mod Envelope Loop	0	7	Value	ValueOutput
+Mod Envelope Depth 1	0	4194304	Value	ValueOutput
+Mod Envelope Destination 1	0	62	Value	ValueOutput
+Mod Envelope Depth 2	0	4194304	Value	ValueOutput
+Mod Envelope Destination 2	0	62	Value	ValueOutput
+Mod Envelope Sustain Point	0	16	Value	ValueOutput
+Mod Envelope 2 Length Free	0	4194304	Value	ValueOutput
+Mod Envelope 2 Length Sync	0	27	Value	ValueOutput
+Mod Envelope 2 Sync	0	1	Toggle	ValueOutput
+Mod Envelope 2 Loop	0	7	Value	ValueOutput
+Mod Envelope 2 Sustain Point	0	16	Value	ValueOutput
+Mod Wheel On	0	1	Toggle	ValueOutput
+Mod Wheel Depth	0	4194304	Value	ValueOutput
+Mod Wheel Destination	0	62	Value	ValueOutput
+Mod Wheel LFO 1 Depth Modulation	0	4194304	Value	ValueOutput
+Mod Wheel LFO 2 Depth Modulation	0	4194304	Value	ValueOutput
+Random Noise Type	0	2	Value	ValueOutput
+Random Noise Mean	0	4194304	Value	ValueOutput
+Random Noise Variance	0	4194304	Value	ValueOutput
+Random Noise Filter Cutoff	0	4194304	Value	ValueOutput
+Emitter Position Keyboard Tracking On	0	1	Toggle	ValueOutput
+Emitter Position Keyboard Tracking	0	4194304	Value	ValueOutput
+Tuning Keyboard Tracking On	0	1	Toggle	ValueOutput
+Tuning Keyboard Tracking	0	4194304	Value	ValueOutput
+Filter 1 Cutoff Keyboard Tracking On	0	1	Toggle	ValueOutput
+Filter 1 Cutoff Keyboard Tracking	0	4194304	Value	ValueOutput
+Filter 2 Cutoff Keyboard Tracking On	0	1	Toggle	ValueOutput
+Filter 2 Cutoff Keyboard Tracking	0	4194304	Value	ValueOutput
+Reverb On	0	1	Toggle	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb Stereo Width	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+EQ On	0	1	Toggle	ValueOutput
+EQ Low Shelf On	0	1	Toggle	ValueOutput
+EQ Low Shelf Frequency	0	4194304	Value	ValueOutput
+EQ Low Shelf Q	0	4194304	Value	ValueOutput
+EQ Low Shelf Gain	0	4194304	Value	ValueOutput
+EQ Param 1 On	0	1	Toggle	ValueOutput
+EQ Param 1 Frequency	0	4194304	Value	ValueOutput
+EQ Param 1 Q	0	4194304	Value	ValueOutput
+EQ Param 1 Gain	0	4194304	Value	ValueOutput
+EQ Param 2 On	0	1	Toggle	ValueOutput
+EQ Param 2 Frequency	0	4194304	Value	ValueOutput
+EQ Param 2 Q	0	4194304	Value	ValueOutput
+EQ Param 2 Gain	0	4194304	Value	ValueOutput
+EQ High Shelf On	0	1	Toggle	ValueOutput
+EQ High Shelf Frequency	0	4194304	Value	ValueOutput
+EQ High Shelf Q	0	4194304	Value	ValueOutput
+EQ High Shelf Gain	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 8 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 8 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 8 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 8 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 8 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 9 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 9 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 9 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 9 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 9 Scaling Source	0	18	Value	ValueOutput
+Page	0	2	-	ValueOutput
+Show Mod Matrix	0	1	-	ValueOutput
+Emitter Mode	0	2	Value	ValueOutput
+Amp Envelope On	0	1	Toggle	ValueOutput
+Amp Envelope Sync	0	1	Toggle	ValueOutput
+Polyphony Voices	0	15	Value	ValueOutput
+Key Mode	0	1	Toggle	ValueOutput
+Mod Envelope Select	0	1	-	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 0 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 0 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 0 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 0 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 0 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 1 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 1 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 1 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 1 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 1 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 2 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 2 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 2 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 2 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 2 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 3 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 3 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 3 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 3 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 3 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 4 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 4 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 4 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 4 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 4 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 5 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 5 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 5 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 5 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 5 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 6 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 6 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 6 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 6 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 6 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 7 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 7 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 7 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 7 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 7 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 10 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 10 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 10 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 10 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 10 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 11 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 11 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 11 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 11 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 11 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 12 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 12 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 12 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 12 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 12 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 13 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 13 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 13 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 13 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 13 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 14 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 14 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 14 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 14 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 14 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 15 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 15 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 15 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 15 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 15 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 16 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 16 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 16 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 16 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 16 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 17 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 17 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 17 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 17 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 17 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 18 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 18 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 18 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 18 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 18 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 19 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 19 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 19 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 19 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 19 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 20 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 20 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 20 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 20 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 20 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 21 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 21 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 21 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 21 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 21 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 22 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 22 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 22 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 22 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 22 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 23 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 23 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 23 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 23 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 23 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 24 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 24 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 24 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 24 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 24 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 25 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 25 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 25 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 25 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 25 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 26 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 26 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 26 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 26 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 26 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 27 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 27 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 27 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 27 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 27 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 28 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 28 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 28 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 28 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 28 Scaling Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 29 Source	0	18	Value	ValueOutput
+Modulation Matrix Slot 29 Amount	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 29 Destination	0	62	Value	ValueOutput
+Modulation Matrix Slot 29 Scaling	0	4194304	Value	ValueOutput
+Modulation Matrix Slot 29 Scaling Source	0	18	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Record Sample	0	0	Trig	TextOutput

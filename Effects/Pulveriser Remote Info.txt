@@ -1,0 +1,36 @@
+Scope
+Manufacturer	Model
+Propellerheads	Pulveriser
+
+Remotable	Min	Max	Input type	Output type
+Squash	0	127	Value	ValueOutput
+Release	0	127	Value	ValueOutput
+Dirt	0	127	Value	ValueOutput
+Tone	0	127	Value	ValueOutput
+Routing	0	1	Toggle	ValueOutput
+Filter Frequency	0	127	Value	ValueOutput
+Peak	0	127	Value	ValueOutput
+Filter Mode	0	5	Value	ValueOutput
+Tremor to Frequency	-64	63	Value	ValueOutput
+Follower to Frequency	-64	63	Value	ValueOutput
+Follower Trig	0	1	Hold	ValueOutput
+Follower Threshold	0	127	Value	ValueOutput
+Follower Attack	0	127	Value	ValueOutput
+Follower Release	0	127	Value	ValueOutput
+Tremor Rate	0	127	Value	ValueOutput
+Tremor Waveform	0	8	Value	ValueOutput
+Sync	0	1	Toggle	ValueOutput
+Tremor Spread	0	1	Toggle	ValueOutput
+Tremor Lag	0	127	Value	ValueOutput
+Follower to Rate	-64	63	Value	ValueOutput
+Blend	0	127	Value	ValueOutput
+Tremor to Volume	-64	63	Value	ValueOutput
+Volume	0	127	Value	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Follow	0	7	-	ValueOutput
+Input Peak Meter	0	7	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

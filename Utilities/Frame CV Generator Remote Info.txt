@@ -1,0 +1,35 @@
+Scope
+Manufacturer	Model
+Speo	com.speomusic.FrameCV
+
+Remotable	Min	Max	Input type	Output type
+Position	0	4194304	Value	ValueOutput
+Trigger	0	1	Toggle	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+TSync	0	1	Toggle	ValueOutput
+SynSpeed	0	15	Value	ValueOutput
+Mod 1 Polarity	0	1	Toggle	ValueOutput
+Mod 2 Polarity	0	1	Toggle	ValueOutput
+Mod 3 Polarity	0	1	Toggle	ValueOutput
+Mod 4 Polarity	0	1	Toggle	ValueOutput
+Mod 5 Polarity	0	1	Toggle	ValueOutput
+Mod 6 Polarity	0	1	Toggle	ValueOutput
+Mod 1 Invert	0	1	Toggle	ValueOutput
+Mod 2 Invert	0	1	Toggle	ValueOutput
+Mod 3 Invert	0	1	Toggle	ValueOutput
+Mod 4 Invert	0	1	Toggle	ValueOutput
+Mod 5 Invert	0	1	Toggle	ValueOutput
+Mod 6 Invert	0	1	Toggle	ValueOutput
+Mod 1 Scale	0	4194304	Value	ValueOutput
+Mod 2 Scale	0	4194304	Value	ValueOutput
+Mod 3 Scale	0	4194304	Value	ValueOutput
+Mod 4 Scale	0	4194304	Value	ValueOutput
+Mod 5 Scale	0	4194304	Value	ValueOutput
+Mod 6 Scale	0	4194304	Value	ValueOutput
+Show All Mods	0	1	Toggle	ValueOutput
+Mod Selector	0	5	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,195 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Complex
+
+Remotable	Min	Max	Input type	Output type
+Osc 1 AM Amt	0	4194304	Value	ValueOutput
+Osc 1 FM Amt	0	4194304	Value	ValueOutput
+Osc 1 Pitch	0	72	Value	ValueOutput
+Osc 1 Pitch Amt	0	4194304	Value	ValueOutput
+Osc 1 Shape	0	4194304	Value	ValueOutput
+Osc 1 Shape Amt	0	4194304	Value	ValueOutput
+Osc 1 Tune	0	4194304	Value	ValueOutput
+Osc 1 Wave	0	2	Value	ValueOutput
+Osc 2 AM Amt	0	4194304	Value	ValueOutput
+Osc 2 FM Amt	0	4194304	Value	ValueOutput
+Osc 2 Pitch	0	72	Value	ValueOutput
+Osc 2 Pitch Amt	0	4194304	Value	ValueOutput
+Osc 2 Shape	0	4194304	Value	ValueOutput
+Osc 2 Shape Amt	0	4194304	Value	ValueOutput
+Osc 2 Tune	0	4194304	Value	ValueOutput
+Osc 2 Wave	0	2	Value	ValueOutput
+Osc Mix	0	4194304	Value	ValueOutput
+Osc Mix Amt	0	4194304	Value	ValueOutput
+Osc Sync	0	1	Toggle	ValueOutput
+Osc1 To Osc2 AM	0	4194304	Value	ValueOutput
+Osc1 To Osc2 FM	0	4194304	Value	ValueOutput
+Osc 3 Pitch	0	72	Value	ValueOutput
+Osc 3 Pitch Amt1	0	4194304	Value	ValueOutput
+Osc 3 Pitch Amt2	0	4194304	Value	ValueOutput
+Osc 3 Range	0	4194304	Value	ValueOutput
+Osc 3 Shape	0	4194304	Value	ValueOutput
+Osc 3 Shape Amt	0	4194304	Value	ValueOutput
+Noise Color	0	4194304	Value	ValueOutput
+Noise Color Amt	0	4194304	Value	ValueOutput
+Noise Rate	0	4194304	Value	ValueOutput
+Noise Rate Amt	0	4194304	Value	ValueOutput
+Noise Type	0	6	Value	ValueOutput
+Shaper Drive	0	4194304	Value	ValueOutput
+Shaper Drive Amt	0	4194304	Value	ValueOutput
+Shaper Sym	0	4194304	Value	ValueOutput
+Shaper Sym Amt	0	4194304	Value	ValueOutput
+Shaper Type	0	5	Value	ValueOutput
+Comb DryWet	0	4194304	Value	ValueOutput
+Comb FB	0	4194304	Value	ValueOutput
+Comb FB Amt	0	4194304	Value	ValueOutput
+Comb Freq	0	4194304	Value	ValueOutput
+Comb Freq Amt	0	4194304	Value	ValueOutput
+Comb Gain	0	4194304	Value	ValueOutput
+Comb Peak	0	4194304	Value	ValueOutput
+Comb Peak Amt	0	4194304	Value	ValueOutput
+Comb Pitch	0	4194304	Value	ValueOutput
+Comb Pitch Amt	0	4194304	Value	ValueOutput
+Comb Pitch To Freq	0	1	Toggle	ValueOutput
+Filter Drive	0	4194304	Value	ValueOutput
+Filter FM Amt	0	4194304	Value	ValueOutput
+Filter Freq	0	4194304	Value	ValueOutput
+Filter Freq Amt1	0	4194304	Value	ValueOutput
+Filter Freq Amt2	0	4194304	Value	ValueOutput
+Filter Reso	0	4194304	Value	ValueOutput
+Filter Reso Amt	0	4194304	Value	ValueOutput
+LPG1 Attack	0	4194304	Value	ValueOutput
+LPG 1 Attack Amt	0	4194304	Value	ValueOutput
+LPG 1 Filter	0	4194304	Value	ValueOutput
+LPG 1 Release	0	4194304	Value	ValueOutput
+LPG 1 Release Amt	0	4194304	Value	ValueOutput
+LPG 2 Attack	0	4194304	Value	ValueOutput
+LPG 2 Attack Amt	0	4194304	Value	ValueOutput
+LPG 2 Filter	0	4194304	Value	ValueOutput
+LPG 2 Release	0	4194304	Value	ValueOutput
+LPG 2 Release Amt	0	4194304	Value	ValueOutput
+Vol 1	0	4194304	Value	ValueOutput
+Vol 2	0	4194304	Value	ValueOutput
+Vol 3	0	4194304	Value	ValueOutput
+Pan 1	0	4194304	Value	ValueOutput
+Pan 1 Amt	0	4194304	Value	ValueOutput
+Pan 2	0	4194304	Value	ValueOutput
+Pan 3	0	4194304	Value	ValueOutput
+Pan 3 Amt	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Rate Amt	0	4194304	Value	ValueOutput
+LFO Wave	0	9	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Mix 1 Amt	0	4194304	Value	ValueOutput
+Mix 2 Amt	0	4194304	Value	ValueOutput
+Mix 3 Amt	0	4194304	Value	ValueOutput
+Lag	0	4194304	Value	ValueOutput
+Amp 1 Amt	0	4194304	Value	ValueOutput
+Amp 2 Amt	0	4194304	Value	ValueOutput
+Amp 3 Amt	0	4194304	Value	ValueOutput
+Clock 1 Len	0	4194304	Value	ValueOutput
+Clock 1 Rate	0	17	Value	ValueOutput
+Clock 2 Len	0	4194304	Value	ValueOutput
+Clock 2 Rate	0	17	Value	ValueOutput
+Clock Rate Multiply	0	4	Value	ValueOutput
+Follow Host	0	1	Toggle	ValueOutput
+Scale	0	4095	Value	ValueOutput
+Seq Len	0	15	Value	ValueOutput
+Note Range	0	84	Value	ValueOutput
+Function Select	0	7	Value	ValueOutput
+Quant Range	0	84	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Level	0	4194304	Value	ValueOutput
+Reverb On	0	1	Toggle	ValueOutput
+Reverb Type	0	5	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Auto	0	1	Toggle	ValueOutput
+Bend Range	0	24	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Retrig	0	1	Toggle	ValueOutput
+Osc 2 Pitch In	0	46	Value	ValueOutput
+Osc2 Shape In	0	46	Value	ValueOutput
+Osc1 To Osc2 FM In	0	46	Value	ValueOutput
+Osc1 To Osc2 AM In	0	46	Value	ValueOutput
+Osc 1 Shape In	0	46	Value	ValueOutput
+Osc 1 FM In	0	46	Value	ValueOutput
+Osc 1 AM In	0	46	Value	ValueOutput
+Env Trig In	0	46	Value	ValueOutput
+Output Mixer 2 In	0	46	Value	ValueOutput
+Amp 1 In1	0	46	Value	ValueOutput
+Amp 1 In2	0	46	Value	ValueOutput
+Filter In	0	46	Value	ValueOutput
+Filter FM In	0	46	Value	ValueOutput
+Filter Freq In1	0	46	Value	ValueOutput
+Osc 1 Pitch In	0	46	Value	ValueOutput
+Osc Pitch In	0	46	Value	ValueOutput
+Filter Freq In2	0	46	Value	ValueOutput
+LFO Rate In	0	46	Value	ValueOutput
+Shaper In	0	46	Value	ValueOutput
+Amp 2 In2	0	46	Value	ValueOutput
+Output Mixer 1 In	0	46	Value	ValueOutput
+Shaper Drive In	0	46	Value	ValueOutput
+Shaper Sym In	0	46	Value	ValueOutput
+Osc Mix In	0	46	Value	ValueOutput
+Lag Rate In	0	46	Value	ValueOutput
+Lag In	0	46	Value	ValueOutput
+Output Mixer 3 In	0	46	Value	ValueOutput
+LFO Reset In	0	46	Value	ValueOutput
+ClockEnable 2 In	0	46	Value	ValueOutput
+LPG 1 In	0	46	Value	ValueOutput
+LPG 1 Trig In	0	46	Value	ValueOutput
+LPG 1 Rate In	0	46	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Noise Sync In	0	46	Value	ValueOutput
+Noise Color In	0	46	Value	ValueOutput
+Noise Rate In	0	46	Value	ValueOutput
+Comb In	0	46	Value	ValueOutput
+Comb Pitch In	0	46	Value	ValueOutput
+Comb FB In	0	46	Value	ValueOutput
+Comb Freq In	0	46	Value	ValueOutput
+Comb Peak In	0	46	Value	ValueOutput
+Pan In	0	46	Value	ValueOutput
+Amp 2 In1	0	46	Value	ValueOutput
+Amp 3 In1	0	46	Value	ValueOutput
+Amp 3 In2	0	46	Value	ValueOutput
+Vol 2 In	0	46	Value	ValueOutput
+Vol 1 In	0	46	Value	ValueOutput
+Vol 3 In	0	46	Value	ValueOutput
+Quant 2 In	0	46	Value	ValueOutput
+Seq Step In	0	46	Value	ValueOutput
+Filter Reso In	0	46	Value	ValueOutput
+Mix 1 In1	0	46	Value	ValueOutput
+Mix 1 In2	0	46	Value	ValueOutput
+Mix 2 In1	0	46	Value	ValueOutput
+Mix 2 In2	0	46	Value	ValueOutput
+Osc 3 Pitch In2	0	46	Value	ValueOutput
+Osc 3 Shape In	0	46	Value	ValueOutput
+Osc 3 Pitch In1	0	46	Value	ValueOutput
+Seq Reset In	0	46	Value	ValueOutput
+Note Offset	0	46	Value	ValueOutput
+Function X In	0	46	Value	ValueOutput
+Function Y In	0	46	Value	ValueOutput
+CV1 In	0	46	Value	ValueOutput
+CV2 In	0	46	Value	ValueOutput
+Clock Multiply In	0	46	Value	ValueOutput
+Mix 3 In1	0	46	Value	ValueOutput
+Mix 3 In2	0	46	Value	ValueOutput
+LPG 1 EnvF In	0	46	Value	ValueOutput
+Scope In	0	46	Value	ValueOutput
+Scope Speed	0	4194304	Value	ValueOutput
+LPG 2 In	0	46	Value	ValueOutput
+LPG 2 Trig In	0	46	Value	ValueOutput
+LPG 2 Rate In	0	46	Value	ValueOutput
+LPG 2 EnvF In	0	46	Value	ValueOutput
+Osc 2 FM In	0	46	Value	ValueOutput
+Osc 2 AM In	0	46	Value	ValueOutput
+Seq Pos	0	15	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

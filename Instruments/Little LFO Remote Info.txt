@@ -1,0 +1,84 @@
+Scope
+Manufacturer	Model
+Little IO	org.tytel.littlelfo
+
+Remotable	Min	Max	Input type	Output type
+Active 1	0	1	Toggle	ValueOutput
+Amplitude 1	0	4194304	Value	ValueOutput
+Phase 1	0	4194304	Value	ValueOutput
+Pulse Width 1	0	4194304	Value	ValueOutput
+Waveform1	0	14	Value	ValueOutput
+Keyboard Sync 1	0	1	Toggle	ValueOutput
+Source 1	0	2	Value	ValueOutput
+Frequency 1	0	4194304	Value	ValueOutput
+Frequency Synced 1	0	23	Value	ValueOutput
+Frequency Midi 1	0	4194304	Value	ValueOutput
+Fine 1	0	4194304	Value	ValueOutput
+Correction 1	0	4194304	Value	ValueOutput
+Portamento 1	0	4194304	Value	ValueOutput
+Amplitude Modulation 1	0	4194304	Value	ValueOutput
+Frequency Modulation 1	0	4194304	Value	ValueOutput
+Phase Modulation 1	0	4194304	Value	ValueOutput
+Modulation Sync 1	0	1	Toggle	ValueOutput
+Active 2	0	1	Toggle	ValueOutput
+Amplitude 2	0	4194304	Value	ValueOutput
+Phase 2	0	4194304	Value	ValueOutput
+Pulse Width 2	0	4194304	Value	ValueOutput
+Waveform2	0	14	Value	ValueOutput
+Keyboard Sync 2	0	1	Toggle	ValueOutput
+Source 2	0	2	Value	ValueOutput
+Frequency 2	0	4194304	Value	ValueOutput
+Frequency Synced 2	0	23	Value	ValueOutput
+Frequency Midi 2	0	4194304	Value	ValueOutput
+Fine 2	0	4194304	Value	ValueOutput
+Correction 2	0	4194304	Value	ValueOutput
+Portamento 2	0	4194304	Value	ValueOutput
+Amplitude Modulation 2	0	4194304	Value	ValueOutput
+Frequency Modulation 2	0	4194304	Value	ValueOutput
+Phase Modulation 2	0	4194304	Value	ValueOutput
+Modulation Sync 2	0	1	Toggle	ValueOutput
+Active 3	0	1	Toggle	ValueOutput
+Amplitude 3	0	4194304	Value	ValueOutput
+Phase 3	0	4194304	Value	ValueOutput
+Pulse Width 3	0	4194304	Value	ValueOutput
+Waveform3	0	14	Value	ValueOutput
+Keyboard Sync 3	0	1	Toggle	ValueOutput
+Source 3	0	2	Value	ValueOutput
+Frequency 3	0	4194304	Value	ValueOutput
+Frequency Synced 3	0	23	Value	ValueOutput
+Frequency Midi 3	0	4194304	Value	ValueOutput
+Fine 3	0	4194304	Value	ValueOutput
+Correction 3	0	4194304	Value	ValueOutput
+Portamento 3	0	4194304	Value	ValueOutput
+Amplitude Modulation 3	0	4194304	Value	ValueOutput
+Frequency Modulation 3	0	4194304	Value	ValueOutput
+Phase Modulation 3	0	4194304	Value	ValueOutput
+Modulation Sync 3	0	1	Toggle	ValueOutput
+Active 4	0	1	Toggle	ValueOutput
+Amplitude 4	0	4194304	Value	ValueOutput
+Phase 4	0	4194304	Value	ValueOutput
+Pulse Width 4	0	4194304	Value	ValueOutput
+Waveform4	0	14	Value	ValueOutput
+Keyboard Sync 4	0	1	Toggle	ValueOutput
+Source 4	0	2	Value	ValueOutput
+Frequency 4	0	4194304	Value	ValueOutput
+Frequency Synced 4	0	23	Value	ValueOutput
+Frequency Midi 4	0	4194304	Value	ValueOutput
+Fine 4	0	4194304	Value	ValueOutput
+Correction 4	0	4194304	Value	ValueOutput
+Portamento 4	0	4194304	Value	ValueOutput
+Amplitude Modulation 4	0	4194304	Value	ValueOutput
+Frequency Modulation 4	0	4194304	Value	ValueOutput
+Phase Modulation 4	0	4194304	Value	ValueOutput
+Modulation Sync 4	0	1	Toggle	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Legato	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

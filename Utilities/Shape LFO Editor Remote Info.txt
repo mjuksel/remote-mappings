@@ -1,0 +1,24 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.Shape
+
+Remotable	Min	Max	Input type	Output type
+Bands	0	14	Value	ValueOutput
+Trigger	0	1	Toggle	ValueOutput
+Run Mode	0	2	Value	ValueOutput
+Sync	0	1	Toggle	ValueOutput
+Rate Synced	0	23	Value	ValueOutput
+Rate Free	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Phase Spread	0	4194304	Value	ValueOutput
+Shuffle	0	4194304	Value	ValueOutput
+Skew	0	4194304	Value	ValueOutput
+Start Position	0	4194304	Value	ValueOutput
+End Position	0	4194304	Value	ValueOutput
+Lag	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

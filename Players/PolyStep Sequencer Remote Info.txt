@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.PolyStepSequencer
+
+Remotable	Min	Max	Input type	Output type
+Variation 1 Trigger	0	1	Toggle	ValueOutput
+Variation 2 Trigger	0	1	Toggle	ValueOutput
+Variation 3 Trigger	0	1	Toggle	ValueOutput
+Variation 4 Trigger	0	1	Toggle	ValueOutput
+P1 Key	0	11	Value	ValueOutput
+P1 Scale	0	20	Value	ValueOutput
+P1 Auto Switch	0	4	Value	ValueOutput
+P2 Key	0	11	Value	ValueOutput
+P2 Scale	0	20	Value	ValueOutput
+P2 Auto Switch	0	4	Value	ValueOutput
+P3 Key	0	11	Value	ValueOutput
+P3 Scale	0	20	Value	ValueOutput
+P3 Auto Switch	0	4	Value	ValueOutput
+P4 Key	0	11	Value	ValueOutput
+P4 Scale	0	20	Value	ValueOutput
+P4 Auto Switch	0	4	Value	ValueOutput
+P5 Key	0	11	Value	ValueOutput
+P5 Scale	0	20	Value	ValueOutput
+P5 Auto Switch	0	4	Value	ValueOutput
+P6 Key	0	11	Value	ValueOutput
+P6 Scale	0	20	Value	ValueOutput
+P6 Auto Switch	0	4	Value	ValueOutput
+P7 Key	0	11	Value	ValueOutput
+P7 Scale	0	20	Value	ValueOutput
+P7 Auto Switch	0	4	Value	ValueOutput
+P8 Key	0	11	Value	ValueOutput
+P8 Scale	0	20	Value	ValueOutput
+P8 Auto Switch	0	4	Value	ValueOutput
+On	0	1	Toggle	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Run Mode	0	1	Toggle	ValueOutput
+Midi Transpose	0	2	Value	ValueOutput
+Pattern Select	-1	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,68 @@
+Scope
+Manufacturer	Model
+Impact Soundworks	com.isworks.SAC
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Amp velocity	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Note Length	0	4194304	Value	ValueOutput
+Sample Start	0	4194304	Value	ValueOutput
+Monophonic	0	1	Toggle	ValueOutput
+Arp Enabled	0	1	Toggle	ValueOutput
+Arp Pitch Enabled	0	1	Toggle	ValueOutput
+Arp Length Enabled	0	1	Toggle	ValueOutput
+Arp Volume Enabled	0	1	Toggle	ValueOutput
+Arp Pan Enabled	0	1	Toggle	ValueOutput
+Arp Cutoff Enabled	0	1	Toggle	ValueOutput
+Arp Rate	0	13	Value	ValueOutput
+Arp Free Rate	0	4194304	Value	ValueOutput
+Arp Sync	0	1	Toggle	ValueOutput
+Arp Swing	0	50	Value	ValueOutput
+Arp Order	0	3	Value	ValueOutput
+Arp Steps	0	31	Value	ValueOutput
+Arp End	0	2	Value	ValueOutput
+Arp Snap	0	11	Value	ValueOutput
+Arp Mode	0	2	Value	ValueOutput
+Filter Enabled	0	1	Toggle	ValueOutput
+Filter Mode	0	11	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Attack	0	4194304	Value	ValueOutput
+Filter Decay	0	4194304	Value	ValueOutput
+Filter Sustain	0	4194304	Value	ValueOutput
+Filter Release	0	4194304	Value	ValueOutput
+Filter Depth	0	4194304	Value	ValueOutput
+Pitch Sustain	0	4194304	Value	ValueOutput
+Cutoff Modwheel Amount	0	4194304	Value	ValueOutput
+Filter Env Modwheel Amount	0	4194304	Value	ValueOutput
+Vibrato Depth	0	4194304	Value	ValueOutput
+Vibrato Rate	0	4194304	Value	ValueOutput
+Vibrato Waveform	0	3	Value	ValueOutput
+Pitch Attack	0	4194304	Value	ValueOutput
+Pitch Decay	0	4194304	Value	ValueOutput
+Pitch Release	0	4194304	Value	ValueOutput
+Pitch Depth	0	4194304	Value	ValueOutput
+Pitch Tracking	0	1	Toggle	ValueOutput
+Fixed Note	0	103	Value	ValueOutput
+Fine Tune	0	4194304	Value	ValueOutput
+Semitone Offset	0	4194304	Value	ValueOutput
+Portamento Mode	0	2	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Pitch Bend Range	0	12	Value	ValueOutput
+Selected Lane	0	4	-	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

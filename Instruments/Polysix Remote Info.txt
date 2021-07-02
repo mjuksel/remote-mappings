@@ -1,0 +1,72 @@
+Scope
+Manufacturer	Model
+KORG	jp.co.korg.Polysix
+
+Remotable	Min	Max	Input type	Output type
+HOLD	0	1	Toggle	ValueOutput
+KEY ASSIGN	0	1	Toggle	ValueOutput
+UNISON VOICES	0	15	Value	ValueOutput
+TOTAL VOICES	0	31	Value	ValueOutput
+UNISON DETUNE	0	4194304	Value	ValueOutput
+UNISON SPREAD	0	4194304	Value	ValueOutput
+ANALOG	0	4194304	Value	ValueOutput
+VCO VIBRATO INT	0	4194304	Value	ValueOutput
+VCO OCTAVE	0	2	Value	ValueOutput
+VCO WAVE FORM	0	2	Value	ValueOutput
+VCO PWM ADJUST	0	4194304	Value	ValueOutput
+VCO PWM SPEED	0	4194304	Value	ValueOutput
+VCO SUB OSC	0	2	Value	ValueOutput
+VCF CUTOFF	0	4194304	Value	ValueOutput
+VCF RESONANCE	0	4194304	Value	ValueOutput
+VCF EG INTENSITY	0	4194304	Value	ValueOutput
+VCF KBD TRACK	0	4194304	Value	ValueOutput
+VCA MODE	0	1	Toggle	ValueOutput
+VCA ATTENUATOR	0	10	Value	ValueOutput
+MG KEY SYNC	0	1	Toggle	ValueOutput
+MG TEMPO SYNC	0	1	Toggle	ValueOutput
+MG BASE NOTE	0	9	Value	ValueOutput
+MG FREQUENCY	0	4194304	Value	ValueOutput
+MG TIMES	0	15	Value	ValueOutput
+MG DELAY TIME	0	4194304	Value	ValueOutput
+MG LEVEL	0	4194304	Value	ValueOutput
+MG DESTINATION	0	2	Value	ValueOutput
+EG ATTACK	0	4194304	Value	ValueOutput
+EG DECAY	0	4194304	Value	ValueOutput
+EG SUSTAIN	0	4194304	Value	ValueOutput
+EG RELEASE	0	4194304	Value	ValueOutput
+PAN	0	4194304	Value	ValueOutput
+VOLUME	0	4194304	Value	ValueOutput
+ARPEGGIO	0	1	Toggle	ValueOutput
+ARP KEY SYNC	0	1	Toggle	ValueOutput
+ARP TEMPO SYNC	0	1	Toggle	ValueOutput
+ARP BASE NOTE	0	9	Value	ValueOutput
+ARP SPEED	0	4194304	Value	ValueOutput
+ARP TIMES	0	15	Value	ValueOutput
+ARP RANGE	0	2	Value	ValueOutput
+ARP MODE	0	2	Value	ValueOutput
+ARP LATCH	0	1	Toggle	ValueOutput
+FX MODE	0	3	Value	ValueOutput
+FX SPREAD	0	4194304	Value	ValueOutput
+FX SPEED	0	4194304	Value	ValueOutput
+PITCH BEND RANGE	0	4194304	Value	ValueOutput
+TRANSPOSE	0	48	Value	ValueOutput
+TUNE	0	4194304	Value	ValueOutput
+EM1 SOURCE	0	7	Value	ValueOutput
+EM1 VCO PW	0	4194304	Value	ValueOutput
+EM1 VCF CUTOFF	0	4194304	Value	ValueOutput
+EM1 VCA GAIN	0	4194304	Value	ValueOutput
+EM1 MG LEVEL	0	4194304	Value	ValueOutput
+EM2 SOURCE	0	7	Value	ValueOutput
+EM2 VCO PW	0	4194304	Value	ValueOutput
+EM2 VCF CUTOFF	0	4194304	Value	ValueOutput
+EM2 VCA GAIN	0	4194304	Value	ValueOutput
+EM2 MG LEVEL	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Quartet
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus DryWet	0	4194304	Value	ValueOutput
+Chorus Feedback	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Width	0	4194304	Value	ValueOutput
+BBD Delay	0	4194304	Value	ValueOutput
+BBD Depth	0	4194304	Value	ValueOutput
+BBD DryWet	0	4194304	Value	ValueOutput
+BBD Noise	0	4194304	Value	ValueOutput
+BBD Rate	0	4194304	Value	ValueOutput
+BBD Width	0	4194304	Value	ValueOutput
+FFT Depth	0	4194304	Value	ValueOutput
+FFT DryWet	0	4194304	Value	ValueOutput
+FFT End	0	4194304	Value	ValueOutput
+FFT Size	0	3	Value	ValueOutput
+FFT Start	0	4194304	Value	ValueOutput
+FFT Width	0	4194304	Value	ValueOutput
+Grain Density	0	4194304	Value	ValueOutput
+Grain Depth	0	4194304	Value	ValueOutput
+Grain DryWet	0	4194304	Value	ValueOutput
+Grain Jitter	0	4194304	Value	ValueOutput
+Grain Phase	0	1	Toggle	ValueOutput
+Grain Size	0	4194304	Value	ValueOutput
+Grain Width	0	4194304	Value	ValueOutput
+Stereo Mode	0	1	Toggle	ValueOutput
+Effect Select	0	3	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

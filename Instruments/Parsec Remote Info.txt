@@ -1,0 +1,154 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Parsec
+
+Remotable	Min	Max	Input type	Output type
+A Mod1 On	0	1	Toggle	ValueOutput
+A Mod2 On	0	1	Toggle	ValueOutput
+A Mod1 Select	0	30	Value	ValueOutput
+A Mod2 Select	0	30	Value	ValueOutput
+A Mod1 X	0	4194304	Value	ValueOutput
+A Mod1 Y	0	4194304	Value	ValueOutput
+A Mod2 X	0	4194304	Value	ValueOutput
+A Mod2 Y	0	4194304	Value	ValueOutput
+A Phase Sync	0	1	Toggle	ValueOutput
+A Cutoff Kbd	0	4194304	Value	ValueOutput
+A Cutoff Freq	0	4194304	Value	ValueOutput
+A Cutoff Slope	0	4194304	Value	ValueOutput
+A Semi	0	12	Value	ValueOutput
+A Oct	0	4	Value	ValueOutput
+A Tune	0	4194304	Value	ValueOutput
+A Pitch Kbd	0	4194304	Value	ValueOutput
+A Gen Select	0	47	Value	ValueOutput
+A Gen X	0	4194304	Value	ValueOutput
+B Enable	0	1	Toggle	ValueOutput
+B Mod1 On	0	1	Toggle	ValueOutput
+B Mod2 On	0	1	Toggle	ValueOutput
+B Mod1 Select	0	30	Value	ValueOutput
+B Mod2 Select	0	30	Value	ValueOutput
+B Mod1 X	0	4194304	Value	ValueOutput
+B Mod1 Y	0	4194304	Value	ValueOutput
+B Mod2 X	0	4194304	Value	ValueOutput
+B Mod2 Y	0	4194304	Value	ValueOutput
+B Phase Sync	0	1	Toggle	ValueOutput
+B Cutoff Kbd	0	4194304	Value	ValueOutput
+B Cutoff Freq	0	4194304	Value	ValueOutput
+B Cutoff Slope	0	4194304	Value	ValueOutput
+B Semi	0	12	Value	ValueOutput
+B Oct	0	4	Value	ValueOutput
+B Tune	0	4194304	Value	ValueOutput
+B Pitch Kbd	0	4194304	Value	ValueOutput
+B Gen Select	0	47	Value	ValueOutput
+B Gen X	0	4194304	Value	ValueOutput
+Env1 Attack	0	4194304	Value	ValueOutput
+Env1 Decay	0	4194304	Value	ValueOutput
+Env1 Sustain	0	4194304	Value	ValueOutput
+Env1 Release	0	4194304	Value	ValueOutput
+Env2 Attack	0	4194304	Value	ValueOutput
+Env2 Decay	0	4194304	Value	ValueOutput
+Env2 Sustain	0	4194304	Value	ValueOutput
+Env2 Release	0	4194304	Value	ValueOutput
+Env2 Delay	0	4194304	Value	ValueOutput
+Env2 Hold	0	4194304	Value	ValueOutput
+Env2 Loop	0	1	Toggle	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+LFO1 Rate	0	4194304	Value	ValueOutput
+LFO1 Delay	0	4194304	Value	ValueOutput
+LFO1 Wave	0	9	Value	ValueOutput
+LFO2 Rate	0	4194304	Value	ValueOutput
+LFO2 Sync	0	1	Toggle	ValueOutput
+LFO2 Wave	0	9	Value	ValueOutput
+LFO2 Synced Rate	0	17	Value	ValueOutput
+Mod1 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod1 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod1 Scale Amt	0	4194304	Value	ValueOutput
+Mod2 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod2 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod2 Scale Amt	0	4194304	Value	ValueOutput
+Mod3 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod3 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod3 Scale Amt	0	4194304	Value	ValueOutput
+Mod4 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod4 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod4 Scale Amt	0	4194304	Value	ValueOutput
+Mod5 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod5 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod5 Scale Amt	0	4194304	Value	ValueOutput
+Mod6 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod6 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod6 Scale Amt	0	4194304	Value	ValueOutput
+Mod7 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod7 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod7 Scale Amt	0	4194304	Value	ValueOutput
+Mod8 Dest1 Amt	0	4194304	Value	ValueOutput
+Mod8 Dest2 Amt	0	4194304	Value	ValueOutput
+Mod8 Scale Amt	0	4194304	Value	ValueOutput
+Delay On	0	1	Toggle	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Time Synced	0	10	Value	ValueOutput
+Delay Sync	0	1	Toggle	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay DryWet	0	4194304	Value	ValueOutput
+Reverb On	0	1	Toggle	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Level	0	4194304	Value	ValueOutput
+Portamento Mode	0	2	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Key Mode	0	2	Value	ValueOutput
+Pitch Bend Range	0	24	Value	ValueOutput
+Balance	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Spread Mode	0	2	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Link Engines	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Mod1 Dest1	0	29	Value	ValueOutput
+Mod1 Dest2	0	29	Value	ValueOutput
+Mod1 Scale	0	22	Value	ValueOutput
+Source 5	0	22	Value	ValueOutput
+Mod2 Dest1	0	29	Value	ValueOutput
+Mod2 Dest2	0	29	Value	ValueOutput
+Mod2 Scale	0	22	Value	ValueOutput
+Mod3 Dest1	0	29	Value	ValueOutput
+Mod3 Dest2	0	29	Value	ValueOutput
+Mod3 Scale	0	22	Value	ValueOutput
+Mod4 Dest1	0	29	Value	ValueOutput
+Mod4 Dest2	0	29	Value	ValueOutput
+Mod4 Scale	0	22	Value	ValueOutput
+Mod5 Dest1	0	29	Value	ValueOutput
+Mod5 Dest2	0	29	Value	ValueOutput
+Mod5 Scale	0	22	Value	ValueOutput
+Source 6	0	22	Value	ValueOutput
+Mod6 Dest1	0	29	Value	ValueOutput
+Mod6 Dest2	0	29	Value	ValueOutput
+Mod6 Scale	0	22	Value	ValueOutput
+Source 7	0	22	Value	ValueOutput
+Mod7 Dest1	0	29	Value	ValueOutput
+Mod7 Dest2	0	29	Value	ValueOutput
+Mod7 Scale	0	22	Value	ValueOutput
+Source 8	0	22	Value	ValueOutput
+Mod8 Dest1	0	29	Value	ValueOutput
+Mod8 Dest2	0	29	Value	ValueOutput
+Mod8 Scale	0	22	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Source 1	0	22	Value	ValueOutput
+Source 2	0	22	Value	ValueOutput
+Source 3	0	22	Value	ValueOutput
+Source 4	0	22	Value	ValueOutput
+NoteOn	0	4194304	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

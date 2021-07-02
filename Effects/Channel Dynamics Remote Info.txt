@@ -1,0 +1,28 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.ChannelDynamics
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Comp On	0	1	Toggle	ValueOutput
+Comp Fast On	0	1	Toggle	ValueOutput
+Comp Peak On	0	1	Toggle	ValueOutput
+Comp Ratio	0	4194304	Value	ValueOutput
+Comp Release	0	4194304	Value	ValueOutput
+Comp Threshold	0	4194304	Value	ValueOutput
+Gate On	0	1	Toggle	ValueOutput
+Gate Fast On	0	1	Toggle	ValueOutput
+Gate Exp On	0	1	Toggle	ValueOutput
+Gate Hold	0	4194304	Value	ValueOutput
+Gate Range	0	4194304	Value	ValueOutput
+Gate Release	0	4194304	Value	ValueOutput
+Gate Threshold	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Sidechain	0	1	Toggle	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Comp Meter	0	5	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

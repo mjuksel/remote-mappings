@@ -1,0 +1,128 @@
+Scope
+Manufacturer	Model
+Skrock Music	se.skrockmusic.Orbis
+
+Remotable	Min	Max	Input type	Output type
+Master Volume	0	4194304	Value	ValueOutput
+Voices	0	3	Value	ValueOutput
+Tune Shift	0	4194304	Value	ValueOutput
+High Shelf	0	4194304	Value	ValueOutput
+Osc One Wave	0	14	Value	ValueOutput
+Osc One Pitch LFO Rate	0	4194304	Value	ValueOutput
+Osc One Pitch LFO Amt	0	4194304	Value	ValueOutput
+Osc One Pitch LFO Attack	0	4194304	Value	ValueOutput
+Osc One Start Env Amt	0	4194304	Value	ValueOutput
+Osc One Start Env Attack	0	4194304	Value	ValueOutput
+Osc One Start Env Decay	0	4194304	Value	ValueOutput
+Osc One Start Env Sustain	0	4194304	Value	ValueOutput
+Osc One Start Env Release	0	4194304	Value	ValueOutput
+Osc One Volume	0	4194304	Value	ValueOutput
+Osc One Start	0	4194304	Value	ValueOutput
+Osc One Start Velocity	0	4194304	Value	ValueOutput
+Osc One Tune	0	4194304	Value	ValueOutput
+Osc One Detune	0	4194304	Value	ValueOutput
+Osc One Start Offset	0	4194304	Value	ValueOutput
+Osc One Spread	0	4194304	Value	ValueOutput
+Osc One Drive	0	4194304	Value	ValueOutput
+Osc One Start LFO Amt	0	4194304	Value	ValueOutput
+Osc One Start LFO Rate	0	4194304	Value	ValueOutput
+Osc One Start LFO Retrig	0	1	Toggle	ValueOutput
+Osc Two Wave	0	14	Value	ValueOutput
+Osc Two Pitch LFO Rate	0	4194304	Value	ValueOutput
+Osc Two Pitch LFO Amt	0	4194304	Value	ValueOutput
+Osc Two Pitch LFO Attack	0	4194304	Value	ValueOutput
+Osc Two Start Env Amt	0	4194304	Value	ValueOutput
+Osc Two Start Env Attack	0	4194304	Value	ValueOutput
+Osc Two Start Env Decay	0	4194304	Value	ValueOutput
+Osc Two Start Env Sustain	0	4194304	Value	ValueOutput
+Osc Two Start Env Release	0	4194304	Value	ValueOutput
+Osc Two Volume	0	4194304	Value	ValueOutput
+Osc Two Start	0	4194304	Value	ValueOutput
+Osc Two Start Velocity	0	4194304	Value	ValueOutput
+Osc Two Tune	0	4194304	Value	ValueOutput
+Osc Two Detune	0	4194304	Value	ValueOutput
+Osc Two Start Offset	0	4194304	Value	ValueOutput
+Osc Two Spread	0	4194304	Value	ValueOutput
+Osc Two Drive	0	4194304	Value	ValueOutput
+Osc Two Start LFO Amt	0	4194304	Value	ValueOutput
+Osc Two Start LFO Rate	0	4194304	Value	ValueOutput
+Osc Two Start LFO Retrig	0	1	Toggle	ValueOutput
+Osc Three Wave	0	14	Value	ValueOutput
+Osc Three Pitch LFO Rate	0	4194304	Value	ValueOutput
+Osc Three Pitch LFO Amt	0	4194304	Value	ValueOutput
+Osc Three Pitch LFO Attack	0	4194304	Value	ValueOutput
+Osc Three Start Env Amt	0	4194304	Value	ValueOutput
+Osc Three Start Env Attack	0	4194304	Value	ValueOutput
+Osc Three Start Env Decay	0	4194304	Value	ValueOutput
+Osc Three Start Env Sustain	0	4194304	Value	ValueOutput
+Osc Three Start Env Release	0	4194304	Value	ValueOutput
+Osc Three Volume	0	4194304	Value	ValueOutput
+Osc Three Start	0	4194304	Value	ValueOutput
+Osc Three Start Velocity	0	4194304	Value	ValueOutput
+Osc Three Tune	0	4194304	Value	ValueOutput
+Osc Three Detune	0	4194304	Value	ValueOutput
+Osc Three Start Offset	0	4194304	Value	ValueOutput
+Osc Three Spread	0	4194304	Value	ValueOutput
+Osc Three Drive	0	4194304	Value	ValueOutput
+Osc Three Start LFO Amt	0	4194304	Value	ValueOutput
+Osc Three Start LFO Rate	0	4194304	Value	ValueOutput
+Osc Three Start LFO Retrig	0	1	Toggle	ValueOutput
+Osc Four Wave	0	14	Value	ValueOutput
+Osc Four Pitch LFO Rate	0	4194304	Value	ValueOutput
+Osc Four Pitch LFO Amt	0	4194304	Value	ValueOutput
+Osc Four Pitch LFO Attack	0	4194304	Value	ValueOutput
+Osc Four Start Env Amt	0	4194304	Value	ValueOutput
+Osc Four Start Env Attack	0	4194304	Value	ValueOutput
+Osc Four Start Env Decay	0	4194304	Value	ValueOutput
+Osc Four Start Env Sustain	0	4194304	Value	ValueOutput
+Osc Four Start Env Release	0	4194304	Value	ValueOutput
+Osc Four Volume	0	4194304	Value	ValueOutput
+Osc Four Start	0	4194304	Value	ValueOutput
+Osc Four Start Velocity	0	4194304	Value	ValueOutput
+Osc Four Tune	0	4194304	Value	ValueOutput
+Osc Four Detune	0	4194304	Value	ValueOutput
+Osc Four Start Offset	0	4194304	Value	ValueOutput
+Osc Four Spread	0	4194304	Value	ValueOutput
+Osc Four Drive	0	4194304	Value	ValueOutput
+Osc Four Start LFO Amt	0	4194304	Value	ValueOutput
+Osc Four Start LFO Rate	0	4194304	Value	ValueOutput
+Osc Four Start LFO Retrig	0	1	Toggle	ValueOutput
+LP24 ON/OFF	0	1	Toggle	ValueOutput
+BP6 ON/OFF	0	1	Toggle	ValueOutput
+HP24 ON/OFF	0	1	Toggle	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Env	0	4194304	Value	ValueOutput
+Filter Attack	0	4194304	Value	ValueOutput
+Filter Decay	0	4194304	Value	ValueOutput
+Filter Sustain	0	4194304	Value	ValueOutput
+Filter Release	0	4194304	Value	ValueOutput
+Filter Velocity	0	4194304	Value	ValueOutput
+Osc One Filter LFO Retrig	0	1	Toggle	ValueOutput
+Osc Two Filter LFO Retrig	0	1	Toggle	ValueOutput
+Osc Three Filter LFO Retrig	0	1	Toggle	ValueOutput
+Osc Four Filter LFO Retrig	0	1	Toggle	ValueOutput
+Osc One Filter LFO Rate	0	4194304	Value	ValueOutput
+Osc One Filter LFO Amt	0	4194304	Value	ValueOutput
+Osc Two Filter LFO Rate	0	4194304	Value	ValueOutput
+Osc Two Filter LFO Amt	0	4194304	Value	ValueOutput
+Osc Three Filter LFO Rate	0	4194304	Value	ValueOutput
+Osc Three Filter LFO Amt	0	4194304	Value	ValueOutput
+Osc Four Filter LFO Rate	0	4194304	Value	ValueOutput
+Osc Four Filter LFO Amt	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

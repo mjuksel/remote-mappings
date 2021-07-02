@@ -1,0 +1,120 @@
+Scope
+Manufacturer	Model
+Pepin Hazan	com.pepinhazan.RVL1Display
+
+Remotable	Min	Max	Input type	Output type
+Background Red Amount	0	255	Value	ValueOutput
+Background Green Amount	0	255	Value	ValueOutput
+Background Blue Amount	0	255	Value	ValueOutput
+Background Stripe Amount	0	4194304	Value	ValueOutput
+Background Gradient Amount	0	4194304	Value	ValueOutput
+Text Red Amount	0	255	Value	ValueOutput
+Text Green Amount	0	255	Value	ValueOutput
+Text Blue Amount	0	255	Value	ValueOutput
+Text Stripe Amount	0	4194304	Value	ValueOutput
+Text Gradient Amount	0	4194304	Value	ValueOutput
+Display 1 Scale	0	4194304	Value	ValueOutput
+Display 1 Step Count	0	199	Value	ValueOutput
+Display 1 Level Mode Enabled	0	1	Toggle	ValueOutput
+Display 1 Thousands	0	9	Value	ValueOutput
+Display 1 Hundreds	0	9	Value	ValueOutput
+Display 1 Tens	0	9	Value	ValueOutput
+Display 1 Ones	0	9	Value	ValueOutput
+Display 1 Tenths	0	9	Value	ValueOutput
+Display 1 Hundredths	0	9	Value	ValueOutput
+Display 1 Thousandths	0	9	Value	ValueOutput
+Display 1 Negative	0	1	Toggle	ValueOutput
+Display 2 Scale	0	4194304	Value	ValueOutput
+Display 2 Step Count	0	199	Value	ValueOutput
+Display 2 Level Mode Enabled	0	1	Toggle	ValueOutput
+Display 2 Thousands	0	9	Value	ValueOutput
+Display 2 Hundreds	0	9	Value	ValueOutput
+Display 2 Tens	0	9	Value	ValueOutput
+Display 2 Ones	0	9	Value	ValueOutput
+Display 2 Tenths	0	9	Value	ValueOutput
+Display 2 Hundredths	0	9	Value	ValueOutput
+Display 2 Thousandths	0	9	Value	ValueOutput
+Display 2 Negative	0	1	Toggle	ValueOutput
+Display 3 Scale	0	4194304	Value	ValueOutput
+Display 3 Step Count	0	199	Value	ValueOutput
+Display 3 Level Mode Enabled	0	1	Toggle	ValueOutput
+Display 3 Thousands	0	9	Value	ValueOutput
+Display 3 Hundreds	0	9	Value	ValueOutput
+Display 3 Tens	0	9	Value	ValueOutput
+Display 3 Ones	0	9	Value	ValueOutput
+Display 3 Tenths	0	9	Value	ValueOutput
+Display 3 Hundredths	0	9	Value	ValueOutput
+Display 3 Thousandths	0	9	Value	ValueOutput
+Display 3 Negative	0	1	Toggle	ValueOutput
+Display 4 Scale	0	4194304	Value	ValueOutput
+Display 4 Step Count	0	199	Value	ValueOutput
+Display 4 Level Mode Enabled	0	1	Toggle	ValueOutput
+Display 4 Thousands	0	9	Value	ValueOutput
+Display 4 Hundreds	0	9	Value	ValueOutput
+Display 4 Tens	0	9	Value	ValueOutput
+Display 4 Ones	0	9	Value	ValueOutput
+Display 4 Tenths	0	9	Value	ValueOutput
+Display 4 Hundredths	0	9	Value	ValueOutput
+Display 4 Thousandths	0	9	Value	ValueOutput
+Display 4 Negative	0	1	Toggle	ValueOutput
+Display 5 Scale	0	4194304	Value	ValueOutput
+Display 5 Step Count	0	199	Value	ValueOutput
+Display 5 Level Mode Enabled	0	1	Toggle	ValueOutput
+Display 5 Thousands	0	9	Value	ValueOutput
+Display 5 Hundreds	0	9	Value	ValueOutput
+Display 5 Tens	0	9	Value	ValueOutput
+Display 5 Ones	0	9	Value	ValueOutput
+Display 5 Tenths	0	9	Value	ValueOutput
+Display 5 Hundredths	0	9	Value	ValueOutput
+Display 5 Thousandths	0	9	Value	ValueOutput
+Display 5 Negative	0	1	Toggle	ValueOutput
+Display 6 Scale	0	4194304	Value	ValueOutput
+Display 6 Step Count	0	199	Value	ValueOutput
+Display 6 Level Mode Enabled	0	1	Toggle	ValueOutput
+Display 6 Thousands	0	9	Value	ValueOutput
+Display 6 Hundreds	0	9	Value	ValueOutput
+Display 6 Tens	0	9	Value	ValueOutput
+Display 6 Ones	0	9	Value	ValueOutput
+Display 6 Tenths	0	9	Value	ValueOutput
+Display 6 Hundredths	0	9	Value	ValueOutput
+Display 6 Thousandths	0	9	Value	ValueOutput
+Display 6 Negative	0	1	Toggle	ValueOutput
+Display 7 Scale	0	4194304	Value	ValueOutput
+Display 7 Step Count	0	199	Value	ValueOutput
+Display 7 Level Mode Enabled	0	1	Toggle	ValueOutput
+Display 7 Thousands	0	9	Value	ValueOutput
+Display 7 Hundreds	0	9	Value	ValueOutput
+Display 7 Tens	0	9	Value	ValueOutput
+Display 7 Ones	0	9	Value	ValueOutput
+Display 7 Tenths	0	9	Value	ValueOutput
+Display 7 Hundredths	0	9	Value	ValueOutput
+Display 7 Thousandths	0	9	Value	ValueOutput
+Display 7 Negative	0	1	Toggle	ValueOutput
+Display 8 Scale	0	4194304	Value	ValueOutput
+Display 8 Step Count	0	199	Value	ValueOutput
+Display 8 Level Mode Enabled	0	1	Toggle	ValueOutput
+Display 8 Thousands	0	9	Value	ValueOutput
+Display 8 Hundreds	0	9	Value	ValueOutput
+Display 8 Tens	0	9	Value	ValueOutput
+Display 8 Ones	0	9	Value	ValueOutput
+Display 8 Tenths	0	9	Value	ValueOutput
+Display 8 Hundredths	0	9	Value	ValueOutput
+Display 8 Thousandths	0	9	Value	ValueOutput
+Display 8 Negative	0	1	Toggle	ValueOutput
+Displays Power	0	1	Toggle	ValueOutput
+Show Labels	0	1	Toggle	ValueOutput
+Theme	0	8	Value	ValueOutput
+Style Text	0	1	Toggle	ValueOutput
+Display 1 Mode	0	7	Value	ValueOutput
+Display 2 Mode	0	7	Value	ValueOutput
+Display 3 Mode	0	7	Value	ValueOutput
+Display 4 Mode	0	7	Value	ValueOutput
+Display 5 Mode	0	7	Value	ValueOutput
+Display 6 Mode	0	7	Value	ValueOutput
+Display 7 Mode	0	7	Value	ValueOutput
+Display 8 Mode	0	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

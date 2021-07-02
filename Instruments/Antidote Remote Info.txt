@@ -1,0 +1,157 @@
+Scope
+Manufacturer	Model
+Synapse Audio	com.synapseAudioSoftware.Antidote
+
+Remotable	Min	Max	Input type	Output type
+Polyphony	0	5	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+External Input Amount	0	4194304	Value	ValueOutput
+Osc 1 Semi	0	48	Value	ValueOutput
+Osc 1 Fine	0	4194304	Value	ValueOutput
+Osc 1 Detune	0	4194304	Value	ValueOutput
+Osc 1 Spread	0	4194304	Value	ValueOutput
+Osc 1 Phase	0	4194304	Value	ValueOutput
+Osc 1 Modifier	0	4194304	Value	ValueOutput
+Osc 1 Key Track	0	4194304	Value	ValueOutput
+Osc 1 Pan	0	4194304	Value	ValueOutput
+Osc 1 Waveform	0	19	Value	ValueOutput
+Osc 1 Voices	0	12	Value	ValueOutput
+Osc 1 Dyad	0	7	Value	ValueOutput
+Osc 2 Semi	0	48	Value	ValueOutput
+Osc 2 Fine	0	4194304	Value	ValueOutput
+Osc 2 Detune	0	4194304	Value	ValueOutput
+Osc 2 Spread	0	4194304	Value	ValueOutput
+Osc 2 Phase	0	4194304	Value	ValueOutput
+Osc 2 Modifier	0	4194304	Value	ValueOutput
+Osc 2 Key Track	0	4194304	Value	ValueOutput
+Osc 2 Pan	0	4194304	Value	ValueOutput
+Osc 2 Waveform	0	19	Value	ValueOutput
+Osc 2 Voices	0	12	Value	ValueOutput
+Osc 2 Dyad	0	7	Value	ValueOutput
+Osc 1 Volume	0	4194304	Value	ValueOutput
+Osc 2 Volume	0	4194304	Value	ValueOutput
+Sub 1 Volume	0	4194304	Value	ValueOutput
+Sub 2 Volume	0	4194304	Value	ValueOutput
+Drift	0	4194304	Value	ValueOutput
+Filter Type	0	7	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Envelope Amount	0	4194304	Value	ValueOutput
+Filter Key Track	0	4194304	Value	ValueOutput
+Filter Envelope Attack	0	4194304	Value	ValueOutput
+Filter Envelope Decay	0	4194304	Value	ValueOutput
+Filter Envelope Sustain	0	4194304	Value	ValueOutput
+Filter Envelope Release	0	4194304	Value	ValueOutput
+Mod Envelope Attack	0	4194304	Value	ValueOutput
+Mod Envelope Decay	0	4194304	Value	ValueOutput
+Mod Envelope Sustain	0	4194304	Value	ValueOutput
+Mod Envelope Release	0	4194304	Value	ValueOutput
+Mod Envelope Target	0	60	Value	ValueOutput
+Mod Envelope Target Amount	0	4194304	Value	ValueOutput
+Amp Envelope Attack	0	4194304	Value	ValueOutput
+Amp Envelope Decay	0	4194304	Value	ValueOutput
+Amp Envelope Sustain	0	4194304	Value	ValueOutput
+Amp Envelope Release	0	4194304	Value	ValueOutput
+Lfo 1 Rate	0	4194304	Value	ValueOutput
+Lfo 1 Rate Sync	0	26	Value	ValueOutput
+Lfo 1 Shape	0	5	Value	ValueOutput
+Lfo 1 Sync	0	1	Toggle	ValueOutput
+Lfo 1 Free Run	0	1	Toggle	ValueOutput
+Lfo 1 Target	0	60	Value	ValueOutput
+Lfo 1 Target Amount	0	4194304	Value	ValueOutput
+Lfo 2 Rate	0	4194304	Value	ValueOutput
+Lfo 2 Rate Sync	0	26	Value	ValueOutput
+Lfo 2 Shape	0	5	Value	ValueOutput
+Lfo 2 Sync	0	1	Toggle	ValueOutput
+Lfo 2 Free Run	0	1	Toggle	ValueOutput
+Lfo 2 Target	0	60	Value	ValueOutput
+Lfo 2 Target Amount	0	4194304	Value	ValueOutput
+MM Slot 1 Source	0	22	Value	ValueOutput
+MM Slot 1 Amount	0	4194304	Value	ValueOutput
+MM Slot 1 Destination	0	60	Value	ValueOutput
+MM Slot 2 Source	0	22	Value	ValueOutput
+MM Slot 2 Amount	0	4194304	Value	ValueOutput
+MM Slot 2 Destination	0	60	Value	ValueOutput
+MM Slot 3 Source	0	22	Value	ValueOutput
+MM Slot 3 Amount	0	4194304	Value	ValueOutput
+MM Slot 3 Destination	0	60	Value	ValueOutput
+MM Slot 4 Source	0	22	Value	ValueOutput
+MM Slot 4 Amount	0	4194304	Value	ValueOutput
+MM Slot 4 Destination	0	60	Value	ValueOutput
+MM Slot 5 Source	0	22	Value	ValueOutput
+MM Slot 5 Amount	0	4194304	Value	ValueOutput
+MM Slot 5 Destination	0	60	Value	ValueOutput
+Arp Mode	0	6	Value	ValueOutput
+Arp Gate	0	4194304	Value	ValueOutput
+Arp Pattern	0	19	Value	ValueOutput
+Arp Hold	0	1	Toggle	ValueOutput
+Arp Rate	0	26	Value	ValueOutput
+Arp Octave	0	3	Value	ValueOutput
+EQ/Bass	0	1	Toggle	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ Mid Freq	0	4194304	Value	ValueOutput
+EQ Mid Q	0	4194304	Value	ValueOutput
+EQ Mid Gain	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+Bass Freq	0	4194304	Value	ValueOutput
+Bass Amount	0	4194304	Value	ValueOutput
+EQ Dry/Wet	0	4194304	Value	ValueOutput
+Distortion	0	1	Toggle	ValueOutput
+Distortion Type	0	2	Value	ValueOutput
+Distortion Drive	0	4194304	Value	ValueOutput
+Distortion Symmetry	0	4194304	Value	ValueOutput
+Distortion Tone	0	4194304	Value	ValueOutput
+Distortion Low Cut	0	4194304	Value	ValueOutput
+Distortion High Cut	0	4194304	Value	ValueOutput
+Distortion Out Gain	0	4194304	Value	ValueOutput
+Distortion Dry/Wet	0	4194304	Value	ValueOutput
+Phaser	0	1	Toggle	ValueOutput
+Phaser Stages	0	2	Value	ValueOutput
+Phaser Freq	0	4194304	Value	ValueOutput
+Phaser Spread	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Rate	0	26	Value	ValueOutput
+Phaser Mod	0	4194304	Value	ValueOutput
+Phaser LR Offset	0	4194304	Value	ValueOutput
+Phaser Dry/Wet	0	4194304	Value	ValueOutput
+Chorus	0	1	Toggle	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Feedback	0	4194304	Value	ValueOutput
+Chorus LR Offset	0	4194304	Value	ValueOutput
+Chorus Dry/Wet	0	4194304	Value	ValueOutput
+Delay	0	1	Toggle	ValueOutput
+Delay Type	0	2	Value	ValueOutput
+Delay L-Rate	0	20	Value	ValueOutput
+Delay R-Rate	0	20	Value	ValueOutput
+Delay Color	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Mod Rate	0	4194304	Value	ValueOutput
+Delay Mod Amount	0	4194304	Value	ValueOutput
+Delay Dry/Wet	0	4194304	Value	ValueOutput
+Reverb	0	1	Toggle	ValueOutput
+Reverb Pre-Delay	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb HF-Damp	0	4194304	Value	ValueOutput
+Reverb Low Cut	0	4194304	Value	ValueOutput
+Reverb High Cut	0	4194304	Value	ValueOutput
+Reverb Mod	0	4194304	Value	ValueOutput
+Reverb Dry/Wet	0	4194304	Value	ValueOutput
+Compressor	0	1	Toggle	ValueOutput
+Compressor Ratio	0	4194304	Value	ValueOutput
+Compressor Threshold	0	4194304	Value	ValueOutput
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor Release	0	4194304	Value	ValueOutput
+Compressor Dry/Wet	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+-- / --	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

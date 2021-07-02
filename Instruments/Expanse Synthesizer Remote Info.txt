@@ -1,0 +1,460 @@
+Scope
+Manufacturer	Model
+Blamsoft, Inc.	com.blamsoft.Expanse
+
+Remotable	Min	Max	Input type	Output type
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor Enable	0	1	Toggle	ValueOutput
+Compressor Input Gain	0	4194304	Value	ValueOutput
+Compressor Knee	0	4194304	Value	ValueOutput
+Compressor Mix	0	4194304	Value	ValueOutput
+Compressor Output Gain	0	4194304	Value	ValueOutput
+Compressor Ratio	0	4194304	Value	ValueOutput
+Compressor Release	0	4194304	Value	ValueOutput
+Compressor Threshold	0	4194304	Value	ValueOutput
+Delay Enable	0	1	Toggle	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Left Time	0	17	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay Mode	0	15	Value	ValueOutput
+Delay Modulation Amount	0	4194304	Value	ValueOutput
+Delay Modulation Rate	0	4194304	Value	ValueOutput
+Delay Right Time	0	17	Value	ValueOutput
+Delay Tone	0	4194304	Value	ValueOutput
+Distortion 1 Amount	0	4194304	Value	ValueOutput
+Distortion 1 Mode	0	6	Value	ValueOutput
+Distortion 1 Tone	0	4194304	Value	ValueOutput
+Distortion 1-2 Mix	0	4194304	Value	ValueOutput
+Distortion 2 Amount	0	4194304	Value	ValueOutput
+Distortion 2 Mode	0	6	Value	ValueOutput
+Distortion 2 Tone	0	4194304	Value	ValueOutput
+Distortion Enable	0	1	Toggle	ValueOutput
+Distortion Mix	0	4194304	Value	ValueOutput
+EQ Enable	0	1	Toggle	ValueOutput
+EQ High Shelf Frequency	0	4194304	Value	ValueOutput
+EQ High Shelf Gain	0	4194304	Value	ValueOutput
+EQ Low Shelf Frequency	0	4194304	Value	ValueOutput
+EQ Low Shelf Gain	0	4194304	Value	ValueOutput
+EQ Midrange Frequency	0	4194304	Value	ValueOutput
+EQ Midrange Gain	0	4194304	Value	ValueOutput
+EQ Midrange Q	0	4194304	Value	ValueOutput
+EQ Mix	0	4194304	Value	ValueOutput
+Effects Selection	0	5	Value	ValueOutput
+Phaser Enable	0	1	Toggle	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Frequency	0	4194304	Value	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Phaser Modulation Rate	0	21	Value	ValueOutput
+Phaser Modulation Shape	0	5	Value	ValueOutput
+Phaser Modulation Stereo Offset	0	3	Value	ValueOutput
+Phaser Number of Stages	0	6	Value	ValueOutput
+Phaser Stereo Spread	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb Enable	0	1	Toggle	ValueOutput
+Reverb Input Delay	0	4194304	Value	ValueOutput
+Reverb Low Time	0	4194304	Value	ValueOutput
+Reverb Low-Mid Crossover	0	4194304	Value	ValueOutput
+Reverb Mid Time	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Modulation Amount	0	4194304	Value	ValueOutput
+Reverb Modulation Rate	0	4194304	Value	ValueOutput
+Amp Envelope 1 Curve 1	0	4194304	Value	ValueOutput
+Amp Envelope 1 Curve 2	0	4194304	Value	ValueOutput
+Amp Envelope 1 Curve 3	0	4194304	Value	ValueOutput
+Amp Envelope 1 Curve 4	0	4194304	Value	ValueOutput
+Amp Envelope 1 Editor Loop End	0	99	Value	ValueOutput
+Amp Envelope 1 Editor Loop Start	0	100	Value	ValueOutput
+Amp Envelope 1 Editor Sustain Stage	0	100	Value	ValueOutput
+Amp Envelope 1 Editor Time Div	0	23	Value	ValueOutput
+Amp Envelope 1 Editor Time Sec	0	4194304	Value	ValueOutput
+Amp Envelope 1 Level 0	0	4194304	Value	ValueOutput
+Amp Envelope 1 Level 1	0	4194304	Value	ValueOutput
+Amp Envelope 1 Level 2	0	4194304	Value	ValueOutput
+Amp Envelope 1 Level 3	0	4194304	Value	ValueOutput
+Amp Envelope 1 Level 4	0	4194304	Value	ValueOutput
+Amp Envelope 1 Loop	0	26	Value	ValueOutput
+Amp Envelope 1 Loop End	0	3	Value	ValueOutput
+Amp Envelope 1 Loop Start	0	3	Value	ValueOutput
+Amp Envelope 1 Mode	0	7	Value	ValueOutput
+Amp Envelope 1 Scale	0	11	Value	ValueOutput
+Amp Envelope 1 Scale Amount	0	4194304	Value	ValueOutput
+Amp Envelope 1 Time 1 Div	0	23	Value	ValueOutput
+Amp Envelope 1 Time 1 Sec	0	4194304	Value	ValueOutput
+Amp Envelope 1 Time 2 Div	0	23	Value	ValueOutput
+Amp Envelope 1 Time 2 Sec	0	4194304	Value	ValueOutput
+Amp Envelope 1 Time 3 Div	0	23	Value	ValueOutput
+Amp Envelope 1 Time 3 Sec	0	4194304	Value	ValueOutput
+Amp Envelope 1 Time 4 Div	0	23	Value	ValueOutput
+Amp Envelope 1 Time 4 Sec	0	4194304	Value	ValueOutput
+Amp Envelope 1 Units	0	1	Toggle	ValueOutput
+Amp Envelope 1 to Amp 2	0	1	Toggle	ValueOutput
+Amp Envelope 2 Curve 1	0	4194304	Value	ValueOutput
+Amp Envelope 2 Curve 2	0	4194304	Value	ValueOutput
+Amp Envelope 2 Curve 3	0	4194304	Value	ValueOutput
+Amp Envelope 2 Curve 4	0	4194304	Value	ValueOutput
+Amp Envelope 2 Editor Loop End	0	99	Value	ValueOutput
+Amp Envelope 2 Editor Loop Start	0	100	Value	ValueOutput
+Amp Envelope 2 Editor Sustain Stage	0	100	Value	ValueOutput
+Amp Envelope 2 Editor Time Div	0	23	Value	ValueOutput
+Amp Envelope 2 Editor Time Sec	0	4194304	Value	ValueOutput
+Amp Envelope 2 Level 0	0	4194304	Value	ValueOutput
+Amp Envelope 2 Level 1	0	4194304	Value	ValueOutput
+Amp Envelope 2 Level 2	0	4194304	Value	ValueOutput
+Amp Envelope 2 Level 3	0	4194304	Value	ValueOutput
+Amp Envelope 2 Level 4	0	4194304	Value	ValueOutput
+Amp Envelope 2 Loop	0	26	Value	ValueOutput
+Amp Envelope 2 Loop End	0	3	Value	ValueOutput
+Amp Envelope 2 Loop Start	0	3	Value	ValueOutput
+Amp Envelope 2 Mode	0	7	Value	ValueOutput
+Amp Envelope 2 Scale	0	11	Value	ValueOutput
+Amp Envelope 2 Scale Amount	0	4194304	Value	ValueOutput
+Amp Envelope 2 Time 1 Div	0	23	Value	ValueOutput
+Amp Envelope 2 Time 1 Sec	0	4194304	Value	ValueOutput
+Amp Envelope 2 Time 2 Div	0	23	Value	ValueOutput
+Amp Envelope 2 Time 2 Sec	0	4194304	Value	ValueOutput
+Amp Envelope 2 Time 3 Div	0	23	Value	ValueOutput
+Amp Envelope 2 Time 3 Sec	0	4194304	Value	ValueOutput
+Amp Envelope 2 Time 4 Div	0	23	Value	ValueOutput
+Amp Envelope 2 Time 4 Sec	0	4194304	Value	ValueOutput
+Amp Envelope 2 Units	0	1	Toggle	ValueOutput
+Amp Envelope Selection	0	1	Toggle	ValueOutput
+Double Click Snapshot	0	4194304	Value	ValueOutput
+Mod Envelope 1 Curve 1	0	4194304	Value	ValueOutput
+Mod Envelope 1 Curve 2	0	4194304	Value	ValueOutput
+Mod Envelope 1 Curve 3	0	4194304	Value	ValueOutput
+Mod Envelope 1 Curve 4	0	4194304	Value	ValueOutput
+Mod Envelope 1 Editor Loop End	0	99	Value	ValueOutput
+Mod Envelope 1 Editor Loop Start	0	100	Value	ValueOutput
+Mod Envelope 1 Editor Sustain Stage	0	100	Value	ValueOutput
+Mod Envelope 1 Editor Time Div	0	23	Value	ValueOutput
+Mod Envelope 1 Editor Time Sec	0	4194304	Value	ValueOutput
+Mod Envelope 1 Level 0	0	4194304	Value	ValueOutput
+Mod Envelope 1 Level 1	0	4194304	Value	ValueOutput
+Mod Envelope 1 Level 2	0	4194304	Value	ValueOutput
+Mod Envelope 1 Level 3	0	4194304	Value	ValueOutput
+Mod Envelope 1 Level 4	0	4194304	Value	ValueOutput
+Mod Envelope 1 Loop	0	26	Value	ValueOutput
+Mod Envelope 1 Loop End	0	3	Value	ValueOutput
+Mod Envelope 1 Loop Start	0	3	Value	ValueOutput
+Mod Envelope 1 Mode	0	7	Value	ValueOutput
+Mod Envelope 1 Scale	0	11	Value	ValueOutput
+Mod Envelope 1 Scale Amount	0	4194304	Value	ValueOutput
+Mod Envelope 1 Time 1 Div	0	23	Value	ValueOutput
+Mod Envelope 1 Time 1 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 1 Time 2 Div	0	23	Value	ValueOutput
+Mod Envelope 1 Time 2 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 1 Time 3 Div	0	23	Value	ValueOutput
+Mod Envelope 1 Time 3 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 1 Time 4 Div	0	23	Value	ValueOutput
+Mod Envelope 1 Time 4 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 1 Units	0	1	Toggle	ValueOutput
+Mod Envelope 2 Curve 1	0	4194304	Value	ValueOutput
+Mod Envelope 2 Curve 2	0	4194304	Value	ValueOutput
+Mod Envelope 2 Curve 3	0	4194304	Value	ValueOutput
+Mod Envelope 2 Curve 4	0	4194304	Value	ValueOutput
+Mod Envelope 2 Editor Loop End	0	99	Value	ValueOutput
+Mod Envelope 2 Editor Loop Start	0	100	Value	ValueOutput
+Mod Envelope 2 Editor Sustain Stage	0	100	Value	ValueOutput
+Mod Envelope 2 Editor Time Div	0	23	Value	ValueOutput
+Mod Envelope 2 Editor Time Sec	0	4194304	Value	ValueOutput
+Mod Envelope 2 Level 0	0	4194304	Value	ValueOutput
+Mod Envelope 2 Level 1	0	4194304	Value	ValueOutput
+Mod Envelope 2 Level 2	0	4194304	Value	ValueOutput
+Mod Envelope 2 Level 3	0	4194304	Value	ValueOutput
+Mod Envelope 2 Level 4	0	4194304	Value	ValueOutput
+Mod Envelope 2 Loop	0	26	Value	ValueOutput
+Mod Envelope 2 Loop End	0	3	Value	ValueOutput
+Mod Envelope 2 Loop Start	0	3	Value	ValueOutput
+Mod Envelope 2 Mode	0	7	Value	ValueOutput
+Mod Envelope 2 Scale	0	11	Value	ValueOutput
+Mod Envelope 2 Scale Amount	0	4194304	Value	ValueOutput
+Mod Envelope 2 Time 1 Div	0	23	Value	ValueOutput
+Mod Envelope 2 Time 1 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 2 Time 2 Div	0	23	Value	ValueOutput
+Mod Envelope 2 Time 2 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 2 Time 3 Div	0	23	Value	ValueOutput
+Mod Envelope 2 Time 3 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 2 Time 4 Div	0	23	Value	ValueOutput
+Mod Envelope 2 Time 4 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 2 Units	0	1	Toggle	ValueOutput
+Mod Envelope 3 Curve 1	0	4194304	Value	ValueOutput
+Mod Envelope 3 Curve 2	0	4194304	Value	ValueOutput
+Mod Envelope 3 Curve 3	0	4194304	Value	ValueOutput
+Mod Envelope 3 Curve 4	0	4194304	Value	ValueOutput
+Mod Envelope 3 Editor Loop End	0	99	Value	ValueOutput
+Mod Envelope 3 Editor Loop Start	0	100	Value	ValueOutput
+Mod Envelope 3 Editor Sustain Stage	0	100	Value	ValueOutput
+Mod Envelope 3 Editor Time Div	0	23	Value	ValueOutput
+Mod Envelope 3 Editor Time Sec	0	4194304	Value	ValueOutput
+Mod Envelope 3 Level 0	0	4194304	Value	ValueOutput
+Mod Envelope 3 Level 1	0	4194304	Value	ValueOutput
+Mod Envelope 3 Level 2	0	4194304	Value	ValueOutput
+Mod Envelope 3 Level 3	0	4194304	Value	ValueOutput
+Mod Envelope 3 Level 4	0	4194304	Value	ValueOutput
+Mod Envelope 3 Loop	0	26	Value	ValueOutput
+Mod Envelope 3 Loop End	0	3	Value	ValueOutput
+Mod Envelope 3 Loop Start	0	3	Value	ValueOutput
+Mod Envelope 3 Mode	0	7	Value	ValueOutput
+Mod Envelope 3 Scale	0	11	Value	ValueOutput
+Mod Envelope 3 Scale Amount	0	4194304	Value	ValueOutput
+Mod Envelope 3 Time 1 Div	0	23	Value	ValueOutput
+Mod Envelope 3 Time 1 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 3 Time 2 Div	0	23	Value	ValueOutput
+Mod Envelope 3 Time 2 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 3 Time 3 Div	0	23	Value	ValueOutput
+Mod Envelope 3 Time 3 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 3 Time 4 Div	0	23	Value	ValueOutput
+Mod Envelope 3 Time 4 Sec	0	4194304	Value	ValueOutput
+Mod Envelope 3 Units	0	1	Toggle	ValueOutput
+Mod Envelope Selection	0	2	Value	ValueOutput
+Filter 1 Cutoff	0	4194304	Value	ValueOutput
+Filter 1 Envelope Amount	0	4194304	Value	ValueOutput
+Filter 1 Envelope Selection	0	4	Value	ValueOutput
+Filter 1 Keyboard Tracking	0	4194304	Value	ValueOutput
+Filter 1 Resonance	0	4194304	Value	ValueOutput
+Filter 1 Type	0	32	Value	ValueOutput
+Filter 1 to Filter 2	0	1	Toggle	ValueOutput
+Filter 2 Cutoff	0	4194304	Value	ValueOutput
+Filter 2 Envelope Amount	0	4194304	Value	ValueOutput
+Filter 2 Envelope Selection	0	4	Value	ValueOutput
+Filter 2 Keyboard Tracking	0	4194304	Value	ValueOutput
+Filter 2 Resonance	0	4194304	Value	ValueOutput
+Filter 2 Type	0	32	Value	ValueOutput
+LFO 1 Fade	0	4194304	Value	ValueOutput
+LFO 1 Lag	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 1 Scale Amount	0	4194304	Value	ValueOutput
+LFO 1 Scale Source	0	12	Value	ValueOutput
+LFO 1 Sync	0	25	Value	ValueOutput
+LFO 1 Target 1 Amount	0	4194304	Value	ValueOutput
+LFO 1 Target 2 Amount	0	4194304	Value	ValueOutput
+LFO 1 Target 3 Amount	0	4194304	Value	ValueOutput
+LFO 1 Target 4 Amount	0	4194304	Value	ValueOutput
+LFO 1 Waveform	0	63	Value	ValueOutput
+LFO 2 Fade	0	4194304	Value	ValueOutput
+LFO 2 Lag	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Scale Amount	0	4194304	Value	ValueOutput
+LFO 2 Scale Source	0	12	Value	ValueOutput
+LFO 2 Sync	0	25	Value	ValueOutput
+LFO 2 Target 1 Amount	0	4194304	Value	ValueOutput
+LFO 2 Target 2 Amount	0	4194304	Value	ValueOutput
+LFO 2 Target 3 Amount	0	4194304	Value	ValueOutput
+LFO 2 Target 4 Amount	0	4194304	Value	ValueOutput
+LFO 2 Waveform	0	63	Value	ValueOutput
+LFO 3 Fade	0	4194304	Value	ValueOutput
+LFO 3 Lag	0	4194304	Value	ValueOutput
+LFO 3 Rate	0	4194304	Value	ValueOutput
+LFO 3 Scale Amount	0	4194304	Value	ValueOutput
+LFO 3 Scale Source	0	12	Value	ValueOutput
+LFO 3 Sync	0	25	Value	ValueOutput
+LFO 3 Target 1 Amount	0	4194304	Value	ValueOutput
+LFO 3 Target 2 Amount	0	4194304	Value	ValueOutput
+LFO 3 Target 3 Amount	0	4194304	Value	ValueOutput
+LFO 3 Target 4 Amount	0	4194304	Value	ValueOutput
+LFO 3 Waveform	0	63	Value	ValueOutput
+LFO Selection	0	2	Value	ValueOutput
+Row 1 Destination 1 Amount	0	4194304	Value	ValueOutput
+Row 1 Destination 1 Selection	0	147	Value	ValueOutput
+Row 1 Destination 2 Amount	0	4194304	Value	ValueOutput
+Row 1 Destination 2 Selection	0	147	Value	ValueOutput
+Row 1 Destination 3 Amount	0	4194304	Value	ValueOutput
+Row 1 Destination 3 Selection	0	147	Value	ValueOutput
+Row 1 Source Selection	0	55	Value	ValueOutput
+Row 1 Unipolar	0	1	Toggle	ValueOutput
+Row 2 Destination 1 Amount	0	4194304	Value	ValueOutput
+Row 2 Destination 1 Selection	0	147	Value	ValueOutput
+Row 2 Destination 2 Amount	0	4194304	Value	ValueOutput
+Row 2 Destination 2 Selection	0	147	Value	ValueOutput
+Row 2 Destination 3 Amount	0	4194304	Value	ValueOutput
+Row 2 Destination 3 Selection	0	147	Value	ValueOutput
+Row 2 Source Selection	0	55	Value	ValueOutput
+Row 2 Unipolar	0	1	Toggle	ValueOutput
+Row 3 Destination 1 Amount	0	4194304	Value	ValueOutput
+Row 3 Destination 1 Selection	0	147	Value	ValueOutput
+Row 3 Destination 2 Amount	0	4194304	Value	ValueOutput
+Row 3 Destination 2 Selection	0	147	Value	ValueOutput
+Row 3 Destination 3 Amount	0	4194304	Value	ValueOutput
+Row 3 Destination 3 Selection	0	147	Value	ValueOutput
+Row 3 Source Selection	0	55	Value	ValueOutput
+Row 3 Unipolar	0	1	Toggle	ValueOutput
+Row 4 Destination 1 Amount	0	4194304	Value	ValueOutput
+Row 4 Destination 1 Selection	0	147	Value	ValueOutput
+Row 4 Destination 2 Amount	0	4194304	Value	ValueOutput
+Row 4 Destination 2 Selection	0	147	Value	ValueOutput
+Row 4 Destination 3 Amount	0	4194304	Value	ValueOutput
+Row 4 Destination 3 Selection	0	147	Value	ValueOutput
+Row 4 Source Selection	0	55	Value	ValueOutput
+Row 4 Unipolar	0	1	Toggle	ValueOutput
+Row 5 Destination 1 Amount	0	4194304	Value	ValueOutput
+Row 5 Destination 1 Selection	0	147	Value	ValueOutput
+Row 5 Destination 2 Amount	0	4194304	Value	ValueOutput
+Row 5 Destination 2 Selection	0	147	Value	ValueOutput
+Row 5 Destination 3 Amount	0	4194304	Value	ValueOutput
+Row 5 Destination 3 Selection	0	147	Value	ValueOutput
+Row 5 Source Selection	0	55	Value	ValueOutput
+Row 5 Unipolar	0	1	Toggle	ValueOutput
+Row 6 Destination 1 Amount	0	4194304	Value	ValueOutput
+Row 6 Destination 1 Selection	0	147	Value	ValueOutput
+Row 6 Destination 2 Amount	0	4194304	Value	ValueOutput
+Row 6 Destination 2 Selection	0	147	Value	ValueOutput
+Row 6 Destination 3 Amount	0	4194304	Value	ValueOutput
+Row 6 Destination 3 Selection	0	147	Value	ValueOutput
+Row 6 Source Selection	0	55	Value	ValueOutput
+Row 6 Unipolar	0	1	Toggle	ValueOutput
+Main Display Page	0	3	Value	ValueOutput
+OSC 1 Drift	0	4194304	Value	ValueOutput
+OSC 1 EQ Depth	0	4194304	Value	ValueOutput
+OSC 1 EQ Enable	0	1	Toggle	ValueOutput
+OSC 1 EQ Octave Offset	0	4194304	Value	ValueOutput
+OSC 1 Filter 1-2 Mix	0	4194304	Value	ValueOutput
+OSC 1 Fine Tune	0	4194304	Value	ValueOutput
+OSC 1 Keyboard Tracking	0	4194304	Value	ValueOutput
+OSC 1 Level	0	4194304	Value	ValueOutput
+OSC 1 Mod 1 Amount	0	4194304	Value	ValueOutput
+OSC 1 Mod 1 Routing	0	1	Toggle	ValueOutput
+OSC 1 Mod 1 Selection	0	25	Value	ValueOutput
+OSC 1 Mod 2 Amount	0	4194304	Value	ValueOutput
+OSC 1 Mod 2 Routing	0	1	Toggle	ValueOutput
+OSC 1 Mod 2 Selection	0	25	Value	ValueOutput
+OSC 1 Mod 3 Amount	0	4194304	Value	ValueOutput
+OSC 1 Mod 3 Routing	0	1	Toggle	ValueOutput
+OSC 1 Mod 3 Selection	0	34	Value	ValueOutput
+OSC 1 Noise Amount	0	4194304	Value	ValueOutput
+OSC 1 Octave	0	6	Value	ValueOutput
+OSC 1 Pan	0	4194304	Value	ValueOutput
+OSC 1 Random Phase	0	4194304	Value	ValueOutput
+OSC 1 Semitones	0	22	Value	ValueOutput
+OSC 1 Solo	0	1	Toggle	ValueOutput
+OSC 1 Unison Blend	0	4194304	Value	ValueOutput
+OSC 1 Unison Density	0	7	Value	ValueOutput
+OSC 1 Unison Detune	0	4194304	Value	ValueOutput
+OSC 1 Unison Spread	0	4194304	Value	ValueOutput
+OSC 1 Unison Tuning	0	9	Value	ValueOutput
+OSC 1 Waveform	0	1000	Value	ValueOutput
+OSC 1 Wavetable Position	0	4194304	Value	ValueOutput
+OSC 2 Drift	0	4194304	Value	ValueOutput
+OSC 2 EQ Depth	0	4194304	Value	ValueOutput
+OSC 2 EQ Enable	0	1	Toggle	ValueOutput
+OSC 2 EQ Octave Offset	0	4194304	Value	ValueOutput
+OSC 2 Filter 1-2 Mix	0	4194304	Value	ValueOutput
+OSC 2 Fine Tune	0	4194304	Value	ValueOutput
+OSC 2 Keyboard Tracking	0	4194304	Value	ValueOutput
+OSC 2 Level	0	4194304	Value	ValueOutput
+OSC 2 Mod 1 Amount	0	4194304	Value	ValueOutput
+OSC 2 Mod 1 Routing	0	1	Toggle	ValueOutput
+OSC 2 Mod 1 Selection	0	25	Value	ValueOutput
+OSC 2 Mod 2 Amount	0	4194304	Value	ValueOutput
+OSC 2 Mod 2 Routing	0	1	Toggle	ValueOutput
+OSC 2 Mod 2 Selection	0	25	Value	ValueOutput
+OSC 2 Mod 3 Amount	0	4194304	Value	ValueOutput
+OSC 2 Mod 3 Routing	0	1	Toggle	ValueOutput
+OSC 2 Mod 3 Selection	0	34	Value	ValueOutput
+OSC 2 Noise Amount	0	4194304	Value	ValueOutput
+OSC 2 Octave	0	6	Value	ValueOutput
+OSC 2 Pan	0	4194304	Value	ValueOutput
+OSC 2 Random Phase	0	4194304	Value	ValueOutput
+OSC 2 Semitones	0	22	Value	ValueOutput
+OSC 2 Solo	0	1	Toggle	ValueOutput
+OSC 2 Unison Blend	0	4194304	Value	ValueOutput
+OSC 2 Unison Density	0	7	Value	ValueOutput
+OSC 2 Unison Detune	0	4194304	Value	ValueOutput
+OSC 2 Unison Spread	0	4194304	Value	ValueOutput
+OSC 2 Unison Tuning	0	9	Value	ValueOutput
+OSC 2 Waveform	0	1000	Value	ValueOutput
+OSC 2 Wavetable Position	0	4194304	Value	ValueOutput
+OSC 3 Drift	0	4194304	Value	ValueOutput
+OSC 3 EQ Depth	0	4194304	Value	ValueOutput
+OSC 3 EQ Enable	0	1	Toggle	ValueOutput
+OSC 3 EQ Octave Offset	0	4194304	Value	ValueOutput
+OSC 3 Filter 1-2 Mix	0	4194304	Value	ValueOutput
+OSC 3 Fine Tune	0	4194304	Value	ValueOutput
+OSC 3 Keyboard Tracking	0	4194304	Value	ValueOutput
+OSC 3 Level	0	4194304	Value	ValueOutput
+OSC 3 Mod 1 Amount	0	4194304	Value	ValueOutput
+OSC 3 Mod 1 Routing	0	1	Toggle	ValueOutput
+OSC 3 Mod 1 Selection	0	25	Value	ValueOutput
+OSC 3 Mod 2 Amount	0	4194304	Value	ValueOutput
+OSC 3 Mod 2 Routing	0	1	Toggle	ValueOutput
+OSC 3 Mod 2 Selection	0	25	Value	ValueOutput
+OSC 3 Mod 3 Amount	0	4194304	Value	ValueOutput
+OSC 3 Mod 3 Routing	0	1	Toggle	ValueOutput
+OSC 3 Mod 3 Selection	0	34	Value	ValueOutput
+OSC 3 Noise Amount	0	4194304	Value	ValueOutput
+OSC 3 Octave	0	6	Value	ValueOutput
+OSC 3 Pan	0	4194304	Value	ValueOutput
+OSC 3 Random Phase	0	4194304	Value	ValueOutput
+OSC 3 Semitones	0	22	Value	ValueOutput
+OSC 3 Solo	0	1	Toggle	ValueOutput
+OSC 3 Unison Blend	0	4194304	Value	ValueOutput
+OSC 3 Unison Density	0	7	Value	ValueOutput
+OSC 3 Unison Detune	0	4194304	Value	ValueOutput
+OSC 3 Unison Spread	0	4194304	Value	ValueOutput
+OSC 3 Unison Tuning	0	9	Value	ValueOutput
+OSC 3 Waveform	0	1000	Value	ValueOutput
+OSC 3 Wavetable Position	0	4194304	Value	ValueOutput
+OSC 4 Drift	0	4194304	Value	ValueOutput
+OSC 4 EQ Depth	0	4194304	Value	ValueOutput
+OSC 4 EQ Enable	0	1	Toggle	ValueOutput
+OSC 4 EQ Octave Offset	0	4194304	Value	ValueOutput
+OSC 4 Filter 1-2 Mix	0	4194304	Value	ValueOutput
+OSC 4 Fine Tune	0	4194304	Value	ValueOutput
+OSC 4 Keyboard Tracking	0	4194304	Value	ValueOutput
+OSC 4 Level	0	4194304	Value	ValueOutput
+OSC 4 Mod 1 Amount	0	4194304	Value	ValueOutput
+OSC 4 Mod 1 Routing	0	1	Toggle	ValueOutput
+OSC 4 Mod 1 Selection	0	25	Value	ValueOutput
+OSC 4 Mod 2 Amount	0	4194304	Value	ValueOutput
+OSC 4 Mod 2 Routing	0	1	Toggle	ValueOutput
+OSC 4 Mod 2 Selection	0	25	Value	ValueOutput
+OSC 4 Mod 3 Amount	0	4194304	Value	ValueOutput
+OSC 4 Mod 3 Routing	0	1	Toggle	ValueOutput
+OSC 4 Mod 3 Selection	0	34	Value	ValueOutput
+OSC 4 Noise Amount	0	4194304	Value	ValueOutput
+OSC 4 Octave	0	6	Value	ValueOutput
+OSC 4 Pan	0	4194304	Value	ValueOutput
+OSC 4 Random Phase	0	4194304	Value	ValueOutput
+OSC 4 Semitones	0	22	Value	ValueOutput
+OSC 4 Solo	0	1	Toggle	ValueOutput
+OSC 4 Unison Blend	0	4194304	Value	ValueOutput
+OSC 4 Unison Density	0	7	Value	ValueOutput
+OSC 4 Unison Detune	0	4194304	Value	ValueOutput
+OSC 4 Unison Spread	0	4194304	Value	ValueOutput
+OSC 4 Unison Tuning	0	9	Value	ValueOutput
+OSC 4 Waveform	0	1000	Value	ValueOutput
+OSC 4 Wavetable Position	0	4194304	Value	ValueOutput
+OSC Selection	0	3	Value	ValueOutput
+CC Sequencer CC 1 Lag	0	4194304	Value	ValueOutput
+CC Sequencer CC 2 Lag	0	4194304	Value	ValueOutput
+CC Sequencer Direction	0	4	Value	ValueOutput
+CC Sequencer Mode	0	5	Value	ValueOutput
+CC Sequencer Number of Steps	0	15	Value	ValueOutput
+CC Sequencer Rate	0	14	Value	ValueOutput
+CC Sequencer Steps Range	0	1	Toggle	ValueOutput
+CC Sequencer Swing	0	4194304	Value	ValueOutput
+Note Sequencer Direction	0	4	Value	ValueOutput
+Note Sequencer Mode	0	5	Value	ValueOutput
+Note Sequencer Number of Steps	0	15	Value	ValueOutput
+Note Sequencer Rate	0	14	Value	ValueOutput
+Note Sequencer Steps Range	0	1	Toggle	ValueOutput
+Note Sequencer Swing	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Pitch Wheel Range	0	24	Value	ValueOutput
+Polyphony	0	11	Value	ValueOutput
+Keyboard Mode	0	1	Toggle	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Portamento Mode	0	1	Toggle	ValueOutput
+Glide Mode	0	1	Toggle	ValueOutput
+Time Mode	0	1	Toggle	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Record Sample	0	0	Trig	TextOutput

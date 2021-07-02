@@ -1,0 +1,123 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.RND_2
+
+Remotable	Min	Max	Input type	Output type
+Pulse 1 Enabled	0	1	Toggle	ValueOutput
+Pulse 1 Step	0	127	Value	ValueOutput
+Pulse 1 Length	0	127	Value	ValueOutput
+Pulse 1 Probability	0	99	Value	ValueOutput
+Pulse 1 Clock Mul	0	127	Value	ValueOutput
+Pulse 1 Clock Div	0	127	Value	ValueOutput
+Pulse 1 Note	0	127	Value	ValueOutput
+Pulse 1 Note Mode	0	5	Value	ValueOutput
+Pulse 1 Note Choices	0	127	Value	ValueOutput
+Pulse 1 Note Scale	0	126	Value	ValueOutput
+Pulse 1 Note Offset	0	254	Value	ValueOutput
+Pulse 1 Velocity	0	127	Value	ValueOutput
+Pulse 1 Velocity Mode	0	5	Value	ValueOutput
+Pulse 1 Velocity Choices	0	127	Value	ValueOutput
+Pulse 1 Velocity Scale	0	126	Value	ValueOutput
+Pulse 1 Velocity Offset	0	254	Value	ValueOutput
+Pulse 1 Note Length	0	399	Value	ValueOutput
+Pulse 1 Note Length Mode	0	5	Value	ValueOutput
+Pulse 1 Note Length Choices	0	199	Value	ValueOutput
+Pulse 1 Note Length Scale	0	199	Value	ValueOutput
+Pulse 1 Note Length Offset	0	400	Value	ValueOutput
+Pulse 2 Enabled	0	1	Toggle	ValueOutput
+Pulse 2 Step	0	127	Value	ValueOutput
+Pulse 2 Length	0	127	Value	ValueOutput
+Pulse 2 Probability	0	99	Value	ValueOutput
+Pulse 2 Clock Mul	0	127	Value	ValueOutput
+Pulse 2 Clock Div	0	127	Value	ValueOutput
+Pulse 2 Note	0	127	Value	ValueOutput
+Pulse 2 Note Mode	0	5	Value	ValueOutput
+Pulse 2 Note Choices	0	127	Value	ValueOutput
+Pulse 2 Note Scale	0	126	Value	ValueOutput
+Pulse 2 Note Offset	0	254	Value	ValueOutput
+Pulse 2 Velocity	0	127	Value	ValueOutput
+Pulse 2 Velocity Mode	0	5	Value	ValueOutput
+Pulse 2 Velocity Choices	0	127	Value	ValueOutput
+Pulse 2 Velocity Scale	0	126	Value	ValueOutput
+Pulse 2 Velocity Offset	0	254	Value	ValueOutput
+Pulse 2 Note Length	0	399	Value	ValueOutput
+Pulse 2 Note Length Mode	0	5	Value	ValueOutput
+Pulse 2 Note Length Choices	0	199	Value	ValueOutput
+Pulse 2 Note Length Scale	0	199	Value	ValueOutput
+Pulse 2 Note Length Offset	0	400	Value	ValueOutput
+Pulse 3 Enabled	0	1	Toggle	ValueOutput
+Pulse 3 Step	0	127	Value	ValueOutput
+Pulse 3 Length	0	127	Value	ValueOutput
+Pulse 3 Probability	0	99	Value	ValueOutput
+Pulse 3 Clock Mul	0	127	Value	ValueOutput
+Pulse 3 Clock Div	0	127	Value	ValueOutput
+Pulse 3 Note	0	127	Value	ValueOutput
+Pulse 3 Note Mode	0	5	Value	ValueOutput
+Pulse 3 Note Choices	0	127	Value	ValueOutput
+Pulse 3 Note Scale	0	126	Value	ValueOutput
+Pulse 3 Note Offset	0	254	Value	ValueOutput
+Pulse 3 Velocity	0	127	Value	ValueOutput
+Pulse 3 Velocity Mode	0	5	Value	ValueOutput
+Pulse 3 Velocity Choices	0	127	Value	ValueOutput
+Pulse 3 Velocity Scale	0	126	Value	ValueOutput
+Pulse 3 Velocity Offset	0	254	Value	ValueOutput
+Pulse 3 Note Length	0	399	Value	ValueOutput
+Pulse 3 Note Length Mode	0	5	Value	ValueOutput
+Pulse 3 Note Length Choices	0	199	Value	ValueOutput
+Pulse 3 Note Length Scale	0	199	Value	ValueOutput
+Pulse 3 Note Length Offset	0	400	Value	ValueOutput
+Pulse 4 Enabled	0	1	Toggle	ValueOutput
+Pulse 4 Step	0	127	Value	ValueOutput
+Pulse 4 Length	0	127	Value	ValueOutput
+Pulse 4 Probability	0	99	Value	ValueOutput
+Pulse 4 Clock Mul	0	127	Value	ValueOutput
+Pulse 4 Clock Div	0	127	Value	ValueOutput
+Pulse 4 Note	0	127	Value	ValueOutput
+Pulse 4 Note Mode	0	5	Value	ValueOutput
+Pulse 4 Note Choices	0	127	Value	ValueOutput
+Pulse 4 Note Scale	0	126	Value	ValueOutput
+Pulse 4 Note Offset	0	254	Value	ValueOutput
+Pulse 4 Velocity	0	127	Value	ValueOutput
+Pulse 4 Velocity Mode	0	5	Value	ValueOutput
+Pulse 4 Velocity Choices	0	127	Value	ValueOutput
+Pulse 4 Velocity Scale	0	126	Value	ValueOutput
+Pulse 4 Velocity Offset	0	254	Value	ValueOutput
+Pulse 4 Note Length	0	399	Value	ValueOutput
+Pulse 4 Note Length Mode	0	5	Value	ValueOutput
+Pulse 4 Note Length Choices	0	199	Value	ValueOutput
+Pulse 4 Note Length Scale	0	199	Value	ValueOutput
+Pulse 4 Note Length Offset	0	400	Value	ValueOutput
+Midi In Enabled	0	1	Toggle	ValueOutput
+Midi In Step	0	127	Value	ValueOutput
+Midi In Length	0	127	Value	ValueOutput
+Midi In Probability	0	99	Value	ValueOutput
+Midi In Clock Mul	0	127	Value	ValueOutput
+Midi In Clock Div	0	127	Value	ValueOutput
+Midi In Note	0	127	Value	ValueOutput
+Midi In Note Mode	0	5	Value	ValueOutput
+Midi In Note Choices	0	127	Value	ValueOutput
+Midi In Note Scale	0	126	Value	ValueOutput
+Midi In Note Offset	0	254	Value	ValueOutput
+Midi In Velocity	0	127	Value	ValueOutput
+Midi In Velocity Mode	0	5	Value	ValueOutput
+Midi In Velocity Choices	0	127	Value	ValueOutput
+Midi In Velocity Scale	0	126	Value	ValueOutput
+Midi In Velocity Offset	0	254	Value	ValueOutput
+Midi In Note Length	0	399	Value	ValueOutput
+Midi In Note Length Mode	0	5	Value	ValueOutput
+Midi In Note Length Choices	0	199	Value	ValueOutput
+Midi In Note Length Scale	0	199	Value	ValueOutput
+Midi In Note Length Offset	0	400	Value	ValueOutput
+Midi In Thru	0	1	Toggle	ValueOutput
+Rate	0	30	Value	ValueOutput
+Shuffle	0	1	Toggle	ValueOutput
+On	0	1	Toggle	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Pulse Selection	0	4	Value	ValueOutput
+Pattern	0	7	-	ValueOutput
+Pattern Select	-1	0	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

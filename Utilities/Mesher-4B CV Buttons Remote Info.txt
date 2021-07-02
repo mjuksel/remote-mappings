@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+HaMu	se.hamu.Mesher4B
+
+Remotable	Min	Max	Input type	Output type
+Input gain knob 01	0	4194304	Value	ValueOutput
+Input gain knob 02	0	4194304	Value	ValueOutput
+Input gain knob 03	0	4194304	Value	ValueOutput
+Input gain knob 04	0	4194304	Value	ValueOutput
+Input shift knob 01	0	4194304	Value	ValueOutput
+Input shift knob 02	0	4194304	Value	ValueOutput
+Input shift knob 03	0	4194304	Value	ValueOutput
+Input shift knob 04	0	4194304	Value	ValueOutput
+Output gain knob 01	0	4194304	Value	ValueOutput
+Output gain knob 02	0	4194304	Value	ValueOutput
+Output gain knob 03	0	4194304	Value	ValueOutput
+Output gain knob 04	0	4194304	Value	ValueOutput
+Mesh node switch button in01 to out01	0	1	Toggle	ValueOutput
+Mesh node switch button in02 to out01	0	1	Toggle	ValueOutput
+Mesh node switch button in03 to out01	0	1	Toggle	ValueOutput
+Mesh node switch button in04 to out01	0	1	Toggle	ValueOutput
+Mesh node switch button in01 to out02	0	1	Toggle	ValueOutput
+Mesh node switch button in02 to out02	0	1	Toggle	ValueOutput
+Mesh node switch button in03 to out02	0	1	Toggle	ValueOutput
+Mesh node switch button in04 to out02	0	1	Toggle	ValueOutput
+Mesh node switch button in01 to out03	0	1	Toggle	ValueOutput
+Mesh node switch button in02 to out03	0	1	Toggle	ValueOutput
+Mesh node switch button in03 to out03	0	1	Toggle	ValueOutput
+Mesh node switch button in04 to out03	0	1	Toggle	ValueOutput
+Mesh node switch button in01 to out04	0	1	Toggle	ValueOutput
+Mesh node switch button in02 to out04	0	1	Toggle	ValueOutput
+Mesh node switch button in03 to out04	0	1	Toggle	ValueOutput
+Mesh node switch button in04 to out04	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

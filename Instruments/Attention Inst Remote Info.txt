@@ -1,0 +1,12 @@
+Scope
+Manufacturer	Model
+Rob Papen	com.robpapen.Attention
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Attention	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

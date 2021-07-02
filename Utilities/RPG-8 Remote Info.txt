@@ -1,0 +1,57 @@
+Scope
+Manufacturer	Model
+Propellerheads	RPG-8 Monophonic Arpeggiator
+
+Remotable	Min	Max	Input type	Output type
+Arpeggiator Enable	0	1	Toggle	ValueOutput
+Mode	0	4	Value	ValueOutput
+Insert	0	4	Value	ValueOutput
+Octave	0	3	Value	ValueOutput
+Gate Length	0	127	Value	ValueOutput
+Single Note Repeat	0	1	Toggle	ValueOutput
+Sync	0	1	Toggle	ValueOutput
+Shuffle	0	1	Toggle	ValueOutput
+Hold	0	1	Toggle	ValueOutput
+Manual Velocity	0	1	Toggle	ValueOutput
+Octave Shift	-3	3	Value	ValueOutput
+MIDI Indicator	0	1	-	ValueOutput
+Rate Indicator	0	1	-	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Pattern Enable	0	1	Toggle	ValueOutput
+Pattern Step Count	2	16	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Velocity/Manual	0	128	Value	ValueOutput
+Rate	0	16383	Value	ValueOutput
+Octave 1	0	1	Trig	ValueOutput
+Octave 2	0	1	Trig	ValueOutput
+Octave 3	0	1	Trig	ValueOutput
+Octave 4	0	1	Trig	ValueOutput
+Insert Off	0	1	Trig	ValueOutput
+Insert Low	0	1	Trig	ValueOutput
+Insert High	0	1	Trig	ValueOutput
+Insert 3-1	0	1	Trig	ValueOutput
+Insert 4-2	0	1	Trig	ValueOutput
+Pattern Step 1	0	1	Toggle	ValueOutput
+Pattern Step 2	0	1	Toggle	ValueOutput
+Pattern Step 3	0	1	Toggle	ValueOutput
+Pattern Step 4	0	1	Toggle	ValueOutput
+Pattern Step 5	0	1	Toggle	ValueOutput
+Pattern Step 6	0	1	Toggle	ValueOutput
+Pattern Step 7	0	1	Toggle	ValueOutput
+Pattern Step 8	0	1	Toggle	ValueOutput
+Pattern Step 9	0	1	Toggle	ValueOutput
+Pattern Step 10	0	1	Toggle	ValueOutput
+Pattern Step 11	0	1	Toggle	ValueOutput
+Pattern Step 12	0	1	Toggle	ValueOutput
+Pattern Step 13	0	1	Toggle	ValueOutput
+Pattern Step 14	0	1	Toggle	ValueOutput
+Pattern Step 15	0	1	Toggle	ValueOutput
+Pattern Step 16	0	1	Toggle	ValueOutput
+Octave Shift Up	0	1	Trig	ValueOutput
+Octave Shift Down	0	1	Trig	ValueOutput
+Pattern Length Up	0	1	Trig	ValueOutput
+Pattern Length Down	0	1	Trig	ValueOutput

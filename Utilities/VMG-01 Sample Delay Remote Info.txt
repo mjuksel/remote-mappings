@@ -1,0 +1,17 @@
+Scope
+Manufacturer	Model
+Normen Hansen	de.normenhansen.vmg01
+
+Remotable	Min	Max	Input type	Output type
+Measure	0	1	Toggle	ValueOutput
+DelayTime 1	0	9	Value	ValueOutput
+DelayTime 10	0	9	Value	ValueOutput
+DelayTime 100	0	9	Value	ValueOutput
+DelayTime 1000	0	9	Value	ValueOutput
+DelayTime 10000	0	9	Value	ValueOutput
+Enable	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

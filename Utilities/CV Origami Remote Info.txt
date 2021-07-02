@@ -1,0 +1,49 @@
+Scope
+Manufacturer	Model
+Tonicmint	com.tonicmint.CVOrigami
+
+Remotable	Min	Max	Input type	Output type
+Function A	0	20	Value	ValueOutput
+Parameter A	0	4194304	Value	ValueOutput
+Strength A	0	4194304	Value	ValueOutput
+Cutoff A	0	4194304	Value	ValueOutput
+Reso A	0	4194304	Value	ValueOutput
+Parameter A Mod Level	0	4194304	Value	ValueOutput
+Strength A Mod Level	0	4194304	Value	ValueOutput
+Parameter A Mod Source	0	4	Value	ValueOutput
+Strength A Mod Source	0	4	Value	ValueOutput
+Enabled A 1	0	1	Toggle	ValueOutput
+Enabled A 2	0	1	Toggle	ValueOutput
+Enabled A 3	0	1	Toggle	ValueOutput
+Enabled A 4	0	1	Toggle	ValueOutput
+Function B	0	20	Value	ValueOutput
+Parameter B	0	4194304	Value	ValueOutput
+Strength B	0	4194304	Value	ValueOutput
+Cutoff B	0	4194304	Value	ValueOutput
+Reso B	0	4194304	Value	ValueOutput
+Parameter B Mod Level	0	4194304	Value	ValueOutput
+Strength B Mod Level	0	4194304	Value	ValueOutput
+Parameter B Mod Source	0	4	Value	ValueOutput
+Strength B Mod Source	0	4	Value	ValueOutput
+Enabled B 1	0	1	Toggle	ValueOutput
+Enabled B 2	0	1	Toggle	ValueOutput
+Enabled B 3	0	1	Toggle	ValueOutput
+Enabled B 4	0	1	Toggle	ValueOutput
+Function C	0	20	Value	ValueOutput
+Parameter C	0	4194304	Value	ValueOutput
+Strength C	0	4194304	Value	ValueOutput
+Cutoff C	0	4194304	Value	ValueOutput
+Reso C	0	4194304	Value	ValueOutput
+Parameter C Mod Level	0	4194304	Value	ValueOutput
+Strength C Mod Level	0	4194304	Value	ValueOutput
+Parameter C Mod Source	0	4	Value	ValueOutput
+Strength C Mod Source	0	4	Value	ValueOutput
+Enabled C 1	0	1	Toggle	ValueOutput
+Enabled C 2	0	1	Toggle	ValueOutput
+Enabled C 3	0	1	Toggle	ValueOutput
+Enabled C 4	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

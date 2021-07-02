@@ -1,0 +1,71 @@
+Scope
+Manufacturer	Model
+Robotic Bean	com.roboticbean.Sequences
+
+Remotable	Min	Max	Input type	Output type
+Reset	0	1	Toggle	ValueOutput
+Playback Mode	0	3	Value	ValueOutput
+Keyboard Trig Mode	0	1	Toggle	ValueOutput
+Retrig Mode	0	1	Toggle	ValueOutput
+Fill	0	1	Toggle	ValueOutput
+Rate	0	6	Value	ValueOutput
+Shuffle	0	4194304	Value	ValueOutput
+Slide	0	240	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Note Length	0	4194304	Value	ValueOutput
+Note Length Mode	0	1	Toggle	ValueOutput
+Root Key	0	127	Value	ValueOutput
+Transpose Mode	0	2	Value	ValueOutput
+Manual Transpose Amount	0	48	Value	ValueOutput
+CV 1 Polarity	0	1	Toggle	ValueOutput
+CV 2 Polarity	0	1	Toggle	ValueOutput
+Pattern 1 Length	0	32	Value	ValueOutput
+Pattern 2 Length	0	32	Value	ValueOutput
+Pattern 3 Length	0	32	Value	ValueOutput
+Pattern 4 Length	0	32	Value	ValueOutput
+Pattern 5 Length	0	32	Value	ValueOutput
+Pattern 6 Length	0	32	Value	ValueOutput
+Pattern 7 Length	0	32	Value	ValueOutput
+Pattern 8 Length	0	32	Value	ValueOutput
+Pattern 1 Relative Tempo	0	2	Value	ValueOutput
+Pattern 2 Relative Tempo	0	2	Value	ValueOutput
+Pattern 3 Relative Tempo	0	2	Value	ValueOutput
+Pattern 4 Relative Tempo	0	2	Value	ValueOutput
+Pattern 5 Relative Tempo	0	2	Value	ValueOutput
+Pattern 6 Relative Tempo	0	2	Value	ValueOutput
+Pattern 7 Relative Tempo	0	2	Value	ValueOutput
+Pattern 8 Relative Tempo	0	2	Value	ValueOutput
+Pattern 1 Auto Reset	0	128	Value	ValueOutput
+Pattern 2 Auto Reset	0	128	Value	ValueOutput
+Pattern 3 Auto Reset	0	128	Value	ValueOutput
+Pattern 4 Auto Reset	0	128	Value	ValueOutput
+Pattern 5 Auto Reset	0	128	Value	ValueOutput
+Pattern 6 Auto Reset	0	128	Value	ValueOutput
+Pattern 7 Auto Reset	0	128	Value	ValueOutput
+Pattern 8 Auto Reset	0	128	Value	ValueOutput
+On	0	1	Toggle	ValueOutput
+Pattern Recording Length	0	32	Value	ValueOutput
+Undo Step/Note	0	1	Toggle	ValueOutput
+Advance/Erase Notes	0	1	Toggle	ValueOutput
+Clear Pattern Recording	0	1	Toggle	ValueOutput
+Pattern Recording Relative Tempo	0	2	Value	ValueOutput
+Pattern Recording Auto Reset	0	128	Value	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Redo	0	1	Toggle	ValueOutput
+Recording Mode	0	2	Value	ValueOutput
+Pattern 1 View	0	103	Value	ValueOutput
+Pattern 2 View	0	103	Value	ValueOutput
+Pattern 3 View	0	103	Value	ValueOutput
+Pattern 4 View	0	103	Value	ValueOutput
+Pattern 5 View	0	103	Value	ValueOutput
+Pattern 6 View	0	103	Value	ValueOutput
+Pattern 7 View	0	103	Value	ValueOutput
+Pattern 8 View	0	103	Value	ValueOutput
+Running	0	1	-	ValueOutput
+Auto Reset Indication	0	1	-	ValueOutput
+Pattern Select	-1	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

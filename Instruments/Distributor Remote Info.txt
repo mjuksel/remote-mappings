@@ -1,0 +1,26 @@
+Scope
+Manufacturer	Model
+Blamsoft, Inc.	com.blamsoft.Distributor
+
+Remotable	Min	Max	Input type	Output type
+Hold	0	1	Toggle	ValueOutput
+Chord	0	1	Toggle	ValueOutput
+Freeze	0	1	Toggle	ValueOutput
+Voices Mode	0	1	Toggle	ValueOutput
+Number of Voices	0	7	Value	ValueOutput
+Combination	0	3	Value	ValueOutput
+Reassign	0	1	Toggle	ValueOutput
+Reset	0	1	Toggle	ValueOutput
+Continuous	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Octave	0	7	Value	ValueOutput
+Order Mode	0	3	Value	ValueOutput
+Start Position	0	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

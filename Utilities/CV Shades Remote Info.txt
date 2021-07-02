@@ -1,0 +1,22 @@
+Scope
+Manufacturer	Model
+Tonicmint	com.tonicmint.CVShades
+
+Remotable	Min	Max	Input type	Output type
+Attenuate 1	0	4194304	Value	ValueOutput
+Modifier 1	0	4194304	Value	ValueOutput
+Mode 1	0	1	Toggle	ValueOutput
+Attenuate 2	0	4194304	Value	ValueOutput
+Modifier 2	0	4194304	Value	ValueOutput
+Mode 2	0	1	Toggle	ValueOutput
+Attenuate 3	0	4194304	Value	ValueOutput
+Modifier 3	0	4194304	Value	ValueOutput
+Mode 3	0	1	Toggle	ValueOutput
+Attenuate 4	0	4194304	Value	ValueOutput
+Modifier 4	0	4194304	Value	ValueOutput
+Mode 4	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

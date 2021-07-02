@@ -1,0 +1,24 @@
+Scope
+Manufacturer	Model
+Propellerheads	Matrix Pattern Sequencer
+
+Remotable	Min	Max	Input type	Output type
+Pattern Enable	0	1	Toggle	ValueOutput
+Pattern Select	-1	31	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Pattern Select in Bank	0	7	Value	ValueOutput
+Bank Select	0	3	Value	ValueOutput
+Pattern 1	0	1	Trig	ValueOutput
+Pattern 2	0	1	Trig	ValueOutput
+Pattern 3	0	1	Trig	ValueOutput
+Pattern 4	0	1	Trig	ValueOutput
+Pattern 5	0	1	Trig	ValueOutput
+Pattern 6	0	1	Trig	ValueOutput
+Pattern 7	0	1	Trig	ValueOutput
+Pattern 8	0	1	Trig	ValueOutput
+Bank A	0	1	Trig	ValueOutput
+Bank B	0	1	Trig	ValueOutput
+Bank C	0	1	Trig	ValueOutput
+Bank D	0	1	Trig	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Resolution	0	8	Value	ValueOutput

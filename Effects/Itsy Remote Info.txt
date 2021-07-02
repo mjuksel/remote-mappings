@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Itsy
+
+Remotable	Min	Max	Input type	Output type
+StereoSpread	0	4194304	Value	ValueOutput
+StereoFlip	0	1	Toggle	ValueOutput
+SpreadMod	0	4194304	Value	ValueOutput
+InvertLeft	0	1	Toggle	ValueOutput
+InvertRight	0	1	Toggle	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

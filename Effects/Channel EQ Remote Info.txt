@@ -1,0 +1,29 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.ChannelEQ
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+HPF On	0	1	Toggle	ValueOutput
+HPF Frequency	0	4194304	Value	ValueOutput
+LPF On	0	1	Toggle	ValueOutput
+LPF Frequency	0	4194304	Value	ValueOutput
+LF Bell On	0	1	Toggle	ValueOutput
+LF Frequency	0	4194304	Value	ValueOutput
+LF Gain	0	4194304	Value	ValueOutput
+LMF Frequency	0	4194304	Value	ValueOutput
+LMF Gain	0	4194304	Value	ValueOutput
+LMF Q	0	4194304	Value	ValueOutput
+HMF Frequency	0	4194304	Value	ValueOutput
+HMF Gain	0	4194304	Value	ValueOutput
+HMF Q	0	4194304	Value	ValueOutput
+HF Bell On	0	1	Toggle	ValueOutput
+HF Frequency	0	4194304	Value	ValueOutput
+HF Gain	0	4194304	Value	ValueOutput
+E Mode On	0	1	Toggle	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

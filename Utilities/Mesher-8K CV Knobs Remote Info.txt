@@ -1,0 +1,98 @@
+Scope
+Manufacturer	Model
+HaMu	se.hamu.Mesher8K
+
+Remotable	Min	Max	Input type	Output type
+Input gain knob 01	0	4194304	Value	ValueOutput
+Input gain knob 02	0	4194304	Value	ValueOutput
+Input gain knob 03	0	4194304	Value	ValueOutput
+Input gain knob 04	0	4194304	Value	ValueOutput
+Input gain knob 05	0	4194304	Value	ValueOutput
+Input gain knob 06	0	4194304	Value	ValueOutput
+Input gain knob 07	0	4194304	Value	ValueOutput
+Input gain knob 08	0	4194304	Value	ValueOutput
+Input shift knob 01	0	4194304	Value	ValueOutput
+Input shift knob 02	0	4194304	Value	ValueOutput
+Input shift knob 03	0	4194304	Value	ValueOutput
+Input shift knob 04	0	4194304	Value	ValueOutput
+Input shift knob 05	0	4194304	Value	ValueOutput
+Input shift knob 06	0	4194304	Value	ValueOutput
+Input shift knob 07	0	4194304	Value	ValueOutput
+Input shift knob 08	0	4194304	Value	ValueOutput
+Output gain knob 01	0	4194304	Value	ValueOutput
+Output gain knob 02	0	4194304	Value	ValueOutput
+Output gain knob 03	0	4194304	Value	ValueOutput
+Output gain knob 04	0	4194304	Value	ValueOutput
+Output gain knob 05	0	4194304	Value	ValueOutput
+Output gain knob 06	0	4194304	Value	ValueOutput
+Output gain knob 07	0	4194304	Value	ValueOutput
+Output gain knob 08	0	4194304	Value	ValueOutput
+Mesh node amount knob in01 to out01	0	4194304	Value	ValueOutput
+Mesh node amount knob in02 to out01	0	4194304	Value	ValueOutput
+Mesh node amount knob in03 to out01	0	4194304	Value	ValueOutput
+Mesh node amount knob in04 to out01	0	4194304	Value	ValueOutput
+Mesh node amount knob in05 to out01	0	4194304	Value	ValueOutput
+Mesh node amount knob in06 to out01	0	4194304	Value	ValueOutput
+Mesh node amount knob in07 to out01	0	4194304	Value	ValueOutput
+Mesh node amount knob in08 to out01	0	4194304	Value	ValueOutput
+Mesh node amount knob in01 to out02	0	4194304	Value	ValueOutput
+Mesh node amount knob in02 to out02	0	4194304	Value	ValueOutput
+Mesh node amount knob in03 to out02	0	4194304	Value	ValueOutput
+Mesh node amount knob in04 to out02	0	4194304	Value	ValueOutput
+Mesh node amount knob in05 to out02	0	4194304	Value	ValueOutput
+Mesh node amount knob in06 to out02	0	4194304	Value	ValueOutput
+Mesh node amount knob in07 to out02	0	4194304	Value	ValueOutput
+Mesh node amount knob in08 to out02	0	4194304	Value	ValueOutput
+Mesh node amount knob in01 to out03	0	4194304	Value	ValueOutput
+Mesh node amount knob in02 to out03	0	4194304	Value	ValueOutput
+Mesh node amount knob in03 to out03	0	4194304	Value	ValueOutput
+Mesh node amount knob in04 to out03	0	4194304	Value	ValueOutput
+Mesh node amount knob in05 to out03	0	4194304	Value	ValueOutput
+Mesh node amount knob in06 to out03	0	4194304	Value	ValueOutput
+Mesh node amount knob in07 to out03	0	4194304	Value	ValueOutput
+Mesh node amount knob in08 to out03	0	4194304	Value	ValueOutput
+Mesh node amount knob in01 to out04	0	4194304	Value	ValueOutput
+Mesh node amount knob in02 to out04	0	4194304	Value	ValueOutput
+Mesh node amount knob in03 to out04	0	4194304	Value	ValueOutput
+Mesh node amount knob in04 to out04	0	4194304	Value	ValueOutput
+Mesh node amount knob in05 to out04	0	4194304	Value	ValueOutput
+Mesh node amount knob in06 to out04	0	4194304	Value	ValueOutput
+Mesh node amount knob in07 to out04	0	4194304	Value	ValueOutput
+Mesh node amount knob in08 to out04	0	4194304	Value	ValueOutput
+Mesh node amount knob in01 to out05	0	4194304	Value	ValueOutput
+Mesh node amount knob in02 to out05	0	4194304	Value	ValueOutput
+Mesh node amount knob in03 to out05	0	4194304	Value	ValueOutput
+Mesh node amount knob in04 to out05	0	4194304	Value	ValueOutput
+Mesh node amount knob in05 to out05	0	4194304	Value	ValueOutput
+Mesh node amount knob in06 to out05	0	4194304	Value	ValueOutput
+Mesh node amount knob in07 to out05	0	4194304	Value	ValueOutput
+Mesh node amount knob in08 to out05	0	4194304	Value	ValueOutput
+Mesh node amount knob in01 to out06	0	4194304	Value	ValueOutput
+Mesh node amount knob in02 to out06	0	4194304	Value	ValueOutput
+Mesh node amount knob in03 to out06	0	4194304	Value	ValueOutput
+Mesh node amount knob in04 to out06	0	4194304	Value	ValueOutput
+Mesh node amount knob in05 to out06	0	4194304	Value	ValueOutput
+Mesh node amount knob in06 to out06	0	4194304	Value	ValueOutput
+Mesh node amount knob in07 to out06	0	4194304	Value	ValueOutput
+Mesh node amount knob in08 to out06	0	4194304	Value	ValueOutput
+Mesh node amount knob in01 to out07	0	4194304	Value	ValueOutput
+Mesh node amount knob in02 to out07	0	4194304	Value	ValueOutput
+Mesh node amount knob in03 to out07	0	4194304	Value	ValueOutput
+Mesh node amount knob in04 to out07	0	4194304	Value	ValueOutput
+Mesh node amount knob in05 to out07	0	4194304	Value	ValueOutput
+Mesh node amount knob in06 to out07	0	4194304	Value	ValueOutput
+Mesh node amount knob in07 to out07	0	4194304	Value	ValueOutput
+Mesh node amount knob in08 to out07	0	4194304	Value	ValueOutput
+Mesh node amount knob in01 to out08	0	4194304	Value	ValueOutput
+Mesh node amount knob in02 to out08	0	4194304	Value	ValueOutput
+Mesh node amount knob in03 to out08	0	4194304	Value	ValueOutput
+Mesh node amount knob in04 to out08	0	4194304	Value	ValueOutput
+Mesh node amount knob in05 to out08	0	4194304	Value	ValueOutput
+Mesh node amount knob in06 to out08	0	4194304	Value	ValueOutput
+Mesh node amount knob in07 to out08	0	4194304	Value	ValueOutput
+Mesh node amount knob in08 to out08	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,36 @@
+Scope
+Manufacturer	Model
+Blamsoft, Inc.	com.blamsoft.Mark_VIII
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Pan 1	0	4194304	Value	ValueOutput
+Pan 2	0	4194304	Value	ValueOutput
+Pan 3	0	4194304	Value	ValueOutput
+Pan 4	0	4194304	Value	ValueOutput
+Pan 5	0	4194304	Value	ValueOutput
+Pan 6	0	4194304	Value	ValueOutput
+Pan 7	0	4194304	Value	ValueOutput
+Pan 8	0	4194304	Value	ValueOutput
+Gain 1	0	8	Value	ValueOutput
+Gain 2	0	8	Value	ValueOutput
+Gain 3	0	8	Value	ValueOutput
+Gain 4	0	8	Value	ValueOutput
+Gain 5	0	8	Value	ValueOutput
+Gain 6	0	8	Value	ValueOutput
+Gain 7	0	8	Value	ValueOutput
+Gain 8	0	8	Value	ValueOutput
+Low Shelf Gain	0	4194304	Value	ValueOutput
+Midrange Gain	0	4194304	Value	ValueOutput
+High Shelf Gain	0	4194304	Value	ValueOutput
+Low Shelf Frequency	0	4194304	Value	ValueOutput
+Midrange Frequency	0	4194304	Value	ValueOutput
+High Shelf Frequency	0	4194304	Value	ValueOutput
+Midrange Q	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Level	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

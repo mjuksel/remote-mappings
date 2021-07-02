@@ -1,0 +1,28 @@
+Scope
+Manufacturer	Model
+Blamsoft, Inc.	com.blamsoft.Resampler
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Downsample Enable	0	1	Toggle	ValueOutput
+Downsample Algorithm	0	11	Value	ValueOutput
+Downsample Vol Env Inv	0	1	Toggle	ValueOutput
+Downsample Pitch Env Inv	0	1	Toggle	ValueOutput
+Downsample Vol Env Amt	0	255	Value	ValueOutput
+Downsample Pitch Env Amt	0	255	Value	ValueOutput
+Downsample Rate	0	4194304	Value	ValueOutput
+Quantize Enable	0	1	Toggle	ValueOutput
+Quantize Algorithm	0	11	Value	ValueOutput
+Quantize Route	0	2	Value	ValueOutput
+Quantize Vol Env Inv	0	1	Toggle	ValueOutput
+Quantize Pitch Env Inv	0	1	Toggle	ValueOutput
+Quantize Vol Env Amt	0	255	Value	ValueOutput
+Quantize Pitch Env Amt	0	255	Value	ValueOutput
+Quantize Depth	0	4194304	Value	ValueOutput
+Upsample Algorithm	0	11	Value	ValueOutput
+Wet Percentage	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+Reasonistas	com.reasonistas.SCRE
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Filter Mode	0	1	Toggle	ValueOutput
+Pass Thru Audio	0	1	Toggle	ValueOutput
+All Rate	0	18	Value	ValueOutput
+All Hz	0	4194304	Value	ValueOutput
+All Gain	0	4194304	Value	ValueOutput
+All Loop	0	1	Toggle	ValueOutput
+All Retrig	0	1	Toggle	ValueOutput
+All Release	0	1	Toggle	ValueOutput
+Low Rate	0	18	Value	ValueOutput
+Low Hz	0	4194304	Value	ValueOutput
+Low Gain	0	4194304	Value	ValueOutput
+Low Loop	0	1	Toggle	ValueOutput
+Low Retrig	0	1	Toggle	ValueOutput
+Low Release	0	1	Toggle	ValueOutput
+Mid Rate	0	18	Value	ValueOutput
+Mid Hz	0	4194304	Value	ValueOutput
+Mid Gain	0	4194304	Value	ValueOutput
+Mid Loop	0	1	Toggle	ValueOutput
+Mid Retrig	0	1	Toggle	ValueOutput
+Mid Release	0	1	Toggle	ValueOutput
+High Rate	0	18	Value	ValueOutput
+High Hz	0	4194304	Value	ValueOutput
+High Gain	0	4194304	Value	ValueOutput
+High Loop	0	1	Toggle	ValueOutput
+High Retrig	0	1	Toggle	ValueOutput
+High Release	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

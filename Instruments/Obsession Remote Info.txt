@@ -1,0 +1,129 @@
+Scope
+Manufacturer	Model
+Synapse Audio	com.synapseAudioSoftware.Obsession
+
+Remotable	Min	Max	Input type	Output type
+Parts Mode	0	2	Value	ValueOutput
+Parts A/B Mix	0	4194304	Value	ValueOutput
+Effects	0	1	Toggle	ValueOutput
+Tuning	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Unison	0	1	Toggle	ValueOutput
+Mod LFO 1 Rate	0	4194304	Value	ValueOutput
+Mod LFO 1 Rate (Sync)	0	26	Value	ValueOutput
+Mod LFO 1 Shape	0	3	Value	ValueOutput
+Mod LFO 1 Freq Depth	0	4194304	Value	ValueOutput
+Mod LFO 1 Freq Osc 1	0	1	Toggle	ValueOutput
+Mod LFO 1 Freq Osc 2	0	1	Toggle	ValueOutput
+Mod LFO 1 Freq Filter	0	1	Toggle	ValueOutput
+Mod LFO 1 PW Depth	0	4194304	Value	ValueOutput
+Mod LFO 1 PW Osc 1	0	1	Toggle	ValueOutput
+Mod LFO 1 PW Osc 2	0	1	Toggle	ValueOutput
+Mod LFO 2 Rate	0	4194304	Value	ValueOutput
+Mod LFO 2 Rate (Sync)	0	26	Value	ValueOutput
+Mod LFO 2 Shape	0	3	Value	ValueOutput
+Mod LFO 2 Freq Depth	0	4194304	Value	ValueOutput
+Mod LFO 2 Freq Osc 1	0	1	Toggle	ValueOutput
+Mod LFO 2 Freq Osc 2	0	1	Toggle	ValueOutput
+Mod LFO 2 Freq Filter	0	1	Toggle	ValueOutput
+Mod LFO 2 PW Depth	0	4194304	Value	ValueOutput
+Mod LFO 2 PW Osc 1	0	1	Toggle	ValueOutput
+Mod LFO 2 PW Osc 2	0	1	Toggle	ValueOutput
+LFO 1 Steps	0	5	Value	ValueOutput
+LFO 2 Steps	0	5	Value	ValueOutput
+LFO 1 Steps One Shot	0	1	Toggle	ValueOutput
+LFO 2 Steps One Shot	0	1	Toggle	ValueOutput
+Filter Env Retrig	0	1	Toggle	ValueOutput
+[A] OSC 1 Frequency	0	3	Value	ValueOutput
+[A] OSC Pulse Width	0	4194304	Value	ValueOutput
+[A] OSC 2 Frequency	0	63	Value	ValueOutput
+[A] OSC 1 Saw	0	1	Toggle	ValueOutput
+[A] OSC 1 Pulse	0	1	Toggle	ValueOutput
+[A] OSC PW O2 Sync	0	1	Toggle	ValueOutput
+[A] OSC PW F-Env	0	1	Toggle	ValueOutput
+[A] OSC 2 Detune	0	4194304	Value	ValueOutput
+[A] OSC 2 X-Mod	0	4194304	Value	ValueOutput
+[A] OSC 2 Saw	0	1	Toggle	ValueOutput
+[A] OSC 2 Pulse	0	1	Toggle	ValueOutput
+[B] OSC 1 Frequency	0	3	Value	ValueOutput
+[B] OSC Pulse Width	0	4194304	Value	ValueOutput
+[B] OSC 2 Frequency	0	63	Value	ValueOutput
+[B] OSC 1 Saw	0	1	Toggle	ValueOutput
+[B] OSC 1 Pulse	0	1	Toggle	ValueOutput
+[B] OSC PW O2 Sync	0	1	Toggle	ValueOutput
+[B] OSC PW F-Env	0	1	Toggle	ValueOutput
+[B] OSC 2 Detune	0	4194304	Value	ValueOutput
+[B] OSC 2 X-Mod	0	4194304	Value	ValueOutput
+[B] OSC 2 Saw	0	1	Toggle	ValueOutput
+[B] OSC 2 Pulse	0	1	Toggle	ValueOutput
+[A] Filter Frequency	0	4194304	Value	ValueOutput
+[A] Filter Resonance	0	4194304	Value	ValueOutput
+[A] Filter Envelope Amount	0	4194304	Value	ValueOutput
+[A] Filter OSC 1	0	1	Toggle	ValueOutput
+[A] Filter OSC 2	0	2	Value	ValueOutput
+[A] Filter Noise	0	1	Toggle	ValueOutput
+[A] Filter BP	0	1	Toggle	ValueOutput
+[A] Filter 4-Pole	0	1	Toggle	ValueOutput
+[A] Filter Track	0	1	Toggle	ValueOutput
+[B] Filter Frequency	0	4194304	Value	ValueOutput
+[B] Filter Resonance	0	4194304	Value	ValueOutput
+[B] Filter Envelope Amount	0	4194304	Value	ValueOutput
+[B] Filter OSC 1	0	1	Toggle	ValueOutput
+[B] Filter OSC 2	0	2	Value	ValueOutput
+[B] Filter Noise	0	1	Toggle	ValueOutput
+[B] Filter BP	0	1	Toggle	ValueOutput
+[B] Filter 4-Pole	0	1	Toggle	ValueOutput
+[B] Filter Track	0	1	Toggle	ValueOutput
+[A] Filter Envelope Attack	0	4194304	Value	ValueOutput
+[A] Filter Envelope Decay	0	4194304	Value	ValueOutput
+[A] Filter Envelope Sustain	0	4194304	Value	ValueOutput
+[A] Filter Envelope Release	0	4194304	Value	ValueOutput
+[A] Loudness Envelope Attack	0	4194304	Value	ValueOutput
+[A] Loudness Envelope Decay	0	4194304	Value	ValueOutput
+[A] Loudness Envelope Sustain	0	4194304	Value	ValueOutput
+[A] Loudness Envelope Release	0	4194304	Value	ValueOutput
+[B] Filter Envelope Attack	0	4194304	Value	ValueOutput
+[B] Filter Envelope Decay	0	4194304	Value	ValueOutput
+[B] Filter Envelope Sustain	0	4194304	Value	ValueOutput
+[B] Filter Envelope Release	0	4194304	Value	ValueOutput
+[B] Loudness Envelope Attack	0	4194304	Value	ValueOutput
+[B] Loudness Envelope Decay	0	4194304	Value	ValueOutput
+[B] Loudness Envelope Sustain	0	4194304	Value	ValueOutput
+[B] Loudness Envelope Release	0	4194304	Value	ValueOutput
+Voice 1 Mute (#8 voices)	0	1	Toggle	ValueOutput
+Voice 2 Mute (#8 voices)	0	1	Toggle	ValueOutput
+Voice 3 Mute (#8 voices)	0	1	Toggle	ValueOutput
+Voice 4 Mute (#8 voices)	0	1	Toggle	ValueOutput
+Voice 5 Mute (#8 voices)	0	1	Toggle	ValueOutput
+Voice 6 Mute (#8 voices)	0	1	Toggle	ValueOutput
+Voice 7 Mute (#8 voices)	0	1	Toggle	ValueOutput
+Voice 8 Mute (#8 voices)	0	1	Toggle	ValueOutput
+Voice 1 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 2 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 3 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 4 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 5 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 6 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 7 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 8 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 9 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 10 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 11 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 12 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 13 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 14 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 15 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Voice 16 Mute (#16 voices)	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

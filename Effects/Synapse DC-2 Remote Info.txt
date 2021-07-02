@@ -1,0 +1,19 @@
+Scope
+Manufacturer	Model
+Synapse Audio Software	com.synapseAudioSoftware.SynapseChorus
+
+Remotable	Min	Max	Input type	Output type
+Delay	0	4194304	Value	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+Rate (sync)	0	26	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Type	0	1	Toggle	ValueOutput
+Sync On/Off	0	1	Toggle	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

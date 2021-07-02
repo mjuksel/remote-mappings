@@ -1,0 +1,20 @@
+Scope
+Manufacturer	Model
+Blamsoft, Inc.	com.blamsoft.F16
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Mode	0	15	Value	ValueOutput
+Frequency	0	4194304	Value	ValueOutput
+Envelope Amount	0	4194304	Value	ValueOutput
+Note Amount	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Compensation	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

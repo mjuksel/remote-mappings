@@ -1,0 +1,21 @@
+Scope
+Manufacturer	Model
+Synapse Audio Software	com.synapseAudioSoftware.FatSpace
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Type	0	1	Toggle	ValueOutput
+Sync	0	1	Toggle	ValueOutput
+Predelay	0	4194304	Value	ValueOutput
+Predelay (Sync)	0	20	Value	ValueOutput
+Length	0	4194304	Value	ValueOutput
+Shape	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Low Cut	0	4194304	Value	ValueOutput
+High Cut	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

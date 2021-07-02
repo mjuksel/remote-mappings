@@ -1,0 +1,17 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.SkopeM4
+
+Remotable	Min	Max	Input type	Output type
+Rate	0	7	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Color	0	359	Value	ValueOutput
+Color Offset 1	0	359	Value	ValueOutput
+Color Offset 2	0	359	Value	ValueOutput
+Color Offset 3	0	359	Value	ValueOutput
+Color Offset 4	0	359	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

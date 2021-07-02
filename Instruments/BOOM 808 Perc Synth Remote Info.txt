@@ -1,0 +1,110 @@
+Scope
+Manufacturer	Model
+Josh Levy	com.joshlevy.Synth808
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Analog Level	0	4194304	Value	ValueOutput
+MonoPoly	0	1	Toggle	ValueOutput
+SwitchBass	0	1	Toggle	ValueOutput
+Bass Pan	0	4194304	Value	ValueOutput
+Bass Level	0	4194304	Value	ValueOutput
+Bass Tone	0	4194304	Value	ValueOutput
+Bass Decay	0	4194304	Value	ValueOutput
+Bass Tuning	0	4194304	Value	ValueOutput
+Snare Pan	0	4194304	Value	ValueOutput
+Snare Level	0	4194304	Value	ValueOutput
+Snare Tone	0	4194304	Value	ValueOutput
+Snare Decay	0	4194304	Value	ValueOutput
+Snare Snappy	0	4194304	Value	ValueOutput
+Snare Tuning	0	4194304	Value	ValueOutput
+Low Conga Pan	0	4194304	Value	ValueOutput
+Low Conga Level	0	4194304	Value	ValueOutput
+Low Conga Decay	0	4194304	Value	ValueOutput
+Low Conga Tuning	0	4194304	Value	ValueOutput
+Mid Conga Pan	0	4194304	Value	ValueOutput
+Mid Conga Level	0	4194304	Value	ValueOutput
+Mid Conga Decay	0	4194304	Value	ValueOutput
+Mid Conga Tuning	0	4194304	Value	ValueOutput
+Hi Conga Pan	0	4194304	Value	ValueOutput
+Hi Conga Level	0	4194304	Value	ValueOutput
+Hi Conga Decay	0	4194304	Value	ValueOutput
+Hi Conga Tuning	0	4194304	Value	ValueOutput
+Low Tom Pan	0	4194304	Value	ValueOutput
+Low Tom Level	0	4194304	Value	ValueOutput
+Low Tom Decay	0	4194304	Value	ValueOutput
+Low Tom Tuning	0	4194304	Value	ValueOutput
+Mid Tom Pan	0	4194304	Value	ValueOutput
+Mid Tom Level	0	4194304	Value	ValueOutput
+Mid Tom Decay	0	4194304	Value	ValueOutput
+Mid Tom Tuning	0	4194304	Value	ValueOutput
+Hi Tom Pan	0	4194304	Value	ValueOutput
+Hi Tom Level	0	4194304	Value	ValueOutput
+Hi Tom Decay	0	4194304	Value	ValueOutput
+Hi Tom Tuning	0	4194304	Value	ValueOutput
+Claves Pan	0	4194304	Value	ValueOutput
+Claves Level	0	4194304	Value	ValueOutput
+Claves Tuning	0	4194304	Value	ValueOutput
+Clap Pan	0	4194304	Value	ValueOutput
+Clap Level	0	4194304	Value	ValueOutput
+Clap Decay	0	4194304	Value	ValueOutput
+Clap Tuning	0	4194304	Value	ValueOutput
+Cowbell Pan	0	4194304	Value	ValueOutput
+Cowbell Level	0	4194304	Value	ValueOutput
+Cowbell Decay	0	4194304	Value	ValueOutput
+Cowbell Tuning	0	4194304	Value	ValueOutput
+Rimshot Pan	0	4194304	Value	ValueOutput
+Rimshot Level	0	4194304	Value	ValueOutput
+Rimshot Tuning	0	4194304	Value	ValueOutput
+Maracas Pan	0	4194304	Value	ValueOutput
+Maracas Level	0	4194304	Value	ValueOutput
+Maracas Tuning	0	4194304	Value	ValueOutput
+Cymbal Pan	0	4194304	Value	ValueOutput
+Cymbal Level	0	4194304	Value	ValueOutput
+Cymbal Tuning	0	4194304	Value	ValueOutput
+Cymbal Tone	0	4194304	Value	ValueOutput
+Cymbal Decay	0	4194304	Value	ValueOutput
+Open Hat Pan	0	4194304	Value	ValueOutput
+Open Hat Level	0	4194304	Value	ValueOutput
+Open Hat Tuning	0	4194304	Value	ValueOutput
+Open Hat Decay	0	4194304	Value	ValueOutput
+Closed Hat Pan	0	4194304	Value	ValueOutput
+Closed Hat Level	0	4194304	Value	ValueOutput
+Closed Hat Tuning	0	4194304	Value	ValueOutput
+BassOn	0	1	-	ValueOutput
+BassAccent	0	1	-	ValueOutput
+SnareOn	0	1	-	ValueOutput
+SnareAccent	0	1	-	ValueOutput
+LowCongaOn	0	1	-	ValueOutput
+LowCongaAccent	0	1	-	ValueOutput
+MidCongaOn	0	1	-	ValueOutput
+MidCongaAccent	0	1	-	ValueOutput
+HiCongaOn	0	1	-	ValueOutput
+HiCongaAccent	0	1	-	ValueOutput
+LowTomOn	0	1	-	ValueOutput
+LowTomAccent	0	1	-	ValueOutput
+MidTomOn	0	1	-	ValueOutput
+MidTomAccent	0	1	-	ValueOutput
+HiTomOn	0	1	-	ValueOutput
+HiTomAccent	0	1	-	ValueOutput
+ClavesOn	0	1	-	ValueOutput
+ClavesAccent	0	1	-	ValueOutput
+RimshotOn	0	1	-	ValueOutput
+RimshotAccent	0	1	-	ValueOutput
+ClapOn	0	1	-	ValueOutput
+ClapAccent	0	1	-	ValueOutput
+CowbellOn	0	1	-	ValueOutput
+CowbellAccent	0	1	-	ValueOutput
+CymbalOn	0	1	-	ValueOutput
+CymbalAccent	0	1	-	ValueOutput
+OpenHatOn	0	1	-	ValueOutput
+OpenHatAccent	0	1	-	ValueOutput
+ClosedHatOn	0	1	-	ValueOutput
+ClosedHatAccent	0	1	-	ValueOutput
+MaracasOn	0	1	-	ValueOutput
+MaracasAccent	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
