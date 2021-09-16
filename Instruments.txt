@@ -1,0 +1,102 @@
+ABL3 Remote Info.txt
+AC-1 Acoustic Clap Remote Info.txt
+AIV Remote Info.txt
+Algoritm Remote Info.txt
+Ammo 100LA Remote Info.txt
+Ammo 1200BR Remote Info.txt
+Antidote Remote Info.txt
+Attention Inst Remote Info.txt
+BIV Remote Info.txt
+BOOM 808 Perc Synth Remote Info.txt
+CIV Remote Info.txt
+Complex-1 Remote Info.txt
+Distributor Remote Info.txt
+Dr. Octo Rex Remote Info.txt
+EC-1 Electro Clap Remote Info.txt
+EDS06s Drum Synth Remote Info.txt
+Europa Remote Info.txt
+EXP1 Remote Info.txt
+Expanse Synthesizer Remote Info.txt
+Friktion Remote Info.txt
+Go2 Instrument Remote Info.txt
+Grain Remote Info.txt
+Humana Remote Info.txt
+ID8 Remote Info.txt
+Iridium Synth Remote Info.txt
+Ivy CV Harmonizer Remote Info.txt
+Jackbox 7R-808 Remote Info.txt
+Jackbox 7R-909 Remote Info.txt
+Klang Remote Info.txt
+Kong Remote Info.txt
+L1MDrum Remote Info.txt
+Layers Remote Info.txt
+Layers Wave Remote Info.txt
+Little LFO Remote Info.txt
+LIV Remote Info.txt
+Malström Remote Info.txt
+MC-1 More Cowbell Remote Info.txt
+Mercury Poly Arp Remote Info.txt
+MIDI Out Device Remote Info.txt
+MidiTapper Key Ctrl Remote Info.txt
+Mimic Remote Info.txt
+MIV Remote Info.txt
+MixfoodAmbiNature Remote Info.txt
+MixfoodAmbiUrban Remote Info.txt
+ModPanel12 CV Board Remote Info.txt
+ModPanel16 CV Board Remote Info.txt
+ModPanel8 CV Board Remote Info.txt
+MODRACK MIDI Remote Info.txt
+MODRACK NOISE Remote Info.txt
+Modrack VCO Remote Info.txt
+MonoPoly Remote Info.txt
+Monotone Remote Info.txt
+Movement Remote Info.txt
+Nautilus 2 Remote Info.txt
+Nautilus Synth Remote Info.txt
+Newtrol-12 CV Board Remote Info.txt
+Newtrol-16 CV Board Remote Info.txt
+Newtrol-8 CV Board Remote Info.txt
+NN-XT Sampler Remote Info.txt
+NN19 Sampler Remote Info.txt
+Nostromo Synthesizer Remote Info.txt
+Obsession Remote Info.txt
+Orbis Synthesizer Remote Info.txt
+Pangea Remote Info.txt
+Parsec Remote Info.txt
+Polysix Remote Info.txt
+Processed Pianos Remote Info.txt
+ProjectSAM Remote Info.txt
+Proton Remote Info.txt
+PunchBD-RE Inst Remote Info.txt
+Quad Instrument Remote Info.txt
+Radical Keys Remote Info.txt
+Radical Piano Remote Info.txt
+Reason Drum Kits Remote Info.txt
+Reason Electric Bass Remote Info.txt
+ReDominator Remote Info.txt
+Redrum Remote Info.txt
+Resonans Remote Info.txt
+ReSpire Synthesizer Remote Info.txt
+Rostnomo Synthesizer Remote Info.txt
+RYM2612 Remote Info.txt
+Rytmik Drum Machine Remote Info.txt
+Scenic Hybrid Remote Info.txt
+SIV Remote Info.txt
+Spectra Remote Info.txt
+StringWERK Remote Info.txt
+SubBoomBassRE Inst Remote Info.txt
+SubTractor Remote Info.txt
+Super Audio Cart Remote Info.txt
+The Legend Remote Info.txt
+Thermal Synthesizer Remote Info.txt
+Thor Remote Info.txt
+Torsion Remote Info.txt
+Tribute Remote Info.txt
+Umpf Club Drums Remote Info.txt
+Umpf Retro Beats Remote Info.txt
+Vibro Synthesizer Remote Info.txt
+Viking Remote Info.txt
+VO-1 Oscillator Remote Info.txt
+Wavetable FM Synth Remote Info.txt
+WBL3001 Remote Info.txt
+WBL5515 Oscillator Remote Info.txt

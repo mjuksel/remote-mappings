@@ -1,0 +1,105 @@
+4 Phase LFO Remote Info.txt
+AMP Remote Info.txt
+Anansi Remote Info.txt
+ARCUS User Knobs Remote Info.txt
+AS-16 Analog Seq Remote Info.txt
+Audio Merger Remote Info.txt
+Audio Splitter Remote Info.txt
+Audio Track Remote Info.txt
+A_B 12 Audio Switch Remote Info.txt
+A_B Switch Remote Info.txt
+BZR-1 Chaotic CV Remote Info.txt
+CMD_Constants Remote Info.txt
+CMD_Equation Math Remote Info.txt
+Combinator Remote Info (pre Reason12).txt
+Combinator Remote Info.txt
+CV Breakout Box Remote Info.txt
+CV Merger Remote Info.txt
+CV Origami Remote Info.txt
+CV Pad Remote Info.txt
+CV Pistons Remote Info.txt
+CV Ranger Remote Info.txt
+CV Shades Remote Info.txt
+CV Splitter Remote Info.txt
+CV Witch Remote Info.txt
+CV-2 Meter Remote Info.txt
+CV-8 Gateway Remote Info.txt
+CV-I Audio to CV Remote Info.txt
+CV-O CV to Audio Remote Info.txt
+CV8X4 CV Generator Remote Info.txt
+CVA-7 CV Analyzer Remote Info.txt
+DEG-2 Dual Envelope Remote Info.txt
+DVC-1 Digital Volta Remote Info.txt
+Elements DS-LFO Remote Info.txt
+Equation Junior Remote Info.txt
+Frame CV Generator Remote Info.txt
+FRONT-8 Remote Info.txt
+Janitor CV Shaper Remote Info.txt
+Line Mixer 6_2 Remote Info.txt
+Lolth Remote Info.txt
+LPCV Remote Info.txt
+LPM Remote Info.txt
+MatchMaker CV In_Out Remote Info.txt
+Matrix Remote Info.txt
+Mesher-4B CV Buttons Remote Info.txt
+Mesher-4K CV Knobs Remote Info.txt
+Mesher-8B CV Buttons Remote Info.txt
+Mesher-8K CV Knobs Remote Info.txt
+Metro Click-Machine Remote Info.txt
+Mingler Latest CV Remote Info.txt
+Miranda Remote Info.txt
+Mix Channel Remote Info.txt
+MODRACK ADSR Remote Info.txt
+Modrack LFO Remote Info.txt
+MODRACK VCA Remote Info.txt
+MODRACK VCF Remote Info.txt
+ModSelsor Sel & Sens Remote Info.txt
+ModSlewer CV Shaper Remote Info.txt
+ModStepper CV Ctrl Remote Info.txt
+ModSweeper CV Ctrl Remote Info.txt
+MoPol Remote Info.txt
+Mordred Remote Info.txt
+Morfin XF CrossFader Remote Info.txt
+MxSplirger CV Flex Remote Info.txt
+Omega Merger Remote Info.txt
+One-Note Stand Remote Info.txt
+Optic Multi Analyzer Remote Info.txt
+Out Gate Note Remote Info.txt
+Peak Programme Meter Remote Info.txt
+PSQ-1684 Remote Info.txt
+PSYH - MultiMerger Remote Info.txt
+PSYH - MultiSplitter Remote Info.txt
+Pulsar Remote Info.txt
+RE 180 DD Remote Info.txt
+RE 181 M_S AC Remote Info.txt
+Reference 5 Remote Info.txt
+ReGain Remote Info.txt
+ReMark Remote Info.txt
+RPG-8 Remote Info.txt
+RPSpec Spectrogram Remote Info.txt
+RVL-1 Remote Info.txt
+Scope Junior Remote Info.txt
+Select CV Switch Remote Info.txt
+Select Program Remote Info.txt
+Set Audio Out  Remote Info.txt
+Set Cv Out  Remote Info.txt
+Set Program Remote Info.txt
+Set Vca Remote Info.txt
+Shape LFO Editor Remote Info.txt
+Shelob Remote Info.txt
+Skope M4 Monitor Remote Info.txt
+Skope Signal Monitor Remote Info.txt
+Spektrum Remote Info.txt
+Spider Audio Remote Info.txt
+Spider CV Remote Info.txt
+TMA-1 Commentator Remote Info.txt
+TMA-4 Commentator Remote Info.txt
+TMA-9 Commentator Remote Info.txt
+TS-1 Time Slider Remote Info.txt
+VMG-01 Sample Delay Remote Info.txt
+Volt CB-1 Remote Info.txt
+Volt SH-1 Remote Info.txt
+Volt SL-1 Remote Info.txt
+VU Meter Remote Info.txt
+xEM Remote Info.txt
+ZFO-2 Remote Info.txt

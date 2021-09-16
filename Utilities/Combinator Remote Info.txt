@@ -9,14 +9,87 @@ Rotary 1	0	127	Value	ValueOutput
 Rotary 2	0	127	Value	ValueOutput
 Rotary 3	0	127	Value	ValueOutput
 Rotary 4	0	127	Value	ValueOutput
+Rotary 5	0	127	Value	ValueOutput
+Rotary 6	0	127	Value	ValueOutput
+Rotary 7	0	127	Value	ValueOutput
+Rotary 8	0	127	Value	ValueOutput
+Rotary 9	0	127	Value	ValueOutput
+Rotary 10	0	127	Value	ValueOutput
+Rotary 11	0	127	Value	ValueOutput
+Rotary 12	0	127	Value	ValueOutput
+Rotary 13	0	127	Value	ValueOutput
+Rotary 14	0	127	Value	ValueOutput
+Rotary 15	0	127	Value	ValueOutput
+Rotary 16	0	127	Value	ValueOutput
+Rotary 17	0	127	Value	ValueOutput
+Rotary 18	0	127	Value	ValueOutput
+Rotary 19	0	127	Value	ValueOutput
+Rotary 20	0	127	Value	ValueOutput
+Rotary 21	0	127	Value	ValueOutput
+Rotary 22	0	127	Value	ValueOutput
+Rotary 23	0	127	Value	ValueOutput
+Rotary 24	0	127	Value	ValueOutput
+Rotary 25	0	127	Value	ValueOutput
+Rotary 26	0	127	Value	ValueOutput
+Rotary 27	0	127	Value	ValueOutput
+Rotary 28	0	127	Value	ValueOutput
+Rotary 29	0	127	Value	ValueOutput
+Rotary 30	0	127	Value	ValueOutput
+Rotary 31	0	127	Value	ValueOutput
+Rotary 32	0	127	Value	ValueOutput
 Button 1	0	1	Toggle	ValueOutput
 Button 2	0	1	Toggle	ValueOutput
 Button 3	0	1	Toggle	ValueOutput
 Button 4	0	1	Toggle	ValueOutput
+Button 5	0	1	Toggle	ValueOutput
+Button 6	0	1	Toggle	ValueOutput
+Button 7	0	1	Toggle	ValueOutput
+Button 8	0	1	Toggle	ValueOutput
+Button 9	0	1	Toggle	ValueOutput
+Button 10	0	1	Toggle	ValueOutput
+Button 11	0	1	Toggle	ValueOutput
+Button 12	0	1	Toggle	ValueOutput
+Button 13	0	1	Toggle	ValueOutput
+Button 14	0	1	Toggle	ValueOutput
+Button 15	0	1	Toggle	ValueOutput
+Button 16	0	1	Toggle	ValueOutput
+Button 17	0	1	Toggle	ValueOutput
+Button 18	0	1	Toggle	ValueOutput
+Button 19	0	1	Toggle	ValueOutput
+Button 20	0	1	Toggle	ValueOutput
+Button 21	0	1	Toggle	ValueOutput
+Button 22	0	1	Toggle	ValueOutput
+Button 23	0	1	Toggle	ValueOutput
+Button 24	0	1	Toggle	ValueOutput
+Button 25	0	1	Toggle	ValueOutput
+Button 26	0	1	Toggle	ValueOutput
+Button 27	0	1	Toggle	ValueOutput
+Button 28	0	1	Toggle	ValueOutput
+Button 29	0	1	Toggle	ValueOutput
+Button 30	0	1	Toggle	ValueOutput
+Button 31	0	1	Toggle	ValueOutput
+Button 32	0	1	Toggle	ValueOutput
 Enabled	0	2	Value	ValueOutput
 Audio In Indicator	0	20	-	ValueOutput
 Audio Out Indicator	0	20	-	ValueOutput
 Sample Loading Progress	-1	127	-	ValueOutput
+Mixer Level	0	127	Value	ValueOutput
+Mixer In Left 1	0	20	-	ValueOutput
+Mixer In Right 1	0	20	-	ValueOutput
+Mixer In Left 2	0	20	-	ValueOutput
+Mixer In Right 2	0	20	-	ValueOutput
+Mixer In Left 3	0	20	-	ValueOutput
+Mixer In Right 3	0	20	-	ValueOutput
+Mixer In Left 4	0	20	-	ValueOutput
+Mixer In Right 4	0	20	-	ValueOutput
+Mixer In Left 5	0	20	-	ValueOutput
+Mixer In Right 5	0	20	-	ValueOutput
+Mixer In Left 6	0	20	-	ValueOutput
+Mixer In Right 6	0	20	-	ValueOutput
+Mixer In Left 7	0	20	-	ValueOutput
+Mixer In Right 7	0	20	-	ValueOutput
+Mixer In Left 8	0	20	-	ValueOutput
+Mixer In Right 8	0	20	-	ValueOutput
 Pitch Bend	-8192	8191	Value	ValueOutput
 Device Name	0	0	-	TextOutput
 Patch Name	0	0	-	TextOutput

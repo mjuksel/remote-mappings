@@ -1,0 +1,628 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Mimic
+
+Remotable	Min	Max	Input type	Output type
+Amp Gain 1	0	4194304	Value	ValueOutput
+Amp Attack 1	0	4194304	Value	ValueOutput
+Amp Decay 1	0	4194304	Value	ValueOutput
+Amp Release 1	0	4194304	Value	ValueOutput
+Filter Attack 1	0	4194304	Value	ValueOutput
+Filter Decay 1	0	4194304	Value	ValueOutput
+Filter Release 1	0	4194304	Value	ValueOutput
+Filter Env 1	0	4194304	Value	ValueOutput
+Effect Mix 1	0	4194304	Value	ValueOutput
+Effect Mod 1	0	4194304	Value	ValueOutput
+End Pos 1	0	4194304	Value	ValueOutput
+Filter Freq 1	0	4194304	Value	ValueOutput
+Filter Reso 1	0	4194304	Value	ValueOutput
+Grain Len 1	0	4194304	Value	ValueOutput
+LFO Rate 1	0	4194304	Value	ValueOutput
+LFO Synced Rate 1	0	17	Value	ValueOutput
+Loop Length 1	0	4194304	Value	ValueOutput
+Pan 1	0	4194304	Value	ValueOutput
+Pitch Semi 1	0	48	Value	ValueOutput
+Reverse 1	0	1	Toggle	ValueOutput
+Lo Cut 1	0	4194304	Value	ValueOutput
+Hi Cut 1	0	4194304	Value	ValueOutput
+Start Pos 1	0	4194304	Value	ValueOutput
+Stretch Speed 1	0	4194304	Value	ValueOutput
+Voice Formant 1	0	4194304	Value	ValueOutput
+Amp Gain 2	0	4194304	Value	ValueOutput
+Amp Attack 2	0	4194304	Value	ValueOutput
+Amp Decay 2	0	4194304	Value	ValueOutput
+Amp Release 2	0	4194304	Value	ValueOutput
+Filter Attack 2	0	4194304	Value	ValueOutput
+Filter Decay 2	0	4194304	Value	ValueOutput
+Filter Release 2	0	4194304	Value	ValueOutput
+Effect Mix 2	0	4194304	Value	ValueOutput
+Effect Mod 2	0	4194304	Value	ValueOutput
+End Pos 2	0	4194304	Value	ValueOutput
+Filter Env 2	0	4194304	Value	ValueOutput
+Filter Freq 2	0	4194304	Value	ValueOutput
+Filter Reso 2	0	4194304	Value	ValueOutput
+Grain Len 2	0	4194304	Value	ValueOutput
+LFO Rate 2	0	4194304	Value	ValueOutput
+LFO Synced Rate 2	0	17	Value	ValueOutput
+Loop Length 2	0	4194304	Value	ValueOutput
+Pan 2	0	4194304	Value	ValueOutput
+Pitch Semi 2	0	48	Value	ValueOutput
+Reverse 2	0	1	Toggle	ValueOutput
+Lo Cut 2	0	4194304	Value	ValueOutput
+Hi Cut 2	0	4194304	Value	ValueOutput
+Start Pos 2	0	4194304	Value	ValueOutput
+Stretch Speed 2	0	4194304	Value	ValueOutput
+Voice Formant 2	0	4194304	Value	ValueOutput
+Amp Gain 3	0	4194304	Value	ValueOutput
+Amp Attack 3	0	4194304	Value	ValueOutput
+Amp Decay 3	0	4194304	Value	ValueOutput
+Amp Release 3	0	4194304	Value	ValueOutput
+Filter Attack 3	0	4194304	Value	ValueOutput
+Filter Decay 3	0	4194304	Value	ValueOutput
+Filter Release 3	0	4194304	Value	ValueOutput
+Effect Mix 3	0	4194304	Value	ValueOutput
+Effect Mod 3	0	4194304	Value	ValueOutput
+End Pos 3	0	4194304	Value	ValueOutput
+Filter Env 3	0	4194304	Value	ValueOutput
+Filter Freq 3	0	4194304	Value	ValueOutput
+Filter Reso 3	0	4194304	Value	ValueOutput
+Grain Len 3	0	4194304	Value	ValueOutput
+LFO Rate 3	0	4194304	Value	ValueOutput
+LFO Synced Rate 3	0	17	Value	ValueOutput
+Loop Length 3	0	4194304	Value	ValueOutput
+Pan 3	0	4194304	Value	ValueOutput
+Pitch Semi 3	0	48	Value	ValueOutput
+Reverse 3	0	1	Toggle	ValueOutput
+Lo Cut 3	0	4194304	Value	ValueOutput
+Hi Cut 3	0	4194304	Value	ValueOutput
+Start Pos 3	0	4194304	Value	ValueOutput
+Stretch Speed 3	0	4194304	Value	ValueOutput
+Voice Formant 3	0	4194304	Value	ValueOutput
+Amp Gain 4	0	4194304	Value	ValueOutput
+Amp Attack 4	0	4194304	Value	ValueOutput
+Amp Decay 4	0	4194304	Value	ValueOutput
+Amp Release 4	0	4194304	Value	ValueOutput
+Filter Attack 4	0	4194304	Value	ValueOutput
+Filter Decay 4	0	4194304	Value	ValueOutput
+Filter Release 4	0	4194304	Value	ValueOutput
+Effect Mix 4	0	4194304	Value	ValueOutput
+Effect Mod 4	0	4194304	Value	ValueOutput
+End Pos 4	0	4194304	Value	ValueOutput
+Filter Env 4	0	4194304	Value	ValueOutput
+Filter Freq 4	0	4194304	Value	ValueOutput
+Filter Reso 4	0	4194304	Value	ValueOutput
+Grain Len 4	0	4194304	Value	ValueOutput
+LFO Rate 4	0	4194304	Value	ValueOutput
+LFO Synced Rate 4	0	17	Value	ValueOutput
+Loop Length 4	0	4194304	Value	ValueOutput
+Pan 4	0	4194304	Value	ValueOutput
+Pitch Semi 4	0	48	Value	ValueOutput
+Reverse 4	0	1	Toggle	ValueOutput
+Lo Cut 4	0	4194304	Value	ValueOutput
+Hi Cut 4	0	4194304	Value	ValueOutput
+Start Pos 4	0	4194304	Value	ValueOutput
+Stretch Speed 4	0	4194304	Value	ValueOutput
+Voice Formant 4	0	4194304	Value	ValueOutput
+Amp Gain 5	0	4194304	Value	ValueOutput
+Amp Attack 5	0	4194304	Value	ValueOutput
+Amp Decay 5	0	4194304	Value	ValueOutput
+Amp Release 5	0	4194304	Value	ValueOutput
+Filter Attack 5	0	4194304	Value	ValueOutput
+Filter Decay 5	0	4194304	Value	ValueOutput
+Filter Release 5	0	4194304	Value	ValueOutput
+Effect Mix 5	0	4194304	Value	ValueOutput
+Effect Mod 5	0	4194304	Value	ValueOutput
+End Pos 5	0	4194304	Value	ValueOutput
+Filter Env 5	0	4194304	Value	ValueOutput
+Filter Freq 5	0	4194304	Value	ValueOutput
+Filter Reso 5	0	4194304	Value	ValueOutput
+Grain Len 5	0	4194304	Value	ValueOutput
+LFO Rate 5	0	4194304	Value	ValueOutput
+LFO Synced Rate 5	0	17	Value	ValueOutput
+Loop Length 5	0	4194304	Value	ValueOutput
+Pan 5	0	4194304	Value	ValueOutput
+Pitch Semi 5	0	48	Value	ValueOutput
+Reverse 5	0	1	Toggle	ValueOutput
+Lo Cut 5	0	4194304	Value	ValueOutput
+Hi Cut 5	0	4194304	Value	ValueOutput
+Start Pos 5	0	4194304	Value	ValueOutput
+Stretch Speed 5	0	4194304	Value	ValueOutput
+Voice Formant 5	0	4194304	Value	ValueOutput
+Amp Gain 6	0	4194304	Value	ValueOutput
+Amp Attack 6	0	4194304	Value	ValueOutput
+Amp Decay 6	0	4194304	Value	ValueOutput
+Amp Release 6	0	4194304	Value	ValueOutput
+Filter Attack 6	0	4194304	Value	ValueOutput
+Filter Decay 6	0	4194304	Value	ValueOutput
+Filter Release 6	0	4194304	Value	ValueOutput
+Effect Mix 6	0	4194304	Value	ValueOutput
+Effect Mod 6	0	4194304	Value	ValueOutput
+End Pos 6	0	4194304	Value	ValueOutput
+Filter Env 6	0	4194304	Value	ValueOutput
+Filter Freq 6	0	4194304	Value	ValueOutput
+Filter Reso 6	0	4194304	Value	ValueOutput
+Grain Len 6	0	4194304	Value	ValueOutput
+LFO Rate 6	0	4194304	Value	ValueOutput
+LFO Synced Rate 6	0	17	Value	ValueOutput
+Loop Length 6	0	4194304	Value	ValueOutput
+Pan 6	0	4194304	Value	ValueOutput
+Pitch Semi 6	0	48	Value	ValueOutput
+Reverse 6	0	1	Toggle	ValueOutput
+Lo Cut 6	0	4194304	Value	ValueOutput
+Hi Cut 6	0	4194304	Value	ValueOutput
+Start Pos 6	0	4194304	Value	ValueOutput
+Stretch Speed 6	0	4194304	Value	ValueOutput
+Voice Formant 6	0	4194304	Value	ValueOutput
+Amp Gain 7	0	4194304	Value	ValueOutput
+Amp Attack 7	0	4194304	Value	ValueOutput
+Amp Decay 7	0	4194304	Value	ValueOutput
+Amp Release 7	0	4194304	Value	ValueOutput
+Filter Attack 7	0	4194304	Value	ValueOutput
+Filter Decay 7	0	4194304	Value	ValueOutput
+Filter Release 7	0	4194304	Value	ValueOutput
+Effect Mix 7	0	4194304	Value	ValueOutput
+Effect Mod 7	0	4194304	Value	ValueOutput
+End Pos 7	0	4194304	Value	ValueOutput
+Filter Env 7	0	4194304	Value	ValueOutput
+Filter Freq 7	0	4194304	Value	ValueOutput
+Filter Reso 7	0	4194304	Value	ValueOutput
+Grain Len 7	0	4194304	Value	ValueOutput
+LFO Rate 7	0	4194304	Value	ValueOutput
+LFO Synced Rate 7	0	17	Value	ValueOutput
+Loop Length 7	0	4194304	Value	ValueOutput
+Pan 7	0	4194304	Value	ValueOutput
+Pitch Semi 7	0	48	Value	ValueOutput
+Reverse 7	0	1	Toggle	ValueOutput
+Lo Cut 7	0	4194304	Value	ValueOutput
+Hi Cut 7	0	4194304	Value	ValueOutput
+Start Pos 7	0	4194304	Value	ValueOutput
+Stretch Speed 7	0	4194304	Value	ValueOutput
+Voice Formant 7	0	4194304	Value	ValueOutput
+Amp Gain 8	0	4194304	Value	ValueOutput
+Amp Attack 8	0	4194304	Value	ValueOutput
+Amp Decay 8	0	4194304	Value	ValueOutput
+Amp Release 8	0	4194304	Value	ValueOutput
+Filter Attack 8	0	4194304	Value	ValueOutput
+Filter Decay 8	0	4194304	Value	ValueOutput
+Filter Release 8	0	4194304	Value	ValueOutput
+Effect Mix 8	0	4194304	Value	ValueOutput
+Effect Mod 8	0	4194304	Value	ValueOutput
+End Pos 8	0	4194304	Value	ValueOutput
+Filter Env 8	0	4194304	Value	ValueOutput
+Filter Freq 8	0	4194304	Value	ValueOutput
+Filter Reso 8	0	4194304	Value	ValueOutput
+Grain Len 8	0	4194304	Value	ValueOutput
+LFO Rate 8	0	4194304	Value	ValueOutput
+LFO Synced Rate 8	0	17	Value	ValueOutput
+Loop Length 8	0	4194304	Value	ValueOutput
+Pan 8	0	4194304	Value	ValueOutput
+Pitch Semi 8	0	48	Value	ValueOutput
+Reverse 8	0	1	Toggle	ValueOutput
+Lo Cut 8	0	4194304	Value	ValueOutput
+Hi Cut 8	0	4194304	Value	ValueOutput
+Start Pos 8	0	4194304	Value	ValueOutput
+Stretch Speed 8	0	4194304	Value	ValueOutput
+Voice Formant 8	0	4194304	Value	ValueOutput
+Amp Sustain 1	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Tune 1	0	4194304	Value	ValueOutput
+Portamento Rate 1	0	4194304	Value	ValueOutput
+Key Mode 1	0	2	Value	ValueOutput
+Portamento Mode 1	0	2	Value	ValueOutput
+Pitchbend Range 1	0	24	Value	ValueOutput
+Stretch Mode 1	0	4	Value	ValueOutput
+LFO Beat Sync 1	0	1	Toggle	ValueOutput
+LFO Wave 1	0	9	Value	ValueOutput
+Amp Velocity 1	0	4194304	Value	ValueOutput
+Filter Type 1	0	8	Value	ValueOutput
+Filter Kbd 1	0	4194304	Value	ValueOutput
+Filter Vel 1	0	4194304	Value	ValueOutput
+Global Pos 1	0	1	Toggle	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Slice Sens 1	0	4194304	Value	ValueOutput
+Play Mode	0	3	Value	ValueOutput
+Algorithm	0	4194304	Value	ValueOutput
+Transients On 1	0	1	Toggle	ValueOutput
+Grain Overlap 1	0	4194304	Value	ValueOutput
+Grain Spread 1	0	4194304	Value	ValueOutput
+Grain Jitter 1	0	4194304	Value	ValueOutput
+Loop On 1	0	1	Toggle	ValueOutput
+Loop Xfade 1	0	4194304	Value	ValueOutput
+LFO Key Sync 1	0	1	Toggle	ValueOutput
+LFO Delay 1	0	4194304	Value	ValueOutput
+Filter Sustain 1	0	4194304	Value	ValueOutput
+Filter Mod 1	0	13	Value	ValueOutput
+Filter Drive 1	0	4194304	Value	ValueOutput
+Filter ModAmt 1	0	4194304	Value	ValueOutput
+Pitch Mod 1	0	13	Value	ValueOutput
+Pitch ModAmt 1	0	4194304	Value	ValueOutput
+Pitch LFOAmt 1	0	4194304	Value	ValueOutput
+Lo Key 1	0	127	Value	ValueOutput
+Hi Key 1	0	127	Value	ValueOutput
+Amp ModAmt 1	0	4194304	Value	ValueOutput
+Amp Mod 1	0	13	Value	ValueOutput
+Pan ModAmt 1	0	4194304	Value	ValueOutput
+Pan Mod 1	0	13	Value	ValueOutput
+Root Key 1	0	127	Value	ValueOutput
+MW LFO 1	0	4194304	Value	ValueOutput
+Play Thru 1	0	1	Toggle	ValueOutput
+Snap Slices 1	0	1	Toggle	ValueOutput
+Speed ModAmt 1	0	4194304	Value	ValueOutput
+Speed Mod 1	0	13	Value	ValueOutput
+Start ModAmt 1	0	4194304	Value	ValueOutput
+Start Mod 1	0	13	Value	ValueOutput
+Voice Fixed 1	0	1	Toggle	ValueOutput
+Send1 1	0	4194304	Value	ValueOutput
+Send2 1	0	4194304	Value	ValueOutput
+Squeeze 1	0	4194304	Value	ValueOutput
+Effect Type 1	0	6	Value	ValueOutput
+Tune 2	0	4194304	Value	ValueOutput
+Stretch Mode 2	0	4	Value	ValueOutput
+LFO Wave 2	0	9	Value	ValueOutput
+Global Pos 2	0	1	Toggle	ValueOutput
+Slice Sens 2	0	4194304	Value	ValueOutput
+Transients On 2	0	1	Toggle	ValueOutput
+Grain Overlap 2	0	4194304	Value	ValueOutput
+Grain Spread 2	0	4194304	Value	ValueOutput
+Grain Jitter 2	0	4194304	Value	ValueOutput
+Loop Xfade 2	0	4194304	Value	ValueOutput
+Pitch Mod 2	0	13	Value	ValueOutput
+Pitch ModAmt 2	0	4194304	Value	ValueOutput
+Lo Key 2	0	127	Value	ValueOutput
+Hi Key 2	0	127	Value	ValueOutput
+Root Key 2	0	127	Value	ValueOutput
+MW LFO 2	0	4194304	Value	ValueOutput
+Play Thru 2	0	1	Toggle	ValueOutput
+Snap Slices 2	0	1	Toggle	ValueOutput
+Tune 3	0	4194304	Value	ValueOutput
+Stretch Mode 3	0	4	Value	ValueOutput
+LFO Wave 3	0	9	Value	ValueOutput
+Global Pos 3	0	1	Toggle	ValueOutput
+Slice Sens 3	0	4194304	Value	ValueOutput
+Transients On 3	0	1	Toggle	ValueOutput
+Grain Overlap 3	0	4194304	Value	ValueOutput
+Grain Spread 3	0	4194304	Value	ValueOutput
+Grain Jitter 3	0	4194304	Value	ValueOutput
+Loop Xfade 3	0	4194304	Value	ValueOutput
+Pitch Mod 3	0	13	Value	ValueOutput
+Pitch ModAmt 3	0	4194304	Value	ValueOutput
+Lo Key 3	0	127	Value	ValueOutput
+Hi Key 3	0	127	Value	ValueOutput
+Root Key 3	0	127	Value	ValueOutput
+MW LFO 3	0	4194304	Value	ValueOutput
+Play Thru 3	0	1	Toggle	ValueOutput
+Snap Slices 3	0	1	Toggle	ValueOutput
+Tune 4	0	4194304	Value	ValueOutput
+Stretch Mode 4	0	4	Value	ValueOutput
+LFO Wave 4	0	9	Value	ValueOutput
+Global Pos 4	0	1	Toggle	ValueOutput
+Slice Sens 4	0	4194304	Value	ValueOutput
+Transients On 4	0	1	Toggle	ValueOutput
+Grain Overlap 4	0	4194304	Value	ValueOutput
+Grain Spread 4	0	4194304	Value	ValueOutput
+Grain Jitter 4	0	4194304	Value	ValueOutput
+Loop Xfade 4	0	4194304	Value	ValueOutput
+Pitch Mod 4	0	13	Value	ValueOutput
+Pitch ModAmt 4	0	4194304	Value	ValueOutput
+Lo Key 4	0	127	Value	ValueOutput
+Hi Key 4	0	127	Value	ValueOutput
+Root Key 4	0	127	Value	ValueOutput
+MW LFO 4	0	4194304	Value	ValueOutput
+Play Thru 4	0	1	Toggle	ValueOutput
+Snap Slices 4	0	1	Toggle	ValueOutput
+Tune 5	0	4194304	Value	ValueOutput
+Stretch Mode 5	0	4	Value	ValueOutput
+LFO Wave 5	0	9	Value	ValueOutput
+Global Pos 5	0	1	Toggle	ValueOutput
+Slice Sens 5	0	4194304	Value	ValueOutput
+Transients On 5	0	1	Toggle	ValueOutput
+Grain Overlap 5	0	4194304	Value	ValueOutput
+Grain Spread 5	0	4194304	Value	ValueOutput
+Grain Jitter 5	0	4194304	Value	ValueOutput
+Loop Xfade 5	0	4194304	Value	ValueOutput
+Pitch Mod 5	0	13	Value	ValueOutput
+Pitch ModAmt 5	0	4194304	Value	ValueOutput
+Lo Key 5	0	127	Value	ValueOutput
+Hi Key 5	0	127	Value	ValueOutput
+Root Key 5	0	127	Value	ValueOutput
+MW LFO 5	0	4194304	Value	ValueOutput
+Play Thru 5	0	1	Toggle	ValueOutput
+Snap Slices 5	0	1	Toggle	ValueOutput
+Tune 6	0	4194304	Value	ValueOutput
+Stretch Mode 6	0	4	Value	ValueOutput
+LFO Wave 6	0	9	Value	ValueOutput
+Global Pos 6	0	1	Toggle	ValueOutput
+Slice Sens 6	0	4194304	Value	ValueOutput
+Transients On 6	0	1	Toggle	ValueOutput
+Grain Overlap 6	0	4194304	Value	ValueOutput
+Grain Spread 6	0	4194304	Value	ValueOutput
+Grain Jitter 6	0	4194304	Value	ValueOutput
+Loop Xfade 6	0	4194304	Value	ValueOutput
+Pitch Mod 6	0	13	Value	ValueOutput
+Pitch ModAmt 6	0	4194304	Value	ValueOutput
+Lo Key 6	0	127	Value	ValueOutput
+Hi Key 6	0	127	Value	ValueOutput
+Root Key 6	0	127	Value	ValueOutput
+MW LFO 6	0	4194304	Value	ValueOutput
+Play Thru 6	0	1	Toggle	ValueOutput
+Snap Slices 6	0	1	Toggle	ValueOutput
+Tune 7	0	4194304	Value	ValueOutput
+Stretch Mode 7	0	4	Value	ValueOutput
+LFO Wave 7	0	9	Value	ValueOutput
+Global Pos 7	0	1	Toggle	ValueOutput
+Slice Sens 7	0	4194304	Value	ValueOutput
+Transients On 7	0	1	Toggle	ValueOutput
+Grain Overlap 7	0	4194304	Value	ValueOutput
+Grain Spread 7	0	4194304	Value	ValueOutput
+Grain Jitter 7	0	4194304	Value	ValueOutput
+Loop Xfade 7	0	4194304	Value	ValueOutput
+Pitch Mod 7	0	13	Value	ValueOutput
+Pitch ModAmt 7	0	4194304	Value	ValueOutput
+Lo Key 7	0	127	Value	ValueOutput
+Hi Key 7	0	127	Value	ValueOutput
+Root Key 7	0	127	Value	ValueOutput
+MW LFO 7	0	4194304	Value	ValueOutput
+Play Thru 7	0	1	Toggle	ValueOutput
+Snap Slices 7	0	1	Toggle	ValueOutput
+Tune 8	0	4194304	Value	ValueOutput
+Stretch Mode 8	0	4	Value	ValueOutput
+LFO Wave 8	0	9	Value	ValueOutput
+Global Pos 8	0	1	Toggle	ValueOutput
+Slice Sens 8	0	4194304	Value	ValueOutput
+Transients On 8	0	1	Toggle	ValueOutput
+Grain Overlap 8	0	4194304	Value	ValueOutput
+Grain Spread 8	0	4194304	Value	ValueOutput
+Grain Jitter 8	0	4194304	Value	ValueOutput
+Loop Xfade 8	0	4194304	Value	ValueOutput
+Pitch Mod 8	0	13	Value	ValueOutput
+Pitch ModAmt 8	0	4194304	Value	ValueOutput
+Lo Key 8	0	127	Value	ValueOutput
+Hi Key 8	0	127	Value	ValueOutput
+Root Key 8	0	127	Value	ValueOutput
+MW LFO 8	0	4194304	Value	ValueOutput
+Play Thru 8	0	1	Toggle	ValueOutput
+Snap Slices 8	0	1	Toggle	ValueOutput
+Amp Sustain 2	0	4194304	Value	ValueOutput
+LFO Beat Sync 2	0	1	Toggle	ValueOutput
+Amp Velocity 2	0	4194304	Value	ValueOutput
+Filter Kbd 2	0	4194304	Value	ValueOutput
+Filter Vel 2	0	4194304	Value	ValueOutput
+LFO Key Sync 2	0	1	Toggle	ValueOutput
+LFO Delay 2	0	4194304	Value	ValueOutput
+Filter Mod 2	0	13	Value	ValueOutput
+Filter Drive 2	0	4194304	Value	ValueOutput
+Filter ModAmt 2	0	4194304	Value	ValueOutput
+Amp ModAmt 2	0	4194304	Value	ValueOutput
+Amp Mod 2	0	13	Value	ValueOutput
+Pan ModAmt 2	0	4194304	Value	ValueOutput
+Pan Mod 2	0	13	Value	ValueOutput
+Speed ModAmt 2	0	4194304	Value	ValueOutput
+Speed Mod 2	0	13	Value	ValueOutput
+Start ModAmt 2	0	4194304	Value	ValueOutput
+Start Mod 2	0	13	Value	ValueOutput
+Voice Fixed 2	0	1	Toggle	ValueOutput
+Send1 2	0	4194304	Value	ValueOutput
+Send2 2	0	4194304	Value	ValueOutput
+Amp Sustain 3	0	4194304	Value	ValueOutput
+LFO Beat Sync 3	0	1	Toggle	ValueOutput
+Amp Velocity 3	0	4194304	Value	ValueOutput
+Filter Kbd 3	0	4194304	Value	ValueOutput
+Filter Vel 3	0	4194304	Value	ValueOutput
+LFO Key Sync 3	0	1	Toggle	ValueOutput
+LFO Delay 3	0	4194304	Value	ValueOutput
+Filter Mod 3	0	13	Value	ValueOutput
+Filter Drive 3	0	4194304	Value	ValueOutput
+Filter ModAmt 3	0	4194304	Value	ValueOutput
+Amp ModAmt 3	0	4194304	Value	ValueOutput
+Amp Mod 3	0	13	Value	ValueOutput
+Pan ModAmt 3	0	4194304	Value	ValueOutput
+Pan Mod 3	0	13	Value	ValueOutput
+Speed ModAmt 3	0	4194304	Value	ValueOutput
+Speed Mod 3	0	13	Value	ValueOutput
+Start ModAmt 3	0	4194304	Value	ValueOutput
+Start Mod 3	0	13	Value	ValueOutput
+Voice Fixed 3	0	1	Toggle	ValueOutput
+Send1 3	0	4194304	Value	ValueOutput
+Send2 3	0	4194304	Value	ValueOutput
+Amp Sustain 4	0	4194304	Value	ValueOutput
+LFO Beat Sync 4	0	1	Toggle	ValueOutput
+Amp Velocity 4	0	4194304	Value	ValueOutput
+Filter Kbd 4	0	4194304	Value	ValueOutput
+Filter Vel 4	0	4194304	Value	ValueOutput
+LFO Key Sync 4	0	1	Toggle	ValueOutput
+LFO Delay 4	0	4194304	Value	ValueOutput
+Filter Mod 4	0	13	Value	ValueOutput
+Filter Drive 4	0	4194304	Value	ValueOutput
+Filter ModAmt 4	0	4194304	Value	ValueOutput
+Amp ModAmt 4	0	4194304	Value	ValueOutput
+Amp Mod 4	0	13	Value	ValueOutput
+Pan ModAmt 4	0	4194304	Value	ValueOutput
+Pan Mod 4	0	13	Value	ValueOutput
+Speed ModAmt 4	0	4194304	Value	ValueOutput
+Speed Mod 4	0	13	Value	ValueOutput
+Start ModAmt 4	0	4194304	Value	ValueOutput
+Start Mod 4	0	13	Value	ValueOutput
+Voice Fixed 4	0	1	Toggle	ValueOutput
+Send1 4	0	4194304	Value	ValueOutput
+Send2 4	0	4194304	Value	ValueOutput
+Amp Sustain 5	0	4194304	Value	ValueOutput
+LFO Beat Sync 5	0	1	Toggle	ValueOutput
+Amp Velocity 5	0	4194304	Value	ValueOutput
+Filter Kbd 5	0	4194304	Value	ValueOutput
+Filter Vel 5	0	4194304	Value	ValueOutput
+LFO Key Sync 5	0	1	Toggle	ValueOutput
+LFO Delay 5	0	4194304	Value	ValueOutput
+Filter Mod 5	0	13	Value	ValueOutput
+Filter Drive 5	0	4194304	Value	ValueOutput
+Filter ModAmt 5	0	4194304	Value	ValueOutput
+Amp ModAmt 5	0	4194304	Value	ValueOutput
+Amp Mod 5	0	13	Value	ValueOutput
+Pan ModAmt 5	0	4194304	Value	ValueOutput
+Pan Mod 5	0	13	Value	ValueOutput
+Speed ModAmt 5	0	4194304	Value	ValueOutput
+Speed Mod 5	0	13	Value	ValueOutput
+Start ModAmt 5	0	4194304	Value	ValueOutput
+Start Mod 5	0	13	Value	ValueOutput
+Voice Fixed 5	0	1	Toggle	ValueOutput
+Send1 5	0	4194304	Value	ValueOutput
+Send2 5	0	4194304	Value	ValueOutput
+Amp Sustain 6	0	4194304	Value	ValueOutput
+LFO Beat Sync 6	0	1	Toggle	ValueOutput
+Amp Velocity 6	0	4194304	Value	ValueOutput
+Filter Kbd 6	0	4194304	Value	ValueOutput
+Filter Vel 6	0	4194304	Value	ValueOutput
+LFO Key Sync 6	0	1	Toggle	ValueOutput
+LFO Delay 6	0	4194304	Value	ValueOutput
+Filter Mod 6	0	13	Value	ValueOutput
+Filter Drive 6	0	4194304	Value	ValueOutput
+Filter ModAmt 6	0	4194304	Value	ValueOutput
+Amp ModAmt 6	0	4194304	Value	ValueOutput
+Amp Mod 6	0	13	Value	ValueOutput
+Pan ModAmt 6	0	4194304	Value	ValueOutput
+Pan Mod 6	0	13	Value	ValueOutput
+Speed ModAmt 6	0	4194304	Value	ValueOutput
+Speed Mod 6	0	13	Value	ValueOutput
+Start ModAmt 6	0	4194304	Value	ValueOutput
+Start Mod 6	0	13	Value	ValueOutput
+Voice Fixed 6	0	1	Toggle	ValueOutput
+Send1 6	0	4194304	Value	ValueOutput
+Send2 6	0	4194304	Value	ValueOutput
+Amp Sustain 7	0	4194304	Value	ValueOutput
+LFO Beat Sync 7	0	1	Toggle	ValueOutput
+Amp Velocity 7	0	4194304	Value	ValueOutput
+Filter Kbd 7	0	4194304	Value	ValueOutput
+Filter Vel 7	0	4194304	Value	ValueOutput
+LFO Key Sync 7	0	1	Toggle	ValueOutput
+LFO Delay 7	0	4194304	Value	ValueOutput
+Filter Mod 7	0	13	Value	ValueOutput
+Filter Drive 7	0	4194304	Value	ValueOutput
+Filter ModAmt 7	0	4194304	Value	ValueOutput
+Amp ModAmt 7	0	4194304	Value	ValueOutput
+Amp Mod 7	0	13	Value	ValueOutput
+Pan ModAmt 7	0	4194304	Value	ValueOutput
+Pan Mod 7	0	13	Value	ValueOutput
+Speed ModAmt 7	0	4194304	Value	ValueOutput
+Speed Mod 7	0	13	Value	ValueOutput
+Start ModAmt 7	0	4194304	Value	ValueOutput
+Start Mod 7	0	13	Value	ValueOutput
+Voice Fixed 7	0	1	Toggle	ValueOutput
+Send1 7	0	4194304	Value	ValueOutput
+Send2 7	0	4194304	Value	ValueOutput
+Amp Sustain 8	0	4194304	Value	ValueOutput
+LFO Beat Sync 8	0	1	Toggle	ValueOutput
+Amp Velocity 8	0	4194304	Value	ValueOutput
+Filter Kbd 8	0	4194304	Value	ValueOutput
+Filter Vel 8	0	4194304	Value	ValueOutput
+LFO Key Sync 8	0	1	Toggle	ValueOutput
+LFO Delay 8	0	4194304	Value	ValueOutput
+Filter Mod 8	0	13	Value	ValueOutput
+Filter Drive 8	0	4194304	Value	ValueOutput
+Filter ModAmt 8	0	4194304	Value	ValueOutput
+Amp ModAmt 8	0	4194304	Value	ValueOutput
+Amp Mod 8	0	13	Value	ValueOutput
+Pan ModAmt 8	0	4194304	Value	ValueOutput
+Pan Mod 8	0	13	Value	ValueOutput
+Speed ModAmt 8	0	4194304	Value	ValueOutput
+Speed Mod 8	0	13	Value	ValueOutput
+Start ModAmt 8	0	4194304	Value	ValueOutput
+Start Mod 8	0	13	Value	ValueOutput
+Voice Fixed 8	0	1	Toggle	ValueOutput
+Send1 8	0	4194304	Value	ValueOutput
+Send2 8	0	4194304	Value	ValueOutput
+Effect Type 2	0	6	Value	ValueOutput
+Effect Type 3	0	6	Value	ValueOutput
+Effect Type 4	0	6	Value	ValueOutput
+Effect Type 5	0	6	Value	ValueOutput
+Effect Type 6	0	6	Value	ValueOutput
+Effect Type 7	0	6	Value	ValueOutput
+Effect Type 8	0	6	Value	ValueOutput
+Squeeze 2	0	4194304	Value	ValueOutput
+Squeeze 3	0	4194304	Value	ValueOutput
+Squeeze 4	0	4194304	Value	ValueOutput
+Squeeze 5	0	4194304	Value	ValueOutput
+Squeeze 6	0	4194304	Value	ValueOutput
+Squeeze 7	0	4194304	Value	ValueOutput
+Squeeze 8	0	4194304	Value	ValueOutput
+Key Mode 2	0	2	Value	ValueOutput
+Key Mode 3	0	2	Value	ValueOutput
+Key Mode 4	0	2	Value	ValueOutput
+Key Mode 5	0	2	Value	ValueOutput
+Key Mode 6	0	2	Value	ValueOutput
+Key Mode 7	0	2	Value	ValueOutput
+Key Mode 8	0	2	Value	ValueOutput
+Filter Type 2	0	8	Value	ValueOutput
+Filter Type 3	0	8	Value	ValueOutput
+Filter Type 4	0	8	Value	ValueOutput
+Filter Type 5	0	8	Value	ValueOutput
+Filter Type 6	0	8	Value	ValueOutput
+Filter Type 7	0	8	Value	ValueOutput
+Filter Type 8	0	8	Value	ValueOutput
+Pitch LFOAmt 2	0	4194304	Value	ValueOutput
+Pitch LFOAmt 3	0	4194304	Value	ValueOutput
+Pitch LFOAmt 4	0	4194304	Value	ValueOutput
+Pitch LFOAmt 5	0	4194304	Value	ValueOutput
+Pitch LFOAmt 6	0	4194304	Value	ValueOutput
+Pitch LFOAmt 7	0	4194304	Value	ValueOutput
+Pitch LFOAmt 8	0	4194304	Value	ValueOutput
+Filter Sustain 2	0	4194304	Value	ValueOutput
+Filter Sustain 3	0	4194304	Value	ValueOutput
+Filter Sustain 4	0	4194304	Value	ValueOutput
+Filter Sustain 5	0	4194304	Value	ValueOutput
+Filter Sustain 6	0	4194304	Value	ValueOutput
+Filter Sustain 7	0	4194304	Value	ValueOutput
+Filter Sustain 8	0	4194304	Value	ValueOutput
+Loop On 2	0	1	Toggle	ValueOutput
+Loop On 3	0	1	Toggle	ValueOutput
+Loop On 4	0	1	Toggle	ValueOutput
+Loop On 5	0	1	Toggle	ValueOutput
+Loop On 6	0	1	Toggle	ValueOutput
+Loop On 7	0	1	Toggle	ValueOutput
+Loop On 8	0	1	Toggle	ValueOutput
+Pitch Kbd 1	0	1	Toggle	ValueOutput
+Pitch Kbd 2	0	1	Toggle	ValueOutput
+Pitch Kbd 3	0	1	Toggle	ValueOutput
+Pitch Kbd 4	0	1	Toggle	ValueOutput
+Pitch Kbd 5	0	1	Toggle	ValueOutput
+Pitch Kbd 6	0	1	Toggle	ValueOutput
+Pitch Kbd 7	0	1	Toggle	ValueOutput
+Pitch Kbd 8	0	1	Toggle	ValueOutput
+Pitchbend Range 2	0	24	Value	ValueOutput
+Pitchbend Range 3	0	24	Value	ValueOutput
+Pitchbend Range 4	0	24	Value	ValueOutput
+Pitchbend Range 5	0	24	Value	ValueOutput
+Pitchbend Range 6	0	24	Value	ValueOutput
+Pitchbend Range 7	0	24	Value	ValueOutput
+Pitchbend Range 8	0	24	Value	ValueOutput
+Portamento Rate 2	0	4194304	Value	ValueOutput
+Portamento Mode 2	0	2	Value	ValueOutput
+Portamento Rate 3	0	4194304	Value	ValueOutput
+Portamento Mode 3	0	2	Value	ValueOutput
+Portamento Rate 4	0	4194304	Value	ValueOutput
+Portamento Mode 4	0	2	Value	ValueOutput
+Portamento Rate 5	0	4194304	Value	ValueOutput
+Portamento Mode 5	0	2	Value	ValueOutput
+Portamento Rate 6	0	4194304	Value	ValueOutput
+Portamento Mode 6	0	2	Value	ValueOutput
+Portamento Rate 7	0	4194304	Value	ValueOutput
+Portamento Mode 7	0	2	Value	ValueOutput
+Portamento Rate 8	0	4194304	Value	ValueOutput
+Portamento Mode 8	0	2	Value	ValueOutput
+Root Fine 1	0	100	Value	ValueOutput
+Root Fine 2	0	100	Value	ValueOutput
+Root Fine 3	0	100	Value	ValueOutput
+Root Fine 4	0	100	Value	ValueOutput
+Root Fine 5	0	100	Value	ValueOutput
+Root Fine 6	0	100	Value	ValueOutput
+Root Fine 7	0	100	Value	ValueOutput
+Root Fine 8	0	100	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Record Sample	0	0	Trig	TextOutput

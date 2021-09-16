@@ -1,0 +1,34 @@
+AB Transpose Remote Info.txt
+Aggregate Remote Info.txt
+AutoLatch MIDI Gate Remote Info.txt
+Beat Map Remote Info.txt
+Chordbank Remote Info.txt
+CV Player Tap Remote Info.txt
+Delta Remote Info.txt
+Denote Remote Info.txt
+Drum Sequencer Remote Info.txt
+Dual Arpeggio Remote Info.txt
+Euclidean Rhythms Remote Info.txt
+Evolution Remote Info.txt
+Grid64P2 Player Remote Info.txt
+ID8 Remote Info.txt
+Inspiral Remote Info.txt
+Kompulsion Remote Info.txt
+Melodic Inverter Remote Info.txt
+MeloDramatik Remote Info.txt
+MIDI Compressor Remote Info.txt
+MIDI-CV Converter Remote Info.txt
+Note Alter Remote Info.txt
+Note Echo Remote Info.txt
+Note Filter Remote Info.txt
+Note Humanizer Remote Info.txt
+Note Latch Remote Info.txt
+PolyStep Sequencer Remote Info.txt
+Quad Note Generator Remote Info.txt
+Receive Notes Remote Info.txt
+RND Remote Info.txt
+Scales & Chords Remote Info.txt
+Selig NoteView Remote Info.txt
+Sequences Remote Info.txt
+ST100 Remote Info.txt
+UTL Remote Info.txt

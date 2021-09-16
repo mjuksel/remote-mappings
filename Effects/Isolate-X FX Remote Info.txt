@@ -1,0 +1,19 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.IsolateX
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Input Level Correction	0	4194304	Value	ValueOutput
+Output Level Correction	0	4194304	Value	ValueOutput
+Soft Bypass	0	1	Toggle	ValueOutput
+Low Mass	0	4194304	Value	ValueOutput
+Mid Mass	0	4194304	Value	ValueOutput
+High Mass	0	4194304	Value	ValueOutput
+Low Frequency	0	4194304	Value	ValueOutput
+High Frequency	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

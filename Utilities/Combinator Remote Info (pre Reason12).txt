@@ -1,0 +1,27 @@
+Scope
+Manufacturer	Model
+Propellerheads	Combinator
+
+Remotable	Min	Max	Input type	Output type
+Mod Wheel	0	127	Value	ValueOutput
+Note On Indicator	0	1	-	ValueOutput
+Rotary 1	0	127	Value	ValueOutput
+Rotary 2	0	127	Value	ValueOutput
+Rotary 3	0	127	Value	ValueOutput
+Rotary 4	0	127	Value	ValueOutput
+Button 1	0	1	Toggle	ValueOutput
+Button 2	0	1	Toggle	ValueOutput
+Button 3	0	1	Toggle	ValueOutput
+Button 4	0	1	Toggle	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Audio In Indicator	0	20	-	ValueOutput
+Audio Out Indicator	0	20	-	ValueOutput
+Sample Loading Progress	-1	127	-	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Run Pattern Devices	0	1	Toggle	ValueOutput
+Bypass All FX	0	1	Toggle	ValueOutput
