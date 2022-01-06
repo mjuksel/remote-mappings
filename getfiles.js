@@ -1,11 +1,7 @@
 let fs = require('fs');
 
-fs.readdir('.', 'utf8', (e, folders) =>
-	folders.filter(v => !v.match(/\./)).map(folder =>
-		fs.readdir(folder, 'utf8', (e, data) =>
-			fs.writeFile(`${folder}.txt`, data.join('\n'), () =>
-				this // it always comes back to it..
-			)
-		)
+['Effects', 'Instruments', 'Players', 'Utilities'].map(category =>
+	fs.readdir(category, 'utf8', (error, file) =>
+		fs.writeFile(`${category}.txt`, file.join('\n'), () => this)
 	)
 );
