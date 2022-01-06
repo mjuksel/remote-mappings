@@ -1,0 +1,145 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Bassline
+
+Remotable	Min	Max	Input type	Output type
+MIDI Pitch	0	1	Toggle	ValueOutput
+MIDI Velocity	0	1	Toggle	ValueOutput
+Playback Mode	0	2	Value	ValueOutput
+Octave	0	4	Value	ValueOutput
+Pattern 1 OnBeat Source	0	63	Value	ValueOutput
+Pattern 2 OnBeat Source	0	63	Value	ValueOutput
+Pattern 3 OnBeat Source	0	63	Value	ValueOutput
+Pattern 4 OnBeat Source	0	63	Value	ValueOutput
+Pattern 5 OnBeat Source	0	63	Value	ValueOutput
+Pattern 6 OnBeat Source	0	63	Value	ValueOutput
+Pattern 7 OnBeat Source	0	63	Value	ValueOutput
+Pattern 8 OnBeat Source	0	63	Value	ValueOutput
+Pattern 1 OffBeat Source	0	63	Value	ValueOutput
+Pattern 2 OffBeat Source	0	63	Value	ValueOutput
+Pattern 3 OffBeat Source	0	63	Value	ValueOutput
+Pattern 4 OffBeat Source	0	63	Value	ValueOutput
+Pattern 5 OffBeat Source	0	63	Value	ValueOutput
+Pattern 6 OffBeat Source	0	63	Value	ValueOutput
+Pattern 7 OffBeat Source	0	63	Value	ValueOutput
+Pattern 8 OffBeat Source	0	63	Value	ValueOutput
+Pattern 1 OnBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 2 OnBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 3 OnBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 4 OnBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 5 OnBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 6 OnBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 7 OnBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 8 OnBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 1 OffBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 2 OffBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 3 OffBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 4 OffBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 5 OffBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 6 OffBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 7 OffBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 8 OffBeat Velocity	0	4194304	Value	ValueOutput
+Pattern 1 OnBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 2 OnBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 3 OnBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 4 OnBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 5 OnBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 6 OnBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 7 OnBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 8 OnBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 1 OffBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 2 OffBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 3 OffBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 4 OffBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 5 OffBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 6 OffBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 7 OffBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 8 OffBeat Note Length	0	4194304	Value	ValueOutput
+Pattern 1 OnBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 2 OnBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 3 OnBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 4 OnBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 5 OnBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 6 OnBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 7 OnBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 8 OnBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 1 OffBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 2 OffBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 3 OffBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 4 OffBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 5 OffBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 6 OffBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 7 OffBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 8 OffBeat Variator Shape	0	5	Value	ValueOutput
+Pattern 1 OnBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 2 OnBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 3 OnBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 4 OnBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 5 OnBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 6 OnBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 7 OnBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 8 OnBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 1 OffBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 2 OffBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 3 OffBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 4 OffBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 5 OffBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 6 OffBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 7 OffBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 8 OffBeat Variator Amount	0	4194304	Value	ValueOutput
+Pattern 1 Note Range	0	4	Value	ValueOutput
+Pattern 2 Note Range	0	4	Value	ValueOutput
+Pattern 3 Note Range	0	4	Value	ValueOutput
+Pattern 4 Note Range	0	4	Value	ValueOutput
+Pattern 5 Note Range	0	4	Value	ValueOutput
+Pattern 6 Note Range	0	4	Value	ValueOutput
+Pattern 7 Note Range	0	4	Value	ValueOutput
+Pattern 8 Note Range	0	4	Value	ValueOutput
+Pattern 1 Minorness	0	4	Value	ValueOutput
+Pattern 2 Minorness	0	4	Value	ValueOutput
+Pattern 3 Minorness	0	4	Value	ValueOutput
+Pattern 4 Minorness	0	4	Value	ValueOutput
+Pattern 5 Minorness	0	4	Value	ValueOutput
+Pattern 6 Minorness	0	4	Value	ValueOutput
+Pattern 7 Minorness	0	4	Value	ValueOutput
+Pattern 8 Minorness	0	4	Value	ValueOutput
+Pattern 1 Root Note	0	128	Value	ValueOutput
+Pattern 2 Root Note	0	128	Value	ValueOutput
+Pattern 3 Root Note	0	128	Value	ValueOutput
+Pattern 4 Root Note	0	128	Value	ValueOutput
+Pattern 5 Root Note	0	128	Value	ValueOutput
+Pattern 6 Root Note	0	128	Value	ValueOutput
+Pattern 7 Root Note	0	128	Value	ValueOutput
+Pattern 8 Root Note	0	128	Value	ValueOutput
+Pattern 1 Steps	0	48	Value	ValueOutput
+Pattern 2 Steps	0	48	Value	ValueOutput
+Pattern 3 Steps	0	48	Value	ValueOutput
+Pattern 4 Steps	0	48	Value	ValueOutput
+Pattern 5 Steps	0	48	Value	ValueOutput
+Pattern 6 Steps	0	48	Value	ValueOutput
+Pattern 7 Steps	0	48	Value	ValueOutput
+Pattern 8 Steps	0	48	Value	ValueOutput
+Pattern 1 Rate	0	10	Value	ValueOutput
+Pattern 2 Rate	0	10	Value	ValueOutput
+Pattern 3 Rate	0	10	Value	ValueOutput
+Pattern 4 Rate	0	10	Value	ValueOutput
+Pattern 5 Rate	0	10	Value	ValueOutput
+Pattern 6 Rate	0	10	Value	ValueOutput
+Pattern 7 Rate	0	10	Value	ValueOutput
+Pattern 8 Rate	0	10	Value	ValueOutput
+Pattern 1 Shuffle	0	128	Value	ValueOutput
+Pattern 2 Shuffle	0	128	Value	ValueOutput
+Pattern 3 Shuffle	0	128	Value	ValueOutput
+Pattern 4 Shuffle	0	128	Value	ValueOutput
+Pattern 5 Shuffle	0	128	Value	ValueOutput
+Pattern 6 Shuffle	0	128	Value	ValueOutput
+Pattern 7 Shuffle	0	128	Value	ValueOutput
+Pattern 8 Shuffle	0	128	Value	ValueOutput
+On	0	1	Toggle	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Pattern Select	-1	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

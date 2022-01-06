@@ -78,6 +78,9 @@ Redrum Remote Info.txt
 Resonans Remote Info.txt
 ReSpire Synthesizer Remote Info.txt
 Rostnomo Synthesizer Remote Info.txt
+RS_CIV Remote Info.txt
+RS_SIV Remote Info.txt
+RS_VIV Remote Info.txt
 RYM2612 Remote Info.txt
 Rytmik Drum Machine Remote Info.txt
 Scenic Hybrid Remote Info.txt
@@ -100,3 +103,4 @@ VO-1 Oscillator Remote Info.txt
 Wavetable FM Synth Remote Info.txt
 WBL3001 Remote Info.txt
 WBL5515 Oscillator Remote Info.txt
+Zoetrope Remote Info.txt

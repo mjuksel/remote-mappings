@@ -1,0 +1,114 @@
+Scope
+Manufacturer	Model
+SKP Sound Design	com.skepticalproductions.Zoetrope
+
+Remotable	Min	Max	Input type	Output type
+Mod Wheel Dest 1	0	18	Value	ValueOutput
+Mod Wheel Depth 1	0	4194304	Value	ValueOutput
+Mod Wheel Dest 2	0	18	Value	ValueOutput
+Mod Wheel Depth 2	0	4194304	Value	ValueOutput
+Bend Range	0	24	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Poly / Mono	0	4	Value	ValueOutput
+Osc 1 Enable	0	1	Toggle	ValueOutput
+Osc 1 Wave	0	6	Value	ValueOutput
+Osc 1 Semi	0	48	Value	ValueOutput
+Osc 1 Fine	0	4194304	Value	ValueOutput
+Osc 1 Drift	0	4194304	Value	ValueOutput
+Osc 2 Enable	0	1	Toggle	ValueOutput
+Osc 2 Wave	0	6	Value	ValueOutput
+Osc 2 Semi	0	48	Value	ValueOutput
+Osc 2 Fine	0	4194304	Value	ValueOutput
+Osc 2 Drift	0	4194304	Value	ValueOutput
+Osc 3 Enable	0	1	Toggle	ValueOutput
+Osc 3 Wave	0	6	Value	ValueOutput
+Osc 3 Semi	0	48	Value	ValueOutput
+Osc 3 Fine	0	4194304	Value	ValueOutput
+Osc 3 Drift	0	4194304	Value	ValueOutput
+Osc 1 Level	0	4194304	Value	ValueOutput
+Osc 2 Level	0	4194304	Value	ValueOutput
+Osc 3 Level	0	4194304	Value	ValueOutput
+Mix Level	0	4194304	Value	ValueOutput
+Mod Env Destination	0	13	Value	ValueOutput
+Mod Env Depth	0	4194304	Value	ValueOutput
+Mod Env Attack	0	4194304	Value	ValueOutput
+Mod Env Decay	0	4194304	Value	ValueOutput
+Mod Env Sustain	0	4194304	Value	ValueOutput
+Mod Env Release	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Mode	0	3	Value	ValueOutput
+Filter Env Depth	0	4194304	Value	ValueOutput
+Filter Keytrack	0	4194304	Value	ValueOutput
+Filter Velocity	0	4194304	Value	ValueOutput
+Filter Attack	0	4194304	Value	ValueOutput
+Filter Decay	0	4194304	Value	ValueOutput
+Filter Sustain	0	4194304	Value	ValueOutput
+Filter Release	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+LFO 1 Beat Sync	0	1	Toggle	ValueOutput
+LFO 1 Shape	0	4	Value	ValueOutput
+LFO 1 Rate (Hz)	0	4194304	Value	ValueOutput
+LFO 1 RAte (Beat Sync)	0	17	Value	ValueOutput
+LFO 1 Depth	0	4194304	Value	ValueOutput
+LFO 1 Destination	0	16	Value	ValueOutput
+LFO 2 Beat Sync	0	1	Toggle	ValueOutput
+LFO 2 Shape	0	4	Value	ValueOutput
+LFO 2 Rate (Hz)	0	4194304	Value	ValueOutput
+LFO 2 Rate (Beat Sync)	0	17	Value	ValueOutput
+LFO 2 Depth	0	4194304	Value	ValueOutput
+LFO 2 Destination	0	16	Value	ValueOutput
+LFO 3 Beat Sync	0	1	Toggle	ValueOutput
+LFO 3 Shape	0	4	Value	ValueOutput
+LFO 3 Rate (Hz)	0	4194304	Value	ValueOutput
+LFO 3 Rate (Beat Sync)	0	17	Value	ValueOutput
+LFO 3 Depth	0	4194304	Value	ValueOutput
+LFO 3 Destination	0	16	Value	ValueOutput
+LFO 4 Beat Sync	0	1	Toggle	ValueOutput
+LFO 4 Shape	0	4	Value	ValueOutput
+LFO 4 Rate (Hz)	0	4194304	Value	ValueOutput
+LFO 4 Rate (Beat Sync)	0	17	Value	ValueOutput
+LFO 4 Depth	0	4194304	Value	ValueOutput
+LFO 4 Destination	0	16	Value	ValueOutput
+Character FX Enable	0	1	Toggle	ValueOutput
+Warmth Amount	0	4194304	Value	ValueOutput
+Distortion Drive	0	4194304	Value	ValueOutput
+Bit-Depth	0	4194304	Value	ValueOutput
+Sampling Rate	0	4194304	Value	ValueOutput
+Crush On	0	1	Toggle	ValueOutput
+Stereo FX Enable	0	1	Toggle	ValueOutput
+Stereo FX 2 Mode	0	2	Value	ValueOutput
+Stereo FX Rate	0	4194304	Value	ValueOutput
+Stereo FX Depth	0	4194304	Value	ValueOutput
+Stereo FX Voices	0	3	Value	ValueOutput
+Stereo FX Feedback	0	4194304	Value	ValueOutput
+Stereo FX Mix	0	4194304	Value	ValueOutput
+Delay Enable	0	1	Toggle	ValueOutput
+Delay Mode	0	2	Value	ValueOutput
+Delay Rate	0	10	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Damping	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Reverb Enable	0	1	Toggle	ValueOutput
+Reverb Low Cut	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

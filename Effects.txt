@@ -48,6 +48,7 @@ FutzBox Remote Info.txt
 G8 Dynamic Gate Remote Info.txt
 Gain Remote Info.txt
 Gate Remote Info.txt
+Ghammy Shifter Remote Info.txt
 Glitch Effect Remote Info.txt
 HarmBode FreqShifter Remote Info.txt
 Isolate-X FX Remote Info.txt
@@ -87,6 +88,7 @@ Resampler Remote Info.txt
 Reverb Remote Info.txt
 Rotor Remote Info.txt
 RPVerb Eff Remote Info.txt
+RS_RV Remote Info.txt
 RV-7 Reverb Remote Info.txt
 RV7000 Remote Info.txt
 Scream 4 Remote Info.txt

@@ -1,0 +1,97 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.mDSQ
+
+Remotable	Min	Max	Input type	Output type
+Pattern 1 Steps	0	127	Value	ValueOutput
+Pattern 1 Rate	0	30	Value	ValueOutput
+Pattern 1 Shuffle	0	240	Value	ValueOutput
+Pattern 1 Hit Repeat Delay	0	239	Value	ValueOutput
+Pattern 2 Steps	0	127	Value	ValueOutput
+Pattern 2 Rate	0	30	Value	ValueOutput
+Pattern 2 Shuffle	0	240	Value	ValueOutput
+Pattern 2 Hit Repeat Delay	0	239	Value	ValueOutput
+Pattern 3 Steps	0	127	Value	ValueOutput
+Pattern 3 Rate	0	30	Value	ValueOutput
+Pattern 3 Shuffle	0	240	Value	ValueOutput
+Pattern 3 Hit Repeat Delay	0	239	Value	ValueOutput
+Pattern 4 Steps	0	127	Value	ValueOutput
+Pattern 4 Rate	0	30	Value	ValueOutput
+Pattern 4 Shuffle	0	240	Value	ValueOutput
+Pattern 4 Hit Repeat Delay	0	239	Value	ValueOutput
+Pattern 5 Steps	0	127	Value	ValueOutput
+Pattern 5 Rate	0	30	Value	ValueOutput
+Pattern 5 Shuffle	0	240	Value	ValueOutput
+Pattern 5 Hit Repeat Delay	0	239	Value	ValueOutput
+Pattern 6 Steps	0	127	Value	ValueOutput
+Pattern 6 Rate	0	30	Value	ValueOutput
+Pattern 6 Shuffle	0	240	Value	ValueOutput
+Pattern 6 Hit Repeat Delay	0	239	Value	ValueOutput
+Pattern 7 Steps	0	127	Value	ValueOutput
+Pattern 7 Rate	0	30	Value	ValueOutput
+Pattern 7 Shuffle	0	240	Value	ValueOutput
+Pattern 7 Hit Repeat Delay	0	239	Value	ValueOutput
+Pattern 8 Steps	0	127	Value	ValueOutput
+Pattern 8 Rate	0	30	Value	ValueOutput
+Pattern 8 Shuffle	0	240	Value	ValueOutput
+Pattern 8 Hit Repeat Delay	0	239	Value	ValueOutput
+Part 1 Note	0	127	Value	ValueOutput
+Part 1 Width	0	200	Value	ValueOutput
+Part 1 Slide	0	240	Value	ValueOutput
+Part 2 Note	0	127	Value	ValueOutput
+Part 2 Width	0	200	Value	ValueOutput
+Part 2 Slide	0	240	Value	ValueOutput
+Part 3 Note	0	127	Value	ValueOutput
+Part 3 Width	0	200	Value	ValueOutput
+Part 3 Slide	0	240	Value	ValueOutput
+Part 4 Note	0	127	Value	ValueOutput
+Part 4 Width	0	200	Value	ValueOutput
+Part 4 Slide	0	240	Value	ValueOutput
+Part 5 Note	0	127	Value	ValueOutput
+Part 5 Width	0	200	Value	ValueOutput
+Part 5 Slide	0	240	Value	ValueOutput
+Part 6 Note	0	127	Value	ValueOutput
+Part 6 Width	0	200	Value	ValueOutput
+Part 6 Slide	0	240	Value	ValueOutput
+Part 7 Note	0	127	Value	ValueOutput
+Part 7 Width	0	200	Value	ValueOutput
+Part 7 Slide	0	240	Value	ValueOutput
+Part 8 Note	0	127	Value	ValueOutput
+Part 8 Width	0	200	Value	ValueOutput
+Part 8 Slide	0	240	Value	ValueOutput
+Part 9 Note	0	127	Value	ValueOutput
+Part 9 Width	0	200	Value	ValueOutput
+Part 9 Slide	0	240	Value	ValueOutput
+Part 10 Note	0	127	Value	ValueOutput
+Part 10 Width	0	200	Value	ValueOutput
+Part 10 Slide	0	240	Value	ValueOutput
+Part 11 Note	0	127	Value	ValueOutput
+Part 11 Width	0	200	Value	ValueOutput
+Part 11 Slide	0	240	Value	ValueOutput
+Part 12 Note	0	127	Value	ValueOutput
+Part 12 Width	0	200	Value	ValueOutput
+Part 12 Slide	0	240	Value	ValueOutput
+Part 13 Note	0	127	Value	ValueOutput
+Part 13 Width	0	200	Value	ValueOutput
+Part 13 Slide	0	240	Value	ValueOutput
+Part 14 Note	0	127	Value	ValueOutput
+Part 14 Width	0	200	Value	ValueOutput
+Part 14 Slide	0	240	Value	ValueOutput
+Part 15 Note	0	127	Value	ValueOutput
+Part 15 Width	0	200	Value	ValueOutput
+Part 15 Slide	0	240	Value	ValueOutput
+Part 16 Note	0	127	Value	ValueOutput
+Part 16 Width	0	200	Value	ValueOutput
+Part 16 Slide	0	240	Value	ValueOutput
+On	0	1	Toggle	ValueOutput
+Step Velocity	0	126	Value	ValueOutput
+Step Hits	0	7	Value	ValueOutput
+Edit Steps	0	4194304	Value	ValueOutput
+Display Steps	0	6	Value	ValueOutput
+Display Group	0	7	Value	ValueOutput
+Pattern Select	-1	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

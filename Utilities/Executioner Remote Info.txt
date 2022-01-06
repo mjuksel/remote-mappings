@@ -1,0 +1,64 @@
+Scope
+Manufacturer	Model
+LAB ONE Recordings	co.uk.labonerecordings.Executioner
+
+Remotable	Min	Max	Input type	Output type
+Cross Fader	0	4194304	Value	ValueOutput
+Cross Fader Curve	0	4194304	Value	ValueOutput
+Cue Level	0	4194304	Value	ValueOutput
+Cue Input	0	5	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Master FX	0	1	Toggle	ValueOutput
+Input 1 Gain	0	4194304	Value	ValueOutput
+Input 1 to Deck	0	3	Value	ValueOutput
+Input 2 Gain	0	4194304	Value	ValueOutput
+Input 2 to Deck	0	3	Value	ValueOutput
+Input 3 Gain	0	4194304	Value	ValueOutput
+Input 3 to Deck	0	3	Value	ValueOutput
+Input 4 Gain	0	4194304	Value	ValueOutput
+Input 4 to Deck	0	3	Value	ValueOutput
+FX A Amount	0	4194304	Value	ValueOutput
+FX A to	0	3	Value	ValueOutput
+FX B Amount	0	4194304	Value	ValueOutput
+FX B to	0	3	Value	ValueOutput
+FX C Amount	0	4194304	Value	ValueOutput
+FX C to	0	3	Value	ValueOutput
+FX D Amount	0	4194304	Value	ValueOutput
+FX D to	0	3	Value	ValueOutput
+Channel 1 Level	0	4194304	Value	ValueOutput
+Channel 1 Cue	0	1	Toggle	ValueOutput
+Channel 1 Mute	0	1	Toggle	ValueOutput
+Channel 1 Pan	0	4194304	Value	ValueOutput
+Channel 1 FX	0	1	Toggle	ValueOutput
+Channel 1 Kill Bass	0	1	Toggle	ValueOutput
+Channel 1 Kill Mid	0	1	Toggle	ValueOutput
+Channel 1 Kill High	0	1	Toggle	ValueOutput
+Channel 1 Bass EQ	0	4194304	Value	ValueOutput
+Channel 1 Mid EQ	0	4194304	Value	ValueOutput
+Channel 1 High EQ	0	4194304	Value	ValueOutput
+Channel 1 Filter On	0	1	Toggle	ValueOutput
+Channel 1 Filter Mix	0	4194304	Value	ValueOutput
+Channel 1 Frequency	0	4194304	Value	ValueOutput
+Channel 1 Resonance	0	4194304	Value	ValueOutput
+Channel 1 A/C Balance	0	4194304	Value	ValueOutput
+Channel 2 Level	0	4194304	Value	ValueOutput
+Channel 2 Cue	0	1	Toggle	ValueOutput
+Channel 2 Mute	0	1	Toggle	ValueOutput
+Channel 2 Pan	0	4194304	Value	ValueOutput
+Channel 2 FX	0	1	Toggle	ValueOutput
+Channel 2 Kill Bass	0	1	Toggle	ValueOutput
+Channel 2 Kill Mid	0	1	Toggle	ValueOutput
+Channel 2 Kill High	0	1	Toggle	ValueOutput
+Channel 2 Bass EQ	0	4194304	Value	ValueOutput
+Channel 2 Mid EQ	0	4194304	Value	ValueOutput
+Channel 2 High EQ	0	4194304	Value	ValueOutput
+Channel 2 Filter On	0	1	Toggle	ValueOutput
+Channel 2 Filter Mix	0	4194304	Value	ValueOutput
+Channel 2 Frequency	0	4194304	Value	ValueOutput
+Channel 2 Resonance	0	4194304	Value	ValueOutput
+Channel 2 B/D Balance	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -32,6 +32,7 @@ DEG-2 Dual Envelope Remote Info.txt
 DVC-1 Digital Volta Remote Info.txt
 Elements DS-LFO Remote Info.txt
 Equation Junior Remote Info.txt
+Executioner Remote Info.txt
 Frame CV Generator Remote Info.txt
 FRONT-8 Remote Info.txt
 Janitor CV Shaper Remote Info.txt

@@ -1,0 +1,26 @@
+Scope
+Manufacturer	Model
+Noise Engineering	us.noiseengineering.RS_RV
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Buzz	0	4194304	Value	ValueOutput
+Center	0	4194304	Value	ValueOutput
+Doom	0	4194304	Value	ValueOutput
+Filter Type	0	1	Toggle	ValueOutput
+Flow	0	2	Value	ValueOutput
+Fold	0	4194304	Value	ValueOutput
+Filter Level	0	4194304	Value	ValueOutput
+Filter Track	0	1	Toggle	ValueOutput
+Overdrive	0	4194304	Value	ValueOutput
+Octavize	0	4194304	Value	ValueOutput
+Saturate	0	4194304	Value	ValueOutput
+Blend	0	4194304	Value	ValueOutput
+Volume In	0	4194304	Value	ValueOutput
+Volume Out	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

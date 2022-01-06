@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.Ghammy
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Granular Mutation Mode	0	4	Value	ValueOutput
+Grains Pitch	0	4194304	Value	ValueOutput
+Granular Pitch Expression	0	1	Toggle	ValueOutput
+Resolution Sync	0	1	Toggle	ValueOutput
+Resolution Time	0	4194304	Value	ValueOutput
+Resolution Tempo	0	16	Value	ValueOutput
+Playback Vector	0	3	Value	ValueOutput
+Quantize	0	7	Value	ValueOutput
+Dry Level	0	4194304	Value	ValueOutput
+Wet Level	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Sync	0	1	Toggle	ValueOutput
+Delay Beats	0	12	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+HighPass Filter	0	4194304	Value	ValueOutput
+Saturation / Limiter	0	4194304	Value	ValueOutput
+Random Variation	0	4194304	Value	ValueOutput
+Soft Bypass	0	1	Toggle	ValueOutput
+Dry/Wet Mode	0	1	Toggle	ValueOutput
+Shift Mode	0	23	Value	ValueOutput
+Expression Level	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Gain Level	0	4194304	Value	ValueOutput
+Smooth	0	1	Toggle	ValueOutput
+Granular Pitch Settings	0	1	Toggle	ValueOutput
+Momentary Pitch	0	1	Toggle	ValueOutput
+Momantary Reaction	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

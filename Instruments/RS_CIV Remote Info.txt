@@ -1,0 +1,40 @@
+Scope
+Manufacturer	Model
+Noise Engineering	us.noiseengineering.RS_CIV
+
+Remotable	Min	Max	Input type	Output type
+Chorus	0	2	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Slope	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Filter Mix	0	4194304	Value	ValueOutput
+Filter Type	0	2	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Env Amount	0	4194304	Value	ValueOutput
+Pitch Track	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Center	0	4194304	Value	ValueOutput
+Edge	0	4194304	Value	ValueOutput
+Fold	0	4194304	Value	ValueOutput
+Mode	0	2	Value	ValueOutput
+Parity	0	4194304	Value	ValueOutput
+Tilt	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Bend Range	0	23	Value	ValueOutput
+Legato Curve	0	4194304	Value	ValueOutput
+Legato Time	0	4194304	Value	ValueOutput
+Pitch Octave	0	16	Value	ValueOutput
+Pitch Semitone	0	22	Value	ValueOutput
+Pitch Cent	0	198	Value	ValueOutput
+Polyphony	0	7	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Note LED	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
