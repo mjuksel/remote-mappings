@@ -1,0 +1,147 @@
+Scope
+Manufacturer	Model
+Zvork	fr.zvork.Noxious
+
+Remotable	Min	Max	Input type	Output type
+Filter 1 Mode	0	22	Value	ValueOutput
+Filter 1 Cutoff Freq.	0	4194304	Value	ValueOutput
+Filter 1 Resonance	0	4194304	Value	ValueOutput
+Filter 1 On	0	1	Toggle	ValueOutput
+Filter 2 Mode	0	22	Value	ValueOutput
+Filter 2 Cutoff Freq.	0	4194304	Value	ValueOutput
+Filter 2 Resonance	0	4194304	Value	ValueOutput
+Filter 2 On	0	1	Toggle	ValueOutput
+LFO 1 Key Sync.	0	1	Toggle	ValueOutput
+LFO 1 Tempo Sync.	0	1	Toggle	ValueOutput
+LFO 1 Frequency	0	4194304	Value	ValueOutput
+LFO 1 Freq. Synced	0	17	Value	ValueOutput
+LFO 1 Shape	0	5	Value	ValueOutput
+LFO 1 Delay	0	4194304	Value	ValueOutput
+LFO 2 Key Sync.	0	1	Toggle	ValueOutput
+LFO 2 Tempo Sync.	0	1	Toggle	ValueOutput
+LFO 2 Frequency	0	4194304	Value	ValueOutput
+LFO 2 Freq. Synced	0	17	Value	ValueOutput
+LFO 2 Shape	0	5	Value	ValueOutput
+LFO 2 Delay	0	4194304	Value	ValueOutput
+Mod. Env. 1 Start Level	0	4194304	Value	ValueOutput
+Mod. Env. 1 Attack Time	0	4194304	Value	ValueOutput
+Mod. Env. 1 Attack Level	0	4194304	Value	ValueOutput
+Mod. Env. 1 Decay Time	0	4194304	Value	ValueOutput
+Mod. Env. 1 Sustain Level	0	4194304	Value	ValueOutput
+Mod. Env. 1 Release Time	0	4194304	Value	ValueOutput
+Mod. Env. 1 Release Level	0	4194304	Value	ValueOutput
+Mod. Env. 2 Start Level	0	4194304	Value	ValueOutput
+Mod. Env. 2 Attack Time	0	4194304	Value	ValueOutput
+Mod. Env. 2 Attack Level	0	4194304	Value	ValueOutput
+Mod. Env. 2 Decay Time	0	4194304	Value	ValueOutput
+Mod. Env. 2 Sustain Level	0	4194304	Value	ValueOutput
+Mod. Env. 2 Release Time	0	4194304	Value	ValueOutput
+Mod. Env. 2 Release Level	0	4194304	Value	ValueOutput
+Modif. A On	0	1	Toggle	ValueOutput
+Modif. A Center	0	4194304	Value	ValueOutput
+Modif. A Spread	0	4194304	Value	ValueOutput
+Modif. A Falloff	0	4194304	Value	ValueOutput
+Modif. A Type	0	17	Value	ValueOutput
+Modif. A Param. 1	0	4194304	Value	ValueOutput
+Modif. A Param. 2	0	4194304	Value	ValueOutput
+Modif. B On	0	1	Toggle	ValueOutput
+Modif. B Center	0	4194304	Value	ValueOutput
+Modif. B Spread	0	4194304	Value	ValueOutput
+Modif. B Falloff	0	4194304	Value	ValueOutput
+Modif. B Type	0	17	Value	ValueOutput
+Modif. B Param. 1	0	4194304	Value	ValueOutput
+Modif. B Param. 2	0	4194304	Value	ValueOutput
+Modif. C On	0	1	Toggle	ValueOutput
+Modif. C Center	0	4194304	Value	ValueOutput
+Modif. C Spread	0	4194304	Value	ValueOutput
+Modif. C Falloff	0	4194304	Value	ValueOutput
+Modif. C Type	0	17	Value	ValueOutput
+Modif. C Param. 1	0	4194304	Value	ValueOutput
+Modif. C Param. 2	0	4194304	Value	ValueOutput
+Modif. D On	0	1	Toggle	ValueOutput
+Modif. D Center	0	4194304	Value	ValueOutput
+Modif. D Spread	0	4194304	Value	ValueOutput
+Modif. D Falloff	0	4194304	Value	ValueOutput
+Modif. D Type	0	17	Value	ValueOutput
+Modif. D Param. 1	0	4194304	Value	ValueOutput
+Modif. D Param. 2	0	4194304	Value	ValueOutput
+Modif. E On	0	1	Toggle	ValueOutput
+Modif. E Center	0	4194304	Value	ValueOutput
+Modif. E Spread	0	4194304	Value	ValueOutput
+Modif. E Falloff	0	4194304	Value	ValueOutput
+Modif. E Type	0	17	Value	ValueOutput
+Modif. E Param. 1	0	4194304	Value	ValueOutput
+Modif. E Param. 2	0	4194304	Value	ValueOutput
+Modulation 1 - Strength	0	4194304	Value	ValueOutput
+Modulation 2 - Strength	0	4194304	Value	ValueOutput
+Modulation 3 - Strength	0	4194304	Value	ValueOutput
+Modulation 4 - Strength	0	4194304	Value	ValueOutput
+Modulation 5 - Strength	0	4194304	Value	ValueOutput
+Modulation 6 - Strength	0	4194304	Value	ValueOutput
+Modulation 7 - Strength	0	4194304	Value	ValueOutput
+Modulation 8 - Strength	0	4194304	Value	ValueOutput
+Filter 1 Frequency Velocity Modulation - Strength	0	4194304	Value	ValueOutput
+Filter 2 Frequency Velocity Modulation - Strength	0	4194304	Value	ValueOutput
+Level Velocity Modulation - Strength	0	4194304	Value	ValueOutput
+Filter 1 Frequency Kbd. Track - Strength	0	4194304	Value	ValueOutput
+Filter 2 Frequency Kbd. Track - Strength	0	4194304	Value	ValueOutput
+Pitch Kbd. Tracking - Strength	0	4194304	Value	ValueOutput
+LFO 1 - Strength	0	4194304	Value	ValueOutput
+LFO 2 - Strength	0	4194304	Value	ValueOutput
+Modulation Env. 1 - Strength	0	4194304	Value	ValueOutput
+Modulation Env. 2 - Strength	0	4194304	Value	ValueOutput
+Modifier A Center Kbd. Tracking - Strength	0	4194304	Value	ValueOutput
+Modifier B Center Kbd. Tracking - Strength	0	4194304	Value	ValueOutput
+Modifier C Center Kbd. Tracking - Strength	0	4194304	Value	ValueOutput
+Modifier D Center Kbd. Tracking - Strength	0	4194304	Value	ValueOutput
+Modifier E Center Kbd. Tracking - Strength	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Pitch - Semi	0	96	Value	ValueOutput
+Pitch - Cents	0	100	Value	ValueOutput
+Wave Type	0	20	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Variation	0	4194304	Value	ValueOutput
+Amp. Env. - Attack Time	0	4194304	Value	ValueOutput
+Amp. Env. - Decay Time	0	4194304	Value	ValueOutput
+Amp. Env. - Sustain Level	0	4194304	Value	ValueOutput
+Amp. Env. - Release Time	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Partial Count	0	2	Value	ValueOutput
+Modulation 1 - Source	0	17	Value	ValueOutput
+Modulation 2 - Source	0	17	Value	ValueOutput
+Modulation 3 - Source	0	17	Value	ValueOutput
+Modulation 4 - Source	0	17	Value	ValueOutput
+Modulation 5 - Source	0	17	Value	ValueOutput
+Modulation 6 - Source	0	17	Value	ValueOutput
+Modulation 7 - Source	0	17	Value	ValueOutput
+Modulation 8 - Source	0	17	Value	ValueOutput
+Modulation 1 - Destination	0	52	Value	ValueOutput
+Modulation 2 - Destination	0	52	Value	ValueOutput
+Modulation 3 - Destination	0	52	Value	ValueOutput
+Modulation 4 - Destination	0	52	Value	ValueOutput
+Modulation 5 - Destination	0	52	Value	ValueOutput
+Modulation 6 - Destination	0	52	Value	ValueOutput
+Modulation 7 - Destination	0	52	Value	ValueOutput
+Modulation 8 - Destination	0	52	Value	ValueOutput
+LFO 1 - Destination	0	52	Value	ValueOutput
+LFO 2 - Destination	0	52	Value	ValueOutput
+Modulation Env. 1 - Destination	0	52	Value	ValueOutput
+Modulation Env. 2 - Destination	0	52	Value	ValueOutput
+Retrigger Mode	0	2	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Polyphony	0	15	Value	ValueOutput
+Pitch Bend Range	0	23	Value	ValueOutput
+Precision	0	2	Value	ValueOutput
+Filter Mode	0	1	Toggle	ValueOutput
+Filter Output Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

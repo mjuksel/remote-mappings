@@ -1,0 +1,24 @@
+Scope
+Manufacturer	Model
+DLD Technology	com.dldtechnology.dr4
+
+Remotable	Min	Max	Input type	Output type
+Pattern 1	0	16	Value	ValueOutput
+Offset 1	0	16	Value	ValueOutput
+Trigger 1	0	1	Toggle	ValueOutput
+Pattern 2	0	16	Value	ValueOutput
+Offset 2	0	16	Value	ValueOutput
+Trigger 2	0	1	Toggle	ValueOutput
+Pattern 3	0	16	Value	ValueOutput
+Offset 3	0	16	Value	ValueOutput
+Trigger 3	0	1	Toggle	ValueOutput
+Pattern 4	0	16	Value	ValueOutput
+Offset 4	0	16	Value	ValueOutput
+Trigger 4	0	1	Toggle	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

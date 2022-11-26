@@ -1,0 +1,23 @@
+Scope
+Manufacturer	Model
+Makeshift Design	ru.makeshift.MiniNormalizer
+
+Remotable	Min	Max	Input type	Output type
+User Gain	0	4194304	Value	ValueOutput
+Enable AGC	0	1	Toggle	ValueOutput
+Use True Peak	0	1	Toggle	ValueOutput
+Use Loudness	0	1	Toggle	ValueOutput
+Stats Reset	0	1	Toggle	ValueOutput
+Stats Run	0	1	Toggle	ValueOutput
+Stats Auto Run	0	2	Value	ValueOutput
+Enable AGC On Peak	0	1	Toggle	ValueOutput
+Enable AGC On Momentary	0	1	Toggle	ValueOutput
+Enable AGC On Short-term	0	1	Toggle	ValueOutput
+Target Peak	0	4194304	Value	ValueOutput
+Target Max Momentary	0	4194304	Value	ValueOutput
+Target Max Short-term	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

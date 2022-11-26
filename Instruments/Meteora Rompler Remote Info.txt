@@ -1,0 +1,227 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.Meteora
+
+Remotable	Min	Max	Input type	Output type
+Octave	0	4	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Mode	0	1	Toggle	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Waveform	0	5	Value	ValueOutput
+LFO Depth	0	4194304	Value	ValueOutput
+LFO Retrigger	0	1	Toggle	ValueOutput
+LFO Sync Hz-Beats	0	1	Toggle	ValueOutput
+LFO Start Phase	0	4194304	Value	ValueOutput
+LFO Glide Time	0	4194304	Value	ValueOutput
+Shaper Drive	0	4194304	Value	ValueOutput
+Shaper Bypass	0	1	Toggle	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Envelope	0	4194304	Value	ValueOutput
+Filter Attack	0	4194304	Value	ValueOutput
+Filter Decay	0	4194304	Value	ValueOutput
+Filter Sustain	0	4194304	Value	ValueOutput
+Filter Release	0	4194304	Value	ValueOutput
+Filter On/Off	0	1	Toggle	ValueOutput
+Baseline Bypass	0	1	Toggle	ValueOutput
+Base-signal Reverb Mix	0	4194304	Value	ValueOutput
+Comb Filter Feedback	0	4194304	Value	ValueOutput
+Comb Filter Stiffnes	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Amp Volume	0	4194304	Value	ValueOutput
+Baseline Tune	0	4194304	Value	ValueOutput
+SineOsc Tune	0	4194304	Value	ValueOutput
+SineOsc Mix	0	4194304	Value	ValueOutput
+SineOsc Ring Mode	0	1	Toggle	ValueOutput
+SineOsc Keytrack	0	1	Toggle	ValueOutput
+SineOsc Bypass	0	1	Toggle	ValueOutput
+Hypersaw Tune	0	4194304	Value	ValueOutput
+Hypersaw Mix	0	4194304	Value	ValueOutput
+Hypersaw Filter Cutoff	0	4194304	Value	ValueOutput
+Hypersaw Filter Resonance	0	4194304	Value	ValueOutput
+Hypersaw Filter Envelope	0	4194304	Value	ValueOutput
+Hypersaw Bypass	0	1	Toggle	ValueOutput
+Hypersaw 2nd Filter Cutoff	0	4194304	Value	ValueOutput
+Hypersaw 2nd Filter Resonance	0	4194304	Value	ValueOutput
+Hypersaw Reverb Mix	0	4194304	Value	ValueOutput
+Liquid Tune	0	4194304	Value	ValueOutput
+Liquid Mix	0	4194304	Value	ValueOutput
+Liquid Filter Cutoff	0	4194304	Value	ValueOutput
+Liquid Filter Resonance	0	4194304	Value	ValueOutput
+Liquid Filter Envelope	0	4194304	Value	ValueOutput
+Liquid Bypass	0	1	Toggle	ValueOutput
+Liquid 2nd Filter Cutoff	0	4194304	Value	ValueOutput
+Liquid 2nd Filter Resonance	0	4194304	Value	ValueOutput
+Liquid Reverb Mix	0	4194304	Value	ValueOutput
+SubBass Tune	0	4194304	Value	ValueOutput
+SubBass Mix	0	4194304	Value	ValueOutput
+SubBass Filter Cutoff	0	4194304	Value	ValueOutput
+SubBass Filter Resonance	0	4194304	Value	ValueOutput
+SubBass Filter Envelope	0	4194304	Value	ValueOutput
+SubBass Bypass	0	1	Toggle	ValueOutput
+SubBass 2nd Filter Cutoff	0	4194304	Value	ValueOutput
+SubBass 2nd Filter Resonance	0	4194304	Value	ValueOutput
+SubBass Reverb Mix	0	4194304	Value	ValueOutput
+Drums Tune	0	4194304	Value	ValueOutput
+Drums Mix	0	4194304	Value	ValueOutput
+Drumline Shaper Drive	0	4194304	Value	ValueOutput
+Drumline Shaper Bypass	0	1	Toggle	ValueOutput
+Drumline Bypass	0	1	Toggle	ValueOutput
+TB Tune	0	4194304	Value	ValueOutput
+TB Mix	0	4194304	Value	ValueOutput
+TB Filter Cutoff	0	4194304	Value	ValueOutput
+TB Filter Resonance	0	4194304	Value	ValueOutput
+TB Filter Envelope	0	4194304	Value	ValueOutput
+TB Bypass	0	1	Toggle	ValueOutput
+TB 2nd Filter Cutoff	0	4194304	Value	ValueOutput
+TB 2nd Filter Resonance	0	4194304	Value	ValueOutput
+TB Reverb Mix	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Spread	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser On/Off	0	1	Toggle	ValueOutput
+Distortion Drive	0	4194304	Value	ValueOutput
+Distortion Mode	0	1	Toggle	ValueOutput
+Distortion Low Cut	0	4194304	Value	ValueOutput
+Distortion High Cut	0	4194304	Value	ValueOutput
+Distortion On/Off	0	1	Toggle	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Voices	0	3	Value	ValueOutput
+Chorus On/Off	0	1	Toggle	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb Pre Delay	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb On/Off	0	1	Toggle	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Damping	0	4194304	Value	ValueOutput
+Delay On/Off	0	1	Toggle	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Flanger Rate	0	4194304	Value	ValueOutput
+Flanger Depth	0	4194304	Value	ValueOutput
+Flanger Feedback	0	4194304	Value	ValueOutput
+Flanger On/Off	0	1	Toggle	ValueOutput
+LoFi Sample Rate	0	4194304	Value	ValueOutput
+LoFi Jitter	0	4194304	Value	ValueOutput
+LoFi Mix	0	4194304	Value	ValueOutput
+LoFi On/Off	0	1	Toggle	ValueOutput
+Rotary Speed	0	2	Value	ValueOutput
+Rotary Crossover	0	4194304	Value	ValueOutput
+Rotary Mic Angle	0	4194304	Value	ValueOutput
+Rotary Horn Slow	0	4194304	Value	ValueOutput
+Rotary On/Off	0	1	Toggle	ValueOutput
+Overdrive Drive	0	4194304	Value	ValueOutput
+Overdrive Mode	0	2	Value	ValueOutput
+Overdrive Tone	0	4194304	Value	ValueOutput
+Overdrive Presence	0	4194304	Value	ValueOutput
+Overdrive On/Off	0	1	Toggle	ValueOutput
+Compressor Threshold	0	4194304	Value	ValueOutput
+Compressor Ratio	0	4194304	Value	ValueOutput
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor Release	0	4194304	Value	ValueOutput
+Compressor Output	0	4194304	Value	ValueOutput
+Compressor On/Off	0	1	Toggle	ValueOutput
+Limiter Release	0	4194304	Value	ValueOutput
+Limiter Mode	0	2	Value	ValueOutput
+Limiter On/Off	0	1	Toggle	ValueOutput
+Multiband Low Drive	0	4194304	Value	ValueOutput
+Multiband Mid Drive	0	4194304	Value	ValueOutput
+Multiband High Drive	0	4194304	Value	ValueOutput
+Multiband Low Out	0	4194304	Value	ValueOutput
+Multiband Mid Out	0	4194304	Value	ValueOutput
+Multiband High Out	0	4194304	Value	ValueOutput
+Multiband Low Attack	0	4194304	Value	ValueOutput
+Multiband Mid Attack	0	4194304	Value	ValueOutput
+Multiband High Attack	0	4194304	Value	ValueOutput
+Multiband Low Release	0	4194304	Value	ValueOutput
+Multiband Mid Release	0	4194304	Value	ValueOutput
+Multiband High Release	0	4194304	Value	ValueOutput
+Multiband Low Frequency	0	4194304	Value	ValueOutput
+Multiband High Frequency	0	4194304	Value	ValueOutput
+Multiband Slope	0	2	Value	ValueOutput
+Multiband Soft Knee	0	4194304	Value	ValueOutput
+Multiband On/Off	0	1	Toggle	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ Low Frequency	0	4194304	Value	ValueOutput
+EQ Mid Gain	0	4194304	Value	ValueOutput
+EQ Mid Frequency	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+EQ High Frequency	0	4194304	Value	ValueOutput
+EQ On/Off	0	1	Toggle	ValueOutput
+End Filter Mode	0	5	Value	ValueOutput
+End Filter Cutoff	0	4194304	Value	ValueOutput
+End Filter Resonance	0	4194304	Value	ValueOutput
+End Filter On/Off	0	1	Toggle	ValueOutput
+Kick and Bass Quality	0	4194304	Value	ValueOutput
+Kick and Bass Input Width	0	4194304	Value	ValueOutput
+Kick and Bass Pre Delay	0	4194304	Value	ValueOutput
+BeatBox Quality	0	4194304	Value	ValueOutput
+BeatBox Input Width	0	4194304	Value	ValueOutput
+BeatBox Pre Delay	0	4194304	Value	ValueOutput
+HardDrum Space Quality	0	4194304	Value	ValueOutput
+HardDrum Space Input Width	0	4194304	Value	ValueOutput
+HardDrum Space Pre Delay	0	4194304	Value	ValueOutput
+Hall Quality	0	4194304	Value	ValueOutput
+Hall Input Width	0	4194304	Value	ValueOutput
+Hall Pre Delay	0	4194304	Value	ValueOutput
+Big Blue Quality	0	4194304	Value	ValueOutput
+Big Blue Input Width	0	4194304	Value	ValueOutput
+Big Blue Pre Delay	0	4194304	Value	ValueOutput
+EkoPlate Quality	0	4194304	Value	ValueOutput
+EkoPlate Input Width	0	4194304	Value	ValueOutput
+EkoPlate Pre Delay	0	4194304	Value	ValueOutput
+Brick Wall Quality	0	4194304	Value	ValueOutput
+Brick Wall Input Width	0	4194304	Value	ValueOutput
+Brick Wall Pre Delay	0	4194304	Value	ValueOutput
+Bass XXL Quality	0	4194304	Value	ValueOutput
+Bass XXL Input Width	0	4194304	Value	ValueOutput
+Bass XXL Pre Delay	0	4194304	Value	ValueOutput
+Drum Processor Quality	0	4194304	Value	ValueOutput
+Drum Processor Input Width	0	4194304	Value	ValueOutput
+Drum Processor Pre Delay	0	4194304	Value	ValueOutput
+Reverserb Quality	0	4194304	Value	ValueOutput
+Reverserb Input Width	0	4194304	Value	ValueOutput
+Reverserb Pre Delay	0	4194304	Value	ValueOutput
+Kick and Bass On/Off	0	1	Toggle	ValueOutput
+BeatBox On/Off	0	1	Toggle	ValueOutput
+HardDrum Space On/Off	0	1	Toggle	ValueOutput
+Hall On/Off	0	1	Toggle	ValueOutput
+Big Blue On/Off	0	1	Toggle	ValueOutput
+EkoPlate On/Off	0	1	Toggle	ValueOutput
+Brick Wall On/Off	0	1	Toggle	ValueOutput
+Bass XXL On/Off	0	1	Toggle	ValueOutput
+Drum Processor On/Off	0	1	Toggle	ValueOutput
+Reverserb On/Off	0	1	Toggle	ValueOutput
+Kick and Bass Mix	0	4194304	Value	ValueOutput
+BeatBox Mix	0	4194304	Value	ValueOutput
+HardDrum Space Mix	0	4194304	Value	ValueOutput
+Hall Mix	0	4194304	Value	ValueOutput
+Big Blue Mix	0	4194304	Value	ValueOutput
+EkoPlate Mix	0	4194304	Value	ValueOutput
+Brick Wall Mix	0	4194304	Value	ValueOutput
+Bass XXL Mix	0	4194304	Value	ValueOutput
+Drum Processor Mix	0	4194304	Value	ValueOutput
+Reverserb Mix	0	4194304	Value	ValueOutput
+PreFX Cutoff	0	4194304	Value	ValueOutput
+PreFX Resonance	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

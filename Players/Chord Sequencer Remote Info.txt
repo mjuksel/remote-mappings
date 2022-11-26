@@ -1,0 +1,62 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.ChordSequencer
+
+Remotable	Min	Max	Input type	Output type
+P1 Velocity Adjust	0	4194304	Value	ValueOutput
+P2 Velocity Adjust	0	4194304	Value	ValueOutput
+P3 Velocity Adjust	0	4194304	Value	ValueOutput
+P4 Velocity Adjust	0	4194304	Value	ValueOutput
+P5 Velocity Adjust	0	4194304	Value	ValueOutput
+P6 Velocity Adjust	0	4194304	Value	ValueOutput
+P7 Velocity Adjust	0	4194304	Value	ValueOutput
+P8 Velocity Adjust	0	4194304	Value	ValueOutput
+P1 Humanize Velocity	0	4194304	Value	ValueOutput
+P2 Humanize Velocity	0	4194304	Value	ValueOutput
+P3 Humanize Velocity	0	4194304	Value	ValueOutput
+P4 Humanize Velocity	0	4194304	Value	ValueOutput
+P5 Humanize Velocity	0	4194304	Value	ValueOutput
+P6 Humanize Velocity	0	4194304	Value	ValueOutput
+P7 Humanize Velocity	0	4194304	Value	ValueOutput
+P8 Humanize Velocity	0	4194304	Value	ValueOutput
+P1 Humanize Timing	0	4194304	Value	ValueOutput
+P2 Humanize Timing	0	4194304	Value	ValueOutput
+P3 Humanize Timing	0	4194304	Value	ValueOutput
+P4 Humanize Timing	0	4194304	Value	ValueOutput
+P5 Humanize Timing	0	4194304	Value	ValueOutput
+P6 Humanize Timing	0	4194304	Value	ValueOutput
+P7 Humanize Timing	0	4194304	Value	ValueOutput
+P8 Humanize Timing	0	4194304	Value	ValueOutput
+P1 Remove Bass Below Note	0	127	Value	ValueOutput
+P2 Remove Bass Below Note	0	127	Value	ValueOutput
+P3 Remove Bass Below Note	0	127	Value	ValueOutput
+P4 Remove Bass Below Note	0	127	Value	ValueOutput
+P5 Remove Bass Below Note	0	127	Value	ValueOutput
+P6 Remove Bass Below Note	0	127	Value	ValueOutput
+P7 Remove Bass Below Note	0	127	Value	ValueOutput
+P8 Remove Bass Below Note	0	127	Value	ValueOutput
+P1 Add Root Above	0	1	Toggle	ValueOutput
+P2 Add Root Above	0	1	Toggle	ValueOutput
+P3 Add Root Above	0	1	Toggle	ValueOutput
+P4 Add Root Above	0	1	Toggle	ValueOutput
+P5 Add Root Above	0	1	Toggle	ValueOutput
+P6 Add Root Above	0	1	Toggle	ValueOutput
+P7 Add Root Above	0	1	Toggle	ValueOutput
+P8 Add Root Above	0	1	Toggle	ValueOutput
+P1 Add Root Below	0	1	Toggle	ValueOutput
+P2 Add Root Below	0	1	Toggle	ValueOutput
+P3 Add Root Below	0	1	Toggle	ValueOutput
+P4 Add Root Below	0	1	Toggle	ValueOutput
+P5 Add Root Below	0	1	Toggle	ValueOutput
+P6 Add Root Below	0	1	Toggle	ValueOutput
+P7 Add Root Below	0	1	Toggle	ValueOutput
+P8 Add Root Below	0	1	Toggle	ValueOutput
+On	0	1	Toggle	ValueOutput
+Octave Shift	0	4	Value	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Pattern Select	-1	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

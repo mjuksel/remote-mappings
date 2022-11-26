@@ -1,0 +1,32 @@
+Scope
+Manufacturer	Model
+Haaswerk	nl.haaswerk.CVPulseHolder
+
+Remotable	Min	Max	Input type	Output type
+Output 1 Value	0	4194304	Value	ValueOutput
+Output 2 Value	0	4194304	Value	ValueOutput
+Output 3 Value	0	4194304	Value	ValueOutput
+Output 4 Value	0	4194304	Value	ValueOutput
+Output 5 Value	0	4194304	Value	ValueOutput
+Output 6 Value	0	4194304	Value	ValueOutput
+Output 7 Value	0	4194304	Value	ValueOutput
+Output 8 Value	0	4194304	Value	ValueOutput
+Output 9 Value	0	4194304	Value	ValueOutput
+Output 10 Value	0	4194304	Value	ValueOutput
+Output 11 Value	0	4194304	Value	ValueOutput
+Output 12 Value	0	4194304	Value	ValueOutput
+Output 13 Value	0	4194304	Value	ValueOutput
+Output 14 Value	0	4194304	Value	ValueOutput
+Output 15 Value	0	4194304	Value	ValueOutput
+Output 16 Value	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

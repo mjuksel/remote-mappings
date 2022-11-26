@@ -1,0 +1,300 @@
+Scope
+Manufacturer	Model
+Zvork	fr.zvork.Oberton
+
+Remotable	Min	Max	Input type	Output type
+Amp. Env. - Monohonic Trigger	0	1	Toggle	ValueOutput
+Amp. Env. - Loop	0	1	Toggle	ValueOutput
+Amp. Env. - Tempo Synced	0	1	Toggle	ValueOutput
+Amp. Env. - Point Count	0	14	Value	ValueOutput
+Amp. Env. - Sustain Point	0	15	Value	ValueOutput
+Amp. Env. - Level 1	0	4194304	Value	ValueOutput
+Amp. Env. - Level 2	0	4194304	Value	ValueOutput
+Amp. Env. - Level 3	0	4194304	Value	ValueOutput
+Amp. Env. - Level 4	0	4194304	Value	ValueOutput
+Amp. Env. - Level 5	0	4194304	Value	ValueOutput
+Amp. Env. - Level 6	0	4194304	Value	ValueOutput
+Amp. Env. - Level 7	0	4194304	Value	ValueOutput
+Amp. Env. - Level 8	0	4194304	Value	ValueOutput
+Amp. Env. - Level 9	0	4194304	Value	ValueOutput
+Amp. Env. - Level 10	0	4194304	Value	ValueOutput
+Amp. Env. - Level 11	0	4194304	Value	ValueOutput
+Amp. Env. - Level 12	0	4194304	Value	ValueOutput
+Amp. Env. - Level 13	0	4194304	Value	ValueOutput
+Amp. Env. - Level 14	0	4194304	Value	ValueOutput
+Amp. Env. - Level 15	0	4194304	Value	ValueOutput
+Amp. Env. - Level 16	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 1	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 2	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 3	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 4	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 5	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 6	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 7	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 8	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 9	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 10	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 11	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 12	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 13	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 14	0	4194304	Value	ValueOutput
+Amp. Env. - Duration 15	0	4194304	Value	ValueOutput
+Amp. Env. - Loop Start Point	0	15	Value	ValueOutput
+Display Mode	0	14	-	ValueOutput
+Filter 1 Frequency	0	4194304	Value	ValueOutput
+Filter 1 X>Y	0	4194304	Value	ValueOutput
+Filter 1 Frequency - Kbd. Tracking	0	4194304	Value	ValueOutput
+Filter 1 Frequency - Mod. Env. 1 Strength	0	4194304	Value	ValueOutput
+Filter 1 Frequency - Velocity Modulation	0	4194304	Value	ValueOutput
+Filter 2 Frequency	0	4194304	Value	ValueOutput
+Filter 2 X>Y	0	4194304	Value	ValueOutput
+Filter 2 Frequency - Kbd. Tracking	0	4194304	Value	ValueOutput
+Filter 2 Frequency - Mod. Env. 2 Strength	0	4194304	Value	ValueOutput
+Filter 2 Frequency - Velocity Modulation	0	4194304	Value	ValueOutput
+LFO 1 Key Sync.	0	1	Toggle	ValueOutput
+LFO 1 Tempo Sync.	0	1	Toggle	ValueOutput
+LFO 1 Frequency	0	4194304	Value	ValueOutput
+LFO 1 Freq. Synced	0	17	Value	ValueOutput
+LFO 1 Shape	0	20	Value	ValueOutput
+LFO 1 Delay	0	4194304	Value	ValueOutput
+LFO 1 Rise	0	4194304	Value	ValueOutput
+LFO 2 Key Sync.	0	1	Toggle	ValueOutput
+LFO 2 Tempo Sync.	0	1	Toggle	ValueOutput
+LFO 2 Frequency	0	4194304	Value	ValueOutput
+LFO 2 Freq. Synced	0	17	Value	ValueOutput
+LFO 2 Shape	0	20	Value	ValueOutput
+LFO 2 Delay	0	4194304	Value	ValueOutput
+LFO 2 Rise	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Monophonic	0	1	Toggle	ValueOutput
+Mod. Env. 1 - Loop	0	1	Toggle	ValueOutput
+Mod. Env. 1 - Tempo Synced	0	1	Toggle	ValueOutput
+Mod. Env. 1 - Point Count	0	14	Value	ValueOutput
+Mod. Env. 1 - Sustain Point	0	15	Value	ValueOutput
+Mod. Env. 1 - Level 1	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 2	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 3	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 4	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 5	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 6	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 7	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 8	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 9	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 10	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 11	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 12	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 13	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 14	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 15	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Level 16	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 1	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 2	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 3	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 4	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 5	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 6	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 7	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 8	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 9	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 10	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 11	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 12	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 13	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 14	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Time 15	0	4194304	Value	ValueOutput
+Mod. Env. 1 - Release Mode	0	2	Value	ValueOutput
+Mod. Env. 1 - Loop Start Point	0	15	Value	ValueOutput
+Mod. Env. 2 - Monophonic	0	1	Toggle	ValueOutput
+Mod. Env. 2 - Loop	0	1	Toggle	ValueOutput
+Mod. Env. 2 - Tempo Synced	0	1	Toggle	ValueOutput
+Mod. Env. 2 - Point Count	0	14	Value	ValueOutput
+Mod. Env. 2 - Sustain Point	0	15	Value	ValueOutput
+Mod. Env. 2 - Level 1	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 2	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 3	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 4	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 5	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 6	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 7	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 8	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 9	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 10	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 11	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 12	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 13	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 14	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 15	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Level 16	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 1	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 2	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 3	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 4	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 5	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 6	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 7	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 8	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 9	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 10	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 11	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 12	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 13	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 14	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Time 15	0	4194304	Value	ValueOutput
+Mod. Env. 2 - Release Mode	0	2	Value	ValueOutput
+Mod. Env. 2 - Loop Start Point	0	15	Value	ValueOutput
+Mod. Env. 3 - Monophonic	0	1	Toggle	ValueOutput
+Mod. Env. 3 - Loop	0	1	Toggle	ValueOutput
+Mod. Env. 3 - Tempo Synced	0	1	Toggle	ValueOutput
+Mod. Env. 3 - Point Count	0	14	Value	ValueOutput
+Mod. Env. 3 - Sustain Point	0	15	Value	ValueOutput
+Mod. Env. 3 - Level 1	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 2	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 3	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 4	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 5	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 6	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 7	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 8	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 9	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 10	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 11	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 12	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 13	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 14	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 15	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Level 16	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 1	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 2	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 3	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 4	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 5	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 6	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 7	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 8	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 9	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 10	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 11	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 12	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 13	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 14	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Time 15	0	4194304	Value	ValueOutput
+Mod. Env. 3 - Release Mode	0	2	Value	ValueOutput
+Mod. Env. 3 - Loop Start Point	0	15	Value	ValueOutput
+Mod. 1 - Source	0	23	Value	ValueOutput
+Mod. 2 - Source	0	23	Value	ValueOutput
+Mod. 3 - Source	0	23	Value	ValueOutput
+Mod. 4 - Source	0	23	Value	ValueOutput
+Mod. 5 - Source	0	23	Value	ValueOutput
+Mod. 6 - Source	0	23	Value	ValueOutput
+Mod. 1 - Destination 1	0	56	Value	ValueOutput
+Mod. 2 - Destination 1	0	56	Value	ValueOutput
+Mod. 3 - Destination 1	0	56	Value	ValueOutput
+Mod. 4 - Destination 1	0	56	Value	ValueOutput
+Mod. 5 - Destination 1	0	56	Value	ValueOutput
+Mod. 6 - Destination 1	0	56	Value	ValueOutput
+Mod. 1 - Destination 2	0	56	Value	ValueOutput
+Mod. 2 - Destination 2	0	56	Value	ValueOutput
+Mod. 3 - Destination 2	0	56	Value	ValueOutput
+Mod. 4 - Destination 2	0	56	Value	ValueOutput
+Mod. 5 - Destination 2	0	56	Value	ValueOutput
+Mod. 6 - Destination 2	0	56	Value	ValueOutput
+Mod. 1 - Strength 1	0	4194304	Value	ValueOutput
+Mod. 2 - Strength 1	0	4194304	Value	ValueOutput
+Mod. 3 - Strength 1	0	4194304	Value	ValueOutput
+Mod. 4 - Strength 1	0	4194304	Value	ValueOutput
+Mod. 5 - Strength 1	0	4194304	Value	ValueOutput
+Mod. 6 - Strength 1	0	4194304	Value	ValueOutput
+Mod. 1 - Strength 2	0	4194304	Value	ValueOutput
+Mod. 2 - Strength 2	0	4194304	Value	ValueOutput
+Mod. 3 - Strength 2	0	4194304	Value	ValueOutput
+Mod. 4 - Strength 2	0	4194304	Value	ValueOutput
+Mod. 5 - Strength 2	0	4194304	Value	ValueOutput
+Mod. 6 - Strength 2	0	4194304	Value	ValueOutput
+Mod. 1 - Scale Strength	0	4194304	Value	ValueOutput
+Mod. 2 - Scale Strength	0	4194304	Value	ValueOutput
+Mod. 3 - Scale Strength	0	4194304	Value	ValueOutput
+Mod. 4 - Scale Strength	0	4194304	Value	ValueOutput
+Mod. 5 - Scale Strength	0	4194304	Value	ValueOutput
+Mod. 6 - Scale Strength	0	4194304	Value	ValueOutput
+Mod. 1 - Scale Source	0	23	Value	ValueOutput
+Mod. 2 - Scale Source	0	23	Value	ValueOutput
+Mod. 3 - Scale Source	0	23	Value	ValueOutput
+Mod. 4 - Scale Source	0	23	Value	ValueOutput
+Mod. 5 - Scale Source	0	23	Value	ValueOutput
+Mod. 6 - Scale Source	0	23	Value	ValueOutput
+Osc. 1 - Stereo - Pan	0	4194304	Value	ValueOutput
+Osc. 1 - Stereo - Width	0	4194304	Value	ValueOutput
+Osc. 1 - Pitch - Octave	0	8	Value	ValueOutput
+Osc. 1 - Pitch - Semitones	0	11	Value	ValueOutput
+Osc. 1 - Pitch - Cents	0	100	Value	ValueOutput
+Osc. 1 - Pitch - Kbd. Tracking	0	4194304	Value	ValueOutput
+Osc. 1 - Harmonize	0	4194304	Value	ValueOutput
+Osc. 1 - Harmonize Limit	0	4194304	Value	ValueOutput
+Osc. 1 - Harmonize Octave	0	2	Value	ValueOutput
+Osc. 1 - Bend	0	4194304	Value	ValueOutput
+Osc. 1 - Unison - Mix	0	4194304	Value	ValueOutput
+Osc. 1 - Unison - Pitch	0	4194304	Value	ValueOutput
+Osc. 1 - Unison - Voice Count	0	3	Value	ValueOutput
+Osc. 1 - Unison - Phase Lock	0	1	Toggle	ValueOutput
+Osc. 1 - Unison - Random Phase	0	1	Toggle	ValueOutput
+Osc. 1 - Octave Copy Level	0	4194304	Value	ValueOutput
+Osc. 1 - Partial Saturation	0	4194304	Value	ValueOutput
+Osc. 1 - Filter Mode	0	4	Value	ValueOutput
+Osc. 1 - Level	0	4194304	Value	ValueOutput
+Osc. 1 - Morphing Destination	0	1	Toggle	ValueOutput
+Osc. 1 - Morphing Position	0	4194304	Value	ValueOutput
+Osc. 1 - Morphing Target Transpose	0	48	Value	ValueOutput
+Osc. 1 - Wave Type	0	8	Value	ValueOutput
+Osc. 1 - Wave Start	0	4194304	Value	ValueOutput
+Osc. 1 - Wave Motion Tempo Sync.	0	1	Toggle	ValueOutput
+Osc. 1 - Wave Motion Key Reset	0	1	Toggle	ValueOutput
+Osc. 1 - Wave Motion	0	4194304	Value	ValueOutput
+Osc. 1 - Wave Motion Tempo Synced	0	22	Value	ValueOutput
+Osc. 2 - Stereo - Pan	0	4194304	Value	ValueOutput
+Osc. 2 - Stereo - Width	0	4194304	Value	ValueOutput
+Osc. 2 - Pitch - Octave	0	8	Value	ValueOutput
+Osc. 2 - Pitch - Semitones	0	11	Value	ValueOutput
+Osc. 2 - Pitch - Cents	0	100	Value	ValueOutput
+Osc. 2 - Pitch - Kbd. Tracking	0	4194304	Value	ValueOutput
+Osc. 2 - Harmonize	0	4194304	Value	ValueOutput
+Osc. 2 - Harmonize Limit	0	4194304	Value	ValueOutput
+Osc. 2 - Harmonize Octave	0	2	Value	ValueOutput
+Osc. 2 - Bend	0	4194304	Value	ValueOutput
+Osc. 2 - Unison - Mix	0	4194304	Value	ValueOutput
+Osc. 2 - Unison - Pitch	0	4194304	Value	ValueOutput
+Osc. 2 - Unison - Voice Count	0	3	Value	ValueOutput
+Osc. 2 - Unison - Phase Lock	0	1	Toggle	ValueOutput
+Osc. 2 - Unison - Random Phase	0	1	Toggle	ValueOutput
+Osc. 2 - Octave Copy Level	0	4194304	Value	ValueOutput
+Osc. 2 - Partial Saturation	0	4194304	Value	ValueOutput
+Osc. 2 - Filter Mode	0	4	Value	ValueOutput
+Osc. 2 - Level	0	4194304	Value	ValueOutput
+Osc. 2 - On/Off	0	1	Toggle	ValueOutput
+Osc. 2 - Morphing Destination	0	1	Toggle	ValueOutput
+Osc. 2 - Morphing Position	0	4194304	Value	ValueOutput
+Osc. 2 - Morphing Target Transpose	0	48	Value	ValueOutput
+Osc. 2 - Wave Type	0	8	Value	ValueOutput
+Osc. 2 - Wave Start	0	4194304	Value	ValueOutput
+Osc. 2 - Wave Motion Tempo Sync.	0	1	Toggle	ValueOutput
+Osc. 2 - Wave Motion Key Reset	0	1	Toggle	ValueOutput
+Osc. 2 - Wave Motion	0	4194304	Value	ValueOutput
+Osc. 2 - Wave Motion Tempo Synced	0	22	Value	ValueOutput
+Wave 1 Mode	0	1	Toggle	ValueOutput
+Wave 2 Mode	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Volume Velocity Modulation	0	4194304	Value	ValueOutput
+Voice Mode	0	3	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Glide Velocity Mod.	0	4194304	Value	ValueOutput
+Pitch Bend Range	0	24	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Record Sample	0	0	Trig	TextOutput

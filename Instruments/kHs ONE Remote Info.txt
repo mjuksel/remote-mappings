@@ -1,0 +1,122 @@
+Scope
+Manufacturer	Model
+kiloHearts	com.kilohearts.khsONE
+
+Remotable	Min	Max	Input type	Output type
+Osc 1 - Waveform	0	2	Value	ValueOutput
+Osc 1 - Gain	0	4194304	Value	ValueOutput
+Osc 1 - Shape	0	4194304	Value	ValueOutput
+Osc 1 - Octave Tuning	0	10	Value	ValueOutput
+Osc 1 - Semi Tuning	0	22	Value	ValueOutput
+Osc 1 - Cent Tuning	0	198	Value	ValueOutput
+Osc 1 - Waveform Sync	0	4194304	Value	ValueOutput
+Osc 2 - Waveform	0	2	Value	ValueOutput
+Osc 2 - Gain	0	4194304	Value	ValueOutput
+Osc 2 - Shape	0	4194304	Value	ValueOutput
+Osc 2 - Octave Tuning	0	10	Value	ValueOutput
+Osc 2 - Semi Tuning	0	22	Value	ValueOutput
+Osc 2 - Cent Tuning	0	198	Value	ValueOutput
+Osc 2 - Waveform Sync	0	4194304	Value	ValueOutput
+Sub - Shape	0	4194304	Value	ValueOutput
+Sub - Gain	0	4194304	Value	ValueOutput
+Sub - Octave Tuning	0	10	Value	ValueOutput
+Amp Env - Attack	0	4194304	Value	ValueOutput
+Amp Env - Decay	0	4194304	Value	ValueOutput
+Amp Env - Sustain	0	4194304	Value	ValueOutput
+Amp Env - Release	0	4194304	Value	ValueOutput
+Filter Env - Attack	0	4194304	Value	ValueOutput
+Filter Env - Decay	0	4194304	Value	ValueOutput
+Filter Env - Sustain	0	4194304	Value	ValueOutput
+Filter Env - Release	0	4194304	Value	ValueOutput
+Mod Env - Attack	0	4194304	Value	ValueOutput
+Mod Env - Decay	0	4194304	Value	ValueOutput
+Mod Env - Sustain	0	4194304	Value	ValueOutput
+Mod Env - Release	0	4194304	Value	ValueOutput
+Mod Env - Mod Amount 1	0	4194304	Value	ValueOutput
+Mod Env - Mod Amount 2	0	4194304	Value	ValueOutput
+Mod Env - Mod Amount 3	0	4194304	Value	ValueOutput
+Filter 1 - Cutoff	0	4194304	Value	ValueOutput
+Filter 1 - Q	0	4194304	Value	ValueOutput
+Filter 1 - Env Modulation Amount	0	4194304	Value	ValueOutput
+Filter 1 - Mode	0	3	Value	ValueOutput
+Filter 1 - Key Tracking	0	4194304	Value	ValueOutput
+Shaper - Mode	0	3	Value	ValueOutput
+Shaper - Drive	0	4194304	Value	ValueOutput
+Shaper - Mix	0	4194304	Value	ValueOutput
+Filter 2 - Cutoff	0	4194304	Value	ValueOutput
+Filter 2 - Q	0	4194304	Value	ValueOutput
+Filter 2 - Env Modulation Amount	0	4194304	Value	ValueOutput
+Filter 2 - Mode	0	3	Value	ValueOutput
+Filter 2 - Key Tracking	0	4194304	Value	ValueOutput
+Chorus - Delay	0	4194304	Value	ValueOutput
+Chorus - Rate	0	4194304	Value	ValueOutput
+Chorus - Depth	0	4194304	Value	ValueOutput
+Chorus - Stereo Width	0	4194304	Value	ValueOutput
+Chorus - Mix	0	4194304	Value	ValueOutput
+Delay - Time (16ths)	0	23	Value	ValueOutput
+Delay - Time (ms)	0	4194304	Value	ValueOutput
+Delay - Feedback	0	4194304	Value	ValueOutput
+Delay - Stereo Width	0	4194304	Value	ValueOutput
+Delay - Send	0	4194304	Value	ValueOutput
+Delay - Sync Mode	0	1	Toggle	ValueOutput
+Velocity - Mod Amount 1	0	4194304	Value	ValueOutput
+Velocity - Mod Amount 2	0	4194304	Value	ValueOutput
+Velocity - Mod Amount 3	0	4194304	Value	ValueOutput
+Voice LFO - Key Tracking	0	4194304	Value	ValueOutput
+Voice LFO - Waveform	0	5	Value	ValueOutput
+Voice LFO - Rate	0	4194304	Value	ValueOutput
+Voice LFO - Depth	0	4194304	Value	ValueOutput
+Voice LFO - Phase	0	4194304	Value	ValueOutput
+Voice LFO - Mod Amount 1	0	4194304	Value	ValueOutput
+Voice LFO - Mod Amount 2	0	4194304	Value	ValueOutput
+Voice LFO - Mod Amount 3	0	4194304	Value	ValueOutput
+Global LFO - Tempo Sync	0	1	Toggle	ValueOutput
+Global LFO - Sample & Hold	0	1	Toggle	ValueOutput
+Global LFO - Waveform	0	5	Value	ValueOutput
+Global LFO - Rate (Synced)	0	23	Value	ValueOutput
+Global LFO - Rate (Free)	0	4194304	Value	ValueOutput
+Global LFO - Depth	0	4194304	Value	ValueOutput
+Global LFO - Phase	0	4194304	Value	ValueOutput
+Global LFO - Mod Amount 1	0	4194304	Value	ValueOutput
+Global LFO - Mod Amount 2	0	4194304	Value	ValueOutput
+Global LFO - Mod Amount 3	0	4194304	Value	ValueOutput
+Mod Wheel - Mod Amount 1	0	4194304	Value	ValueOutput
+Mod Wheel - Mod Amount 2	0	4194304	Value	ValueOutput
+Mod Wheel - Mod Amount 3	0	4194304	Value	ValueOutput
+Voice - Pitch Bend Range	0	48	Value	ValueOutput
+Voice - Unison Voices	0	7	Value	ValueOutput
+Voice - Unison Detune	0	4194304	Value	ValueOutput
+Voice - Unison Stereo Width	0	4194304	Value	ValueOutput
+Voice - Portamento Glide Time	0	4194304	Value	ValueOutput
+Voice - Polyphony	0	23	Value	ValueOutput
+Voice - Legato Mode	0	1	Toggle	ValueOutput
+Voice - Auto Glide	0	1	Toggle	ValueOutput
+Master - Gain	0	4194304	Value	ValueOutput
+Master - Low Shelf EQ Gain	0	4194304	Value	ValueOutput
+Master - High Shelf EQ Gain	0	4194304	Value	ValueOutput
+Master - Low Shelf EQ Cutoff	0	4194304	Value	ValueOutput
+Master - High Shelf EQ Cutoff	0	4194304	Value	ValueOutput
+Master - Limiter	0	1	Toggle	ValueOutput
+Mod Wheel - Mod Target 1	0	47	Value	ValueOutput
+Mod Wheel - Mod Target 2	0	47	Value	ValueOutput
+Mod Wheel - Mod Target 3	0	47	Value	ValueOutput
+Mod Env - Mod Target 1	0	25	Value	ValueOutput
+Mod Env - Mod Target 2	0	25	Value	ValueOutput
+Mod Env - Mod Target 3	0	25	Value	ValueOutput
+Velocity - Mod Target 1	0	38	Value	ValueOutput
+Velocity - Mod Target 2	0	38	Value	ValueOutput
+Velocity - Mod Target 3	0	38	Value	ValueOutput
+Voice LFO - Mod Target 1	0	22	Value	ValueOutput
+Voice LFO - Mod Target 2	0	22	Value	ValueOutput
+Voice LFO - Mod Target 3	0	22	Value	ValueOutput
+Global LFO - Mod Target 1	0	45	Value	ValueOutput
+Global LFO - Mod Target 2	0	45	Value	ValueOutput
+Global LFO - Mod Target 3	0	45	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

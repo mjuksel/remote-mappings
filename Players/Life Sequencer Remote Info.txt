@@ -1,0 +1,359 @@
+Scope
+Manufacturer	Model
+Retouch Control	com.retouchcontrol.Life
+
+Remotable	Min	Max	Input type	Output type
+Sequencer Steps Var1	0	32	Value	ValueOutput
+Step Offset Var1	0	14	Value	ValueOutput
+Sequencer Rate Var1	0	9	Value	ValueOutput
+Density Var1	0	4	Value	ValueOutput
+Global Trigger Probability Var1	0	4194304	Value	ValueOutput
+Ch1 Trig Probability Var1	0	4194304	Value	ValueOutput
+Ch2 Trig Probability Var1	0	4194304	Value	ValueOutput
+Ch3 Trig Probability Var1	0	4194304	Value	ValueOutput
+Ch4 Trig Probability Var1	0	4194304	Value	ValueOutput
+Ch5 Trig Probability Var1	0	4194304	Value	ValueOutput
+Ch6 Trig Probability Var1	0	4194304	Value	ValueOutput
+Ch7 Trig Probability Var1	0	4194304	Value	ValueOutput
+Ch8 Trig Probability Var1	0	4194304	Value	ValueOutput
+Ch1 Velocity Var1	0	4194304	Value	ValueOutput
+Ch2 Velocity Var1	0	4194304	Value	ValueOutput
+Ch3 Velocity Var1	0	4194304	Value	ValueOutput
+Ch4 Velocity Var1	0	4194304	Value	ValueOutput
+Ch5 Velocity Var1	0	4194304	Value	ValueOutput
+Ch6 Velocity Var1	0	4194304	Value	ValueOutput
+Ch7 Velocity Var1	0	4194304	Value	ValueOutput
+Ch8 Velocity Var1	0	4194304	Value	ValueOutput
+Sequencer Steps Var2	0	32	Value	ValueOutput
+Step Offset Var2	0	14	Value	ValueOutput
+Sequencer Rate Var2	0	9	Value	ValueOutput
+Density Var2	0	4	Value	ValueOutput
+Global Trigger Probability Var2	0	4194304	Value	ValueOutput
+Ch1 Trig Probability Var2	0	4194304	Value	ValueOutput
+Ch2 Trig Probability Var2	0	4194304	Value	ValueOutput
+Ch3 Trig Probability Var2	0	4194304	Value	ValueOutput
+Ch4 Trig Probability Var2	0	4194304	Value	ValueOutput
+Ch5 Trig Probability Var2	0	4194304	Value	ValueOutput
+Ch6 Trig Probability Var2	0	4194304	Value	ValueOutput
+Ch7 Trig Probability Var2	0	4194304	Value	ValueOutput
+Ch8 Trig Probability Var2	0	4194304	Value	ValueOutput
+Ch1 Velocity Var2	0	4194304	Value	ValueOutput
+Ch2 Velocity Var2	0	4194304	Value	ValueOutput
+Ch3 Velocity Var2	0	4194304	Value	ValueOutput
+Ch4 Velocity Var2	0	4194304	Value	ValueOutput
+Ch5 Velocity Var2	0	4194304	Value	ValueOutput
+Ch6 Velocity Var2	0	4194304	Value	ValueOutput
+Ch7 Velocity Var2	0	4194304	Value	ValueOutput
+Ch8 Velocity Var2	0	4194304	Value	ValueOutput
+Sequencer Steps Var3	0	32	Value	ValueOutput
+Step Offset Var3	0	14	Value	ValueOutput
+Sequencer Rate Var3	0	9	Value	ValueOutput
+Density Var3	0	4	Value	ValueOutput
+Global Trigger Probability Var3	0	4194304	Value	ValueOutput
+Ch1 Trig Probability Var3	0	4194304	Value	ValueOutput
+Ch2 Trig Probability Var3	0	4194304	Value	ValueOutput
+Ch3 Trig Probability Var3	0	4194304	Value	ValueOutput
+Ch4 Trig Probability Var3	0	4194304	Value	ValueOutput
+Ch5 Trig Probability Var3	0	4194304	Value	ValueOutput
+Ch6 Trig Probability Var3	0	4194304	Value	ValueOutput
+Ch7 Trig Probability Var3	0	4194304	Value	ValueOutput
+Ch8 Trig Probability Var3	0	4194304	Value	ValueOutput
+Ch1 Velocity Var3	0	4194304	Value	ValueOutput
+Ch2 Velocity Var3	0	4194304	Value	ValueOutput
+Ch3 Velocity Var3	0	4194304	Value	ValueOutput
+Ch4 Velocity Var3	0	4194304	Value	ValueOutput
+Ch5 Velocity Var3	0	4194304	Value	ValueOutput
+Ch6 Velocity Var3	0	4194304	Value	ValueOutput
+Ch7 Velocity Var3	0	4194304	Value	ValueOutput
+Ch8 Velocity Var3	0	4194304	Value	ValueOutput
+Sequencer Steps Var4	0	32	Value	ValueOutput
+Step Offset Var4	0	14	Value	ValueOutput
+Sequencer Rate Var4	0	9	Value	ValueOutput
+Density Var4	0	4	Value	ValueOutput
+Global Trigger Probability Var4	0	4194304	Value	ValueOutput
+Ch1 Trig Probability Var4	0	4194304	Value	ValueOutput
+Ch2 Trig Probability Var4	0	4194304	Value	ValueOutput
+Ch3 Trig Probability Var4	0	4194304	Value	ValueOutput
+Ch4 Trig Probability Var4	0	4194304	Value	ValueOutput
+Ch5 Trig Probability Var4	0	4194304	Value	ValueOutput
+Ch6 Trig Probability Var4	0	4194304	Value	ValueOutput
+Ch7 Trig Probability Var4	0	4194304	Value	ValueOutput
+Ch8 Trig Probability Var4	0	4194304	Value	ValueOutput
+Ch1 Velocity Var4	0	4194304	Value	ValueOutput
+Ch2 Velocity Var4	0	4194304	Value	ValueOutput
+Ch3 Velocity Var4	0	4194304	Value	ValueOutput
+Ch4 Velocity Var4	0	4194304	Value	ValueOutput
+Ch5 Velocity Var4	0	4194304	Value	ValueOutput
+Ch6 Velocity Var4	0	4194304	Value	ValueOutput
+Ch7 Velocity Var4	0	4194304	Value	ValueOutput
+Ch8 Velocity Var4	0	4194304	Value	ValueOutput
+Sequencer Steps Var5	0	32	Value	ValueOutput
+Step Offset Var5	0	14	Value	ValueOutput
+Sequencer Rate Var5	0	9	Value	ValueOutput
+Density Var5	0	4	Value	ValueOutput
+Global Trigger Probability Var5	0	4194304	Value	ValueOutput
+Ch1 Trig Probability Var5	0	4194304	Value	ValueOutput
+Ch2 Trig Probability Var5	0	4194304	Value	ValueOutput
+Ch3 Trig Probability Var5	0	4194304	Value	ValueOutput
+Ch4 Trig Probability Var5	0	4194304	Value	ValueOutput
+Ch5 Trig Probability Var5	0	4194304	Value	ValueOutput
+Ch6 Trig Probability Var5	0	4194304	Value	ValueOutput
+Ch7 Trig Probability Var5	0	4194304	Value	ValueOutput
+Ch8 Trig Probability Var5	0	4194304	Value	ValueOutput
+Ch1 Velocity Var5	0	4194304	Value	ValueOutput
+Ch2 Velocity Var5	0	4194304	Value	ValueOutput
+Ch3 Velocity Var5	0	4194304	Value	ValueOutput
+Ch4 Velocity Var5	0	4194304	Value	ValueOutput
+Ch5 Velocity Var5	0	4194304	Value	ValueOutput
+Ch6 Velocity Var5	0	4194304	Value	ValueOutput
+Ch7 Velocity Var5	0	4194304	Value	ValueOutput
+Ch8 Velocity Var5	0	4194304	Value	ValueOutput
+Sequencer Steps Var6	0	32	Value	ValueOutput
+Step Offset Var6	0	14	Value	ValueOutput
+Sequencer Rate Var6	0	9	Value	ValueOutput
+Density Var6	0	4	Value	ValueOutput
+Global Trigger Probability Var6	0	4194304	Value	ValueOutput
+Ch1 Trig Probability Var6	0	4194304	Value	ValueOutput
+Ch2 Trig Probability Var6	0	4194304	Value	ValueOutput
+Ch3 Trig Probability Var6	0	4194304	Value	ValueOutput
+Ch4 Trig Probability Var6	0	4194304	Value	ValueOutput
+Ch5 Trig Probability Var6	0	4194304	Value	ValueOutput
+Ch6 Trig Probability Var6	0	4194304	Value	ValueOutput
+Ch7 Trig Probability Var6	0	4194304	Value	ValueOutput
+Ch8 Trig Probability Var6	0	4194304	Value	ValueOutput
+Ch1 Velocity Var6	0	4194304	Value	ValueOutput
+Ch2 Velocity Var6	0	4194304	Value	ValueOutput
+Ch3 Velocity Var6	0	4194304	Value	ValueOutput
+Ch4 Velocity Var6	0	4194304	Value	ValueOutput
+Ch5 Velocity Var6	0	4194304	Value	ValueOutput
+Ch6 Velocity Var6	0	4194304	Value	ValueOutput
+Ch7 Velocity Var6	0	4194304	Value	ValueOutput
+Ch8 Velocity Var6	0	4194304	Value	ValueOutput
+Sequencer Steps Var7	0	32	Value	ValueOutput
+Step Offset Var7	0	14	Value	ValueOutput
+Sequencer Rate Var7	0	9	Value	ValueOutput
+Density Var7	0	4	Value	ValueOutput
+Global Trigger Probability Var7	0	4194304	Value	ValueOutput
+Ch1 Trig Probability Var7	0	4194304	Value	ValueOutput
+Ch2 Trig Probability Var7	0	4194304	Value	ValueOutput
+Ch3 Trig Probability Var7	0	4194304	Value	ValueOutput
+Ch4 Trig Probability Var7	0	4194304	Value	ValueOutput
+Ch5 Trig Probability Var7	0	4194304	Value	ValueOutput
+Ch6 Trig Probability Var7	0	4194304	Value	ValueOutput
+Ch7 Trig Probability Var7	0	4194304	Value	ValueOutput
+Ch8 Trig Probability Var7	0	4194304	Value	ValueOutput
+Ch1 Velocity Var7	0	4194304	Value	ValueOutput
+Ch2 Velocity Var7	0	4194304	Value	ValueOutput
+Ch3 Velocity Var7	0	4194304	Value	ValueOutput
+Ch4 Velocity Var7	0	4194304	Value	ValueOutput
+Ch5 Velocity Var7	0	4194304	Value	ValueOutput
+Ch6 Velocity Var7	0	4194304	Value	ValueOutput
+Ch7 Velocity Var7	0	4194304	Value	ValueOutput
+Ch8 Velocity Var7	0	4194304	Value	ValueOutput
+Sequencer Steps Var8	0	32	Value	ValueOutput
+Step Offset Var8	0	14	Value	ValueOutput
+Sequencer Rate Var8	0	9	Value	ValueOutput
+Density Var8	0	4	Value	ValueOutput
+Global Trigger Probability Var8	0	4194304	Value	ValueOutput
+Ch1 Trig Probability Var8	0	4194304	Value	ValueOutput
+Ch2 Trig Probability Var8	0	4194304	Value	ValueOutput
+Ch3 Trig Probability Var8	0	4194304	Value	ValueOutput
+Ch4 Trig Probability Var8	0	4194304	Value	ValueOutput
+Ch5 Trig Probability Var8	0	4194304	Value	ValueOutput
+Ch6 Trig Probability Var8	0	4194304	Value	ValueOutput
+Ch7 Trig Probability Var8	0	4194304	Value	ValueOutput
+Ch8 Trig Probability Var8	0	4194304	Value	ValueOutput
+Ch1 Velocity Var8	0	4194304	Value	ValueOutput
+Ch2 Velocity Var8	0	4194304	Value	ValueOutput
+Ch3 Velocity Var8	0	4194304	Value	ValueOutput
+Ch4 Velocity Var8	0	4194304	Value	ValueOutput
+Ch5 Velocity Var8	0	4194304	Value	ValueOutput
+Ch6 Velocity Var8	0	4194304	Value	ValueOutput
+Ch7 Velocity Var8	0	4194304	Value	ValueOutput
+Ch8 Velocity Var8	0	4194304	Value	ValueOutput
+OnOff	0	1	Toggle	ValueOutput
+Variation	0	7	Value	ValueOutput
+Swing Var1	0	5	Value	ValueOutput
+Swing Var2	0	5	Value	ValueOutput
+Swing Var3	0	5	Value	ValueOutput
+Swing Var4	0	5	Value	ValueOutput
+Swing Var5	0	5	Value	ValueOutput
+Swing Var6	0	5	Value	ValueOutput
+Swing Var7	0	5	Value	ValueOutput
+Swing Var8	0	5	Value	ValueOutput
+X Morph Var1	0	4194304	Value	ValueOutput
+X Morph Var2	0	4194304	Value	ValueOutput
+X Morph Var3	0	4194304	Value	ValueOutput
+X Morph Var4	0	4194304	Value	ValueOutput
+X Morph Var5	0	4194304	Value	ValueOutput
+X Morph Var6	0	4194304	Value	ValueOutput
+X Morph Var7	0	4194304	Value	ValueOutput
+X Morph Var8	0	4194304	Value	ValueOutput
+Y Morph Var1	0	4194304	Value	ValueOutput
+Y Morph Var2	0	4194304	Value	ValueOutput
+Y Morph Var3	0	4194304	Value	ValueOutput
+Y Morph Var4	0	4194304	Value	ValueOutput
+Y Morph Var5	0	4194304	Value	ValueOutput
+Y Morph Var6	0	4194304	Value	ValueOutput
+Y Morph Var7	0	4194304	Value	ValueOutput
+Y Morph Var8	0	4194304	Value	ValueOutput
+Z Morph Var1	0	4194304	Value	ValueOutput
+Z Morph Var2	0	4194304	Value	ValueOutput
+Z Morph Var3	0	4194304	Value	ValueOutput
+Z Morph Var4	0	4194304	Value	ValueOutput
+Z Morph Var5	0	4194304	Value	ValueOutput
+Z Morph Var6	0	4194304	Value	ValueOutput
+Z Morph Var7	0	4194304	Value	ValueOutput
+Z Morph Var8	0	4194304	Value	ValueOutput
+Ch1 Velocity Variation Var1	0	4194304	Value	ValueOutput
+Ch1 Velocity Variation Var2	0	4194304	Value	ValueOutput
+Ch1 Velocity Variation Var3	0	4194304	Value	ValueOutput
+Ch1 Velocity Variation Var4	0	4194304	Value	ValueOutput
+Ch1 Velocity Variation Var5	0	4194304	Value	ValueOutput
+Ch1 Velocity Variation Var6	0	4194304	Value	ValueOutput
+Ch1 Velocity Variation Var7	0	4194304	Value	ValueOutput
+Ch1 Velocity Variation Var8	0	4194304	Value	ValueOutput
+Ch2 Velocity Variation Var1	0	4194304	Value	ValueOutput
+Ch2 Velocity Variation Var2	0	4194304	Value	ValueOutput
+Ch2 Velocity Variation Var3	0	4194304	Value	ValueOutput
+Ch2 Velocity Variation Var4	0	4194304	Value	ValueOutput
+Ch2 Velocity Variation Var5	0	4194304	Value	ValueOutput
+Ch2 Velocity Variation Var6	0	4194304	Value	ValueOutput
+Ch2 Velocity Variation Var7	0	4194304	Value	ValueOutput
+Ch2 Velocity Variation Var8	0	4194304	Value	ValueOutput
+Ch3 Velocity Variation Var1	0	4194304	Value	ValueOutput
+Ch3 Velocity Variation Var2	0	4194304	Value	ValueOutput
+Ch3 Velocity Variation Var3	0	4194304	Value	ValueOutput
+Ch3 Velocity Variation Var4	0	4194304	Value	ValueOutput
+Ch3 Velocity Variation Var5	0	4194304	Value	ValueOutput
+Ch3 Velocity Variation Var6	0	4194304	Value	ValueOutput
+Ch3 Velocity Variation Var7	0	4194304	Value	ValueOutput
+Ch3 Velocity Variation Var8	0	4194304	Value	ValueOutput
+Ch4 Velocity Variation Var1	0	4194304	Value	ValueOutput
+Ch4 Velocity Variation Var2	0	4194304	Value	ValueOutput
+Ch4 Velocity Variation Var3	0	4194304	Value	ValueOutput
+Ch4 Velocity Variation Var4	0	4194304	Value	ValueOutput
+Ch4 Velocity Variation Var5	0	4194304	Value	ValueOutput
+Ch4 Velocity Variation Var6	0	4194304	Value	ValueOutput
+Ch4 Velocity Variation Var7	0	4194304	Value	ValueOutput
+Ch4 Velocity Variation Var8	0	4194304	Value	ValueOutput
+Ch5 Velocity Variation Var1	0	4194304	Value	ValueOutput
+Ch5 Velocity Variation Var2	0	4194304	Value	ValueOutput
+Ch5 Velocity Variation Var3	0	4194304	Value	ValueOutput
+Ch5 Velocity Variation Var4	0	4194304	Value	ValueOutput
+Ch5 Velocity Variation Var5	0	4194304	Value	ValueOutput
+Ch5 Velocity Variation Var6	0	4194304	Value	ValueOutput
+Ch5 Velocity Variation Var7	0	4194304	Value	ValueOutput
+Ch5 Velocity Variation Var8	0	4194304	Value	ValueOutput
+Ch6 Velocity Variation Var1	0	4194304	Value	ValueOutput
+Ch6 Velocity Variation Var2	0	4194304	Value	ValueOutput
+Ch6 Velocity Variation Var3	0	4194304	Value	ValueOutput
+Ch6 Velocity Variation Var4	0	4194304	Value	ValueOutput
+Ch6 Velocity Variation Var5	0	4194304	Value	ValueOutput
+Ch6 Velocity Variation Var6	0	4194304	Value	ValueOutput
+Ch6 Velocity Variation Var7	0	4194304	Value	ValueOutput
+Ch6 Velocity Variation Var8	0	4194304	Value	ValueOutput
+Ch7 Velocity Variation Var1	0	4194304	Value	ValueOutput
+Ch7 Velocity Variation Var2	0	4194304	Value	ValueOutput
+Ch7 Velocity Variation Var3	0	4194304	Value	ValueOutput
+Ch7 Velocity Variation Var4	0	4194304	Value	ValueOutput
+Ch7 Velocity Variation Var5	0	4194304	Value	ValueOutput
+Ch7 Velocity Variation Var6	0	4194304	Value	ValueOutput
+Ch7 Velocity Variation Var7	0	4194304	Value	ValueOutput
+Ch7 Velocity Variation Var8	0	4194304	Value	ValueOutput
+Ch8 Velocity Variation Var1	0	4194304	Value	ValueOutput
+Ch8 Velocity Variation Var2	0	4194304	Value	ValueOutput
+Ch8 Velocity Variation Var3	0	4194304	Value	ValueOutput
+Ch8 Velocity Variation Var4	0	4194304	Value	ValueOutput
+Ch8 Velocity Variation Var5	0	4194304	Value	ValueOutput
+Ch8 Velocity Variation Var6	0	4194304	Value	ValueOutput
+Ch8 Velocity Variation Var7	0	4194304	Value	ValueOutput
+Ch8 Velocity Variation Var8	0	4194304	Value	ValueOutput
+Live Cell Color Var1	0	13	Value	ValueOutput
+Live Cell Color Var2	0	13	Value	ValueOutput
+Live Cell Color Var3	0	13	Value	ValueOutput
+Live Cell Color Var4	0	13	Value	ValueOutput
+Live Cell Color Var5	0	13	Value	ValueOutput
+Live Cell Color Var6	0	13	Value	ValueOutput
+Live Cell Color Var7	0	13	Value	ValueOutput
+Live Cell Color Var8	0	13	Value	ValueOutput
+Output Mode Var1	0	1	Toggle	ValueOutput
+Output Mode Var2	0	1	Toggle	ValueOutput
+Output Mode Var3	0	1	Toggle	ValueOutput
+Output Mode Var4	0	1	Toggle	ValueOutput
+Output Mode Var5	0	1	Toggle	ValueOutput
+Output Mode Var6	0	1	Toggle	ValueOutput
+Output Mode Var7	0	1	Toggle	ValueOutput
+Output Mode Var8	0	1	Toggle	ValueOutput
+Ch1 Note Out Var1	0	127	Value	ValueOutput
+Ch1 Note Out Var2	0	127	Value	ValueOutput
+Ch1 Note Out Var3	0	127	Value	ValueOutput
+Ch1 Note Out Var4	0	127	Value	ValueOutput
+Ch1 Note Out Var5	0	127	Value	ValueOutput
+Ch1 Note Out Var6	0	127	Value	ValueOutput
+Ch1 Note Out Var7	0	127	Value	ValueOutput
+Ch1 Note Out Var8	0	127	Value	ValueOutput
+Ch2 Note Out Var1	0	127	Value	ValueOutput
+Ch2 Note Out Var2	0	127	Value	ValueOutput
+Ch2 Note Out Var3	0	127	Value	ValueOutput
+Ch2 Note Out Var4	0	127	Value	ValueOutput
+Ch2 Note Out Var5	0	127	Value	ValueOutput
+Ch2 Note Out Var6	0	127	Value	ValueOutput
+Ch2 Note Out Var7	0	127	Value	ValueOutput
+Ch2 Note Out Var8	0	127	Value	ValueOutput
+Ch3 Note Out Var1	0	127	Value	ValueOutput
+Ch3 Note Out Var2	0	127	Value	ValueOutput
+Ch3 Note Out Var3	0	127	Value	ValueOutput
+Ch3 Note Out Var4	0	127	Value	ValueOutput
+Ch3 Note Out Var5	0	127	Value	ValueOutput
+Ch3 Note Out Var6	0	127	Value	ValueOutput
+Ch3 Note Out Var7	0	127	Value	ValueOutput
+Ch3 Note Out Var8	0	127	Value	ValueOutput
+Ch4 Note Out Var1	0	127	Value	ValueOutput
+Ch4 Note Out Var2	0	127	Value	ValueOutput
+Ch4 Note Out Var3	0	127	Value	ValueOutput
+Ch4 Note Out Var4	0	127	Value	ValueOutput
+Ch4 Note Out Var5	0	127	Value	ValueOutput
+Ch4 Note Out Var6	0	127	Value	ValueOutput
+Ch4 Note Out Var7	0	127	Value	ValueOutput
+Ch4 Note Out Var8	0	127	Value	ValueOutput
+Ch5 Note Out Var1	0	127	Value	ValueOutput
+Ch5 Note Out Var2	0	127	Value	ValueOutput
+Ch5 Note Out Var3	0	127	Value	ValueOutput
+Ch5 Note Out Var4	0	127	Value	ValueOutput
+Ch5 Note Out Var5	0	127	Value	ValueOutput
+Ch5 Note Out Var6	0	127	Value	ValueOutput
+Ch5 Note Out Var7	0	127	Value	ValueOutput
+Ch5 Note Out Var8	0	127	Value	ValueOutput
+Ch6 Note Out Var1	0	127	Value	ValueOutput
+Ch6 Note Out Var2	0	127	Value	ValueOutput
+Ch6 Note Out Var3	0	127	Value	ValueOutput
+Ch6 Note Out Var4	0	127	Value	ValueOutput
+Ch6 Note Out Var5	0	127	Value	ValueOutput
+Ch6 Note Out Var6	0	127	Value	ValueOutput
+Ch6 Note Out Var7	0	127	Value	ValueOutput
+Ch6 Note Out Var8	0	127	Value	ValueOutput
+Ch7 Note Out Var1	0	127	Value	ValueOutput
+Ch7 Note Out Var2	0	127	Value	ValueOutput
+Ch7 Note Out Var3	0	127	Value	ValueOutput
+Ch7 Note Out Var4	0	127	Value	ValueOutput
+Ch7 Note Out Var5	0	127	Value	ValueOutput
+Ch7 Note Out Var6	0	127	Value	ValueOutput
+Ch7 Note Out Var7	0	127	Value	ValueOutput
+Ch7 Note Out Var8	0	127	Value	ValueOutput
+Ch8 Note Out Var1	0	127	Value	ValueOutput
+Ch8 Note Out Var2	0	127	Value	ValueOutput
+Ch8 Note Out Var3	0	127	Value	ValueOutput
+Ch8 Note Out Var4	0	127	Value	ValueOutput
+Ch8 Note Out Var5	0	127	Value	ValueOutput
+Ch8 Note Out Var6	0	127	Value	ValueOutput
+Ch8 Note Out Var7	0	127	Value	ValueOutput
+Ch8 Note Out Var8	0	127	Value	ValueOutput
+External MIDI Mode	0	1	Toggle	ValueOutput
+Note Order	0	3	Value	ValueOutput
+Step Number Readout	0	9998	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

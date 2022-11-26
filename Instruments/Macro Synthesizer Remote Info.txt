@@ -1,0 +1,32 @@
+Scope
+Manufacturer	Model
+Presteign Sound Labs	com.presteign.Macro
+
+Remotable	Min	Max	Input type	Output type
+Engine	0	15	Value	ValueOutput
+Octave	0	6	Value	ValueOutput
+Semi	0	12	Value	ValueOutput
+Cent	0	100	Value	ValueOutput
+Engine A	0	4194304	Value	ValueOutput
+Engine B	0	4194304	Value	ValueOutput
+Engine C	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Filter	0	4194304	Value	ValueOutput
+Attack/Transient	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Velocity Amp	0	4194304	Value	ValueOutput
+Velocity Gen B	0	4194304	Value	ValueOutput
+Velocity Gen C	0	4194304	Value	ValueOutput
+Env Engine Gen A	0	4194304	Value	ValueOutput
+Env Engine Gen B	0	4194304	Value	ValueOutput
+Env Engine Gen C	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Mod Wheel Gen A	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

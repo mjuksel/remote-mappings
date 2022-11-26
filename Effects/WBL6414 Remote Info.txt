@@ -1,0 +1,60 @@
+Scope
+Manufacturer	Model
+omino	com.omino.Wbl6414
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Bank A Tap 1 Delay 16ths	0	64	Value	ValueOutput
+Bank A Tap 1 Pan	0	4194304	Value	ValueOutput
+Bank A Tap 1 Level	0	4194304	Value	ValueOutput
+Bank A Tap 2 Delay 16ths	0	64	Value	ValueOutput
+Bank A Tap 2 Pan	0	4194304	Value	ValueOutput
+Bank A Tap 2 Level	0	4194304	Value	ValueOutput
+Bank A Tap 3 Delay 16ths	0	64	Value	ValueOutput
+Bank A Tap 3 Pan	0	4194304	Value	ValueOutput
+Bank A Tap 3 Level	0	4194304	Value	ValueOutput
+Bank A Tap 4 Delay 16ths	0	64	Value	ValueOutput
+Bank A Tap 4 Pan	0	4194304	Value	ValueOutput
+Bank A Tap 4 Level	0	4194304	Value	ValueOutput
+Bank B Tap 1 Delay 16ths	0	64	Value	ValueOutput
+Bank B Tap 1 Pan	0	4194304	Value	ValueOutput
+Bank B Tap 1 Level	0	4194304	Value	ValueOutput
+Bank B Tap 2 Delay 16ths	0	64	Value	ValueOutput
+Bank B Tap 2 Pan	0	4194304	Value	ValueOutput
+Bank B Tap 2 Level	0	4194304	Value	ValueOutput
+Bank B Tap 3 Delay 16ths	0	64	Value	ValueOutput
+Bank B Tap 3 Pan	0	4194304	Value	ValueOutput
+Bank B Tap 3 Level	0	4194304	Value	ValueOutput
+Bank B Tap 4 Delay 16ths	0	64	Value	ValueOutput
+Bank B Tap 4 Pan	0	4194304	Value	ValueOutput
+Bank B Tap 4 Level	0	4194304	Value	ValueOutput
+Bank C Tap 1 Delay 16ths	0	64	Value	ValueOutput
+Bank C Tap 1 Pan	0	4194304	Value	ValueOutput
+Bank C Tap 1 Level	0	4194304	Value	ValueOutput
+Bank C Tap 2 Delay 16ths	0	64	Value	ValueOutput
+Bank C Tap 2 Pan	0	4194304	Value	ValueOutput
+Bank C Tap 2 Level	0	4194304	Value	ValueOutput
+Bank C Tap 3 Delay 16ths	0	64	Value	ValueOutput
+Bank C Tap 3 Pan	0	4194304	Value	ValueOutput
+Bank C Tap 3 Level	0	4194304	Value	ValueOutput
+Bank C Tap 4 Delay 16ths	0	64	Value	ValueOutput
+Bank C Tap 4 Pan	0	4194304	Value	ValueOutput
+Bank C Tap 4 Level	0	4194304	Value	ValueOutput
+Bank D Tap 1 Delay 16ths	0	64	Value	ValueOutput
+Bank D Tap 1 Pan	0	4194304	Value	ValueOutput
+Bank D Tap 1 Level	0	4194304	Value	ValueOutput
+Bank D Tap 2 Delay 16ths	0	64	Value	ValueOutput
+Bank D Tap 2 Pan	0	4194304	Value	ValueOutput
+Bank D Tap 2 Level	0	4194304	Value	ValueOutput
+Bank D Tap 3 Delay 16ths	0	64	Value	ValueOutput
+Bank D Tap 3 Pan	0	4194304	Value	ValueOutput
+Bank D Tap 3 Level	0	4194304	Value	ValueOutput
+Bank D Tap 4 Delay 16ths	0	64	Value	ValueOutput
+Bank D Tap 4 Pan	0	4194304	Value	ValueOutput
+Bank D Tap 4 Level	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,46 @@
+Scope
+Manufacturer	Model
+Red Rock Sound	ru.redrocksound.RE302
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Band1	0	4194304	Value	ValueOutput
+Band2	0	4194304	Value	ValueOutput
+Band3	0	4194304	Value	ValueOutput
+Band4	0	4194304	Value	ValueOutput
+Band5	0	4194304	Value	ValueOutput
+Band6	0	4194304	Value	ValueOutput
+Band7	0	4194304	Value	ValueOutput
+Band8	0	4194304	Value	ValueOutput
+Band9	0	4194304	Value	ValueOutput
+Band10	0	4194304	Value	ValueOutput
+Band11	0	4194304	Value	ValueOutput
+Band12	0	4194304	Value	ValueOutput
+Band13	0	4194304	Value	ValueOutput
+Band14	0	4194304	Value	ValueOutput
+Band15	0	4194304	Value	ValueOutput
+Band16	0	4194304	Value	ValueOutput
+Band17	0	4194304	Value	ValueOutput
+Band18	0	4194304	Value	ValueOutput
+Band19	0	4194304	Value	ValueOutput
+Band20	0	4194304	Value	ValueOutput
+Band21	0	4194304	Value	ValueOutput
+Band22	0	4194304	Value	ValueOutput
+Band23	0	4194304	Value	ValueOutput
+Band24	0	4194304	Value	ValueOutput
+Band25	0	4194304	Value	ValueOutput
+Band26	0	4194304	Value	ValueOutput
+Band27	0	4194304	Value	ValueOutput
+Band28	0	4194304	Value	ValueOutput
+Band29	0	4194304	Value	ValueOutput
+Band30	0	4194304	Value	ValueOutput
+Band31	0	4194304	Value	ValueOutput
+Band32	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Scale	0	1	Toggle	ValueOutput
+HPF	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

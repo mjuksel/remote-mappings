@@ -1,0 +1,173 @@
+Scope
+Manufacturer	Model
+Zvork	fr.zvork.LeSpace
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Echo 1 Decay Time Offset 1	0	4194304	Value	ValueOutput
+Echo 1 Feedback Destination 1	0	5	Value	ValueOutput
+Echo 1 Level 1	0	4194304	Value	ValueOutput
+Echo 1 Pan 1	0	4194304	Value	ValueOutput
+Echo 1 Input 1	0	3	Value	ValueOutput
+Echo 1 Delay Length 1	0	15	Value	ValueOutput
+Echo 1 Delay Length 1 - Fine	0	4194304	Value	ValueOutput
+Echo 1 Diffusion Offset 1	0	4194304	Value	ValueOutput
+Echo 1 Tone Offset 1	0	4194304	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 1	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 2	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 3	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 4	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 5	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 6	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 7	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 8	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 9	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 10	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 11	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 12	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 13	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 14	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 15	0	2	Value	ValueOutput
+Echo 1 Pre-Delay 1 Tap 16	0	2	Value	ValueOutput
+Echo 2 Decay Time Offset 2	0	4194304	Value	ValueOutput
+Echo 2 Feedback Destination 2	0	5	Value	ValueOutput
+Echo 2 Level 2	0	4194304	Value	ValueOutput
+Echo 2 Pan 2	0	4194304	Value	ValueOutput
+Echo 2 Input 2	0	3	Value	ValueOutput
+Echo 2 Delay Length 2	0	15	Value	ValueOutput
+Echo 2 Delay Length 2 - Fine	0	4194304	Value	ValueOutput
+Echo 2 Diffusion Offset 2	0	4194304	Value	ValueOutput
+Echo 2 Tone Offset 2	0	4194304	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 1	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 2	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 3	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 4	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 5	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 6	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 7	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 8	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 9	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 10	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 11	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 12	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 13	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 14	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 15	0	2	Value	ValueOutput
+Echo 2 Pre-Delay 2 Tap 16	0	2	Value	ValueOutput
+Echo 3 Decay Time Offset 3	0	4194304	Value	ValueOutput
+Echo 3 Feedback Destination 3	0	5	Value	ValueOutput
+Echo 3 Level 3	0	4194304	Value	ValueOutput
+Echo 3 Pan 3	0	4194304	Value	ValueOutput
+Echo 3 Input 3	0	3	Value	ValueOutput
+Echo 3 Delay Length 3	0	15	Value	ValueOutput
+Echo 3 Delay Length 3 - Fine	0	4194304	Value	ValueOutput
+Echo 3 Diffusion Offset 3	0	4194304	Value	ValueOutput
+Echo 3 Tone Offset 3	0	4194304	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 1	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 2	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 3	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 4	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 5	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 6	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 7	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 8	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 9	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 10	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 11	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 12	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 13	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 14	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 15	0	2	Value	ValueOutput
+Echo 3 Pre-Delay 3 Tap 16	0	2	Value	ValueOutput
+Echo 4 Decay Time Offset 4	0	4194304	Value	ValueOutput
+Echo 4 Feedback Destination 4	0	5	Value	ValueOutput
+Echo 4 Level 4	0	4194304	Value	ValueOutput
+Echo 4 Pan 4	0	4194304	Value	ValueOutput
+Echo 4 Input 4	0	3	Value	ValueOutput
+Echo 4 Delay Length 4	0	15	Value	ValueOutput
+Echo 4 Delay Length 4 - Fine	0	4194304	Value	ValueOutput
+Echo 4 Diffusion Offset 4	0	4194304	Value	ValueOutput
+Echo 4 Tone Offset 4	0	4194304	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 1	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 2	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 3	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 4	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 5	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 6	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 7	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 8	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 9	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 10	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 11	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 12	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 13	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 14	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 15	0	2	Value	ValueOutput
+Echo 4 Pre-Delay 4 Tap 16	0	2	Value	ValueOutput
+Echo 5 Decay Time Offset 5	0	4194304	Value	ValueOutput
+Echo 5 Feedback Destination 5	0	5	Value	ValueOutput
+Echo 5 Level 5	0	4194304	Value	ValueOutput
+Echo 5 Pan 5	0	4194304	Value	ValueOutput
+Echo 5 Input 5	0	3	Value	ValueOutput
+Echo 5 Delay Length 5	0	15	Value	ValueOutput
+Echo 5 Delay Length 5 - Fine	0	4194304	Value	ValueOutput
+Echo 5 Diffusion Offset 5	0	4194304	Value	ValueOutput
+Echo 5 Tone Offset 5	0	4194304	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 1	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 2	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 3	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 4	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 5	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 6	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 7	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 8	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 9	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 10	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 11	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 12	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 13	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 14	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 15	0	2	Value	ValueOutput
+Echo 5 Pre-Delay 5 Tap 16	0	2	Value	ValueOutput
+Echo 6 Decay Time Offset 6	0	4194304	Value	ValueOutput
+Echo 6 Feedback Destination 6	0	5	Value	ValueOutput
+Echo 6 Level 6	0	4194304	Value	ValueOutput
+Echo 6 Pan 6	0	4194304	Value	ValueOutput
+Echo 6 Input 6	0	3	Value	ValueOutput
+Echo 6 Delay Length 6	0	15	Value	ValueOutput
+Echo 6 Delay Length 6 - Fine	0	4194304	Value	ValueOutput
+Echo 6 Diffusion Offset 6	0	4194304	Value	ValueOutput
+Echo 6 Tone Offset 6	0	4194304	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 1	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 2	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 3	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 4	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 5	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 6	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 7	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 8	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 9	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 10	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 11	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 12	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 13	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 14	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 15	0	2	Value	ValueOutput
+Echo 6 Pre-Delay 6 Tap 16	0	2	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Dry/Wet Mix	0	4194304	Value	ValueOutput
+Decay Time	0	4194304	Value	ValueOutput
+Delay Unit - Note	0	7	Value	ValueOutput
+Delay Unit - Time	0	4194304	Value	ValueOutput
+Lock Delay Unit to Tempo	0	1	Toggle	ValueOutput
+Diffusion	0	4194304	Value	ValueOutput
+Tone	0	4194304	Value	ValueOutput
+Tone Bandwidth	0	4194304	Value	ValueOutput
+Modulation Rate	0	4194304	Value	ValueOutput
+Modulation Rate Spread	0	4194304	Value	ValueOutput
+Modulation Level	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

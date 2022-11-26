@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+Speo	com.speomusic.StriveCF
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Wave	0	4194304	Value	ValueOutput
+Shift	0	4194304	Value	ValueOutput
+Squeeze	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Count	0	3	Value	ValueOutput
+Peaks	0	1	Toggle	ValueOutput
+Slope	0	3	Value	ValueOutput
+Band 1 Offset	0	4194304	Value	ValueOutput
+Band 2 Offset	0	4194304	Value	ValueOutput
+Band 3 Offset	0	4194304	Value	ValueOutput
+Band 4 Offset	0	4194304	Value	ValueOutput
+Band 5 Offset	0	4194304	Value	ValueOutput
+Band 6 Offset	0	4194304	Value	ValueOutput
+Band 7 Offset	0	4194304	Value	ValueOutput
+Band 8 Offset	0	4194304	Value	ValueOutput
+Level	0	4194304	Value	ValueOutput
+Shift Stereo Offset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Record Sample	0	0	Trig	TextOutput

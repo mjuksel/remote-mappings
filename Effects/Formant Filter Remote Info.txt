@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+kiloHearts	com.kilohearts.FormantFilter
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+X	0	4194304	Value	ValueOutput
+Y	0	4194304	Value	ValueOutput
+Q	0	4194304	Value	ValueOutput
+Lows	0	1	Toggle	ValueOutput
+Highs	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

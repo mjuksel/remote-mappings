@@ -1,0 +1,63 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.Mutator
+
+Remotable	Min	Max	Input type	Output type
+MIDI Transpose	0	1	Toggle	ValueOutput
+MIDI Velocity	0	1	Toggle	ValueOutput
+Manual Transpose Amount	0	48	Value	ValueOutput
+Playback Mode	0	2	Value	ValueOutput
+Listen Mode	0	1	Toggle	ValueOutput
+Pattern 1 Rate	0	10	Value	ValueOutput
+Pattern 2 Rate	0	10	Value	ValueOutput
+Pattern 3 Rate	0	10	Value	ValueOutput
+Pattern 4 Rate	0	10	Value	ValueOutput
+Pattern 5 Rate	0	10	Value	ValueOutput
+Pattern 6 Rate	0	10	Value	ValueOutput
+Pattern 7 Rate	0	10	Value	ValueOutput
+Pattern 8 Rate	0	10	Value	ValueOutput
+Mutation Rate	0	10	Value	ValueOutput
+Pattern 1 Shuffle	0	128	Value	ValueOutput
+Pattern 2 Shuffle	0	128	Value	ValueOutput
+Pattern 3 Shuffle	0	128	Value	ValueOutput
+Pattern 4 Shuffle	0	128	Value	ValueOutput
+Pattern 5 Shuffle	0	128	Value	ValueOutput
+Pattern 6 Shuffle	0	128	Value	ValueOutput
+Pattern 7 Shuffle	0	128	Value	ValueOutput
+Pattern 8 Shuffle	0	128	Value	ValueOutput
+Mutation Shuffle	0	128	Value	ValueOutput
+Pattern 1 Length	0	128	Value	ValueOutput
+Pattern 2 Length	0	128	Value	ValueOutput
+Pattern 3 Length	0	128	Value	ValueOutput
+Pattern 4 Length	0	128	Value	ValueOutput
+Pattern 5 Length	0	128	Value	ValueOutput
+Pattern 6 Length	0	128	Value	ValueOutput
+Pattern 7 Length	0	128	Value	ValueOutput
+Pattern 8 Length	0	128	Value	ValueOutput
+Mutation Length	0	128	Value	ValueOutput
+Pattern 1 Gate Length	0	4194304	Value	ValueOutput
+Pattern 2 Gate Length	0	4194304	Value	ValueOutput
+Pattern 3 Gate Length	0	4194304	Value	ValueOutput
+Pattern 4 Gate Length	0	4194304	Value	ValueOutput
+Pattern 5 Gate Length	0	4194304	Value	ValueOutput
+Pattern 6 Gate Length	0	4194304	Value	ValueOutput
+Pattern 7 Gate Length	0	4194304	Value	ValueOutput
+Pattern 8 Gate Length	0	4194304	Value	ValueOutput
+Mutation Gate Length	0	4194304	Value	ValueOutput
+On	0	1	Toggle	ValueOutput
+Pattern Recording Length	0	128	Value	ValueOutput
+Tie	0	1	Toggle	ValueOutput
+Delete	0	1	Toggle	ValueOutput
+Rest	0	1	Toggle	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Octave/Pitch Mutate Amount	0	4194304	Value	ValueOutput
+Velocity (Accent) Mutate Amount	0	4194304	Value	ValueOutput
+Swap Mutate Amount	0	4194304	Value	ValueOutput
+Density Mutate Amount	0	4194304	Value	ValueOutput
+Note Length Mutate Amount	0	4194304	Value	ValueOutput
+Pattern Select	-1	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

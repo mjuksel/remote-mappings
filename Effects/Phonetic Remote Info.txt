@@ -1,0 +1,27 @@
+Scope
+Manufacturer	Model
+LoveOne	se.loveone.Bakelite
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Mic Type	0	1	Toggle	ValueOutput
+Mic Noise	0	4194304	Value	ValueOutput
+Mic Noise Character	0	4194304	Value	ValueOutput
+Mic Drive	0	4194304	Value	ValueOutput
+Mic Nonlinearity	0	4194304	Value	ValueOutput
+Line Noise Type	0	2	Value	ValueOutput
+Line Noise	0	4194304	Value	ValueOutput
+Line Noise Bandwidth	0	4194304	Value	ValueOutput
+Line Noise Center Frequency	0	4194304	Value	ValueOutput
+Hum	0	4194304	Value	ValueOutput
+Hum Pitch	0	4194304	Value	ValueOutput
+Speaker Character	0	4194304	Value	ValueOutput
+Amplitude Modulation	0	4194304	Value	ValueOutput
+Amplitude Modulation Frequency	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+DryWet	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

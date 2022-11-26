@@ -1,0 +1,42 @@
+Scope
+Manufacturer	Model
+SKP Sound Design	com.skepticalproductions.Aura7
+
+Remotable	Min	Max	Input type	Output type
+Waveform	0	44	Value	ValueOutput
+Sample Start	0	4194304	Value	ValueOutput
+{Pitch	0	4194304	Value	ValueOutput
+Frequency Shift	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Filter Mode	0	3	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Low Gain	0	4194304	Value	ValueOutput
+High Gain	0	4194304	Value	ValueOutput
+Amp Mode	0	2	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Level	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Delay Mode	0	3	Value	ValueOutput
+Delay Rate	0	10	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Damping	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Reverb Mode	0	4	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Master_Volume	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
