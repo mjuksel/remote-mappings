@@ -15,9 +15,11 @@ Combinator Remote Info (pre Reason12).txt
 Combinator Remote Info.txt
 CV Breakout Box Remote Info.txt
 CV Merger Remote Info.txt
+CV Multi Remote Info.txt
 CV Origami Remote Info.txt
 CV Pad Remote Info.txt
 CV Pistons Remote Info.txt
+CV Pulse Holder Remote Info.txt
 CV Ranger Remote Info.txt
 CV Shades Remote Info.txt
 CV Splitter Remote Info.txt
@@ -29,6 +31,7 @@ CV-O CV to Audio Remote Info.txt
 CV8X4 CV Generator Remote Info.txt
 CVA-7 CV Analyzer Remote Info.txt
 DEG-2 Dual Envelope Remote Info.txt
+DR4 Drum Trigger Remote Info.txt
 DVC-1 Digital Volta Remote Info.txt
 Elements DS-LFO Remote Info.txt
 Equation Junior Remote Info.txt
@@ -42,12 +45,14 @@ LPCV Remote Info.txt
 LPM Remote Info.txt
 MatchMaker CV In_Out Remote Info.txt
 Matrix Remote Info.txt
+MeasureLoudnessMeter Remote Info.txt
 Mesher-4B CV Buttons Remote Info.txt
 Mesher-4K CV Knobs Remote Info.txt
 Mesher-8B CV Buttons Remote Info.txt
 Mesher-8K CV Knobs Remote Info.txt
 Metro Click-Machine Remote Info.txt
 Mingler Latest CV Remote Info.txt
+MiniNormalizer Remote Info.txt
 Miranda Remote Info.txt
 Mix Channel Remote Info.txt
 MODRACK ADSR Remote Info.txt
@@ -73,6 +78,7 @@ PSYH - MultiSplitter Remote Info.txt
 Pulsar Remote Info.txt
 RE 180 DD Remote Info.txt
 RE 181 M_S AC Remote Info.txt
+RE 60 RTA Remote Info.txt
 Reference 5 Remote Info.txt
 ReGain Remote Info.txt
 ReMark Remote Info.txt

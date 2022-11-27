@@ -4,6 +4,7 @@
 Alligator Remote Info.txt
 Animus Shimmerverb Remote Info.txt
 Audiomatic Remote Info.txt
+Bitcrush Remote Info.txt
 Bitspeek Remote Info.txt
 Black Knight EQ Remote Info.txt
 BlueDepth EpicVerb Remote Info.txt
@@ -16,7 +17,9 @@ Chenille BBD Chorus Remote Info.txt
 Chorus Remote Info.txt
 Chorus_Flanger Remote Info.txt
 Classic Filter Remote Info.txt
+Comb Filter Remote Info.txt
 COMP-01 Compressor Remote Info.txt
+Compressor Remote Info.txt
 CoreReLation Remote Info.txt
 CustomVibe Vibrato Remote Info.txt
 D-11 Dist Remote Info.txt
@@ -26,7 +29,9 @@ DCAM ChnCmp Remote Info.txt
 DCAM EnvShpe Remote Info.txt
 DDL-1 Delay Remote Info.txt
 Delay Remote Info.txt
+Disperser Remote Info.txt
 Distort Chain Remote Info.txt
+Distortion Remote Info.txt
 DYN-4 Remote Info.txt
 E670 Equalizer Remote Info.txt
 ECF-42 Filter Remote Info.txt
@@ -41,6 +46,8 @@ Faturator Remote Info.txt
 Filter Remote Info.txt
 Filter X1 Remote Info.txt
 FltPttrn Remote Info.txt
+Formant Filter Remote Info.txt
+Frequency Shifter Remote Info.txt
 FRG-4RE Compressor Remote Info.txt
 FRG-EEE Equalizer Remote Info.txt
 Fritz Remote Info.txt
@@ -48,15 +55,21 @@ FutzBox Remote Info.txt
 G8 Dynamic Gate Remote Info.txt
 Gain Remote Info.txt
 Gate Remote Info.txt
+GClip Clipper Remote Info.txt
 Ghammy Shifter Remote Info.txt
 Glitch Effect Remote Info.txt
+Haas Remote Info.txt
 HarmBode FreqShifter Remote Info.txt
+HLF-RE Filter Remote Info.txt
 Isolate-X FX Remote Info.txt
 Itsy Remote Info.txt
 Kratos 2 Maximizer Remote Info.txt
+Ladder Filter Remote Info.txt
+LeSpace Remote Info.txt
 Limiter Remote Info.txt
 Mark VIII Amplifier Remote Info.txt
 Master Compressor Remote Info.txt
+Mastering Clipper Remote Info.txt
 MBC Remote Info.txt
 MClass Compressor Remote Info.txt
 MClass Equalizer Remote Info.txt
@@ -75,17 +88,25 @@ PCM2612 Remote Info.txt
 PDelay Remote Info.txt
 PEQ-2 EQ Remote Info.txt
 PH-90 Phaser Remote Info.txt
+Phase Distortion Remote Info.txt
+Phaser Remote Info.txt
 PhaseTool Invertor Remote Info.txt
+Phonetic Remote Info.txt
 Pipeline Pressure Remote Info.txt
+Pitch Shifter Remote Info.txt
 Polar Remote Info.txt
 Pulveriser Remote Info.txt
 Pump Sidechain_Gate Remote Info.txt
 Quartet Remote Info.txt
 RE 200 BE Remote Info.txt
 RE 202 Exciter Remote Info.txt
+RE 302 GEQ Remote Info.txt
 Reasonator Remote Info.txt
 Resampler Remote Info.txt
+Resonator Remote Info.txt
 Reverb Remote Info.txt
+Reverser Remote Info.txt
+Ring Mod Remote Info.txt
 Rotor Remote Info.txt
 RPVerb Eff Remote Info.txt
 RS_RV Remote Info.txt
@@ -98,6 +119,7 @@ Selig Gain Remote Info.txt
 Selig Leveler Remote Info.txt
 SideChain ReAction Remote Info.txt
 Slicer Remote Info.txt
+SMFX Delay Remote Info.txt
 SMFX Dual Saturator Remote Info.txt
 SMFX Reverb Remote Info.txt
 Softube Amp Remote Info.txt
@@ -109,6 +131,7 @@ Softube TSAR-1R Remote Info.txt
 SPACEXPANDER Remote Info.txt
 Steerpike BBD Delay Remote Info.txt
 Stereo Remote Info.txt
+Strive Remote Info.txt
 Sweeper Remote Info.txt
 Synapse AF-4 Remote Info.txt
 Synapse AP-12 Remote Info.txt
@@ -122,11 +145,14 @@ Synapse RM-1 Remote Info.txt
 Synapse VE-3 Remote Info.txt
 Synchronous Remote Info.txt
 T2 Phaser Remote Info.txt
+Tape Stop Remote Info.txt
 Terminal Remote Info.txt
 The Echo Remote Info.txt
+Trance Gate Remote Info.txt
 Transient Shaper Remote Info.txt
 UN-16 Unison Remote Info.txt
 VAC-6 Remote Info.txt
 Vcdzr Remote Info.txt
 Villanelle Wah Remote Info.txt
 Waveshaper 2 Remote Info.txt
+WBL6414 Remote Info.txt

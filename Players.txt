@@ -3,6 +3,7 @@ Aggregate Remote Info.txt
 AutoLatch MIDI Gate Remote Info.txt
 Bassline Generator Remote Info.txt
 Beat Map Remote Info.txt
+Chord Sequencer Remote Info.txt
 Chordbank Remote Info.txt
 CV Player Tap Remote Info.txt
 Delta Remote Info.txt
@@ -15,6 +16,7 @@ Grid64P2 Player Remote Info.txt
 ID8 Remote Info.txt
 Inspiral Remote Info.txt
 Kompulsion Remote Info.txt
+Life Sequencer Remote Info.txt
 mDSQ Remote Info.txt
 Melodic Inverter Remote Info.txt
 MeloDramatik Remote Info.txt
@@ -25,6 +27,7 @@ Note Echo Remote Info.txt
 Note Filter Remote Info.txt
 Note Humanizer Remote Info.txt
 Note Latch Remote Info.txt
+Pattern Mutator Remote Info.txt
 PolyStep Sequencer Remote Info.txt
 Quad Note Generator Remote Info.txt
 Receive Notes Remote Info.txt

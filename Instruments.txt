@@ -6,6 +6,7 @@ Ammo 100LA Remote Info.txt
 Ammo 1200BR Remote Info.txt
 Antidote Remote Info.txt
 Attention Inst Remote Info.txt
+Aura-7 Remote Info.txt
 BIV Remote Info.txt
 BOOM 808 Perc Synth Remote Info.txt
 CIV Remote Info.txt
@@ -26,6 +27,7 @@ Iridium Synth Remote Info.txt
 Ivy CV Harmonizer Remote Info.txt
 Jackbox 7R-808 Remote Info.txt
 Jackbox 7R-909 Remote Info.txt
+kHs ONE Remote Info.txt
 Klang Remote Info.txt
 Kong Remote Info.txt
 L1MDrum Remote Info.txt
@@ -33,9 +35,11 @@ Layers Remote Info.txt
 Layers Wave Remote Info.txt
 Little LFO Remote Info.txt
 LIV Remote Info.txt
+Macro Synthesizer Remote Info.txt
 Malström Remote Info.txt
 MC-1 More Cowbell Remote Info.txt
 Mercury Poly Arp Remote Info.txt
+Meteora Rompler Remote Info.txt
 MIDI Out Device Remote Info.txt
 MidiTapper Key Ctrl Remote Info.txt
 Mimic Remote Info.txt
@@ -59,6 +63,8 @@ Newtrol-8 CV Board Remote Info.txt
 NN-XT Sampler Remote Info.txt
 NN19 Sampler Remote Info.txt
 Nostromo Synthesizer Remote Info.txt
+Noxious Remote Info.txt
+Oberon Remote Info.txt
 Obsession Remote Info.txt
 Orbis Synthesizer Remote Info.txt
 Pangea Remote Info.txt
@@ -79,6 +85,7 @@ Resonans Remote Info.txt
 ReSpire Synthesizer Remote Info.txt
 Rostnomo Synthesizer Remote Info.txt
 RS_CIV Remote Info.txt
+RS_LIV Remote Info.txt
 RS_SIV Remote Info.txt
 RS_VIV Remote Info.txt
 RYM2612 Remote Info.txt
