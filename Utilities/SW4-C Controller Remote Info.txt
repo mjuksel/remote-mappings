@@ -1,0 +1,33 @@
+Scope
+Manufacturer	Model
+Doodov Digital Design	com.doodov.SW4C
+
+Remotable	Min	Max	Input type	Output type
+Repeat 1	0	4194304	Value	ValueOutput
+Chance 1	0	4194304	Value	ValueOutput
+Momentary 1	0	1	Toggle	ValueOutput
+Toggle 1	0	1	Toggle	ValueOutput
+Repeat 2	0	4194304	Value	ValueOutput
+Chance 2	0	4194304	Value	ValueOutput
+Momentary 2	0	1	Toggle	ValueOutput
+Toggle 2	0	1	Toggle	ValueOutput
+Repeat 3	0	4194304	Value	ValueOutput
+Chance 3	0	4194304	Value	ValueOutput
+Momentary 3	0	1	Toggle	ValueOutput
+Toggle 3	0	1	Toggle	ValueOutput
+Repeat 4	0	4194304	Value	ValueOutput
+Chance 4	0	4194304	Value	ValueOutput
+Momentary 4	0	1	Toggle	ValueOutput
+Toggle 4	0	1	Toggle	ValueOutput
+Mode	0	1	Toggle	ValueOutput
+Pattern	0	1	Toggle	ValueOutput
+Gate	0	1	Toggle	ValueOutput
+Section Block	0	1	Toggle	ValueOutput
+Gate Type	0	3	Value	ValueOutput
+Repeat	0	1	Toggle	ValueOutput
+Chance	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -99,6 +99,7 @@ Skope Signal Monitor Remote Info.txt
 Spektrum Remote Info.txt
 Spider Audio Remote Info.txt
 Spider CV Remote Info.txt
+SW4-C Controller Remote Info.txt
 TMA-1 Commentator Remote Info.txt
 TMA-4 Commentator Remote Info.txt
 TMA-9 Commentator Remote Info.txt
