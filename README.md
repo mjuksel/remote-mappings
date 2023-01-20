@@ -11,6 +11,9 @@
 - i use sendmidi from gbevin: https://github.com/gbevin/SendMIDI
   - add this to PATH !
 
+- i also use LoopMIDI to provide virtual MIDI connection: https://www.tobias-erichsen.de/software/loopmidi.html
+  - i've named the MIDI connection "loopMIDI"
+
 # sendMidi.ts
 
 sendMidi.ts contains a function "sendMIDI" which.. sends midi lol
