@@ -1,6 +1,6 @@
 Scope
 Manufacturer	Model
-Propellerheads	Combinator
+Propellerheads	Combinator_OLD
 
 Remotable	Min	Max	Input type	Output type
 Mod Wheel	0	127	Value	ValueOutput
