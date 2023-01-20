@@ -8,6 +8,9 @@
 - createRemoteMap.ts => create a .remotemap file containing all the stuffs :)
 - tsUsage.ts => has a simple "send midi message for every single parameter" atm.
 
+- i use sendmidi from gbevin: https://github.com/gbevin/SendMIDI
+  - add this to PATH !
+
 # sendMidi.ts
 
 sendMidi.ts contains a function "sendMIDI" which.. sends midi lol
