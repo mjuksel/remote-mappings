@@ -24,7 +24,7 @@ ${params.map((param, index) => {
 
 // console.log(remotemap)
 Deno.writeTextFileSync(
-	'AllDevices.remotemap',
+	'MIDI Controller Multi.remotemap',
 	`Propellerhead Remote Mapping File
 File Format Version	1.0.0
 Control Surface Manufacturer	<Other>
