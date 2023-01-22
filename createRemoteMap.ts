@@ -4,23 +4,21 @@ import { objKeys } from './src/deps.ts'
 export const allDeviceNames = objKeys(Devices)
 
 export const remotemap = allDeviceNames.map(device => {
-		const developerName = Devices[device]['developer']
-		const params = objKeys(Devices[device]['params'])
+	const developerName = Devices[device]['developer']
+	const params = objKeys(Devices[device]['params'])
 
-		const scope = `Scope	${developerName}	${device}
+	const scope = `Scope	${developerName}	${device}
 //	Control Surface Item	Key	Remotable Item	Scale	Mode
-${params.map((param, index) => {
-	const ccNumber = index % 127
-	const channelNumber = 1 + (index - ccNumber) / 127
+${params.map((paramName, paramNum) => {
+		const channelNumber = Math.ceil((1 + paramNum) / 127)
+		const ccNumber = `${1 + (paramNum % 127)}`.padStart(2, '0')
 
-	return `Map	Ch${channelNumber}-CC ${`${ccNumber + 1}`.padStart(2, '0')}		${param}`
-	})
-	.join('\n')}
+		return `Map	Ch${channelNumber}-CC ${ccNumber}		${paramName}`
+	}).join('\n')}
 
 `
 	return scope
-	})
-	.join('')
+}).join('')
 
 // console.log(remotemap)
 Deno.writeTextFileSync(

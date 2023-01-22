@@ -4,8 +4,10 @@
  * @param ccValue Value to set the current parameter to.
  */
 export async function sendMIDI(paramNum: number, ccValue: number) {
-	const ccNumber = 1 + (paramNum % 127)
-	const channelNumber = Math.ceil(paramNum / 127)
+	const ccNumber = (1 + paramNum) % 127
+	const channelNumber = Math.ceil((1 + paramNum) / 127)
+
+	// console.log(ccNumber, channelNumber)
 
 	const proc = Deno.run({
 		cmd: [
