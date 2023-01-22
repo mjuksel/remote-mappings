@@ -5,7 +5,7 @@
  */
 export async function sendMIDI(paramNum: number, ccValue: number) {
 	const ccNumber = 1 + (paramNum % 127)
-	const channelNumber = 1 + (paramNum - ccNumber) / 127
+	const channelNumber = Math.ceil(paramNum / 127)
 
 	const proc = Deno.run({
 		cmd: [
