@@ -1,0 +1,42 @@
+Scope
+Manufacturer	Model
+Tonicmint	com.tonicmint.CVRelay
+
+Remotable	Min	Max	Input type	Output type
+Level 1	0	4194304	Value	ValueOutput
+Level 2	0	4194304	Value	ValueOutput
+Level 3	0	4194304	Value	ValueOutput
+Level 4	0	4194304	Value	ValueOutput
+Level 5	0	4194304	Value	ValueOutput
+Level 6	0	4194304	Value	ValueOutput
+Level 7	0	4194304	Value	ValueOutput
+Level 8	0	4194304	Value	ValueOutput
+Enabled 1	0	1	Toggle	ValueOutput
+Enabled 2	0	1	Toggle	ValueOutput
+Enabled 3	0	1	Toggle	ValueOutput
+Enabled 4	0	1	Toggle	ValueOutput
+Enabled 5	0	1	Toggle	ValueOutput
+Enabled 6	0	1	Toggle	ValueOutput
+Enabled 7	0	1	Toggle	ValueOutput
+Enabled 8	0	1	Toggle	ValueOutput
+Set Channel 1	0	1	Toggle	ValueOutput
+Set Channel 2	0	1	Toggle	ValueOutput
+Set Channel 3	0	1	Toggle	ValueOutput
+Set Channel 4	0	1	Toggle	ValueOutput
+Set Channel 5	0	1	Toggle	ValueOutput
+Set Channel 6	0	1	Toggle	ValueOutput
+Set Channel 7	0	1	Toggle	ValueOutput
+Set Channel 8	0	1	Toggle	ValueOutput
+Direction Mode	0	1	Toggle	ValueOutput
+Direction	0	4194304	Value	ValueOutput
+Smoothing Time	0	4194304	Value	ValueOutput
+CV Control Enabled	0	1	Toggle	ValueOutput
+MIDI Control Enabled	0	1	Toggle	ValueOutput
+Home Channel	0	7	Value	ValueOutput
+Step Trigger Button	0	1	Toggle	ValueOutput
+Home Button	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

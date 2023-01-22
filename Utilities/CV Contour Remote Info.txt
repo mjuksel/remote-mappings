@@ -1,0 +1,23 @@
+Scope
+Manufacturer	Model
+Tonicmint	com.tonicmint.CVContour
+
+Remotable	Min	Max	Input type	Output type
+Pre Gain	0	4194304	Value	ValueOutput
+Post Gain	0	4194304	Value	ValueOutput
+Detection Mode	0	4194304	Value	ValueOutput
+Clipping Mode	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Noise Floor	0	4194304	Value	ValueOutput
+Reaction Time	0	4194304	Value	ValueOutput
+LP Frequency	0	4194304	Value	ValueOutput
+LP Gain	0	4194304	Value	ValueOutput
+S&H Frequency	0	4194304	Value	ValueOutput
+S&H Gain	0	4194304	Value	ValueOutput
+S&H Smoothing	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

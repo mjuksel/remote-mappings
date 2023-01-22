@@ -1,0 +1,24 @@
+Scope
+Manufacturer	Model
+Tonicmint	com.tonicmint.CVResponse
+
+Remotable	Min	Max	Input type	Output type
+Manual Gate	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Curve	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Level	0	4194304	Value	ValueOutput
+Enable CV Gate	0	1	Toggle	ValueOutput
+Enable MIDI Gate	0	1	Toggle	ValueOutput
+Attack Modulation	0	4194304	Value	ValueOutput
+Decay Modulation	0	4194304	Value	ValueOutput
+Sustain Modulation	0	4194304	Value	ValueOutput
+Release Modulation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
